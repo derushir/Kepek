@@ -1,0 +1,429 @@
+<!DOCTYPE html>
+<html>
+    <head>
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+        <title>Ingyenes emailcím példa.hu domainnel  - MailService.com</title>
+<meta name="description" content="Regisztrálj és szerezz emailcímet példa.hu domainnel. Ingyenes, egyszerű és fél perc alatt megvan." />
+<meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+<meta name="robots" content="index, follow" />
+<link rel="shortcut icon" href="/favico.ico?v2" />
+<link rel="icon" href="/favico.ico?v2" />
+<link rel="stylesheet" type="text/css" href="//ajax.googleapis.com/ajax/libs/jqueryui/1.11.3/themes/smoothness/jquery-ui.css" />
+<link rel="stylesheet" type="text/css" href="https://mailservice.com/file/global/common/1711090529/stylesheets/font-awesome/font-awesome.min.css" />
+<link rel="stylesheet" type="text/css" href="https://mailservice.com/file/global/www/1711090529/stylesheets/main.min.css" />
+<link rel="stylesheet" type="text/css" href="https://mailservice.com/file/global/common/1711090529/stylesheets/bootstrap-social/bootstrap-social.css" />
+<link rel="stylesheet" type="text/css" href="https://mailservice.com/file/global/common/1711090529/stylesheets/animate/animate.min.css" />
+<link rel="stylesheet" type="text/css" href="https://mailservice.com/file/Index/www/1711090529/stylesheets/index_meaning_block.css" />
+
+<meta property="og:image" content="/images/og-img.png" />
+<script type="text/javascript">
+    window.cookieconsent_options = {
+        message: "Az oldal cookie-kat használ, hogy az Önnek nyújtott szolgáltatásaink még hatékonyabbak legyenek.",
+        learnMore: "Részletek",
+        link: '/hu/cookie-policy',
+        dismiss: "OK",
+        theme: "light-floating"
+    };
+</script>
+<script type="text/javascript" src="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/1.0.9/cookieconsent.min.js"></script>
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-E8SGPDBQYY"></script>
+<script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'G-E8SGPDBQYY');
+</script>
+
+        <script data-ad-client="ca-pub-8953455890604973" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+    </head>
+    <body id="skrollr-body">
+        
+
+        <div>
+            <header class="layout-header">
+    <div class="container">
+        <div class="row">
+            <div class="col-sm-3">
+                <a href="https://mailservice.com/hu">
+    <img src="/images/logo.svg?v1" alt="Mailservice logo" class="logo">    
+</a>
+                <div class="header-mobile-button in-login"></div>
+            </div>
+            <div class="login-box-in-header">
+                
+<!--mainpage-->
+<div class="col-sm-9 header-offset header-login">
+    <form id="login-form" class="header-login-form form-inline" method="post" action="/Login/dologin">
+        <div class="form-group">
+            <input type="email" class="form-control" name="email" id="login-email" placeholder="Email">
+        </div>
+        <div class="form-group">
+            <input type="password" class="form-control" name="password" id="login-password" placeholder="Jelszó">
+            <span class="forgot-password">
+                <a href="/hu/forgotten-password">Elfelejtett jelszó</a>
+            </span>
+        </div>
+        <div class="form-group">
+            <button type="submit" class="btn btn-primary">Belépés</button>
+
+            
+        </div>
+    </form>
+</div>
+<!--mainpage-->
+            </div>
+        </div>
+    </div>
+</header>
+        </div>
+
+        
+        
+<div class="index-gap-1" id="mailservice-personal-email">
+    <div class="background"
+        data-0="background-position: 50% 0px"
+        data-top-bottom="background-position: 50% -150px"
+    >
+        <div class="container index-intro">
+            <h1>
+                <span class="line line-1">Egyedi, különleges</span>
+                <span class="line line-2">Email címek</span>
+            </h1>
+            <span class="line line-3">Tűnj ki a tömegből!</span>
+
+            <a href="#sign-up" class="btn btn-lg btn-default col-xs-12 col-sm-4 col-md-3">Regisztráció</a>
+            <a href="https://mailservice.com/hu/domains" class="btn btn-lg btn-default col-xs-12 col-sm-4 col-md-3">Teljes domain lista</a>
+        </div>
+    </div>
+</div>
+
+<!--notfound_block-->
+<div class="container text-center">
+    <h2 class="title">xn--plda-bpa.hu</h2>
+    <div class="content description">
+        <p>A keresett domain jelenleg nincs konfigurálva!</p>
+        <p><a href="/">Nézz körül itt is!</a></p>
+    </div>
+</div>
+<!--notfound_block-->
+
+<div class="index-gap-2" id="personalized-email">
+    <div class="container text-center">
+        <h2 class="title">Szeretnél magadnak személyre szabott, egyedi emailcímet?</h2>
+        <div class="content description">
+            <p>Itt a lehetőség, hogy olyan email címed legyen, mint senki másnak! A folyamatosan bővülő 25 kategóriából, számtalan egyedi domain közül választhatod ki azt, amelyik a legjobban tetszik. Állítsd be 3 perc alatt, és használd - rendszerünkben mindegyik domain használata ingyenes és az is marad.</p>
+            <p>A kiválasztott email címedre érkező leveleket egyszerűen át tudod irányítani a már meglévő fiókodba, így nem kell több helyre belépned, egy fiókból kezelheted címeidet.</p>
+        </div>
+    </div>
+</div>
+<hr>
+
+
+<!--mailservice_advantages-->
+<div class="index-gap-3 index-advantages" id="mailservice-advantages">
+    <div class="container">
+        <div class="row">
+            <h2 class="title wow bounceInDown">Miért éri meg egyedi emailcímet szerezni?</h2>
+            <div class="features-rows col-sm-6 feature-column feature-horizontal cf wow slideInLeft">
+                <div class="col-xs-12 col-sm-5 col-md-4">
+                    <div class="icon-container">
+                        <div class="feature-icon feature-icon-anonymous"></div>
+                    </div>
+                </div>
+                <div class="col-xs-12 col-sm-7 col-md-7">
+                    <div class="content">
+                        <h3 class="feature-title">Anonim</h3>
+                        <div class="description">
+                            Maradj végig rejtve levelezés közben. A címzettek csak a MailService címed látják, a cél fiókod címe nem derül ki sem most, sem később.
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="features-rows col-sm-6 feature-column feature-horizontal cf wow slideInRight">
+                <div class="col-sm-5 col-xs-12 col-md-4">
+                    <div class="icon-container">
+                        <div class="feature-icon feature-icon-notebook"></div>
+                    </div>
+                </div>
+                <div class="col-sm-7 col-xs-12 col-md-7">
+                    <div class="content">
+                        <h3 class="feature-title">Írj és fogadj levelet</h3>
+                        <div class="description">
+                            A MailService-en teljes értékű címeket hozhatsz létre. Nem csak fogadni tudod a leveleid a cél fiókodban, de írni is tudsz levelet a MailService-es címeidről.
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="row">
+            <div class="features-rows col-sm-6 feature-column feature-horizontal cf wow slideInLeft">
+                <div class="col-sm-5 col-xs-12 col-md-4">
+                    <div class="icon-container">
+                        <div class="feature-icon feature-icon-email"></div>
+                    </div>
+                </div>
+                <div class="col-sm-7 col-xs-12 col-md-7">
+                    <div class="content">
+                        <h3 class="feature-title">Domainek</h3>
+                        <div class="description">
+                            Huszonöt kategóriában számtalan egyedi domain közül választhatsz, hogy megtalálhasd a számodra leginkább megfelelőt.
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="features-rows col-sm-6 feature-column feature-horizontal cf wow slideInRight">
+                <div class="col-sm-5 col-xs-12 col-md-4">
+                    <div class="icon-container">
+                        <div class="feature-icon feature-icon-forwarding"></div>
+                    </div>
+                </div>
+                <div class="col-sm-7 col-xs-12 col-md-7">
+                    <div class="content">
+                        <h3 class="feature-title">Minden egy helyen</h3>
+                        <div class="description">
+                            Kezeld egyedi emailcímeidet egy helyen, az elsődleges fiókodban. Könnyebben áttekinthető, kényelmesebb, nem szükséges többször ki-be jelentkezni.
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+       <div class="row">
+           <div class="features-rows col-sm-6 feature-column feature-horizontal cf wow slideInLeft">
+                <div class="col-xs-12 col-sm-5 col-md-4">
+                    <div class="icon-container">
+                        <div class="feature-icon feature-icon-setup"></div>
+                    </div>
+                </div>
+                <div class="col-xs-12 col-sm-7 col-md-7">
+                    <div class="content">
+                        <h3 class="feature-title">Gyors konfigurálás</h3>
+                        <div class="description">
+                            Csupán pár percet vesz igénybe a beállítása és ha elkészültél, nincs is több teendőd vele, máris használhatod az új emailcímed.
+                        </div>
+                    </div>
+                </div>
+            </div>
+           <div class="features-rows col-sm-6 feature-column feature-horizontal cf wow slideInRight">
+                <div class="col-xs-12 col-sm-5 col-md-4">
+                    <div class="icon-container">
+                        <div class="feature-icon feature-icon-price"></div>
+                    </div>
+                </div>
+                <div class="col-xs-12 col-sm-7 col-md-7">
+                    <div class="content">
+                        <h3 class="feature-title">Ingyenes</h3>
+                        <div class="description">
+                            Az összes email cím használata díjmentes és az is marad, nincsenek rejtett költségek.
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<!--mailservice_advantages-->
+
+<hr>
+
+<div class="index-gap-2 index-domain-suggestions" id="choose-favorite-email">
+    <div class="container">
+        <div class="row">
+            <h2 class="title wow bounceInDown">Egy kis ízelítő a kínálatból:</h2>
+
+            <div class="wow bounceInUp">
+                <div class="domain-suggestions d-flex">
+
+    
+    <div class="col-xs-6 col-sm-4 col-md-2 feature-column df-col">
+        <a href="https://mailservice.com/hu/domains/13/movie-music" title="Film &amp; Zene kategóriájú domainek">
+            <img class="category-icon-image" src="https://mailservice.com/file-store/h/41_U9oUaK31159s177W/icon-movie.png" title="Film &amp; Zene" width="86" height="90">
+        </a>
+        <h4 class="feature-title">Film &amp; Zene</h4>
+        <div class="domain-suggestion-list">
+            <a target="blank" href="http://alkonyat.hu/hu" class=" domain-suggestion domain-highlighted" data-domain-id="9">alkonyat.hu</a><a target="blank" href="http://walkingdead.hu/hu" class=" domain-suggestion domain-highlighted" data-domain-id="397">walkingdead.hu</a><a target="blank" href="http://007.hu/hu" class=" domain-suggestion domain-highlighted" data-domain-id="7">007.hu</a><a target="blank" href="http://kulonvelemeny.hu/hu" class=" domain-suggestion domain-highlighted" data-domain-id="111">kulonvelemeny.hu</a><a target="blank" href="http://murphy.hu/hu" class=" domain-suggestion domain-highlighted" data-domain-id="247">murphy.hu</a><a target="blank" href="http://chaplin.hu/hu" class=" domain-suggestion domain-highlighted" data-domain-id="224">chaplin.hu</a><a target="blank" href="http://gyilkos.hu/hu" class=" domain-suggestion domain-highlighted" data-domain-id="73">gyilkos.hu</a><a target="blank" href="http://halhatatlan.hu/hu" class=" domain-suggestion domain-highlighted" data-domain-id="77">halhatatlan.hu</a><a target="blank" href="http://helyszinelo.hu/hu" class=" domain-suggestion domain-highlighted" data-domain-id="81">helyszinelo.hu</a><a target="blank" href="http://paranormalis.hu/hu" class=" domain-suggestion domain-highlighted" data-domain-id="140">paranormalis.hu</a><a target="blank" href="http://madmax.hu/hu" class=" domain-suggestion domain-highlighted" data-domain-id="243">madmax.hu</a><a target="blank" href="http://kivalasztott.hu/hu" class=" domain-suggestion domain-highlighted" data-domain-id="106">kivalasztott.hu</a><a class="more-domains" href="https://mailservice.com/hu/domains/13/movie-music">Tovább &raquo;</a>
+        </div>
+    </div>
+    <div class="col-xs-6 col-sm-4 col-md-2 feature-column df-col">
+        <a href="https://mailservice.com/hu/domains/3/man" title="Férfi kategóriájú domainek">
+            <img class="category-icon-image" src="https://mailservice.com/file-store/h/53_K6U26OYD3rz7U7m4/icon-man.png" title="Férfi" width="86" height="90">
+        </a>
+        <h4 class="feature-title">Férfi</h4>
+        <div class="domain-suggestion-list">
+            <a target="blank" href="http://padlogaz.hu/hu" class=" domain-suggestion domain-highlighted" data-domain-id="137">padlogaz.hu</a><a target="blank" href="http://keresztapa.hu/hu" class=" domain-suggestion domain-highlighted" data-domain-id="99">keresztapa.hu</a><a target="blank" href="http://kaszanova.hu/hu" class=" domain-suggestion domain-highlighted" data-domain-id="96">kaszanova.hu</a><a target="blank" href="http://betyar.hu/hu" class=" domain-suggestion domain-highlighted" data-domain-id="21">betyar.hu</a><a target="blank" href="http://casanova.hu/hu" class=" domain-suggestion domain-highlighted" data-domain-id="33">casanova.hu</a><a target="blank" href="http://kan.hu/hu" class=" domain-suggestion domain-highlighted" data-domain-id="95">kan.hu</a><a target="blank" href="http://cop.hu/hu" class=" domain-suggestion domain-highlighted" data-domain-id="227">cop.hu</a><a target="blank" href="http://gyakornok.hu/hu" class=" domain-suggestion domain-highlighted" data-domain-id="72">gyakornok.hu</a><a target="blank" href="http://komolytalan.hu/hu" class=" domain-suggestion domain-highlighted" data-domain-id="107">komolytalan.hu</a><a target="blank" href="http://minimalista.hu/hu" class=" domain-suggestion domain-highlighted" data-domain-id="126">minimalista.hu</a><a target="blank" href="http://cavalli.hu/hu" class=" domain-suggestion domain-highlighted" data-domain-id="223">cavalli.hu</a><a target="blank" href="http://prada.hu/hu" class=" domain-suggestion domain-highlighted" data-domain-id="257">prada.hu</a><a class="more-domains" href="https://mailservice.com/hu/domains/3/man">Tovább &raquo;</a>
+        </div>
+    </div>
+    <div class="col-xs-6 col-sm-4 col-md-2 feature-column df-col">
+        <a href="https://mailservice.com/hu/domains/14/game" title="Játék kategóriájú domainek">
+            <img class="category-icon-image" src="https://mailservice.com/file-store/h/50_13DHG7KA7h86767K/icon-game.png" title="Játék" width="86" height="90">
+        </a>
+        <h4 class="feature-title">Játék</h4>
+        <div class="domain-suggestion-list">
+            <a target="blank" href="http://starpoker.hu/hu" class=" domain-suggestion domain-highlighted" data-domain-id="167">starpoker.hu</a><a target="blank" href="http://play.hu/hu" class=" domain-suggestion domain-highlighted" data-domain-id="149">play.hu</a><a target="blank" href="http://hulyegyerek.hu/hu" class=" domain-suggestion domain-highlighted" data-domain-id="309">hulyegyerek.hu</a><a target="blank" href="http://omg.hu/hu" class=" domain-suggestion domain-highlighted" data-domain-id="251">omg.hu</a><a target="blank" href="http://texaspoker.hu/hu" class=" domain-suggestion domain-highlighted" data-domain-id="191">texaspoker.hu</a><a target="blank" href="http://pokerclub.hu/hu" class=" domain-suggestion domain-highlighted" data-domain-id="151">pokerclub.hu</a><a target="blank" href="http://szabadulo.hu/hu" class=" domain-suggestion domain-highlighted" data-domain-id="171">szabadulo.hu</a><a target="blank" href="http://zsugabubus.hu/hu" class=" domain-suggestion domain-highlighted" data-domain-id="214">zsugabubus.hu</a><a target="blank" href="http://pokerface.hu/hu" class=" domain-suggestion domain-highlighted" data-domain-id="479">pokerface.hu</a><a target="blank" href="http://autoverseny.hu/hu" class=" domain-suggestion domain-highlighted" data-domain-id="17">autoverseny.hu</a><a target="blank" href="http://bigboss.hu/hu" class=" domain-suggestion domain-highlighted" data-domain-id="217">bigboss.hu</a><a target="blank" href="http://jatekguru.hu/hu" class=" domain-suggestion domain-highlighted" data-domain-id="809">jatekguru.hu</a><a class="more-domains" href="https://mailservice.com/hu/domains/14/game">Tovább &raquo;</a>
+        </div>
+    </div>
+    <div class="col-xs-6 col-sm-4 col-md-2 feature-column df-col">
+        <a href="https://mailservice.com/hu/domains/2/woman" title="Női kategóriájú domainek">
+            <img class="category-icon-image" src="https://mailservice.com/file-store/h/62_jyq9b5551t87v40q/icon-woman.png" title="Női" width="86" height="90">
+        </a>
+        <h4 class="feature-title">Női</h4>
+        <div class="domain-suggestion-list">
+            <a target="blank" href="http://missbikini.hu/hu" class=" domain-suggestion domain-highlighted" data-domain-id="127">missbikini.hu</a><a target="blank" href="http://szepsegkiralyno.hu/hu" class=" domain-suggestion domain-highlighted" data-domain-id="177">szepsegkiralyno.hu</a><a target="blank" href="http://kiralyno.hu/hu" class=" domain-suggestion domain-highlighted" data-domain-id="102">kiralyno.hu</a><a target="blank" href="http://diaklany.hu/hu" class=" domain-suggestion domain-highlighted" data-domain-id="276">diaklany.hu</a><a target="blank" href="http://bombazo.hu/hu" class=" domain-suggestion domain-highlighted" data-domain-id="25">bombazo.hu</a><a target="blank" href="http://bianca.hu/hu" class=" domain-suggestion domain-highlighted" data-domain-id="22">bianca.hu</a><a target="blank" href="http://veronika.hu/hu" class=" domain-suggestion domain-highlighted" data-domain-id="205">veronika.hu</a><a target="blank" href="http://cindy.hu/hu" class=" domain-suggestion domain-highlighted" data-domain-id="36">cindy.hu</a><a target="blank" href="http://woman.hu/hu" class=" domain-suggestion domain-highlighted" data-domain-id="211">woman.hu</a><a target="blank" href="http://badgirl.hu/hu" class=" domain-suggestion domain-highlighted" data-domain-id="19">badgirl.hu</a><a target="blank" href="http://internetszepe.hu/hu" class=" domain-suggestion domain-highlighted" data-domain-id="89">internetszepe.hu</a><a target="blank" href="http://komolytalan.hu/hu" class=" domain-suggestion domain-highlighted" data-domain-id="107">komolytalan.hu</a><a class="more-domains" href="https://mailservice.com/hu/domains/2/woman">Tovább &raquo;</a>
+        </div>
+    </div>
+    <div class="col-xs-6 col-sm-4 col-md-2 feature-column df-col">
+        <a href="https://mailservice.com/hu/domains/4/politics" title="Politika kategóriájú domainek">
+            <img class="category-icon-image" src="https://mailservice.com/file-store/h/59_42h2H1lb8rt308HE/icon-politics.png" title="Politika" width="86" height="90">
+        </a>
+        <h4 class="feature-title">Politika</h4>
+        <div class="domain-suggestion-list">
+            <a target="blank" href="http://senator.hu/hu" class=" domain-suggestion domain-highlighted" data-domain-id="263">senator.hu</a><a target="blank" href="http://diplomata.hu/hu" class=" domain-suggestion domain-highlighted" data-domain-id="47">diplomata.hu</a><a target="blank" href="http://kepviselo.hu/hu" class=" domain-suggestion domain-highlighted" data-domain-id="240">kepviselo.hu</a><a target="blank" href="http://oligarchia.hu/hu" class=" domain-suggestion domain-highlighted" data-domain-id="135">oligarchia.hu</a><a target="blank" href="http://szenator.hu/hu" class=" domain-suggestion domain-highlighted" data-domain-id="175">szenator.hu</a><a target="blank" href="http://persze.hu/hu" class=" domain-suggestion domain-highlighted" data-domain-id="142">persze.hu</a><a target="blank" href="http://propaganda.hu/hu" class=" domain-suggestion domain-highlighted" data-domain-id="260">propaganda.hu</a><a target="blank" href="http://terrorista.hu/hu" class=" domain-suggestion domain-highlighted" data-domain-id="190">terrorista.hu</a><a target="blank" href="http://ultimatum.hu/hu" class=" domain-suggestion domain-highlighted" data-domain-id="196">ultimatum.hu</a><a target="blank" href="http://aktivista.hu/hu" class=" domain-suggestion domain-highlighted" data-domain-id="8">aktivista.hu</a><a target="blank" href="http://anarchia.hu/hu" class=" domain-suggestion domain-highlighted" data-domain-id="13">anarchia.hu</a><a target="blank" href="http://kulonvelemeny.hu/hu" class=" domain-suggestion domain-highlighted" data-domain-id="111">kulonvelemeny.hu</a><a class="more-domains" href="https://mailservice.com/hu/domains/4/politics">Tovább &raquo;</a>
+        </div>
+    </div>
+    <div class="col-xs-6 col-sm-4 col-md-2 feature-column df-col">
+        <a href="https://mailservice.com/hu/domains/6/erotics" title="Erotika kategóriájú domainek">
+            <img class="category-icon-image" src="https://mailservice.com/file-store/h/46_1mNv81AtG8EF1pS3/icon-erotics.png" title="Erotika" width="86" height="90">
+        </a>
+        <h4 class="feature-title">Erotika</h4>
+        <div class="domain-suggestion-list">
+            <a target="blank" href="http://kamasutra.hu/hu" class=" domain-suggestion domain-highlighted" data-domain-id="94">kamasutra.hu</a><a target="blank" href="http://huncut.hu/hu" class=" domain-suggestion domain-highlighted" data-domain-id="85">huncut.hu</a><a target="blank" href="http://szereto.hu/hu" class=" domain-suggestion domain-highlighted" data-domain-id="293">szereto.hu</a><a target="blank" href="http://szuz.hu/hu" class=" domain-suggestion domain-highlighted" data-domain-id="184">szuz.hu</a><a target="blank" href="http://elojatek.hu/hu" class=" domain-suggestion domain-highlighted" data-domain-id="278">elojatek.hu</a><a target="blank" href="http://hustler.hu/hu" class=" domain-suggestion domain-highlighted" data-domain-id="238">hustler.hu</a><a target="blank" href="http://sztriptiz.hu/hu" class=" domain-suggestion domain-highlighted" data-domain-id="296">sztriptiz.hu</a><a target="blank" href="http://private.hu/hu" class=" domain-suggestion domain-highlighted" data-domain-id="259">private.hu</a><a target="blank" href="http://masztimarci.hu/hu" class=" domain-suggestion domain-highlighted" data-domain-id="284">masztimarci.hu</a><a target="blank" href="http://bujasag.hu/hu" class=" domain-suggestion domain-highlighted" data-domain-id="28">bujasag.hu</a><a target="blank" href="http://badgirl.hu/hu" class=" domain-suggestion domain-highlighted" data-domain-id="19">badgirl.hu</a><a target="blank" href="http://diaklany.hu/hu" class=" domain-suggestion domain-highlighted" data-domain-id="276">diaklany.hu</a><a class="more-domains" href="https://mailservice.com/hu/domains/6/erotics">Tovább &raquo;</a>
+        </div>
+    </div>
+</div>
+            </div>
+
+            <div class="col-lg-12">
+                <div class="text-center wow bounceInUp btn-block-group-xs">
+                    <a href="https://mailservice.com/hu/domains" class="btn btn-lg btn-default">Teljes domain lista</a>
+                </div>
+            </div>
+        </div>
+
+    </div>
+</div>
+
+<div class="index-gap-4">
+    <div class="background"
+        data-anchor-target=".index-gap-4"
+        data-bottom-top="background-position: 50% -450px"
+        data-top-bottom="background-position: 50% -750px"
+    >
+    </div>
+</div>
+
+<div class="index-gap-5" id="sign-up">
+    <div class="container">
+        <h2 class="title wow bounceInDown">1. Regisztrálj 2. Foglald le a kiszemelt email címet!</h2>
+        <div class="registration-form">
+    <form id="registration-form" method="post" action="/Registration/checkdata">
+        <input type="hidden" name="user_external[provider_id]">
+        <input type="hidden" name="user_external[user_external_id]">
+        <input type="hidden" name="user_external[email]">
+
+        <input type="hidden" name="user[first_name]">
+        <input type="hidden" name="user[last_name]">
+        <input type="hidden" name="autofill-domain-id" id="autofill-domain-id">
+        <input type="hidden" name="autofill-local" id="autofill-local">
+
+        <div class="row hidden" id="reg-form-social-fill-info">
+            <div class="form-group col-md-12">
+                <div class="alert alert-info">
+                    A regisztrációs adatlap ki lett töltve a rendelkezésre álló adatokkal. Azonban még néhány információ hiányzik, kérjük, ezeket pótold.
+                </div>
+            </div>
+        </div>
+
+        <div class="row">
+            <div class="form-group col-md-6 wow slideInLeft">
+                <label for="reg-email">Email</label>
+                <input type="text" name="user[email]" id="reg-email" class="form-control" placeholder="A már létező emailcímed">
+            </div>
+            <div class="form-group col-md-6 wow slideInRight">
+                <label for="reg-password">Jelszó (Legalább 6 karakter)</label>
+                <div class="input-group input-container">
+                    <input type="password" name="user[password]" id="reg-password" class="form-control" placeholder="Jelszó (Legalább 6 karakter)">
+                    <div class="input-group-addon show-password">
+                        <i class="fa fa-eye"></i>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <hr class="wow fadeIn">
+        <div class="row wow fadeIn">
+            <div class="form-group col-md-6">
+                <div class="checkbox input-container">
+                    <input type="checkbox" name="user[terms_accepted]" id="terms-accepted">
+                    <label class="description terms-and-conditions" for="terms-accepted">
+                        A regisztrációval elfogadod a mailservice.com 
+<a href="/hu/terms-and-conditions" target="_blank">felhasználási feltételeket</a>.
+                    </label>
+                </div>
+            </div>
+        </div>
+
+        <div class="row wow fadeIn">
+            <div class="form-group col-md-12">
+                <button type="submit" class="btn btn-primary btn-lg btn-submit">Regisztráció</button>
+
+                <span class="reg-social-buttons">
+                    
+                </span>
+            </div>
+        </div>
+    </form>
+</div>
+    </div>
+</div>
+
+
+        <footer class="layout-footer">
+    <div class="container">
+        <div class="row">
+            <div class="col-xs-12 col-sm-8 footer-copyright">
+                <span class="footer-item copyright">
+                    &COPY; 2015 - 2026 mailservice.com, Minden jog fenntartva.
+                </span>
+                <span class="footer-item">
+                    <span class="separator">/</span>
+                    <a href="/hu/terms-and-conditions">Felhasználási feltételek</a>
+                </span>
+                <span class="footer-item">
+                    <span class="separator">/</span>
+                    <a href="/hu/partnerprogram">Partnerprogram</a>
+                </span>
+                <span class="footer-item">
+                    <span class="separator">/</span>
+                    <a href="/hu/faq">GYIK</a>
+                </span>
+            </div>
+            <div class="col-xs-12 col-sm-4 footer-contact">
+                <span class="footer-item">
+                    <a href="mailto:info@mailservice.com">info@mailservice.com</a>
+                </span>
+            </div>
+        </div>
+    </div>
+</footer>
+        <script type="text/javascript" src="https://mailservice.com/file/global/common/1745334486/javascripts/gen/hu_HU.js"></script>
+<script type="text/javascript" src="https://mailservice.com/file/Language/common/1711090529/javascripts/md5.js"></script>
+<script type="text/javascript" src="https://mailservice.com/file/Language/common/1711090529/javascripts/language.js"></script>
+<script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+<script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jqueryui/1.11.3/jquery-ui.min.js"></script>
+<script type="text/javascript" src="//maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js"></script>
+<script type="text/javascript" src="https://mailservice.com/file/global/common/1711090529/javascripts/common.js"></script>
+<script type="text/javascript" src="https://mailservice.com/file/global/www/1711090529/javascripts/base.js"></script>
+<script type="text/javascript" src="https://mailservice.com/file/global/www/1711090529/javascripts/tools.js"></script>
+<script type="text/javascript" src="https://mailservice.com/file/global/common/1711090529/javascripts/wow.min.js"></script>
+<script type="text/javascript" src="https://mailservice.com/file/global/common/1711090529/javascripts/skrollr.js"></script>
+<script type="text/javascript" src="https://mailservice.com/file/Index/www/1711090529/javascripts/meaning_block.js"></script>
+<script type="text/javascript" src="https://mailservice.com/file/Domain/www/1711090529/javascripts/domain_list.js"></script>
+<script type="text/javascript" src="https://mailservice.com/file/Login/www/1711090529/javascripts/login.js"></script>
+<script type="text/javascript" src="https://mailservice.com/file/global/common/1711090529/javascripts/formvalidator.js"></script>
+<script type="text/javascript" src="https://mailservice.com/file/ExternalAuth/www/1711090529/javascripts/auth.js"></script>
+<script type="text/javascript" src="https://mailservice.com/file/Registration/www/1711090529/javascripts/registration.js"></script>
+
+        
+        
+    </body>
+</html>
