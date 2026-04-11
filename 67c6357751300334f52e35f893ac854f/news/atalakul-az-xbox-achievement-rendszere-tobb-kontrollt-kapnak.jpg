@@ -1,0 +1,2016 @@
+<!DOCTYPE html>  <html>
+
+<head>
+    <title>Esport1</title>	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width">
+	<meta name="theme-color" content="#111111" />
+    <meta http-equiv="Content-Language" content="hu" />
+<meta name="keywords" content="esport, esport1, esport hírek, esport videók, esport cikkek, esport interjúk, esport magyarország, esport hu, esport hírek magyarul, gta 6, league of legends, origin, fifa 23, fifa 24, aquaman 2, stranger things 5 évad, diablo 4, mortal kombat 1, játék, sims 4, csgo major, cs2, counter strike 2, world of tanks, metro: last light, star wars sorozatok, csgo major 2023, sims 5, ea sports fc, gta6, fallout new vegas, radics peti, vecna, ghost of tsushima pc, kennys, zelda tears of the kingdom, pókem" />
+<meta name="description" content="Mi vagyunk a belépő az esport és a videojátékok világába! Friss gaming hírek, elemzések, sorozatok és filmes tartalmak, szórakozás egy helyen!" />
+<meta name="robots" content="all" />
+<meta name="robots" content="index,follow" />
+<meta name="robots" content="max-image-preview:large" />
+<meta name="googlebot" content="all" />
+<meta name="googlebot" content="index, follow" />
+<meta name="msnbot" content="index, follow" />
+<meta name="apple-mobile-web-app-capable" content="yes" />
+<meta name="apple-mobile-web-app-status-bar-style" content="black" />
+<meta name="google-site-verification" content="fEo3H4d-3EMqwiCp65pjgiSUb5Q8Zqpg6yH2IPTWo3k" />
+<meta property="og:title" content="Esport1" />
+<meta property="og:type" content="website" />
+<meta property="og:url" content="http://esport1.hu/" />
+<meta property="og:site_name" content="Esport1" />
+<meta property="og:image" content="http://esport1.hu/assets/desktop/img/logo.png" />
+<meta property="og:description" content="Esport1.hu - Magyarország első számú esport és gaming oldala" />    <link href="/assets/desktop/css/all.css?v3.0066" media="screen" rel="stylesheet" type="text/css" />
+<link href="https://esport1.hu" rel="canonical" />    
+    <link rel="alternate" type="application/rss+xml" href="https://esport1.hu/rss" title="RSS Feed - Esport1 összes hír">
+    <link href="/assets/desktop/img/favicon.png" rel="apple-touch-startup-image">
+    <link href="/assets/desktop/img/favicon.png" rel="shortcut icon">
+   
+    <meta name="facebook-domain-verification" content="9pa5598isvdu0kwfi7s1742216dc12" />
+        <style>
+        /* .slotLeaderboard  {display: none;}  */
+        /* #adp-layer-top-container {height: 250px; display: block;}  */
+        /* .main>.wrapper>header {
+            background-color: #181818;
+            margin-left: -20px;
+            margin-right: -20px;
+            padding: 10px 20px 0px 20px;
+        } */
+        @media only screen and (max-width:720px){
+            #article-recommend-popup {display: none !important;}
+        }
+
+
+        @media only screen and (min-width: 1100px) { 
+
+        .slotLeaderboard  {display: none;} 
+
+            /* 2026-os */
+            body {
+                background: url("/adserver/1920x1080_SzRT_Lutri_KAPUBANNER_GAMEKAPOCS_ver5.jpg") no-repeat center top ;
+            }
+            
+            .bg-drop {
+               background: transparent;
+                background-size: fixed;
+                z-index: 0;
+            }
+
+            .main {
+                margin-top: 330px;
+                background-color: #181818;
+                z-index: 1;
+                position: relative;
+            }
+        }            
+
+    </style>
+    <!--
+<style>
+#adp-layer-right-container {display:none !important;}
+#adp-layer-left-container {display:none !important;}
+#adp-layer-top-container {display:none !important;}
+.bottom-ad {display:none !important;}
+</style>
+-->
+
+    <!-- InMobi Choice. Consent Manager Tag v3.0 (for TCF 2.2) -->
+<script type="text/javascript" async=true>
+(function() {
+  var host = window.location.hostname;
+  var element = document.createElement('script');
+  var firstScript = document.getElementsByTagName('script')[0];
+  var url = 'https://cmp.inmobi.com'
+    .concat('/choice/', '2CFJPrqDGZcGN', '/', host, '/choice.js?tag_version=V3');
+  var uspTries = 0;
+  var uspTriesLimit = 3;
+  element.async = true;
+  element.type = 'text/javascript';
+  element.src = url;
+
+  firstScript.parentNode.insertBefore(element, firstScript);
+
+  function makeStub() {
+    var TCF_LOCATOR_NAME = '__tcfapiLocator';
+    var queue = [];
+    var win = window;
+    var cmpFrame;
+
+    function addFrame() {
+      var doc = win.document;
+      var otherCMP = !!(win.frames[TCF_LOCATOR_NAME]);
+
+      if (!otherCMP) {
+        if (doc.body) {
+          var iframe = doc.createElement('iframe');
+
+          iframe.style.cssText = 'display:none';
+          iframe.name = TCF_LOCATOR_NAME;
+          doc.body.appendChild(iframe);
+        } else {
+          setTimeout(addFrame, 5);
+        }
+      }
+      return !otherCMP;
+    }
+
+    function tcfAPIHandler() {
+      var gdprApplies;
+      var args = arguments;
+
+      if (!args.length) {
+        return queue;
+      } else if (args[0] === 'setGdprApplies') {
+        if (
+          args.length > 3 &&
+          args[2] === 2 &&
+          typeof args[3] === 'boolean'
+        ) {
+          gdprApplies = args[3];
+          if (typeof args[2] === 'function') {
+            args[2]('set', true);
+          }
+        }
+      } else if (args[0] === 'ping') {
+        var retr = {
+          gdprApplies: gdprApplies,
+          cmpLoaded: false,
+          cmpStatus: 'stub'
+        };
+
+        if (typeof args[2] === 'function') {
+          args[2](retr);
+        }
+      } else {
+        if(args[0] === 'init' && typeof args[3] === 'object') {
+          args[3] = Object.assign(args[3], { tag_version: 'V3' });
+        }
+        queue.push(args);
+      }
+    }
+
+    function postMessageEventHandler(event) {
+      var msgIsString = typeof event.data === 'string';
+      var json = {};
+
+      try {
+        if (msgIsString) {
+          json = JSON.parse(event.data);
+        } else {
+          json = event.data;
+        }
+      } catch (ignore) {}
+
+      var payload = json.__tcfapiCall;
+
+      if (payload) {
+        window.__tcfapi(
+          payload.command,
+          payload.version,
+          function(retValue, success) {
+            var returnMsg = {
+              __tcfapiReturn: {
+                returnValue: retValue,
+                success: success,
+                callId: payload.callId
+              }
+            };
+            if (msgIsString) {
+              returnMsg = JSON.stringify(returnMsg);
+            }
+            if (event && event.source && event.source.postMessage) {
+              event.source.postMessage(returnMsg, '*');
+            }
+          },
+          payload.parameter
+        );
+      }
+    }
+
+    while (win) {
+      try {
+        if (win.frames[TCF_LOCATOR_NAME]) {
+          cmpFrame = win;
+          break;
+        }
+      } catch (ignore) {}
+
+      if (win === window.top) {
+        break;
+      }
+      win = win.parent;
+    }
+    if (!cmpFrame) {
+      addFrame();
+      win.__tcfapi = tcfAPIHandler;
+      win.addEventListener('message', postMessageEventHandler, false);
+    }
+  };
+
+  makeStub();
+
+  var uspStubFunction = function() {
+    var arg = arguments;
+    if (typeof window.__uspapi !== uspStubFunction) {
+      setTimeout(function() {
+        if (typeof window.__uspapi !== 'undefined') {
+          window.__uspapi.apply(window.__uspapi, arg);
+        }
+      }, 500);
+    }
+  };
+
+  var checkIfUspIsReady = function() {
+    uspTries++;
+    if (window.__uspapi === uspStubFunction && uspTries < uspTriesLimit) {
+      console.warn('USP is not accessible');
+    } else {
+      clearInterval(uspInterval);
+    }
+  };
+
+  if (typeof window.__uspapi === 'undefined') {
+    window.__uspapi = uspStubFunction;
+    var uspInterval = setInterval(checkIfUspIsReady, 6000);
+  }
+})();
+</script>
+<!-- End InMobi Choice. Consent Manager Tag v3.0 (for TCF 2.2) -->
+
+    <!--[if lt IE 9]>
+   
+        <![endif]-->
+    <!--[if (gte IE 6)&(lte IE 8)]>
+            <script type="text/javascript" src="/assets/desktop/js/selectivizr-min.js"></script>
+        <![endif]-->
+    <!-- 
+        <script>
+            window.fbAsyncInit = function() {
+              FB.init({
+                appId      : '1779263728980368',
+                xfbml      : true,
+                version    : 'v2.6'
+              });
+            };
+
+            (function(d, s, id){
+               var js, fjs = d.getElementsByTagName(s)[0];
+               if (d.getElementById(id)) {return;}
+               js = d.createElement(s); js.id = id;
+               js.src = "//connect.facebook.net/en_US/sdk.js";
+               fjs.parentNode.insertBefore(js, fjs);
+             }(document, 'script', 'facebook-jssdk'));
+          </script> -->
+
+    <script>
+        (function(i, s, o, g, r, a, m) {
+            i['GoogleAnalyticsObject'] = r;
+            i[r] = i[r] || function() {
+                (i[r].q = i[r].q || []).push(arguments)
+            }, i[r].l = 1 * new Date();
+            a = s.createElement(o),
+                m = s.getElementsByTagName(o)[0];
+            a.async = 1;
+            a.src = g;
+            m.parentNode.insertBefore(a, m)
+        })(window, document, 'script', 'https://www.google-analytics.com/analytics.js', 'ga');
+
+        ga('create', 'UA-80489022-1', 'auto');
+        ga('send', 'pageview');
+    </script>
+    <script src='https://www.google.com/recaptcha/api.js'></script>
+    <!-- Facebook Pixel Code -->
+    <script>
+        ! function(f, b, e, v, n, t, s) {
+            if (f.fbq) return;
+            n = f.fbq = function() {
+                n.callMethod ?
+                    n.callMethod.apply(n, arguments) : n.queue.push(arguments)
+            };
+            if (!f._fbq) f._fbq = n;
+            n.push = n;
+            n.loaded = !0;
+            n.version = '2.0';
+            n.queue = [];
+            t = b.createElement(e);
+            t.async = !0;
+            t.src = v;
+            s = b.getElementsByTagName(e)[0];
+            s.parentNode.insertBefore(t, s)
+        }(window, document, 'script',
+            'https://connect.facebook.net/en_US/fbevents.js');
+        fbq('init', '848475978846545');
+        fbq('track', 'PageView');
+    </script>
+    <noscript>
+        <img height="1" width="1" src="https://www.facebook.com/tr?id=848475978846545&ev=PageView&noscript=1" />
+    </noscript>
+    <!-- <script async src="//paslsa.com/c/esport1.js"></script> -->
+    <!-- <script async src="//pahtbt.tech/c/esport1.js"></script> -->
+    <!-- End Facebook Pixel Code -->
+
+    <script>
+        var breaking = false    </script>
+
+	
+    
+    <script type="application/javascript" async=true>
+        var debugVersion=Date.now();const admeLocalQueryString=window.location.search,admeLocalUrlParams=new URLSearchParams(admeLocalQueryString),admeLocalDebug=admeLocalUrlParams.has("admeDebug"),admeUrl="https://link.adaptivemedia.hu/adme/extra/adme",admeLink=admeLocalDebug?admeUrl+".js?v="+debugVersion:admeUrl+".min.js",admeElement=document.createElement("script");admeElement.src=admeLink,document.head.appendChild(admeElement),admeElement.onload=()=>{console.log("adme.js loaded")},admeElement.onerror=()=>{console.log("adme.js cannot be loaded")};
+    </script>
+
+    <!-- <script>
+        function getMonday(d) {
+            d = new Date(d);
+            var day = d.getDay(),
+                diff = d.getDate() - day + (day == 0 ? -6 : 1);
+            return new Date(d.setDate(diff));
+        }
+
+
+        var version = getMonday(new Date()).toISOString().slice(0, 10).replaceAll("-", "");
+
+        const admeLocalQueryString = window.location.search;
+        const admeLocalUrlParams = new URLSearchParams(admeLocalQueryString);
+        const admeLocalDebug = admeLocalUrlParams.has('admeDebug');
+
+        if (admeLocalDebug) {
+            document.write("<script type=\"text/javascript\" src=\"https://link.adaptivemedia.hu/adme/extra/adme-core-async-general.js?v=" + version + "\"><\/script>");
+        } else {
+            document.write("<script type=\"text/javascript\" src=\"https://link.adaptivemedia.hu/adme/extra/adme-core-async-general.min.js?v=" + version + "\"><\/script>");
+        }
+    </script> -->
+    
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-TC4ZKHW');</script>
+<!-- End Google Tag Manager -->
+<!-- <script>
+!function (w, d, t) {
+  w.TiktokAnalyticsObject=t;var ttq=w[t]=w[t]||[];ttq.methods=["page","track","identify","instances","debug","on","off","once","ready","alias","group","enableCookie","disableCookie"],ttq.setAndDefer=function(t,e){t[e]=function(){t.push([e].concat(Array.prototype.slice.call(arguments,0)))}};for(var i=0;i<ttq.methods.length;i++)ttq.setAndDefer(ttq,ttq.methods[i]);ttq.instance=function(t){for(var e=ttq._i[t]||[],n=0;n<ttq.methods.length;n++)ttq.setAndDefer(e,ttq.methods[n]);return e},ttq.load=function(e,n){var i="https://analytics.tiktok.com/i18n/pixel/events.js";ttq._i=ttq._i||{},ttq._i[e]=[],ttq._i[e]._u=i,ttq._t=ttq._t||{},ttq._t[e]=+new Date,ttq._o=ttq._o||{},ttq._o[e]=n||{};var o=document.createElement("script");o.type="text/javascript",o.async=!0,o.src=i+"?sdkid="+e+"&lib="+t;var a=document.getElementsByTagName("script")[0];a.parentNode.insertBefore(o,a)};
+
+  ttq.load('CH5PPPBC77U2I5R8K8DG');
+  ttq.page();
+}(window, document, 'ttq');
+</script>   -->
+ 
+ 
+
+
+</head>
+
+<body>
+<div id="adp-layer-top-container"></div>
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-TC4ZKHW"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+<!-- (c) 2000-2026 Gemius SA version 2.0 Impressions: campaign: NLM SZRT Lutri 2026, placement: /Village Media/gamekapocs.hu/kapubanner , creative: link_kapu  -->
+<IMG SRC="https://gdehu.hit.gemius.pl/_[TIMESTAMP]/redot.gif?id=p32V9rNtCWkuuhHFYdwjFZXkHdwpLPrHjup_zPf2a3n.77/fastid=esardpjkaenmehepvhgljmxftnkb/stparam=rppkpmknwl/nc=0/gdpr=0/gdpr_consent=" />
+<a href="https://gdehu.hit.gemius.pl/hitredir/id=p32V9rNtCWkuuhHFYdwjFZXkHdwpLPrHjup_zPf2a3n.77/fastid=hfkgniogtceeowggpmpzruqyrnmi/stparam=lbohgxngwf/nc=0/gdpr=0/gdpr_consent=/url=https://bet.szerencsejatek.hu/jatekok/lutri/leiras?utm_source=mediavasarlas1401_gamekapocs.hu&utm_content=SzRT_Lutri_KAPUBANNER&utm_medium=kapubanner&utm_campaign=2026-lutri">
+
+
+    <div class="bg-drop"></div>
+    </a>
+
+    <div class="main" style="max-width: 1090px;">
+        <div class="wrapper">
+            <header class="slotHeader">
+                <div class="d-flex" style="align-items: center;">
+                    <a href="/">
+                        <img src="/assets/desktop/img/logo-e1hu.png" alt="" class="main-logo">
+                    </a>
+
+                    <div class="theme-switch-wrapper">
+                        <label class="theme-switch" for="checkbox">
+                            <input type="checkbox" id="checkbox" />
+                            <div class="slider round"></div>
+                        </label>
+                    </div>
+                    <div class="d-flex darkmode-icon">
+                        <svg width="18" height="18" viewBox="0 0 11 11" fill="none" xmlns="http://www.w3.org/2000/svg">
+                            <path d="M0.65625 5.25C0.65625 7.92578 2.82422 10.0938 5.5 10.0938C8.15625 10.0938 10.3438 7.92578 10.3438 5.25C10.3438 2.59375 8.15625 0.40625 5.5 0.40625C2.82422 0.40625 0.65625 2.59375 0.65625 5.25ZM5.5 8.84375V1.65625C7.47266 1.65625 9.09375 3.27734 9.09375 5.25C9.09375 7.24219 7.47266 8.84375 5.5 8.84375Z" fill="white" />
+                        </svg>
+                    </div>
+                </div>
+                <div class="header-right">
+
+                    <div class="desktop-nav-holder">
+                        <div class="desktop-nav">
+                        <div class="item">
+                <a href="https://www.youtube.com/channel/UC63OM61f7lc2tUtYHleNAnA" target="_blank">
+                <div class="icon-holder">
+                <svg width="25" height="21" viewBox="0 0 25 21" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
+                        <path d="M23.8,4.8C23.5,3.8 22.7,3 21.7,2.7C19.9,2.2 12.5,2.2 12.5,2.2C12.5,2.2 5.1,2.2 3.3,2.7C2.3,3 1.5,3.8 1.2,4.8C0.7,6.6 0.7,10.5 0.7,10.5C0.7,10.5 0.7,14.3 1.2,16.2C1.5,17.2 2.3,18 3.3,18.3C5.1,18.8 12.5,18.8 12.5,18.8C12.5,18.8 19.9,18.8 21.7,18.3C22.7,18 23.5,17.2 23.8,16.2C24.3,14.4 24.3,10.5 24.3,10.5C24.3,10.5 24.3,6.7 23.8,4.8ZM10.2,14L10.2,7L16.3,10.5L10.2,14Z" style="fill:rgb(225,225,225);fill-rule:nonzero;"/>
+                </svg>
+
+                </div>
+                <b>Videó</b>
+                </a>
+            </div>
+
+                            <div class="item">
+                                <a href="/e1tv">
+                                                            <div class="icon-holder">
+                                    <svg width="25" height="21" viewBox="0 0 25 21" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                        <path d="M23.125 0.5H1.875C0.820312 0.5 0 1.35938 0 2.375V14.875C0 15.9297 0.820312 16.75 1.875 16.75H11.25V18H4.375C4.02344 18 3.75 18.3125 3.75 18.625V19.875C3.75 20.2266 4.02344 20.5 4.375 20.5H20.625C20.9375 20.5 21.25 20.2266 21.25 19.875V18.625C21.25 18.3125 20.9375 18 20.625 18H13.75V16.75H23.125C24.1406 16.75 25 15.9297 25 14.875V2.375C25 1.35938 24.1406 0.5 23.125 0.5ZM22.5 14.25H2.5V3H22.5V14.25Z" fill="#E1E1E1" />
+                                    </svg>
+                                </div>
+                                                       
+                                <b>E1TV</b>
+                                </a>
+                            </div>
+
+                            <div class="item">
+                                <a href="/market">
+                                    <div class="icon-holder">
+                                        <svg width="28" height="24" viewBox="0 0 28 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                            <path d="M24.75 14.1562L26.9531 4.40625C27.0938 3.70312 26.5781 3 25.8281 3H7.45312L7.03125 0.9375C6.89062 0.421875 6.42188 0 5.90625 0H1.125C0.46875 0 0 0.515625 0 1.125V1.875C0 2.53125 0.46875 3 1.125 3H4.35938L7.6875 19.125C6.89062 19.5938 6.375 20.4375 6.375 21.375C6.375 22.8281 7.54688 24 9 24C10.4062 24 11.625 22.8281 11.625 21.375C11.625 20.6719 11.2969 20.0156 10.8281 19.5H20.625C20.1562 20.0156 19.875 20.6719 19.875 21.375C19.875 22.8281 21.0469 24 22.5 24C23.9062 24 25.125 22.8281 25.125 21.375C25.125 20.3438 24.5156 19.4531 23.625 19.0312L23.8594 17.9062C24.0469 17.2031 23.4844 16.5 22.7812 16.5H10.2188L9.89062 15H23.625C24.1406 15 24.6094 14.6719 24.75 14.1562Z" fill="white" />
+                                        </svg>
+
+                                    </div>
+                                    <b>PIAC</b>
+                                </a>
+                            </div>
+
+
+
+
+                                                            <div class="item">
+                                    <a href="/user/login">
+                                        <div class="icon-holder avatar-holder">
+                                            <img src="/images/e1_avatar.jpg">
+                                        </div>
+                                        <b>Belépés</b>
+                                    </a>
+                                </div>
+                            
+
+
+                            <div class="item">
+                                <div class="icon-holder">
+                                    <div class="menu-bar">
+                                        <button class="openX" id="main-menu-btn">
+                                            <span class="icon-bar"></span>
+                                            <span class="icon-bar"></span>
+                                            <span class="icon-bar"></span>
+                                        </button>
+                                    </div>
+
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                            </header>
+
+            <div class="main-content">
+                <div class="row">
+                    <div class="col-md-12">
+                                            </div>
+                </div>
+
+                <!--- CLS -->
+                <div class="cls-header-1 slotLeaderboard">
+
+                </div>
+
+                <script type="application/ld+json">[
+    {
+        "@context": "http://schema.org",
+        "@type": "WebPage",
+        "name": "Esport1",
+        "url": "https://www.esport1.hu",
+        "keywords": "esport, esport1, esport hírek, esport videók, esport cikkek, esport interjúk, esport magyarország, esport hu, esport hírek magyarul, gta 6, league of legends, origin, fifa 23, fifa 24, aquaman 2, stranger things 5 évad, diablo 4, mortal kombat 1, játék, sims 4, csgo major, cs2, counter strike 2, world of tanks, metro: last light, star wars sorozatok, csgo major 2023, sims 5, ea sports fc, gta6, fallout new vegas, radics peti, vecna, ghost of tsushima pc, kennys, zelda tears of the kingdom",
+        "description": "Mi vagyunk a belépő az esport és a videojátékok világába! Friss gaming hírek, elemzések, sorozatok és filmes tartalmak, szórakozás egy helyen!",
+        "publisher": {
+            "@type": "Organization",
+            "name": "Esport1 Kft.",
+            "logo": {
+                "@type": "ImageObject",
+                "height": "29",
+                "width": "228",
+                "url": "https://esport1.hu/assets/desktop/img/logo-e1hu.png"
+            }
+        }        
+    }
+]</script>
+
+
+<script type="application/bannerData" id="adData">
+    {
+        "url"         : "/",        
+        "pageType"    : "mainpage",
+        "adult"        : 0,
+        "gSens"        : 0,
+        "extraData"    : []
+    }
+</script>
+
+
+
+
+
+<div class="row main-col-holder">
+    <!-- <div class="col-sm-12 col-lg-9 col-sx-12"> -->
+    <div class="main-col-left">
+
+
+        <section class="cd-hero slideshow">
+            <ul class="cd-hero-slider autoplay">
+                
+                    <li class="slide selected">
+                        <a href="/news/2026/04/10/cs2-counter-strike-iem-rio-2026-nem-utazik-a-g2-iranyitoja-leserult-hunter-tbr">
+                            <div class="">
+
+
+
+
+
+                                <article class="main-article">
+                                    <header>
+                                        <img src="/images/69d8d31ad203b_69d8d31ad1ff9-nem-utazik-az-iem-riora-a-g2-iranyitoja-leserult-hunter-.jpg" alt="" class="w100 list-image">
+                                        <div class="title-holder">
+                                            <h2>
+                                                Nem utazik az IEM Riora a G2 irányítója, lesérült huNter-                                            </h2>
+                                        </div>
+
+                                    </header>
+                                </article>
+
+
+
+                            </div>
+                        </a>
+                    </li>
+
+                
+                    <li class="slide ">
+                        <a href="/news/2026/04/10/tech-a-samsung-is-nyerhet-az-apple-hajtogathato-iphone-fold-tbr">
+                            <div class="">
+
+
+
+
+
+                                <article class="main-article">
+                                    <header>
+                                        <img src="/images/69d8c65f00955_69d8c65f00911-a-samsung-is-nyerhet-az-apple-hajtogathato-iphone-javal.jpg" alt="" class="w100 list-image">
+                                        <div class="title-holder">
+                                            <h2>
+                                                A Samsung is nyerhet az Apple hajtogatható iPhone-jával                                            </h2>
+                                        </div>
+
+                                    </header>
+                                </article>
+
+
+
+                            </div>
+                        </a>
+                    </li>
+
+                
+                    <li class="slide ">
+                        <a href="/news/2026/04/10/filmek-es-sorozatok-ray-gunn-brad-bird-animacios-mese-netflix-marlasinger-">
+                            <div class="">
+
+
+
+
+
+                                <article class="main-article">
+                                    <header>
+                                        <img src="/images/69d8c595970b9_69d8c59597075-egy-animacios-mese-lehet-a-netflix-egyik-legizgalmasabb-sci-fije.jpg" alt="" class="w100 list-image">
+                                        <div class="title-holder">
+                                            <h2>
+                                                Egy animációs mese lehet a Netflix egyik legizgalmasabb sci-fije                                            </h2>
+                                        </div>
+
+                                    </header>
+                                </article>
+
+
+
+                            </div>
+                        </a>
+                    </li>
+
+                
+                    <li class="slide ">
+                        <a href="/news/2026/04/09/gaming-epic-games-store-ingyen-jatek-verekedes-fog-lonni-tbr">
+                            <div class="">
+
+
+
+
+
+                                <article class="main-article">
+                                    <header>
+                                        <img src="/images/69d775cc932c8_69d775cc93281-verekedes-fog-lonni-az-epic-games-legujabb-ingyen-jatekaban.jpg" alt="" class="w100 list-image">
+                                        <div class="title-holder">
+                                            <h2>
+                                                3500 helyett ingyen húzhatod most be ezt a játékot Epicen                                            </h2>
+                                        </div>
+
+                                    </header>
+                                </article>
+
+
+
+                            </div>
+                        </a>
+                    </li>
+
+                
+                    <li class="slide ">
+                        <a href="/news/2026/04/09/filmek-es-sorozatok-ishowspeed-anime-keszul-a-one-piece-volt-showrunnerevel-netflix-youtuber-streamer-tartalomgyarto-big-shot-pictures-leecobo">
+                            <div class="">
+
+
+
+
+
+                                <article class="main-article">
+                                    <header>
+                                        <img src="/images/69d73b81d41d9_69d73b81d418f-ishowspeed-ujabb-lepest-tesz-a-halhatatlansag-fele-meghozza-egy-anime-segitsegevel.jpg" alt="" class="w100 list-image">
+                                        <div class="title-holder">
+                                            <h2>
+                                                IShowSpeed újabb lépést tesz a halhatatlanság felé, méghozzá egy anime segítségével                                            </h2>
+                                        </div>
+
+                                    </header>
+                                </article>
+
+
+
+                            </div>
+                        </a>
+                    </li>
+
+                            </ul> <!-- .cd-hero-slider -->
+            <div class="cd-slider-nav">
+                <nav>
+                    <span class="cd-marker item-1"></span>
+                    <ul>
+                        <li class="selected"><a></a></li>
+                        <li><a></a></li>
+                        <li><a></a></li>
+                        <li><a></a></li>
+                        <li><a></a></li>
+                    </ul>
+                </nav>
+            </div> <!-- .cd-slider-nav -->
+        </section> <!-- .cd-hero -->
+
+
+
+
+
+        <div class="article-list">
+    <div class="col-12 slotDoubleColumn">
+ 
+         
+<div class="row">
+    <div class="col-md-6 col-sm-12">
+                                            <article class="article-list-item">
+                        <header>
+                            <a href="/news/2026/04/11/epic-games-fortnite-disney-star-wars-marvel-extraction-shooter-pvpve-jatekfejlesztes-partneri-megallapodas-megjelenes-arc-raiders-escape-from-tarkove-pc-xbox-playstation-nintendo-mobil-szlav">
+                                <div class="article-image-holder">
+
+                                    <img src="/images/69da1c595b98f_69da1c595b949-az-epic-games-gyarthat-a-disney-nek-extraction-shootert.jpg" alt="Gaming - Az Epic Games gyárthat a Disney-nek extraction shootert" class="list-image" loading="lazy" />
+
+
+
+                                    <!--- labels  --->
+
+
+
+                                    <div class="intro-raction-holder">
+                                                                                                                        
+                                        
+                                        
+                                        
+                                        
+                                        
+                                    </div>
+
+
+                                </div>
+                            </a>
+
+
+                            <div class="title-holder">
+                                <a href="/news/2026/04/11/epic-games-fortnite-disney-star-wars-marvel-extraction-shooter-pvpve-jatekfejlesztes-partneri-megallapodas-megjelenes-arc-raiders-escape-from-tarkove-pc-xbox-playstation-nintendo-mobil-szlav">
+                                    <h2>Az Epic Games gyárthat a Disney-nek extraction shootert</h2>
+                                </a>
+
+                            </div>
+
+                        </header>
+                        <p>Az Epic Games t&ouml;k&eacute;letes &eacute;rz&eacute;kkel kapta el a battle royale hype-ot a Fortnite-tal, de az extraction shooterek &uacute;j sl&aacute;gere elment a f&uuml;l&uuml;k mellett. Mostan&aacute;ig.</p>
+                    </article>
+
+                
+                        
+                    <article class="article-no-thumb">
+                        <header>
+                            <div class="title-holder">
+                                <div class="divider" style="background-color: #303030;"></div>
+                                <a href="/news/2026/04/11/netease-games-marvel-rivals-hero-shooter-kepregeny-mcu-szuperhos-anime-rajzfilm-mozis-univerzum-karakterek-pvp-pve-pc-xbox-playstation-szlav">
+                                    <h2>
+
+                                                                                <img src="/images/5c90c364b95c3_5c90c364b957f-konzol-esport.png" class="article-game-icon">                                        A Marvel Rivals is belépne az MCU-ba, méghozzá egy saját sorozattal
+
+
+                                        <!--- labels  --->
+                                        <div class="nothumb-raction-holder">
+                                                                                                                                        <span class="raction-small like"></span>
+                                            
+                                            
+                                            
+                                            
+                                            
+                                                                                    </div>
+
+                                    </h2>
+                                </a>
+                            </div>
+                        </header>
+                        <p>Tov&aacute;bbra is akkora siker a Marvel Rivals, hogy a j&aacute;t&eacute;k kezdi kinőni a 6v6-os hero shooter korl&aacute;tait. Az &uacute;j egyem&eacute;nyek &eacute;s j&aacute;t&eacute;km&oacute;dok mellett m&aacute;r az MCU-fel&eacute; is kacsintgat a NetEase j&aacute;t&eacute;ka.</p>
+                    </article>
+
+                
+                        
+                    <article class="article-no-thumb">
+                        <header>
+                            <div class="title-holder">
+                                <div class="divider" style="background-color: #303030;"></div>
+                                <a href="/news/2026/04/11/kojima-productions-hideo-kojima-death-stranding-2-zene-soundtrack-music-low-roar-david-bowie-jatekfejlesztes-pc-xbox-playstation-szlav">
+                                    <h2>
+
+                                                                                <img src="/images/5c90c364b95c3_5c90c364b957f-konzol-esport.png" class="article-game-icon">                                        Ha Hideo Kojima formálta a zenei ízlésedet, akkor nagy baj már nem érhet
+
+
+                                        <!--- labels  --->
+                                        <div class="nothumb-raction-holder">
+                                                                                                                                        <span class="raction-small like"></span>
+                                            
+                                            
+                                            
+                                            
+                                            
+                                                                                    </div>
+
+                                    </h2>
+                                </a>
+                            </div>
+                        </header>
+                        <p>A kontrollm&aacute;ni&aacute;s Hideo Kojima m&eacute;g a j&aacute;t&eacute;kai h&aacute;tt&eacute;rzen&eacute;it is olyan gondoss&aacute;ggal v&aacute;logatja meg, mint senki m&aacute;s. &Eacute;s milyen j&oacute;l teszi!</p>
+                    </article>
+
+                
+            </div>
+
+
+
+
+
+
+
+    <div class="col-md-6 col-sm-12">
+
+                                            <article class="article-list-item">
+                        <header>
+                            <div class="article-image-holder">
+                                <a href="/news/2026/04/11/microsoft-xbox-series-x-s-pc-achievement-eredmenyek-trofea-gamerscore-elrejtes-vizualis-atalakitas-pc-xbox-szlav">
+                                    <img src="/images/69d79ce978a53_69d79ce978a0c-atalakul-az-xbox-achievement-rendszere--keszulnek-a-generaciovaltasra.jpg" alt="Gaming - Átalakul az Xbox achievement-rendszere – Készülnek a generációváltásra?" class="list-image" loading="lazy" />
+
+
+
+
+
+                                    <div class="intro-raction-holder">
+                                        <!--- labels  --->
+                                                                                                                                                                    <span class="raction-small like"></span>
+                                        
+                                        
+                                        
+                                        
+                                        
+                                        
+                                    </div>
+
+
+                                </a>
+                            </div>
+
+
+
+                            <div class="title-holder">
+                                <a href="/news/2026/04/11/microsoft-xbox-series-x-s-pc-achievement-eredmenyek-trofea-gamerscore-elrejtes-vizualis-atalakitas-pc-xbox-szlav">
+                                    <h2>Átalakul az Xbox achievement-rendszere – Készülnek a generációváltásra?</h2>
+                                </a>
+
+                            </div>
+
+                        </header>
+                        <p>K&iacute;v&uuml;l teljesen, de egy picit bel&uuml;l is &aacute;talakulnak az Xbox achievementjei. Főleg azok &ouml;r&uuml;lhetnek, akik &eacute;rt&eacute;kelik, hogy nem mindent kell m&aacute;sok orr&aacute;ra k&ouml;tni&uuml;k.</p>
+                    </article>
+
+                
+                                
+                    <article class="article-no-thumb">
+                        <header>
+                            <div class="title-holder">
+                                <div class="divider" style="background-color: #303030;"></div>
+                                <a href="/news/2026/04/11/rockstar-games-grand-theft-auto-6-gta-6-leak-szivargas-kep-screenshot-video-gameplay-open-world-megjelenes-jatekmenet-pc-xbox-playstation-szlav">
+                                    <h2>
+
+                                                                                <img src="/images/5c90c364b95c3_5c90c364b957f-konzol-esport.png" class="article-game-icon">                                        Hoppá! Friss képek és videók szivárogtak ki a GTA 6-ból
+
+
+                                        <!--- labels  --->
+                                        <div class="nothumb-raction-holder">
+                                                                                                                                        <span class="raction-small like"></span>
+                                            
+                                            
+                                            
+                                            
+                                            
+                                                                                    </div>
+
+                                    </h2>
+                                </a>
+                            </div>
+                        </header>
+                        <p>Mik&ouml;zben csak v&aacute;rjuk a harmadik hivatalos trailert, a sziv&aacute;rogtat&oacute;k egy rak&aacute;s l&aacute;tnival&oacute;t napvil&aacute;gra hoztak a GTA 6 korai buildj&eacute;ből.</p>
+                    </article>
+
+                
+                                
+                    <article class="article-no-thumb">
+                        <header>
+                            <div class="title-holder">
+                                <div class="divider" style="background-color: #303030;"></div>
+                                <a href="/news/2026/04/11/spiral-up-games-gene-pop-studio-steel-soul-shaper-cyberpunk-2077-ripperdoc-utcai-klinika-playtest-trailer-pc-szlav">
+                                    <h2>
+
+                                                                                <img src="/images/5c90c364b95c3_5c90c364b957f-konzol-esport.png" class="article-game-icon">                                        Viktor Vektor a legjobb arc, úgyhogy most te is ripperdoc lehetsz ebben a játékban
+
+
+                                        <!--- labels  --->
+                                        <div class="nothumb-raction-holder">
+                                                                                                                                        <span class="raction-small like"></span>
+                                            
+                                            
+                                            
+                                            
+                                            
+                                                                                    </div>
+
+                                    </h2>
+                                </a>
+                            </div>
+                        </header>
+                        <p>Egy cyberpunk diszt&oacute;pia eldugott sik&aacute;torai k&ouml;zt sok durva dolog t&ouml;rt&eacute;nik, a cyberware-klinika seb&eacute;szek&eacute;nt pedig te is hallasz egyet, s m&aacute;st.</p>
+                    </article>
+
+                
+                    </div>
+
+
+</div>
+        
+
+
+        <div class="col-md-12 col-sm-12">
+
+                    <article class="article-list-item">
+                    <header>
+                        <div class="article-image-holder">
+                            <a href="/news/2026/04/10/gaming-meg-a-te-vered-is-kiszivja-olyan-jo-kis-akcio-kalandjatek-lesz-az-uj-castlevania-tzeus">
+                                <img src="/images/69d912956aef9_69d912956acbb-meg-a-te-vered-is-kiszivja-olyan-jo-kis-akcio-kalandjatek-lesz-az-uj-castlevania.jpg" alt="Gaming - Még a te véred is kiszívja, olyan jó kis akció-kalandjáték lesz az új Castlevania" class="list-image" loading="lazy" />
+
+
+
+
+
+                                <div class="intro-raction-holder">
+                                    <!--- labels  --->
+                                                                                                                                                    <span class="raction-small like"></span>
+                                    
+                                    
+                                    
+                                    
+                                    
+                                    
+                                </div>
+
+                            </a>
+                        </div>
+
+
+
+                        <div class="title-holder">
+                            <a href="/news/2026/04/10/gaming-meg-a-te-vered-is-kiszivja-olyan-jo-kis-akcio-kalandjatek-lesz-az-uj-castlevania-tzeus">
+                                <h2>Még a te véred is kiszívja, olyan jó kis akció-kalandjáték lesz az új Castlevania</h2>
+                            </a>
+
+                        </div>
+
+                    </header>
+                    <p>Mindenki tudja, hogy metroidvania&hellip; csak senki nem meri kimondani. A Castlevania &uacute;j r&eacute;sze &uacute;gy ker&uuml;li a műfaj nev&eacute;t, mint v&aacute;mp&iacute;r a napf&eacute;nyt &ndash; de att&oacute;l m&eacute;g ugyanaz marad.</p>
+                </article>
+ 
+ 
+
+    </div>       
+         
+<div class="row">
+    <div class="col-md-6 col-sm-12">
+                                            <article class="article-list-item">
+                        <header>
+                            <a href="/news/2026/04/10/filmek-es-sorozatok-lee-cronin-a-mumia-elso-reakciok-pozitivak-marlasinger-">
+                                <div class="article-image-holder">
+
+                                    <img src="/images/69d8f30f4b029_69d8f30f4afd0-undoritoan-jo-az-elso-reakciok-alapjan-eleg-bizarr-lett-lee-cronin-a-mumiaja.jpg" alt="Film és Sorozat - Undorítóan jó? Az első reakciók alapján elég bizarr lett Lee Cronin A múmiája" class="list-image" loading="lazy" />
+
+
+
+                                    <!--- labels  --->
+
+
+
+                                    <div class="intro-raction-holder">
+                                                                                                                                                                    <span class="raction-small like"></span>
+                                        
+                                        
+                                        
+                                        
+                                        
+                                        
+                                    </div>
+
+
+                                </div>
+                            </a>
+
+
+                            <div class="title-holder">
+                                <a href="/news/2026/04/10/filmek-es-sorozatok-lee-cronin-a-mumia-elso-reakciok-pozitivak-marlasinger-">
+                                    <h2>Undorítóan jó? Az első reakciók alapján elég bizarr lett Lee Cronin A múmiája</h2>
+                                </a>
+
+                            </div>
+
+                        </header>
+                        <p>Ez nem egy poros reboot, hanem egy kőkem&eacute;ny horrorfilmes &uacute;jragondol&aacute;sa Brendan Fraser &eacute;s Rachel Weisz kedves kis kalandfilmj&eacute;nek.&nbsp;</p>
+                    </article>
+
+                
+                        
+                    <article class="article-no-thumb">
+                        <header>
+                            <div class="title-holder">
+                                <div class="divider" style="background-color: #303030;"></div>
+                                <a href="/news/2026/04/10/filmek-es-sorozatok-mortal-kombat-ii-popcorn-vodor-nasi-karl-urban-marlasinger-">
+                                    <h2>
+
+                                                                                <img src="/images/623b133ca9b84_623b133ca9b42-film-es-sorozat.png" class="article-game-icon">                                        Nem biztos, hogy beledugnád az ujjad a Mortal Kombat II popcornos vödrébe
+
+
+                                        <!--- labels  --->
+                                        <div class="nothumb-raction-holder">
+                                                                                                                                        <span class="raction-small like"></span>
+                                            
+                                            
+                                            
+                                                                                            <span class="raction-small happy"></span>
+                                            
+                                            
+                                                                                    </div>
+
+                                    </h2>
+                                </a>
+                            </div>
+                        </header>
+                        <p>A Mortal Kombat II-h&ouml;z m&eacute;g a popcornos v&ouml;d&ouml;r is brut&aacute;lis lett.&nbsp;</p>
+                    </article>
+
+                
+                        
+                    <article class="article-no-thumb">
+                        <header>
+                            <div class="title-holder">
+                                <div class="divider" style="background-color: #303030;"></div>
+                                <a href="/news/2026/04/10/gaming-anno-117-pax-romana-dlc-ashen-prophecies-vulkan-ubisoft-kiegeszito-video-trailer-britpopper">
+                                    <h2>
+
+                                                                                <img src="/images/5c90c364b95c3_5c90c364b957f-konzol-esport.png" class="article-game-icon">                                        Hamarosan megkapja első DLC-jét az Anno 117: Pax Romana
+
+
+                                        <!--- labels  --->
+                                        <div class="nothumb-raction-holder">
+                                                                                                                                        <span class="raction-small like"></span>
+                                            
+                                            
+                                            
+                                            
+                                            
+                                                                                    </div>
+
+                                    </h2>
+                                </a>
+                            </div>
+                        </header>
+                        <p>M&eacute;g ebben a h&oacute;napban DLC-vel bőv&uuml;l az Anno 117: Pax Romana, ennek pedig a k&ouml;z&eacute;ppontj&aacute;ban egy hatalmas vulk&aacute;n &aacute;ll.</p>
+                    </article>
+
+                
+            </div>
+
+
+
+
+
+
+
+    <div class="col-md-6 col-sm-12">
+
+                                            <article class="article-list-item">
+                        <header>
+                            <div class="article-image-holder">
+                                <a href="/news/2026/04/10/gaming-valaki-nagyon-csunyan-megtrefalta-a-rust-rajongoit-a-steamen-tzeus">
+                                    <img src="/images/69d902f45db20_69d902f45dac9-valaki-nagyon-csunyan-megtrefalta-a-rust-rajongoit-a-steamen.jpg" alt="Gaming - Valaki nagyon csúnyán megtréfálta a Rust rajongóit a Steamen" class="list-image" loading="lazy" />
+
+
+
+
+
+                                    <div class="intro-raction-holder">
+                                        <!--- labels  --->
+                                                                                                                                                                    <span class="raction-small like"></span>
+                                        
+                                        
+                                        
+                                        
+                                        
+                                        
+                                    </div>
+
+
+                                </a>
+                            </div>
+
+
+
+                            <div class="title-holder">
+                                <a href="/news/2026/04/10/gaming-valaki-nagyon-csunyan-megtrefalta-a-rust-rajongoit-a-steamen-tzeus">
+                                    <h2>Valaki nagyon csúnyán megtréfálta a Rust rajongóit a Steamen</h2>
+                                </a>
+
+                            </div>
+
+                        </header>
+                        <p>Hi&aacute;ba d&ouml;rzs&ouml;lted a tenyered egy &uacute;jabb t&uacute;l&eacute;lőt&uacute;r&aacute;ra, a Rust 2 egyelőre csak egy &uuml;gyes &aacute;tver&eacute;s a Steam s&ouml;t&eacute;t bugyraib&oacute;l.</p>
+                    </article>
+
+                
+                                
+                    <article class="article-no-thumb">
+                        <header>
+                            <div class="title-holder">
+                                <div class="divider" style="background-color: #303030;"></div>
+                                <a href="/news/2026/04/10/gaming-call-of-duty-modern-warfare-2019-reboot-video-fps-captain-price-activision-britpopper">
+                                    <h2>
+
+                                                                                <img src="/images/5c90c364b95c3_5c90c364b957f-konzol-esport.png" class="article-game-icon">                                        COD, de nem gyerekeknek! – Videón a Modern Warfare reboot
+
+
+                                        <!--- labels  --->
+                                        <div class="nothumb-raction-holder">
+                                                                                                                                        <span class="raction-small like"></span>
+                                            
+                                            
+                                            
+                                            
+                                            
+                                                                                    </div>
+
+                                    </h2>
+                                </a>
+                            </div>
+                        </header>
+                        <p>Fontos epiz&oacute;d lett a sz&eacute;ri&aacute;ban a Call of Duty: Modern Warfare, &uacute;gyhogy mi most k&uuml;l&ouml;n vide&oacute;ban is foglalkozunk vele.</p>
+                    </article>
+
+                
+                                
+                    <article class="article-no-thumb">
+                        <header>
+                            <div class="title-holder">
+                                <div class="divider" style="background-color: #303030;"></div>
+                                <a href="/news/2026/04/10/bandai-namco-project-aces-ace-combat-8-wings-of-theve-arcade-dogfighting-repulos-jatek-vadaszrepulo-dev-diary-gameplay-trailer-video-megjelenes-pc-xbox-playstation-szlav">
+                                    <h2>
+
+                                                                                <img src="/images/5c90c364b95c3_5c90c364b957f-konzol-esport.png" class="article-game-icon">                                        Az Ace Combat 8: Wings of Theve megmutatja, milyen valódi pilótának lenni
+
+
+                                        <!--- labels  --->
+                                        <div class="nothumb-raction-holder">
+                                                                                                                                        <span class="raction-small like"></span>
+                                            
+                                            
+                                            
+                                            
+                                            
+                                                                                    </div>
+
+                                    </h2>
+                                </a>
+                            </div>
+                        </header>
+                        <p>Mi t&ouml;rt&eacute;nik az elit vad&aacute;szpil&oacute;t&aacute;kkal k&eacute;t &eacute;les bevet&eacute;s k&ouml;zt? Milyen az &eacute;let egy tengeri anyahaj&oacute;n? Ebből is ad egy nagy k&oacute;stol&oacute;t az &uacute;j Ace Combat-j&aacute;t&eacute;k.</p>
+                    </article>
+
+                
+                    </div>
+
+
+</div>
+
+        
+        <div class="col-md-12 col-sm-12">
+
+                    <article class="article-list-item">
+                    <header>
+                        <div class="article-image-holder">
+                            <a href="/news/2026/04/10/gaming-rajzfilm-noir-4k-ban-a-fumi-games-elarulta-milyen-vas-kell-mickey-egernek-tzeus">
+                                <img src="/images/69d8dce80d101_69d8dce80d0b2-rajzfilm-noir-4k-ban-a-fumi-games-elarulta-milyen-vas-kell-mickey-egernek.jpg" alt="Gaming - Rajzfilm-noir 4K-ban, a Fumi Games elárulta milyen vas kell Mickey egérnek" class="list-image" loading="lazy" />
+
+
+
+
+
+                                <div class="intro-raction-holder">
+                                    <!--- labels  --->
+                                                                                                                                                    <span class="raction-small like"></span>
+                                    
+                                    
+                                    
+                                    
+                                    
+                                    
+                                </div>
+
+                            </a>
+                        </div>
+
+
+
+                        <div class="title-holder">
+                            <a href="/news/2026/04/10/gaming-rajzfilm-noir-4k-ban-a-fumi-games-elarulta-milyen-vas-kell-mickey-egernek-tzeus">
+                                <h2>Rajzfilm-noir 4K-ban, a Fumi Games elárulta milyen vas kell Mickey egérnek</h2>
+                            </a>
+
+                        </div>
+
+                    </header>
+                    <p>Nem sz&aacute;m&iacute;t, hogy a leg&uacute;jabb konzolodon vagy egy &ouml;regecske laptopon pr&oacute;b&aacute;lsz rendet tenni az alvil&aacute;gban, ez az eg&eacute;r nem fog megakadni. V&aacute;laszd a sebess&eacute;get vagy a felbont&aacute;st, a l&eacute;nyeg, hogy a ravaszt időben h&uacute;zd meg!</p>
+                </article>
+ 
+ 
+
+    </div>
+
+        
+         
+<div class="row">
+    <div class="col-md-6 col-sm-12">
+                                            <article class="article-list-item">
+                        <header>
+                            <a href="/news/2026/04/10/gaming-cairn-free-pc-ps-ps5-xbox-megjelenes-jatek-steam-trailer-video-dlc-ingyen-ingyenes-britpopper">
+                                <div class="article-image-holder">
+
+                                    <img src="/images/69d921f2669bd_69d921f266974-lehet-meg-tovabb-maszni-ugyanis-ingyenes-dlc-vel-bovul-a-cairn.jpg" alt="Gaming - Lehet még tovább mászni, ugyanis ingyenes DLC-vel bővül a Cairn" class="list-image" loading="lazy" />
+
+
+
+                                    <!--- labels  --->
+
+
+
+                                    <div class="intro-raction-holder">
+                                                                                                                                                                    <span class="raction-small like"></span>
+                                        
+                                        
+                                        
+                                        
+                                        
+                                        
+                                    </div>
+
+
+                                </div>
+                            </a>
+
+
+                            <div class="title-holder">
+                                <a href="/news/2026/04/10/gaming-cairn-free-pc-ps-ps5-xbox-megjelenes-jatek-steam-trailer-video-dlc-ingyen-ingyenes-britpopper">
+                                    <h2>Lehet még tovább mászni, ugyanis ingyenes DLC-vel bővül a Cairn</h2>
+                                </a>
+
+                            </div>
+
+                        </header>
+                        <p>Friss tartalom &eacute;rkezik a hegym&aacute;sz&oacute;s-j&aacute;t&eacute;khoz a ny&aacute;r folyam&aacute;n &ndash; a c&iacute;m&eacute;ből &iacute;t&eacute;lve pedig valamif&eacute;le vizes t&eacute;ma &aacute;ll majd a k&ouml;z&eacute;ppontban.</p>
+                    </article>
+
+                
+                        
+                    <article class="article-no-thumb">
+                        <header>
+                            <div class="title-holder">
+                                <div class="divider" style="background-color: #303030;"></div>
+                                <a href="/news/2026/04/10/gaming-aprilis-14-en-indul-a-windrose-early-access-verzioja-steam-kaloz-tulelojatek-skull-and-bones-ubisoft-survival-triple-i-steam-pc-korai-hozzaferes-leecobo">
+                                    <h2>
+
+                                                                                <img src="/images/5c90c364b95c3_5c90c364b957f-konzol-esport.png" class="article-game-icon">                                        Retteghet a Skull and Bones, hamarosan ugyanis bucira veri egy indie túlélőjáték
+
+
+                                        <!--- labels  --->
+                                        <div class="nothumb-raction-holder">
+                                                                                                                                        <span class="raction-small like"></span>
+                                            
+                                            
+                                            
+                                            
+                                            
+                                                                                    </div>
+
+                                    </h2>
+                                </a>
+                            </div>
+                        </header>
+                        <p>J&ouml;vő h&eacute;ten jelenik meg a Windrose Early Access verzi&oacute;ja, ami első &eacute;s m&aacute;sodik r&eacute;n&eacute;z&eacute;sre is jobbnak tűnik, mint a Ubisoft AAAA-j&aacute;t&eacute;knak&nbsp;titul&aacute;lt live service c&iacute;me.</p>
+                    </article>
+
+                
+                        
+                    <article class="article-no-thumb">
+                        <header>
+                            <div class="title-holder">
+                                <div class="divider" style="background-color: #303030;"></div>
+                                <a href="/news/2026/04/10/gaming-a-kalozok-visszavagtak-sikeresen-feltortek-a-resident-evil-requiemet-tzeus">
+                                    <h2>
+
+                                                                                <img src="/images/5c90c364b95c3_5c90c364b957f-konzol-esport.png" class="article-game-icon">                                        A kalózok visszavágtak, sikeresen feltörték a Resident Evil Requiemet
+
+
+                                        <!--- labels  --->
+                                        <div class="nothumb-raction-holder">
+                                                                                                                                        <span class="raction-small like"></span>
+                                            
+                                            
+                                            
+                                            
+                                            
+                                                                                    </div>
+
+                                    </h2>
+                                </a>
+                            </div>
+                        </header>
+                        <p>M&iacute;g Leon a k&eacute;pernyőn menti a vil&aacute;got, a Denuvo-t &eacute;pp most r&aacute;gta meg egy digit&aacute;lis zombi. A Resident Evil Requiem utols&oacute; v&eacute;dvonala is &ouml;sszeomlott, &eacute;s &uacute;gy tűnik a kal&oacute;zok ellen m&eacute;g a legmodernebb gy&oacute;gym&oacute;d sem hat&aacute;sos!</p>
+                    </article>
+
+                
+            </div>
+
+
+
+
+
+
+
+    <div class="col-md-6 col-sm-12">
+
+                                            <article class="article-list-item">
+                        <header>
+                            <div class="article-image-holder">
+                                <a href="/news/2026/04/10/tech-a-samsung-is-nyerhet-az-apple-hajtogathato-iphone-fold-tbr">
+                                    <img src="/images/69d8c65f00955_69d8c65f00911-a-samsung-is-nyerhet-az-apple-hajtogathato-iphone-javal.jpg" alt="Gaming - A Samsung is nyerhet az Apple hajtogatható iPhone-jával" class="list-image" loading="lazy" />
+
+
+
+
+
+                                    <div class="intro-raction-holder">
+                                        <!--- labels  --->
+                                                                                                                                                                    <span class="raction-small like"></span>
+                                        
+                                        
+                                        
+                                        
+                                        
+                                        
+                                    </div>
+
+
+                                </a>
+                            </div>
+
+
+
+                            <div class="title-holder">
+                                <a href="/news/2026/04/10/tech-a-samsung-is-nyerhet-az-apple-hajtogathato-iphone-fold-tbr">
+                                    <h2>A Samsung is nyerhet az Apple hajtogatható iPhone-jával</h2>
+                                </a>
+
+                            </div>
+
+                        </header>
+                        <p>A h&iacute;rek szerint az Apple &eacute;s a Samsung m&aacute;r megegyeztek arr&oacute;l, hogy a d&eacute;l-koreai gy&aacute;rt&oacute;t&oacute;l veszik az iPhone Fold vagy iPhone Ultra nevű telefon egyik legfontosabb alkatr&eacute;sz&eacute;t.</p>
+                    </article>
+
+                
+                                
+                    <article class="article-no-thumb">
+                        <header>
+                            <div class="title-holder">
+                                <div class="divider" style="background-color: #303030;"></div>
+                                <a href="/news/2026/04/10/filmek-es-sorozatok-ray-gunn-brad-bird-animacios-mese-netflix-marlasinger-">
+                                    <h2>
+
+                                                                                <img src="/images/623b133ca9b84_623b133ca9b42-film-es-sorozat.png" class="article-game-icon">                                        Egy animációs mese lehet a Netflix egyik legizgalmasabb sci-fije
+
+
+                                        <!--- labels  --->
+                                        <div class="nothumb-raction-holder">
+                                                                                                                                        <span class="raction-small like"></span>
+                                            
+                                            
+                                            
+                                            
+                                            
+                                                                                    </div>
+
+                                    </h2>
+                                </a>
+                            </div>
+                        </header>
+                        <p>A hihetetlen csal&aacute;d &eacute;s a L'Ecs&oacute; atyja egy eg&eacute;szen hangulatosnak &iacute;g&eacute;rkező neo-noirt fog sz&aacute;ll&iacute;tani a Netflixre.&nbsp;</p>
+                    </article>
+
+                
+                                
+                    <article class="article-no-thumb">
+                        <header>
+                            <div class="title-holder">
+                                <div class="divider" style="background-color: #303030;"></div>
+                                <a href="/news/2026/04/10/lyrical-games-one-more-level-valor-mortis-trailer-gameplay-ghostrunner-triple-i-initiative-fps-soulslike-napoleon-dark-fantasy-pc-xbox-playstation-szlav">
+                                    <h2>
+
+                                                                                <img src="/images/5c90c364b95c3_5c90c364b957f-konzol-esport.png" class="article-game-icon">                                        Biztos halál vár ránk a Valor Mortis Napóleon kori őrületében
+
+
+                                        <!--- labels  --->
+                                        <div class="nothumb-raction-holder">
+                                                                                                                                        <span class="raction-small like"></span>
+                                            
+                                            
+                                            
+                                            
+                                            
+                                                                                    </div>
+
+                                    </h2>
+                                </a>
+                            </div>
+                        </header>
+                        <p>Nap&oacute;leon hadj&aacute;rataiban milli&oacute;k estek el, de a Valor Mortis főhőse m&eacute;g a v&eacute;r&aacute;ztatta t&ouml;megs&iacute;rokban sem lelhet v&eacute;gső nyugalomra.</p>
+                    </article>
+
+                
+                    </div>
+
+
+</div>
+    </div>
+ 
+</div>
+        <div class="col-md-12" style="margin-bottom:25px;">
+            <a href="/news/"><button>További Hírek</button></a>
+        </div>
+
+
+
+    </div>
+
+
+
+    <div class="main-col-right slotSingleColumn1">
+
+        <div class="fixed-index-right row slotSingleColumn2">
+            <article class="article-list-item">
+                    <header>
+                    <a href="/news/2026/04/10/gaming-a-kalozok-visszavagtak-sikeresen-feltortek-a-resident-evil-requiemet-tzeus">     
+                        <div class="article-image-holder">       
+                                    
+                            <img loading="lazy" src="/images/69d8cb32ec6ba_69d8cb32ec669-a-kalozok-visszavagtak-sikeresen-feltortek-a-resident-evil-requiemet.jpg" alt="Gaming - A kalózok visszavágtak, sikeresen feltörték a Resident Evil Requiemet" class="list-image"/>
+                            <div class="intro-raction-holder">
+                            
+                                                                                                                                                
+                                <!--- labels  --->                        
+                                
+             
+                                       
+                                                                            <span class="raction-small like"></span>        
+                                    
+                                                            
+                                                            
+                                                            
+                                    
+                                                                     
+                              
+                     
+                            </div>
+                      
+                        </div>
+                        </a>
+
+
+                        <div class="title-holder">
+                            <a href="/news/2026/04/10/gaming-a-kalozok-visszavagtak-sikeresen-feltortek-a-resident-evil-requiemet-tzeus">
+                                <h2>A kalózok visszavágtak, sikeresen feltörték a Resident Evil Requiemet</h2> 
+                            </a>
+
+                        </div>
+
+                    </header>
+                    <p>M&iacute;g Leon a k&eacute;pernyőn menti a vil&aacute;got, a Denuvo-t &eacute;pp most r&aacute;gta meg egy digit&aacute;lis zombi. A Resident Evil Requiem utols&oacute; v&eacute;dvonala is &ouml;sszeomlott, &eacute;s &uacute;gy tűnik a kal&oacute;zok ellen m&eacute;g a legmodernebb gy&oacute;gym&oacute;d sem hat&aacute;sos!</p>
+                </article>
+
+    <section>
+        <div class="cls-right-1 slotHalfpage"></div>
+    </section>
+    
+ 
+    
+        
+
+<article class="article-list-item">
+                    <header>
+                    <a href="/news/2026/04/10/cpuid-hwmonitor-cpuz-malware-virus-hacker-tamadas-letoltes-supply-chain-attack-antivirus-vedelem-pc-szlav">     
+                        <div class="article-image-holder">       
+                                    
+                            <img loading="lazy" src="/images/69d8b79ce4f9a_69d8b79ce4f56-durva-virusokat-tolthettek-le-a-hwmonitor-es-a-cpu-z-felhasznaloi.jpg" alt="Gaming - Durva vírusokat tölthettek le a HWMonitor és a CPU-Z felhasználói" class="list-image"/>
+                            <div class="intro-raction-holder">
+                            
+                                                                                                                                                
+                                <!--- labels  --->                        
+                                
+             
+                                       
+                                                                            <span class="raction-small like"></span>        
+                                    
+                                                            
+                                                            
+                                                            
+                                    
+                                                                     
+                              
+                     
+                            </div>
+                      
+                        </div>
+                        </a>
+
+
+                        <div class="title-holder">
+                            <a href="/news/2026/04/10/cpuid-hwmonitor-cpuz-malware-virus-hacker-tamadas-letoltes-supply-chain-attack-antivirus-vedelem-pc-szlav">
+                                <h2>Durva vírusokat tölthettek le a HWMonitor és a CPU-Z felhasználói</h2> 
+                            </a>
+
+                        </div>
+
+                    </header>
+                    <p>A milli&oacute;k &aacute;ltal haszn&aacute;lt, nagyon is hasznos hardvermonitoroz&oacute; szoftverek ker&uuml;ltek a hackerek c&eacute;lkeresztj&eacute;be, az &aacute;ldozat pedig term&eacute;szetesen most is az &aacute;tlagos felhaszn&aacute;l&oacute;.</p>
+                </article>
+
+
+
+<article class="article-list-item">
+                    <header>
+                    <a href="/news/2026/04/09/gaming-ingyenes-pokemon-lazban-eg-a-no-mans-sky-univerzuma-tzeus">     
+                        <div class="article-image-holder">       
+                                    
+                            <img loading="lazy" src="/images/69d7b6b35af4f_69d7b6b35af04-ingyenes-pokemon-lazban-eg-a-no-mans-sky-univerzuma.jpg" alt="Gaming - Ingyenes Pokémon-lázban ég a No Man’s Sky univerzuma" class="list-image"/>
+                            <div class="intro-raction-holder">
+                            
+                                                                                                                                                
+                                <!--- labels  --->                        
+                                
+             
+                                       
+                                                                            <span class="raction-small like"></span>        
+                                    
+                                                            
+                                                            
+                                                            
+                                    
+                                                                     
+                              
+                     
+                            </div>
+                      
+                        </div>
+                        </a>
+
+
+                        <div class="title-holder">
+                            <a href="/news/2026/04/09/gaming-ingyenes-pokemon-lazban-eg-a-no-mans-sky-univerzuma-tzeus">
+                                <h2>Ingyenes Pokémon-lázban ég a No Man’s Sky univerzuma</h2> 
+                            </a>
+
+                        </div>
+
+                    </header>
+                    <p>A No Man&rsquo;s Sky mostant&oacute;l nem csak egy űrszimul&aacute;tor, hanem egy intergalaktikus Pok&eacute;mon-ar&eacute;na is, ahol a genetikailag m&oacute;dos&iacute;tott űrcic&aacute;k d&ouml;ntik el, ki a galaxis ura.</p>
+                </article>
+
+
+
+        </div>
+
+
+
+        
+
+        
+
+        
+        <!--- 2020.12.01 --->
+        
+        <h2>PCGURU Hírek</h2>
+        <div id="pcguru-feed"></div>
+
+        
+        
+
+
+        
+
+        
+
+
+        
+
+
+        <div class="e1tv-block-holder">
+            <h2>Közvetítések</h2>
+            <div class="match-calendar-holder">                                        
+               
+        
+</div>        </div>
+
+        <!-- Gamestar Tabola -->
+                    <span id="gamestar-logo"></span>
+
+            <div class="tabola-holder" style="grid-template-columns:1fr;">
+                                        <article>
+                            <header>
+                                <a href="https://www.pcwplus.hu/pcwlite/egy-zuckerberget-gunyolo-polo-ami-tobbet-hozott-a-blueskynak-mint-ket-ev-uzleti-tevekenysege-364137.html" class="article-image-list-holder" target="_blank">
+                                    <div class="w100 article-image-list" style="background-image: url('https://i.cdn29.hu/apix_collect_c/ngg_images/2503/21/jay_graber_125322_2_original_390x220_cover.jpg'); aspect-ratio: 16 / 9; background-size:cover;">
+                                    </div>
+                                </a>
+                                <div class="">
+                                    <a href="https://www.pcwplus.hu/pcwlite/egy-zuckerberget-gunyolo-polo-ami-tobbet-hozott-a-blueskynak-mint-ket-ev-uzleti-tevekenysege-364137.html" target="_blank">
+                                        <h3>Egy Zuckerberget gúnyoló póló, ami többet hozott a Blueskynak, mint két év üzleti tevékenysége</h3>
+                                    </a>
+                                </div>
+                            </header>
+                        </article>
+                                                            <article>
+                            <header>
+                                <a href="https://www.gsplus.hu/masvilag/jason-momoa-szerint-lobo-megjelenese-a-supergirlfilmben-hu-lesz-a-kepregenyekhez-364152.html" class="article-image-list-holder" target="_blank">
+                                    <div class="w100 article-image-list" style="background-image: url('https://i.cdn29.hu/apix_collect_c/ngg_images/2503/21/lobo_195317_1_original_390x220_cover.jpg'); aspect-ratio: 16 / 9; background-size:cover;">
+                                    </div>
+                                </a>
+                                <div class="">
+                                    <a href="https://www.gsplus.hu/masvilag/jason-momoa-szerint-lobo-megjelenese-a-supergirlfilmben-hu-lesz-a-kepregenyekhez-364152.html" target="_blank">
+                                        <h3>Jason Momoa szerint Lobo megjelenése a Supergirl-filmben hű lesz a képregényekhez</h3>
+                                    </a>
+                                </div>
+                            </header>
+                        </article>
+                                                            <article>
+                            <header>
+                                <a href="https://www.gsplus.hu/hir/hatalmas-botrany-lett-az-ark-survival-evolved-bovitmenyenek-ai-elozetesebol-364151.html" class="article-image-list-holder" target="_blank">
+                                    <div class="w100 article-image-list" style="background-image: url('https://i.cdn29.hu/apix_collect_c/ngg_images/2503/21/ark_aquatica_193720_1_original_390x220_cover.jpg'); aspect-ratio: 16 / 9; background-size:cover;">
+                                    </div>
+                                </a>
+                                <div class="">
+                                    <a href="https://www.gsplus.hu/hir/hatalmas-botrany-lett-az-ark-survival-evolved-bovitmenyenek-ai-elozetesebol-364151.html" target="_blank">
+                                        <h3>Hatalmas botrány lett az Ark: Survival Evolved bővítményének AI előzeteséből</h3>
+                                    </a>
+                                </div>
+                            </header>
+                        </article>
+                                                </div>
+        
+
+
+
+
+
+        <!-- content end -->
+    </div>
+</div>
+
+
+            </div>
+            <!-- </div> -->
+
+            <div class="footer">
+
+            <div class="row">
+            <div class="col-md-12">
+                <div class="footer-copyrights">Minden jog fenntartva <a href="https://corporate.esport1.hu/"  target="_blank" style="font-weight: bold; color: #BF1B2C;">Esport1 Kft.</a></div>
+             
+             
+                <div class="footer-links" style="margin-left: auto;">
+                    <!-- <a id="open-adatvedelem" style="cursor:pointer;">Adatvédelem</a> -->
+                    <a href="/content/impresszum">Impresszum</a>
+                    <a href="/content/szerzoi-jogok">Szerzői jogok</a>
+                    <a href="/content/adatkezeles">Adatkezelés</a>
+                    <a class="change-consent" onclick="window.__tcfapi('displayConsentUi', 2, function() {} );">Adatvédelmi
+                        beállítások</a>
+		    <a href="javascript:window.__tcfapi('displayConsentUi', 2, function() {} );">Sütibeállítások</a>
+
+                    <a href="/content/felhasznalasi-feltetelek">Felhasználási Feltételek</a>
+                    
+                   
+                </div>
+                </div>
+
+                <div class="col-md-12 text-right">
+                    <img src="/assets/desktop/img/adaptive_white.png" style="margin-top: 20px;">
+                </div>
+            </div>
+
+
+            </div>
+
+        </div>
+
+
+
+
+
+
+
+        <!-- Footer Nav -->
+
+        <footer class="footer-nav">
+            <div class="item">
+                <div class="icon-holder">
+                    <div class="menu-bar">
+                        <button class="openX">
+                            <span class="icon-bar"></span>
+                            <span class="icon-bar"></span>
+                            <span class="icon-bar"></span>
+                        </button>
+                    </div>
+
+                </div>
+                <b>Menü</b>
+            </div>
+
+            <div class="item">
+                <a href="https://www.youtube.com/channel/UC63OM61f7lc2tUtYHleNAnA" target="_blank">
+                <div class="icon-holder">
+                <svg width="25" height="21" viewBox="0 0 25 21" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
+                        <path d="M23.8,4.8C23.5,3.8 22.7,3 21.7,2.7C19.9,2.2 12.5,2.2 12.5,2.2C12.5,2.2 5.1,2.2 3.3,2.7C2.3,3 1.5,3.8 1.2,4.8C0.7,6.6 0.7,10.5 0.7,10.5C0.7,10.5 0.7,14.3 1.2,16.2C1.5,17.2 2.3,18 3.3,18.3C5.1,18.8 12.5,18.8 12.5,18.8C12.5,18.8 19.9,18.8 21.7,18.3C22.7,18 23.5,17.2 23.8,16.2C24.3,14.4 24.3,10.5 24.3,10.5C24.3,10.5 24.3,6.7 23.8,4.8ZM10.2,14L10.2,7L16.3,10.5L10.2,14Z" style="fill:rgb(225,225,225);fill-rule:nonzero;"></path>
+                </svg>
+
+                </div>
+                <b>Videó</b>
+                </a>
+            </div>
+
+            <div class="item">
+                
+            <a href="/e1tv">
+                <div class="icon-holder"> 
+
+                                    <svg width="25" height="21" viewBox="0 0 25 21" fill="none" xmlns="http://www.w3.org/2000/svg">
+                        <path d="M23.125 0.5H1.875C0.820312 0.5 0 1.35938 0 2.375V14.875C0 15.9297 0.820312 16.75 1.875 16.75H11.25V18H4.375C4.02344 18 3.75 18.3125 3.75 18.625V19.875C3.75 20.2266 4.02344 20.5 4.375 20.5H20.625C20.9375 20.5 21.25 20.2266 21.25 19.875V18.625C21.25 18.3125 20.9375 18 20.625 18H13.75V16.75H23.125C24.1406 16.75 25 15.9297 25 14.875V2.375C25 1.35938 24.1406 0.5 23.125 0.5ZM22.5 14.25H2.5V3H22.5V14.25Z" fill="#E1E1E1" />
+                    </svg>
+                                    </div>
+                <b>E1TV</b>
+                </a>
+            </div>
+     
+
+
+                            <div class="item">
+                    <a href="/user/login">
+                        <div class="icon-holder avatar-holder">
+                            <img src="/images/e1_avatar.jpg">
+                        </div>
+                        <b>Belépés</b>
+                    </a>
+                </div>
+            
+
+
+    </div>
+    </footer>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    <div class="overlay-menu-new">
+        <div class="content row">
+        
+            <div class="h-menu-holder col-md-4">
+            <h2>Menü</h2>
+                <div class="h-menu-row">
+
+                    <a href="https://www.pcguru.hu/" target="_blank">
+                        <div class="h-menu-item">
+                            <img src="/assets/desktop/img/menu/e1_webicons_PCG-01.svg" alt="PCGURU">
+                            <b>PC Guru</b>  
+                        </div>
+                    </a>
+     
+                    <a href="/e1tv">
+                        <div class="h-menu-item">
+                            <img src="/assets/desktop/img/menu/e1_webicons_ETV-02.svg" alt="E1TV">
+                            <b>Esport1TV</b>  
+                        </div>
+                    </a>
+                    
+                    <a href="https://www.playitstore.hu/" target="_blank">
+                        <div class="h-menu-item">
+                            <img src="/assets/desktop/img/menu/e1_webicons_playit-23-23.svg" alt="PlayIT Store">
+                            <b>PlayIT Store</b>  
+                        </div>
+                    </a>
+
+                    <a href="/market">
+                        <div class="h-menu-item">
+                            <img src="/assets/desktop/img/menu/e1_webicons_PIAC-04.svg" alt="Piac">
+                            <b>Piac</b>  
+                        </div>
+                    </a>
+
+
+                </div>
+                <h2>ROVATOK</h2>
+                <div class="h-menu-row">
+
+                    <a href="/news/Gaming">
+                        <div class="h-menu-item">
+                            <img src="/assets/desktop/img/menu/e1_webicons_GAMING-05.svg" alt="Gaming">
+                            <b>Gaming</b>  
+                        </div>
+                    </a>
+     
+                    <a href="/news/tech">
+                        <div class="h-menu-item">
+                            <img src="/assets/desktop/img/menu/e1_webicons_TECH.svg" alt="">
+                            <b>Tech</b>  
+                        </div>
+                    </a>
+                    
+                    <a href="/news/movies">
+                        <div class="h-menu-item">
+                            <img src="/assets/desktop/img/menu/e1_webicons_FILM-07.svg" alt="">
+                            <b>Film-sorozat</b>  
+                        </div>
+                    </a>
+
+                    <a href="/news/ai">
+                        <div class="h-menu-item">
+                            <img src="/assets/desktop/img/menu/e1_webicons_AI-22.svg" alt="">
+                            <b>AI</b>  
+                        </div>
+                    </a>
+                </div>
+                
+                <div class="h-menu-row">
+
+                    <a href="/news/LeagueofLegends">
+                        <div class="h-menu-item">
+                            <img src="/assets/desktop/img/menu/e1_webicons_LOL-09.svg" alt="">
+                            <b>LoL</b>  
+                        </div>
+                    </a>
+     
+                    <a href="/news/cs2">
+                        <div class="h-menu-item">
+                            <img src="/assets/desktop/img/menu/e1_webicons_CSGO-10.svg" alt="">
+                            <b>CS2</b>  
+                        </div>
+                    </a>
+                    
+                    <a href="/news/gta-6">
+                        <div class="h-menu-item">
+                            <img src="/assets/desktop/img/menu/e1_webicons_GTA6-21.svg" alt="">
+                            <b>GTA 6</b>  
+                        </div>
+                    </a>
+
+                    <a href="/news/bulvar">
+                        <div class="h-menu-item">
+                            <img src="/assets/desktop/img/menu/e1_webicons_BULVAR.svg" alt="">
+                            <b>Szórakozás</b>  
+                        </div>
+                    </a>
+                </div>
+                </div>
+                <div class="h-menu-holder col-md-4">
+                     <h2>Versenyek</h2>
+                    <div class="h-menu-row">
+
+                        <a href="/news/mneb">
+                            <div class="h-menu-item">
+                                <img src="/assets/desktop/img/menu/e1_webicons_MNEB-13.svg" alt="">
+                                <b>K&H MNEB</b>  
+                            </div>
+                        </a>
+        
+                        <a href="/news/tippmixprocsgo">
+                            <div class="h-menu-item">
+                                <img src="/assets/desktop/img/menu/e1_webicons_TMPCS2-14.svg" alt="">
+                                <b>TMP CS2</b>  
+                            </div>
+                        </a>
+                        
+                        <a href="/news/iesfvb">
+                            <div class="h-menu-item">
+                                <img src="/assets/desktop/img/menu/e1_webicons_MEV-15.svg" alt="">
+                                <b>MEV</b>  
+                            </div>
+                        </a>
+
+                        <a href="/news/ogex">
+                            <div class="h-menu-item">
+                                <img src="/assets/desktop/img/menu/e1_webicons_OGEX-16.svg" alt="">
+                                <b>OGEX</b>  
+                            </div>
+                        </a>
+                    </div>
+
+                     <h2>Kövess minket!</h2>
+                    <div class="h-menu-row">
+
+                        <a href="https://www.facebook.com/esport1.gg" target="_blank">
+                            <div class="h-menu-item">
+                                <img src="/assets/desktop/img/menu/e1_webicons_SOCIAL_FB-17.svg" alt="">
+                                <b>Facebook</b>  
+                            </div>
+                        </a>
+        
+                        <a href="https://www.tiktok.com/@esport1.hu" target="_blank">
+                            <div class="h-menu-item">
+                                <img src="/assets/desktop/img/menu/e1_webicons_SOCIAL_TIKTOK-18.svg" alt="">
+                                <b>Tiktok</b>  
+                            </div>
+                        </a>
+                        
+                        <a href="https://www.youtube.com/channel/UC63OM61f7lc2tUtYHleNAnA">
+                            <div class="h-menu-item">
+                                <img src="/assets/desktop/img/menu/e1_webicons_SOCIAL_YT-19.svg" alt="">
+                                <b>Youtube</b>  
+                            </div>
+                        </a>
+
+                        <a href="https://discord.gg/mjszHPE">
+                            <div class="h-menu-item">
+                                <img src="/assets/desktop/img/menu/e1_webicons_SOCIAL_DISCORD-20.svg" alt="">
+                                <b>Discord</b>  
+                            </div>
+                        </a>
+
+                        
+                    </div>
+                    <div>
+                    <h2><i class="fa fa-search search-btn"></i> Kereső</h2>
+                            <div class="search-holder">
+                                <input type="text" placeholder="keresés..." class="search" autocomplete="off" id="search">
+                                <button class="search-btn">Keresés</button>
+                            </div>
+                </div>
+            </div>
+            
+         
+
+            
+   
+
+      
+
+    
+
+        </div>
+    </div>
+
+
+
+
+    <!-- recommend flyin -->
+    <div id="article-recommend-popup">
+        <div id="article-recommend-popup-content"> </div>
+    </div>
+
+    
+
+
+
+
+    <input type="hidden" id="token" value="334b27eb076ac6cbba38c53b50e5d727aa290032">
+    <!-- Google remarketingcímke-kód -->
+    <!--
+A remarketingcímkék nem társíthatók személyazonosításra alkalmas adatokkal, és nem helyezhetők el érzékeny kategóriához kapcsolódó oldalakon. A címke beállításával kapcsolatban további információt és útmutatást a következő címen olvashat: http://google.com/ads/remarketingsetup
+-->
+    <script type="text/javascript">
+        /* <![CDATA[ */
+        var google_conversion_id = 873479335;
+        var google_custom_params = window.google_tag_params;
+        var google_remarketing_only = true;
+        /* ]]> */
+    </script>
+    <script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js">
+    </script>
+    <noscript>
+        <div style="display:inline;">
+            <img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/873479335/?value=0&amp;guid=ON&amp;script=0" />
+        </div>
+    </noscript>
+    <script>
+                    var text_please_login_reaction = "Ezen funkció eléréséhez be kell jelentkezned!";
+                    var text_comment_report = "Biztosan jelenteni akarod a felhasználót ?";
+                    var text_comment_user_report = "Biztosan jelenteni akarod a felhasználót ?";
+                    var text_thanks_for_reporting = "Köszönjük! Az adminok hamarosan megvizsgálják a jelentést!";
+                    var text_notice_twitch_login = "Úgy tűnik nem vagy a Twitch nézők között! Be vagy jelentkezve a Twitch-en ? Bejelentkezés után frissíts rá az oldalra! (Amennyiben már bejelentkeztél, várd meg, amíg a rendszerünk szinkronizál!) Köszönjük a türelmet!";
+                    var text_apply_mission_login = "A nyereményjátékon való részvételhez jelentkezz be!";
+                    var text_apply_mission_no_default = "Először a belépő küldetést kell teljesítened! Erre a küldetésre ezután tudsz jelentkezni!";
+                    var text_apply_mission_already_exist = "Már jelentkeztél erre a küldetésre!";
+                    var text_apply_mission_unknown_error = "Ismeretlen hiba! Próbáld meg később!";
+                    var text_apply_mission_success = "Sikeresen felvetted a küldetést, amit megtalálsz a profil oldaladon. Nemsokára átirányítunk!";
+                    var text_delete_profile = "Törlés esetén, elveszted a pontjaid és a jelentkezésed a folyamatban levő nyereményjátékokban. A művelet nem visszavonható! Biztosan törölni akarod a felhasználó fiókodat?";
+                    var text_profile_avatar_wrong_picture = "Nem támogatott formátum! Csak JPG lehet!";
+                    var text_apply_mission_no_answer = "Jelöld ki a választ!";
+                    var text_apply_mission_no_answer_notfound = "Error!";
+                    var text_apply_mission_no_agree = "A játékszabályzatot el kell fogadnod!";
+                    var text_delete_comment = "Biztos törölni akarod a kommentedet ?";
+                    var text_report_user = "Biztosan jelenteni akarod névtelenül ?";
+                    var text_profile_avatar_wrong_size = "A képnek 2 Megabyte-nál kisebbnek kell lennie!";
+                    var text_no_accepted = "Az adatvédelmi szabályzatot el kell fogadnod!";
+                    var missionexperied = "A küldetésre való jelentkezési határidő lejárt!";
+                    var text_banned_comment = "Szabályok megsértése miatt, felfüggesztettük a kommentelési lehetőségedet {{DATE}}-ig!";
+                    var text_apply_prize_code = "Kérlek add meg a nyereményjáték szelvény kódodat!";
+                    var text_apply_prize_code_notfound = "Nyereményjáték szelvény kódod érvénytelen!";
+                    var text_apply_prize_code_used = "A nyereményjáték szelvény kódod már fel lett használva!";
+                    var text_apply_prize_success = "Sikeres jelentkezés!";
+                    var text_shop_login = "A pontbeváltáshoz be kell lépned!";
+                    var text_vote_login = "A szavazáshoz be kell jelentkezned!";
+            </script>
+
+    <script type="text/javascript" src="/assets/desktop/js/all.js?v3.0066"></script>            <script>
+            var hasIdentity = false;
+        </script>
+        
+
+
+
+
+</body>
+
+</html>
+<!-- Execution time : 0.1800549030304 seconds -->
