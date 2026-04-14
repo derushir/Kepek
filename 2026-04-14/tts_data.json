@@ -1,0 +1,12 @@
+[
+  {
+    "title": "Rövid hírek",
+    "subtitle": "Tegnapról és ma reggelről",
+    "url": "https://raw.githubusercontent.com/Derushir/Kepek/main/2026-04-14/tts_hirek.mp3"
+  },
+  {
+    "title": "Időjárás és piaci hírek",
+    "subtitle": "Ma reggeli összefoglaló",
+    "url": "https://raw.githubusercontent.com/Derushir/Kepek/main/2026-04-14/tts_idojaras.mp3"
+  }
+]
