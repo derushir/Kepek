@@ -1,0 +1,1570 @@
+<!DOCTYPE html>
+<html lang="hu"
+      xmlns:og="http://ogp.me/ns#"
+      xmlns:fb="http://www.facebook.com/2008/fbml">
+    <head prefix="og: http://ogp.me/ns#">
+    <script type="text/javascript">
+        const addEListener = window.addEventListener;
+        const sTimeout = window.setTimeout;
+        const DCL = 'DOMContentLoaded';
+    </script>
+
+        <link rel="manifest" href="/OneSignal/manifest.json">
+    <meta charset="UTF-8">
+            <meta name="viewport" content="width=device-width, initial-scale=1">
+                
+    <meta http-equiv="X-UA-Compatible" content="IE=11">
+    <meta name="google-site-verification" content="tMfB8j6tfvQ-e9NkrLE3W95kDTpTnHtdhEi_19trTWY" />
+    <meta name="apple-itunes-app" content="app-id=541579449">
+    <meta name="google-play-app" content="app-id=com.portdata.tv">
+    <meta name="facebook-domain-verification" content="j50i7kw74b6srl5qzhabtc8g6le2rw" />
+    <meta property="og:site_name" content="PORT.hu" />
+    <meta property="og:title" content="Itt a kritika, amely traumatizálta Quentin Tarantinót, a karrierje mélypontjaként élte meg " />
+    <meta name="robots" content="index, follow, noai, noimageai">
+
+            <meta property="og:url" content="http://port.hu/cikk/mozi/itt-a-kritika-amely-traumatizalta-quentin-tarantinot-a-karrierje-melypontjakent-elte-meg/article-125132">
+    
+    <meta name="referrer" content="no-referrer-when-downgrade">
+    <meta name="msapplication-square70x70logo" content="/favicons24/windows-tile-70x70.png">
+<meta name="msapplication-square150x150logo" content="/favicons24/windows-tile-150x150.png">
+<meta name="msapplication-square310x310logo" content="/favicons24/windows-tile-310x310.png">
+<meta name="msapplication-TileImage" content="/favicons24/windows-tile-144x144.png">
+<meta name="msapplication-TileColor" content="#EF3B39">
+<link rel="apple-touch-icon-precomposed" sizes="152x152" href="/favicons24/apple-touch-icon-152x152-precomposed.png">
+<link rel="apple-touch-icon-precomposed" sizes="120x120" href="/favicons24/apple-touch-icon-120x120-precomposed.png">
+<link rel="apple-touch-icon-precomposed" sizes="76x76" href="/favicons24/apple-touch-icon-76x76-precomposed.png">
+<link rel="apple-touch-icon-precomposed" sizes="60x60" href="/favicons24/apple-touch-icon-60x60-precomposed.png">
+<link rel="apple-touch-icon-precomposed" sizes="144x144" href="/favicons24/apple-touch-icon-144x144-precomposed.png">
+<link rel="apple-touch-icon-precomposed" sizes="114x114" href="/favicons24/apple-touch-icon-114x114-precomposed.png">
+<link rel="apple-touch-icon-precomposed" sizes="72x72" href="/favicons24/apple-touch-icon-72x72-precomposed.png">
+<link rel="apple-touch-icon" sizes="57x57" href="/favicons24/apple-touch-icon.png">
+<link rel="icon" sizes="228x228" href="/favicons24/coast-icon-228x228.png">
+<link rel="shortcut icon" href="/favicons24/favicon.ico">
+<link rel="icon" type="image/png" sizes="64x64" href="/favicons24/favicon.png">
+    <meta name="csrf-param" content="_csrf">
+<meta name="csrf-token" content="7IHyuwBPpUQRep7XBJIIVV4HwdhK06jvLdjCAjZhuuq6-7_CZwTmN0cf97hP9koYBlGlrn-VmYFbsaZsfFHAuw==">
+    <title>Itt a kritika, amely traumatizálta Quentin Tarantinót, a karrierje mélypontjaként élte meg </title>
+
+    <meta property="og:title" content="Itt a kritika, amely traumatizálta Quentin Tarantinót, a karrierje mélypontjaként élte meg ">
+<meta property="og:type" content="article">
+<meta property="og:url" content="http://port.hu/cikk/mozi/itt-a-kritika-amely-traumatizalta-quentin-tarantinot-a-karrierje-melypontjakent-elte-meg/article-125132">
+<meta property="og:description" content="A népszerű rendező előszeretettel alkot negatív véleményt másokról, de azt már nehezen viseli, ha vele is ugyanez történik. ">
+<meta property="og:site_name" content="PORT.hu">
+<meta name="article:published_time" content="2026-04-14T07:00:00+0200">
+<meta name="article:modified_time" content="2026-04-13T15:36:46+0200">
+<meta name="article:section" content="mozi">
+<meta property="og:image" content="https://media.port.hu/images/001/808/076.webp">
+<meta property="og:image:secure_url" content="https://media.port.hu/images/001/808/076.webp">
+<meta property="og:image:width" content="2000">
+<meta property="og:image:height" content="1125">
+<meta name="keywords" content="quentin tarantino, kritika, film, mozi">
+<meta name="description" content="A népszerű rendező előszeretettel alkot negatív véleményt másokról, de azt már nehezen viseli, ha vele is ugyanez történik. ">
+<link href="https://media.port.hu/assets/prod/5e578a0bdb9cbf1e78c77a7b63b806ec/css/bootstrap.min.css?v=1775745431" rel="stylesheet">
+<link href="/css/global.css?v=1775745226" rel="stylesheet">
+<link href="/css/layout.css?v=1775745224" rel="stylesheet">
+<link href="https://media.port.hu/assets/prod/951429a37388ba1a5c344d26eb934b54/dist/assets/owl.carousel.min.css?v=1775745431" rel="stylesheet">
+<link href="/css/interstitial.css?v=1775745223" rel="stylesheet">
+<link href="/css/carousel.css?v=1775745219" rel="stylesheet">
+<link href="/css/widgets/ticket.css?v=1775745232" rel="stylesheet">
+<link href="/css/widgets/premiers.css?v=1775745232" rel="stylesheet">
+<link href="/css/article.css?v=1775745220" rel="stylesheet">
+<link href="/css/widgets/related-content.css?v=1775745232" rel="stylesheet">
+<link href="/css/az-en-kutyam-box.css?v=1775745219" rel="stylesheet">
+<link href="https://media.port.hu/assets/prod/d7a8e131a891c53e0f75e9b056deaa5d/css/typeahead.min.css?v=1775745431" rel="stylesheet">
+<link href="https://media.port.hu/assets/prod/d7a8e131a891c53e0f75e9b056deaa5d/css/typeahead-kv.min.css?v=1775745431" rel="stylesheet">
+<link href="https://media.port.hu/assets/prod/cbbdad1271cc63e8280dd6672d9f1059/css/kv-widgets.min.css?v=1775745431" rel="stylesheet">
+<link href="/css/passport-login.css?v=1775745227" rel="stylesheet">
+<script>
+    var portPage = {
+        section : "mozi",
+        type : "cikk",
+        tid: "pt2",
+        canSubscribeOlimpiaNoti: false
+    };
+    
+__passportHeader_config={"INDAPASS_URL":"https:\/\/indapass.hu\/","HEADER_URL":"https:\/\/indapass.hu\/jsfejlec2\/","LOGIN_URL":"https:\/\/daemon.indapass.hu\/http\/login","NOTI_URL":"https:\/\/noti.inda.hu\/","IDENT_URL":"https:\/\/management.ident.indapass.hu\/","partner_id":"port","loggedIn":false,"nick":false,"avatar":false,"hint":"https:\/\/indapass.hu\/static\/logo.php?h=zczxrpQTrP8iWkbazVRHgM1UPZyA3LF9Fd%2BL7ZWN7zmCfpM%2BmPT5LEfktA3QazAf&type=spacer","hasFacebook":false,"providerExpired":false,"irresponsive":false,"miniHeader":true,"cookiePolicy":{"enabled":false,"text":"Friss <a id=\"_iph_cp_privacy\" href=\"\/adatvedelem\" target=\"_blank\">adatkezel\u00e9si  t\u00e1j\u00e9koztat\u00f3nkban<\/a> megtal\u00e1lod, hogyan gondoskodunk adataid  v\u00e9delm\u00e9r\u0151l. Oldalainkon HTTP-s\u00fctiket haszn\u00e1lunk a jobb m\u0171k\u00f6d\u00e9s\u00e9rt."},"links":{"loggedIn":[]},"disableNoti":true};
+window.typeahead_7864e59a = {"highlight":true};
+</script><link href="/img/prtre.css?v=1731927334" rel="stylesheet">
+    <!-- Google Tag Manager -->
+    <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+    new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+    j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+    'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+    })(window,document,'script','dataLayer','GTM-MNRSXGM');</script>
+    <!-- End Google Tag Manager -->
+         <!-- google ad exchange -->
+     <script async src="https://securepubads.g.doubleclick.net/tag/js/gpt.js"></script>
+    <script>
+    var googletag = googletag || {};
+    googletag.cmd = googletag.cmd || [];
+    </script>
+
+    <!-- mobile sticky hirdetes -->
+    
+    
+
+    <!-- end of google ad exchange -->
+        <!-- smart lazy -->
+    <script type="text/javascript" src="//lib.wtg-ads.com/publisher/port.hu/add257a12dd60063ee4a.js" async></script>
+    <!-- server: ptfr3 -->
+    <script>
+    //user adatok átadása javascriptbe
+    var userIsGuest = true;var userId = false;    </script>
+
+        <script type="text/javascript">
+        var customTarget = '&';
+        __passportIdentConfig = {
+            // Ident elérhetősége
+            IDENT_URL: "//management.ident.indapass.hu/",
+            // Ident tag
+            tid: 'pt2'
+        };
+    </script>
+    <meta name="logcustomtarget" content="1"/>
+
+  <!-- InMobi Choice. Consent Manager Tag v3.0 (for TCF 2.2) -->
+<script type="text/javascript" async=true>
+(function() {
+  var host = 'port.hu';
+  var element = document.createElement('script');
+  var firstScript = document.getElementsByTagName('script')[0];
+  var url = 'https://cmp.inmobi.com'
+    .concat('/choice/', '4z9XXyvnuPTjK', '/', host, '/choice.js?tag_version=V3');
+  var uspTries = 0;
+  var uspTriesLimit = 3;
+  element.async = true;
+  element.type = 'text/javascript';
+  element.src = url;
+
+  firstScript.parentNode.insertBefore(element, firstScript);
+
+  function makeStub() {
+    var TCF_LOCATOR_NAME = '__tcfapiLocator';
+    var queue = [];
+    var win = window;
+    var cmpFrame;
+
+    function addFrame() {
+      var doc = win.document;
+      var otherCMP = !!(win.frames[TCF_LOCATOR_NAME]);
+
+      if (!otherCMP) {
+        if (doc.body) {
+          var iframe = doc.createElement('iframe');
+
+          iframe.style.cssText = 'display:none';
+          iframe.name = TCF_LOCATOR_NAME;
+          doc.body.appendChild(iframe);
+        } else {
+          setTimeout(addFrame, 5);
+        }
+      }
+      return !otherCMP;
+    }
+
+    function tcfAPIHandler() {
+      var gdprApplies;
+      var args = arguments;
+
+      if (!args.length) {
+        return queue;
+      } else if (args[0] === 'setGdprApplies') {
+        if (
+          args.length > 3 &&
+          args[2] === 2 &&
+          typeof args[3] === 'boolean'
+        ) {
+          gdprApplies = args[3];
+          if (typeof args[2] === 'function') {
+            args[2]('set', true);
+          }
+        }
+      } else if (args[0] === 'ping') {
+        var retr = {
+          gdprApplies: gdprApplies,
+          cmpLoaded: false,
+          cmpStatus: 'stub'
+        };
+
+        if (typeof args[2] === 'function') {
+          args[2](retr);
+        }
+      } else {
+        if(args[0] === 'init' && typeof args[3] === 'object') {
+          args[3] = Object.assign(args[3], { tag_version: 'V3' });
+        }
+        queue.push(args);
+      }
+    }
+
+    function postMessageEventHandler(event) {
+      var msgIsString = typeof event.data === 'string';
+      var json = {};
+
+      try {
+        if (msgIsString) {
+          json = JSON.parse(event.data);
+        } else {
+          json = event.data;
+        }
+      } catch (ignore) {}
+
+      var payload = json.__tcfapiCall;
+
+      if (payload) {
+        window.__tcfapi(
+          payload.command,
+          payload.version,
+          function(retValue, success) {
+            var returnMsg = {
+              __tcfapiReturn: {
+                returnValue: retValue,
+                success: success,
+                callId: payload.callId
+              }
+            };
+            if (msgIsString) {
+              returnMsg = JSON.stringify(returnMsg);
+            }
+            if (event && event.source && event.source.postMessage) {
+              event.source.postMessage(returnMsg, '*');
+            }
+          },
+          payload.parameter
+        );
+      }
+    }
+
+    while (win) {
+      try {
+        if (win.frames[TCF_LOCATOR_NAME]) {
+          cmpFrame = win;
+          break;
+        }
+      } catch (ignore) {}
+
+      if (win === window.top) {
+        break;
+      }
+      win = win.parent;
+    }
+    if (!cmpFrame) {
+      addFrame();
+      win.__tcfapi = tcfAPIHandler;
+      win.addEventListener('message', postMessageEventHandler, false);
+    }
+  };
+
+  makeStub();
+
+  function makeGppStub() {
+    const CMP_ID = 10;
+    const SUPPORTED_APIS = [
+      '2:tcfeuv2',
+      '6:uspv1',
+      '7:usnatv1',
+      '8:usca',
+      '9:usvav1',
+      '10:uscov1',
+      '11:usutv1',
+      '12:usctv1'
+    ];
+
+    window.__gpp_addFrame = function (n) {
+      if (!window.frames[n]) {
+        if (document.body) {
+          var i = document.createElement("iframe");
+          i.style.cssText = "display:none";
+          i.name = n;
+          document.body.appendChild(i);
+        } else {
+          window.setTimeout(window.__gpp_addFrame, 10, n);
+        }
+      }
+    };
+    window.__gpp_stub = function () {
+      var b = arguments;
+      __gpp.queue = __gpp.queue || [];
+      __gpp.events = __gpp.events || [];
+
+      if (!b.length || (b.length == 1 && b[0] == "queue")) {
+        return __gpp.queue;
+      }
+
+      if (b.length == 1 && b[0] == "events") {
+        return __gpp.events;
+      }
+
+      var cmd = b[0];
+      var clb = b.length > 1 ? b[1] : null;
+      var par = b.length > 2 ? b[2] : null;
+      if (cmd === "ping") {
+        clb(
+          {
+            gppVersion: "1.1", // must be “Version.Subversion”, current: “1.1”
+            cmpStatus: "stub", // possible values: stub, loading, loaded, error
+            cmpDisplayStatus: "hidden", // possible values: hidden, visible, disabled
+            signalStatus: "not ready", // possible values: not ready, ready
+            supportedAPIs: SUPPORTED_APIS, // list of supported APIs
+            cmpId: CMP_ID, // IAB assigned CMP ID, may be 0 during stub/loading
+            sectionList: [],
+            applicableSections: [-1],
+            gppString: "",
+            parsedSections: {},
+          },
+          true
+        );
+      } else if (cmd === "addEventListener") {
+        if (!("lastId" in __gpp)) {
+          __gpp.lastId = 0;
+        }
+        __gpp.lastId++;
+        var lnr = __gpp.lastId;
+        __gpp.events.push({
+          id: lnr,
+          callback: clb,
+          parameter: par,
+        });
+        clb(
+          {
+            eventName: "listenerRegistered",
+            listenerId: lnr, // Registered ID of the listener
+            data: true, // positive signal
+            pingData: {
+              gppVersion: "1.1", // must be “Version.Subversion”, current: “1.1”
+              cmpStatus: "stub", // possible values: stub, loading, loaded, error
+              cmpDisplayStatus: "hidden", // possible values: hidden, visible, disabled
+              signalStatus: "not ready", // possible values: not ready, ready
+              supportedAPIs: SUPPORTED_APIS, // list of supported APIs
+              cmpId: CMP_ID, // list of supported APIs
+              sectionList: [],
+              applicableSections: [-1],
+              gppString: "",
+              parsedSections: {},
+            },
+          },
+          true
+        );
+      } else if (cmd === "removeEventListener") {
+        var success = false;
+        for (var i = 0; i < __gpp.events.length; i++) {
+          if (__gpp.events[i].id == par) {
+            __gpp.events.splice(i, 1);
+            success = true;
+            break;
+          }
+        }
+        clb(
+          {
+            eventName: "listenerRemoved",
+            listenerId: par, // Registered ID of the listener
+            data: success, // status info
+            pingData: {
+              gppVersion: "1.1", // must be “Version.Subversion”, current: “1.1”
+              cmpStatus: "stub", // possible values: stub, loading, loaded, error
+              cmpDisplayStatus: "hidden", // possible values: hidden, visible, disabled
+              signalStatus: "not ready", // possible values: not ready, ready
+              supportedAPIs: SUPPORTED_APIS, // list of supported APIs
+              cmpId: CMP_ID, // CMP ID
+              sectionList: [],
+              applicableSections: [-1],
+              gppString: "",
+              parsedSections: {},
+            },
+          },
+          true
+        );
+      } else if (cmd === "hasSection") {
+        clb(false, true);
+      } else if (cmd === "getSection" || cmd === "getField") {
+        clb(null, true);
+      }
+      //queue all other commands
+      else {
+        __gpp.queue.push([].slice.apply(b));
+      }
+    };
+    window.__gpp_msghandler = function (event) {
+      var msgIsString = typeof event.data === "string";
+      try {
+        var json = msgIsString ? JSON.parse(event.data) : event.data;
+      } catch (e) {
+        var json = null;
+      }
+      if (typeof json === "object" && json !== null && "__gppCall" in json) {
+        var i = json.__gppCall;
+        window.__gpp(
+          i.command,
+          function (retValue, success) {
+            var returnMsg = {
+              __gppReturn: {
+                returnValue: retValue,
+                success: success,
+                callId: i.callId,
+              },
+            };
+            event.source.postMessage(msgIsString ? JSON.stringify(returnMsg) : returnMsg, "*");
+          },
+          "parameter" in i ? i.parameter : null,
+          "version" in i ? i.version : "1.1"
+        );
+      }
+    };
+    if (!("__gpp" in window) || typeof window.__gpp !== "function") {
+      window.__gpp = window.__gpp_stub;
+      window.addEventListener("message", window.__gpp_msghandler, false);
+      window.__gpp_addFrame("__gppLocator");
+    }
+  };
+
+  makeGppStub();
+
+  var uspStubFunction = function() {
+    var arg = arguments;
+    if (typeof window.__uspapi !== uspStubFunction) {
+      setTimeout(function() {
+        if (typeof window.__uspapi !== 'undefined') {
+          window.__uspapi.apply(window.__uspapi, arg);
+        }
+      }, 500);
+    }
+  };
+
+  var checkIfUspIsReady = function() {
+    uspTries++;
+    if (window.__uspapi === uspStubFunction && uspTries < uspTriesLimit) {
+      console.warn('USP is not accessible');
+    } else {
+      clearInterval(uspInterval);
+    }
+  };
+
+  if (typeof window.__uspapi === 'undefined') {
+    window.__uspapi = uspStubFunction;
+    var uspInterval = setInterval(checkIfUspIsReady, 6000);
+  }
+})();
+</script>
+<!-- End InMobi Choice. Consent Manager Tag v3.0 (for TCF 2.2) -->
+
+    <!-- Hotjar Tracking Code for https://port.hu/ -->
+    <script>
+        (function(h,o,t,j,a,r){
+            h.hj=h.hj||function(){(h.hj.q=h.hj.q||[]).push(arguments)};
+            h._hjSettings={hjid:2063429,hjsv:6};
+            a=o.getElementsByTagName('head')[0];
+            r=o.createElement('script');r.async=1;
+            r.src=t+h._hjSettings.hjid+j+h._hjSettings.hjsv;
+            a.appendChild(r);
+        })(window,document,'https://static.hotjar.com/c/hotjar-','.js?sv=');
+    </script><script type="text/javascript" src="//indexhu.adocean.pl/files/js/ado.js"></script>
+<script type="text/javascript">
+    window.adocf = {};
+    window.adocf.useDOMContentLoaded = true;
+        var tagStr = document.querySelector('meta[name="keywords"]') ? document.querySelector('meta[name="keywords"]').getAttribute("content").replace(/\s/g, '') : "";
+
+    /* (c)AdOcean 2003-2020 */
+    if(typeof ado!=="object"){ado={};ado.config=ado.preview=ado.placement=ado.master=ado.slave=function(){};ado.blocked=true}
+    ado.config({mode: "new", xml: false, consent: true, characterEncoding: true, attachReferrer: true, fpc: "auto", defaultServer: "indexhu.adocean.pl", cookieDomain: "SLD"});
+    ado.preview({enabled: true});
+
+            /* (c)AdOcean 2003-2020, MASTER: _8dF3KcoPcrPuKpwSA0NdVutcNLDXgNqvejgpL8RfEr.d7 */
+        ado.master({id: "_8dF3KcoPcrPuKpwSA0NdVutcNLDXgNqvejgpL8RfEr.d7", server: "indexhu.adocean.pl", vars: typeof customTarget !== "undefined" ? customTarget : '', keys: tagStr });
+    </script>
+
+<script type="module">
+    window.iap_zones = window.iap_zones || [];
+    document.addEventListener('DOMContentLoaded', async () => {
+    const { Loader } = await (await import("https://iap.cdn.indexvas.hu/Scripts.js")).default;
+    setTimeout(() => {
+    window.ADOLoader = new Loader({
+        "debug": false,
+        "stat": true,
+        "engine": "AdOcean",
+        "master": "_8dF3KcoPcrPuKpwSA0NdVutcNLDXgNqvejgpL8RfEr.d7",
+        "customTarget": typeof customTarget !== "undefined" ? customTarget : '',
+        "keywords": tagStr
+    })
+}, 1000);
+})
+</script>
+</head>
+<body class="device_desktop ">
+    <!-- Google Tag Manager (noscript) -->
+    <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-MNRSXGM"
+    height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+    <!-- End Google Tag Manager (noscript) -->
+
+    <div id="fb-root"></div>
+    <script>(function(d, s, id) {
+    var js, fjs = d.getElementsByTagName(s)[0];
+    if (d.getElementById(id)) return;
+    js = d.createElement(s); js.id = id;
+    js.src = "//connect.facebook.net/hu_HU/sdk.js#xfbml=1&version=v2.8";
+    fjs.parentNode.insertBefore(js, fjs);
+    }(document, 'script', 'facebook-jssdk'));</script>
+
+
+
+<div class="wrap">
+    <header>
+    <div class="circle circle--large"></div>
+    <div class="circle circle--small"></div>
+    <nav class="navigation">
+    <div class="navigation__logo">
+      <a href="/">
+        <img src="/img/2024/icons/icon-logo-30.svg" alt="port-logo" class="navigation__logo--icon" />
+      </a>
+      <span class="navigation__logo--text">A KultPont</span>
+    </div>
+    <div class="navigation__links">
+            <a href="/tv" class="navigation__links--text">TV</a>
+            <a href="/film" class="navigation__links--text active-page">Film</a>
+            <a href="/stream" class="navigation__links--text">Stream</a>
+            <a href="/port-magazin" class="navigation__links--text">Magazin</a>
+            <a href="/koncert-zene" class="navigation__links--text">Zene</a>
+            <a href="/kult" class="navigation__links--text">Kult</a>
+            <a href="/jegy" class="navigation__links--text">Jegy</a>
+            <a href="/radio" class="navigation__links--text">Rádió</a>
+            <a href="/forum" class="navigation__links--text">Fórum</a>
+        </div>
+    <div class="navigation__buttons">
+      <div class="navigation__buttons--button" id="navSbutton">
+        <img src="/img/2024/icons/search.svg" alt="Search">
+      </div>
+      <div class="navigation__buttons--button">
+        <!--<img src="/img/2024/icons/more.svg" alt="More">-->
+		<a href="/tv" title="TV-oldal" id="tvmus"></a>
+      </div>
+            <div class="navigation__buttons--button" id="iPassHolder">
+		<div id="passportHeader"></div>
+        <!--<img src="/img/2024/icons/profile.svg" alt="Profile">-->
+      </div>
+    </div>
+  </nav>
+    <a class="adv-kapu">
+    <section class="polygon">
+
+</section>
+    </a>
+    <div class="search animated">
+    <form id="w5" class="highlighted-searchbar search__layer" action="/kereso" method="get">    <label for="searchInput" class="searchbar">
+		<input type="hidden" name="type" id="type" value="movie">
+        <img src="/img/2024/icons/search-input.svg" alt="Search icon" class="search__layer--icon">
+        <div class="form-group field-highlighted-search">
+
+<div><input type="text" id="highlighted-search" class="search__layer--input form-control" name="q" placeholder="Keresel valamit?" autocomplete="off" data-krajee-typeahead="typeahead_7864e59a"></div>
+
+<div class="help-block"></div>
+</div>        <button type="submit" class="search__layer--btn">Keresés</button>
+    </label>
+    </form>    <div class="search__tags">
+                    <a href="/kereso?type=movie&q=" class=" search__tags--element">Film és sorozat</a>
+                    <a href="/programkereso/mozi-idorendben" class=" search__tags--element">Moziműsor</a>
+                    <a href="/kereso?type=person&q=" class=" search__tags--element">Színész és alkotó</a>
+                    <a href="/kereso?type=directing&q=" class=" search__tags--element">Színdarab</a>
+                    <a href="/programkereso/szinhaz" class=" search__tags--element">Színházműsor</a>
+                    <a href="/programkereso/zene" class=" search__tags--element">Koncert</a>
+                    <a href="/programkereso/fesztival" class=" search__tags--element">Fesztivál</a>
+                    <a href="/programkereso/kiallitas" class=" search__tags--element">Kiállítások</a>
+                    <a href="/programkereso/egyeb" class=" search__tags--element">Egyéb események</a>
+                    <a href="/kereso?type=place&q=" class=" search__tags--element">Helyszínek</a>
+                    <a href="/kereso?type=article&q=" class=" search__tags--element">Cikkek</a>
+            </div>
+</div>
+</header>
+<script>
+function helpPassLayer(){document.getElementsByClassName("navigation")[0].style.zIndex="6";}
+var checkIndPass = setInterval(function(){if(document.getElementById("icon-user")){document.getElementById("icon-user").addEventListener("click", helpPassLayer); clearInterval(checkIndPass);}}, 500);
+function sTop() {window.scrollTo({top: 0, behavior: 'smooth'});}
+document.getElementById("navSbutton").addEventListener("click", sTop);
+var headerObj = document.getElementsByTagName("header")[0];
+var headerHeight = headerObj.offsetHeight;
+var mainFrame = document.getElementsByClassName("wrap")[0];
+function slimHeader(){
+	if(headerObj.classList.value.search("kapubanner")==-1){
+		var weDo = window.pageYOffset || document.documentElement.scrollTop;
+		if(weDo>headerHeight){
+			mainFrame.style.paddingTop = headerHeight+'px';
+			headerObj.classList.add("slim");
+		}else{
+			mainFrame.style.paddingTop ='0px';
+			headerObj.classList.remove("slim");
+		}
+	}else{
+		mainFrame.style.paddingTop ='0px';
+		headerObj.classList.remove("slim");
+		window.removeEventListener("click", slimHeader);
+	}
+}
+window.addEventListener("scroll", slimHeader);
+</script>
+    <div class="container css-table mozi">
+        
+
+<script type="application/ld+json">{"@context":"http://schema.org/","@type":"Article","inLanguage":"hu","headline":"Itt a kritika, amely traumatizálta Quentin Tarantinót, a karrierje mélypontjaként élte meg ","datePublished":"2026-04-14 07:00:00","dateModified":"2026-04-13 15:36:46","articleBody":"Quentin Tarantino rendező nem éppen az a figura, aki könnyen zavarba jön, de mégis van valami, amivel még őt is ki lehet zökkenteni. Ez általában akkor történik meg, ha valaki a színészi teljesítményét értékeli. \r\nAz biztos, hogy Tarantino sokkal maradandóbbat alkotott rendezőként, mint színészként. Ő azonban ennek ellenére meg van győződve arról, hogy a kamera előtt is megállja a helyét, pedig sokak szerint a színészkedés nem az ő terepe. Sőt, vannak, akik úgy gondolják, hogy még a saját filmjeiben is ő a leggyengébb láncszem.\r\n1998-ban a világhírű filmes szerepet kapott a Várj, míg sötét lesz új változatában, amelyet a Broadway színpadán mutattak be. A végeredmény pedig pontosan olyan lett, amilyenre sokan számítottak. A kritikusok rendesen szétszedték, az előadást pedig 16 hét után le is vették a műsorról.\r\nEz elég kellemetlen volt. Olyan érzés volt, mintha szinte odadobták volna a kritikusok elé, hogy szétszedjék” \r\n– mondta később Tarantino egy ismerőse, aki szerint túl nagy falat volt neki ez a szerep.\r\n\r\nEz is érdekelhet! \r\nTarantino elárulta, ki a kedvenc színésze – nem Travolta az!\r\nÉrdekes, de az illető eddig még soha nem szerepelt Tarantino-filmben. Talán majd most?\r\nTovább\r\n\r\nNem úgy megy az, hogy kisebb szerepek után hirtelen egy Broadway-főszerepben találod magad.”\r\nDe az informátor szerint ez egy komoly pofon volt, ami visszarántotta a földre, miután Tarantino kicsit túlértékelte magát színészként:\r\nTraumatizálta, ahogy a New York-i kritikusok nekimentek. Teljesen összeomlott. Meg is ijedt.”\r\nA Port is megírta, hogy Tarantino ismét a színházi világban tevékenykedik. Néhány hete kiderült, hogy egy klasszikus brit farce-vígjátékot írt, amelyet a londoni West Enden mutatnak be 2027-ben, de ha minden jól megy, már 2026 végén. Állítólag a világhírű rendező nagy hollywoodi nevekkel is tárgyal, hogy kik játsszanak majd a darabban.\r\n\r\nKiemelt kép: Getty Images / Gilbert Flores / Contributor\r\nForrás: Far Out Magazine","description":"A népszerű rendező előszeretettel alkot negatív véleményt másokról, de azt már nehezen viseli, ha vele is ugyanez történik. ","publisher":[{"@type":"Organization","name":"PORT.hu","logo":{"@type":"ImageObject","url":"http://port.hu/img/portapplogo.png"}}],"author":[{"@type":"Person","name":"PORT","worksFor":{"@type":"Organization","name":"PORT.hu"}}],"image":"https://media.port.hu/images/001/808/076.webp","url":"http://port.hu/cikk/mozi/itt-a-kritika-amely-traumatizalta-quentin-tarantinot-a-karrierje-melypontjakent-elte-meg/article-125132","mainEntityOfPage":["/adatlap/szemely/quentin-tarantino/person-1262"]}</script>
+
+<div class="container articles site-container">
+    
+    <h1 class="heading" id="heading">
+        Itt a kritika, amely traumatizálta Quentin Tarantinót, a karrierje mélypontjaként élte meg     </h1>
+        <section class="details">
+        <div class="authors-and-date">
+                            <ul class="authors">
+                                                                                                <li class="author">
+                                                                <div class="author-info">
+                                    <span class="author">
+                                                                                    <a href="/kereso/cikk?author=21677">PORT</a>                                        
+                                                                            </span>
+
+                                                                            <time datetime="2026-04-14 07:00:00">
+                                            2026. április 14.                                        </time>
+                                                                    </div>
+                            </li>
+                                                            </ul>
+                    </div>
+
+        <div class="social-wrapper">
+
+            <section class="social-box">
+                <ul class="social-list">
+                    <li class="tw pull-right">
+                        <a href="#" title="Link megosztása twitteren" onclick="window.open('http://twitter.com/home?status=http://port.hu/cikk/mozi/itt-a-kritika-amely-traumatizalta-quentin-tarantinot-a-karrierje-melypontjakent-elte-meg/article-125132');"></a>
+                    </li>
+
+                    <li class="fb pull-right">
+                        <a href="#" title="Megosztás a Facebook-on" onclick="window.open('http://www.facebook.com/share.php?u=http://port.hu/cikk/mozi/itt-a-kritika-amely-traumatizalta-quentin-tarantinot-a-karrierje-melypontjakent-elte-meg/article-125132&title=');"></a>
+                    </li>
+
+                    <li class="fb-like pull-right">
+                        <div class="fb-like" data-href="http://port.hu/cikk/mozi/itt-a-kritika-amely-traumatizalta-quentin-tarantinot-a-karrierje-melypontjakent-elte-meg/article-125132" data-layout="button_count" data-action="like" data-show-faces="true" data-share="false"></div>
+                    </li>
+                </ul>
+            </section>
+
+        </div>
+
+    </section>
+
+
+
+            <div class="topMargin advert">
+    
+                        <!-- (c)AdOcean 2003-2020, Port_Mozi_Aloldal_LB -->
+                        <div id="adoceanindexhuplgfpsmnkt" data-id="adoceanindexhuplgfpsmnkt" class="iap iap--ado empty bg--transparent ">
+                            <script class="iap-script">
+                                window.iap_zones = window.iap_zones || [];
+                                window.iap_zones.push({"id":"adoceanindexhuplgfpsmnkt","empty":true,"lazy":false,"quality":true,"masterless":false,"area":"Port_Mozi_Aloldal_LB","events":{"loaded":false,"visible":false,"viewed":false},"stat":{"site":"port","path":"\/cikk\/mozi\/itt-a-kritika-amely-traumatizalta-quentin-tarantinot-a-karrierje-melypontjakent-elte-meg\/article-125132","type":"mozi\/cikk"},"porthu":{"id":"adoceanindexhuplgfpsmnkt","section":"mozi","type":"cikk","device":"desktop","zone":"superleaderboard"}});
+                            </script>
+                        </div>
+                        </div>
+    
+
+    <div class="row full-container">
+        <div class="main-box " id="main-box">
+            <article class="article-content">
+                <div class="lead bold">
+                    <p>
+                        A népszerű rendező előszeretettel alkot negatív véleményt másokról, de azt már nehezen viseli, ha vele is ugyanez történik.                     </p>
+                </div>
+                                        
+                                                <body>
+<p><span class="hover:entity-accent entity-underline inline cursor-pointer align-baseline"><span class="whitespace-normal">Quentin Tarantino</span></span> rendező nem éppen az a figura, aki könnyen zavarba jön, de mégis van valami, amivel még őt is ki lehet zökkenteni. Ez általában akkor történik meg, ha valaki a színészi teljesítményét értékeli. </p>
+<p>Az biztos, hogy Tarantino sokkal maradandóbbat alkotott rendezőként, mint színészként. Ő azonban ennek ellenére meg van győződve arról, hogy a kamera előtt is megállja a helyét, pedig sokak szerint a színészkedés nem az ő terepe. Sőt, vannak, akik úgy gondolják, hogy még a saját filmjeiben is ő a leggyengébb láncszem.</p>
+<p><strong>1998-ban a világhírű filmes szerepet kapott a Várj, míg sötét lesz új változatában, amelyet a Broadway színpadán mutattak be. A végeredmény pedig pontosan olyan lett, amilyenre sokan számítottak. A kritikusok rendesen szétszedték, az előadást pedig 16 hét után le is vették a műsorról.</strong></p>
+<div>
+                        <!-- (c)AdOcean 2003-2020, Port_Mozi_Aloldal_RB -->
+                        <div id="adoceanindexhutocpmxdqtd" data-id="adoceanindexhutocpmxdqtd" class="iap iap--ado empty bg--transparent ">
+                            <script class="iap-script">
+                                window.iap_zones = window.iap_zones || [];
+                                window.iap_zones.push({"id":"adoceanindexhutocpmxdqtd","empty":true,"lazy":true,"quality":true,"masterless":false,"area":"Port_Mozi_Aloldal_RB","events":{"loaded":false,"visible":false,"viewed":false},"stat":{"site":"port","path":"\/cikk\/mozi\/itt-a-kritika-amely-traumatizalta-quentin-tarantinot-a-karrierje-melypontjakent-elte-meg\/article-125132","type":"mozi\/cikk"},"porthu":{"id":"adoceanindexhutocpmxdqtd","section":"mozi","type":"cikk","device":"desktop","zone":"roadblock_a"}});
+                            </script>
+                        </div>
+                    </div>
+<blockquote><span>Ez elég kellemetlen volt. Olyan érzés volt, mintha szinte odadobták volna a kritikusok elé, hogy szétszedjék” </span></blockquote>
+<p><span>– mondta később Tarantino egy ismerőse, aki szerint túl nagy falat volt neki ez a szerep.</span></p>
+<div class="articlebox">
+<h1>
+<span>Ez is érdekelhet! </span><span></span><span></span>
+</h1>
+<div class="articlebox-content">
+<a href="https://port.hu/cikk/mozi/tarantino-elarulta-ki-a-kedvenc-szinesze-nem-travolta-az/article-63208"><img src="https://media.port.hu/images/001/154/502.jpg" width="300"></a><a href="https://port.hu/cikk/mozi/tarantino-elarulta-ki-a-kedvenc-szinesze-nem-travolta-az/article-63208"><span class="title-link">Tarantino elárulta, ki a kedvenc színésze – nem Travolta az!</span></a>
+<p>Érdekes, de az illető eddig még soha nem szerepelt Tarantino-filmben. Talán majd most?</p>
+<a class="article-btn" href="https://port.hu/cikk/mozi/tarantino-elarulta-ki-a-kedvenc-szinesze-nem-travolta-az/article-63208">Tovább</a>
+</div>
+<span class="articlebox-cover"><br></span>
+</div>
+<blockquote><span>Nem úgy megy az, hogy kisebb szerepek után hirtelen egy Broadway-főszerepben találod magad.”</span></blockquote>
+<p><span>De az informátor szerint ez egy komoly pofon volt, ami visszarántotta a földre, miután Tarantino kicsit túlértékelte magát színészként:</span></p>
+<blockquote><span>Traumatizálta, ahogy a New York-i kritikusok nekimentek. Teljesen összeomlott. Meg is ijedt.”</span></blockquote>
+<p><a href="https://port.hu/cikk/magazin/quentin-tarantino-uj-projektjerol-beszel-most-mindenki-a-rendezo-valami-teljesen-masba-kezd/article-123952">A Port is megírta</a>, hogy Tarantino ismét a színházi világban tevékenykedik. Néhány hete kiderült, hogy <span>egy klasszikus brit farce-vígjátékot írt, amelyet a londoni West Enden mutatnak be 2027-ben, de ha minden jól megy, már 2026 végén. Állítólag a világhírű rendező nagy hollywoodi nevekkel is tárgyal, hogy kik játsszanak majd a darabban.</span></p>
+<p><iframe width="774" height="435" src="//www.youtube.com/embed/2y_An4vBEwM" title="Every Quentin Tarantino Acting role ever" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen="allowfullscreen"></iframe></p>
+<p>Kiemelt kép: Getty Images / Gilbert Flores / Contributor</p>
+<p>Forrás: <a href="https://faroutmagazine.co.uk/single-biggest-humiliation-quentin-tarantino-career/">Far Out Magazine</a></p>
+</body>                                        
+                                            				
+                            <div class="advert">
+                
+                
+                        <!-- (c)AdOcean 2003-2020, Port_Mozi_Aloldal_RB_B -->
+                        <div id="adoceanindexhuqpjfqunudy" data-id="adoceanindexhuqpjfqunudy" class="iap iap--ado empty bg--transparent ">
+                            <script class="iap-script">
+                                window.iap_zones = window.iap_zones || [];
+                                window.iap_zones.push({"id":"adoceanindexhuqpjfqunudy","empty":true,"lazy":true,"quality":true,"masterless":false,"area":"Port_Mozi_Aloldal_RB_B","events":{"loaded":false,"visible":false,"viewed":false},"stat":{"site":"port","path":"\/cikk\/mozi\/itt-a-kritika-amely-traumatizalta-quentin-tarantinot-a-karrierje-melypontjakent-elte-meg\/article-125132","type":"mozi\/cikk"},"porthu":{"id":"adoceanindexhuqpjfqunudy","section":"mozi","type":"cikk","device":"desktop","zone":"roadblock_b"}});
+                            </script>
+                        </div>
+                    
+            </div>
+                                </article>
+                        <div class="">
+                            </div>
+                        <div id="show-edgebox-widget"></div>
+
+            <section class="row">
+                <ul class="article-tags">
+                                            <li>
+                            <a href="/kereso/cikk?tags%5B0%5D=quentin+tarantino">
+                                quentin tarantino                            </a>
+                        </li>
+                                            <li>
+                            <a href="/kereso/cikk?tags%5B0%5D=kritika">
+                                kritika                            </a>
+                        </li>
+                                            <li>
+                            <a href="/kereso/cikk?tags%5B0%5D=film">
+                                film                            </a>
+                        </li>
+                                            <li>
+                            <a href="/kereso/cikk?tags%5B0%5D=mozi">
+                                mozi                            </a>
+                        </li>
+                                    </ul>
+            </section>
+
+            <ul class="social-list">
+                <li class="tw pull-left">
+                    <a href="#" title="Link megosztása twitteren" onclick="window.open('http://twitter.com/home?status=http://port.hu/cikk/mozi/itt-a-kritika-amely-traumatizalta-quentin-tarantinot-a-karrierje-melypontjakent-elte-meg/article-125132');"></a>
+                </li>
+
+                <li class="fb pull-left">
+                    <a href="#" title="Megosztás a Facebook-on" onclick="window.open('http://www.facebook.com/share.php?u=http://port.hu/cikk/mozi/itt-a-kritika-amely-traumatizalta-quentin-tarantinot-a-karrierje-melypontjakent-elte-meg/article-125132&title=');"></a>
+                </li>
+
+                <li class="fb-like pull-left">
+                    <div class="fb-like" data-href="http://port.hu/cikk/mozi/itt-a-kritika-amely-traumatizalta-quentin-tarantinot-a-karrierje-melypontjakent-elte-meg/article-125132" data-layout="button_count" data-action="like" data-show-faces="true" data-share="false"></div>
+                </li>
+            </ul>
+
+                <div class="fb-box">
+                    <div class="fb-page"
+                        data-href="https://www.facebook.com/PORTponthu/"
+                        data-width="500"
+                        data-small-header="false"
+                        data-adapt-container-width="true"
+                        data-hide-cover="false"
+                        data-show-facepile="true">
+                    </div>
+                </div>
+                
+            <div class="advert fix-advert">
+                            </div>
+                            
+                                            <div class="responsive-only">
+                <style>
+    @import url(https://fonts.googleapis.com/css2?family=Playfair+Display&display=swap);.cross-promo{margin:0;padding:0;font-family:"Playfair Display",serif}.cross-promo{max-width:350px; margin: auto}.cross-promo__title{display:flex;align-items:center;height:54px;padding:0 17px;background-color:#4d1947}.crosspromo-gallery{position:relative;width:100%;padding:10px 5px;border:3px solid #4d1947;border-top:0;overflow:hidden;background-color:#fff;user-select:none}.crosspromo-gallery__track{display:flex;width:calc(var(--slider-n) * 334px);will-change:transform;transform:translate3d(var(--slider-x),0,0);transition:transform calc((1 - var(--slider-t)) * .5s) ease-out;cursor:grab}.crosspromo-gallery__track.grabbing{cursor:grabbing;transition:initial}.crosspromo-gallery__track.dragging a{pointer-events:none}.crosspromo-gallery__article{width:calc(100% / var(--slider-n));padding:0 5px}.crosspromo-gallery__article a{display:block;height:100%;background-color:#fff;text-decoration:none}.crosspromo-gallery__article a .image{position:relative;padding-top:56.25%;overflow:hidden}.crosspromo-gallery__article a .image img{position:absolute;top:50%;left:50%;width:100%;height:auto;transform:translate(-50%,-50%);pointer-events:none}.crosspromo-gallery__article a .title{display:-webkit-box;max-height:85px;overflow:hidden;-webkit-box-orient:vertical;-webkit-line-clamp:3;text-overflow:-o-ellipsis-lastline;padding:10px 0;font-size:20px;line-height:1.25;font-weight:400;text-transform:uppercase;color:#4d1947}.crosspromo-gallery__button{position:absolute;bottom:50%;width:42px;height:74px;padding:25px 10px;opacity:.9;box-shadow:0 0 30px 0 rgba(0,0,0,.18);background-color:#fff;z-index:10;cursor:pointer}.crosspromo-gallery__button.prev-btn{left:0}.crosspromo-gallery__button.next-btn{right:0}.crosspromo-gallery__button svg{pointer-events:none}@media screen and (max-width:400px){.cross-promo{max-width:300px}.cross-promo__title{height:42px;justify-content:center}.crosspromo-gallery{padding:6px 3px}.crosspromo-gallery__button{display:none}.crosspromo-gallery__track{width:calc(var(--slider-n) * 230px)}.crosspromo-gallery__article{padding:0 3px}.crosspromo-gallery__article a .title{display:-webkit-box;max-height:67px;overflow:hidden;-webkit-box-orient:vertical;-webkit-line-clamp:3;text-overflow:-o-ellipsis-lastline;padding:6px 0;font-size:15px;line-height:1.4}}
+</style>
+
+<div class="cross-promo row row-1-detailed">
+    <div class="cross-promo__title">
+        <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="106" height="28"
+             viewBox="0 0 106 28">
+            <defs>
+                <path id="zqxststo4a" d="M0 0L105.339 0 105.339 27.557 0 27.557z"/>
+            </defs>
+            <g fill="none" fill-rule="evenodd">
+                <mask id="a6ck2hj45b" fill="#fff">
+                    <use xlink:href="#zqxststo4a"/>
+                </mask>
+                <path fill="#FFF"
+                      d="M54.568 4.94C57.55 2.331 59.858 0 60.746 0c.461 0 .818.345.818.797 0 1.01-3.089 2.054-6.856 4.316l-.14-.174zm-29.785 0C27.765 2.331 30.073 0 30.96 0c.46 0 .815.345.815.797 0 1.01-3.09 2.054-6.853 4.316l-.14-.174zm34.614 6.888c-1.883 1.5-3.55 1.533-3.55 4.979 0 1.251.214 2.75 1.667 2.75 1.459 0 1.883-1.636 1.883-2.369v-5.36zM10.97 20.983c3.266 0 5.08-1.914 5.08-9.677 0-7.096-.678-9.673-6.142-9.673H9.09v19.35h1.88zM22.792 7.482l-.033-.21 8.235-1.078v14.789h2.485v.207H23.183v-.207h2.485V7.097l-2.876.385zM12 21.19H0v-.207h3.089V1.67H0v-.208h10.793c7.064 0 11.575 3.2 11.575 9.81 0 5.675-3.62 9.918-10.369 9.918zM74.662 9.918c.531-2.021 2.558-3.724 5.183-3.724 2.521 0 4.512 1.392 4.512 4.139v10.65h2.481v.207h-9.37v-.207h1.562V10.195c0-1.117-.07-2.82-1.563-2.82-1.596 0-2.805 2.124-2.805 3.794v9.847h1.6v.21H66.85v-.21h2.485V7.097l-2.876.385-.033-.21 8.272-1.078-.037 3.724zm-15.265.207c0-1.773 0-3.724-2.13-3.724-1.136 0-2.378.974-2.378 2.332 0 .66.387 1.392.995 1.636-.07 1.6-1.28 2.366-2.558 2.366-1.386 0-2.699-.8-2.699-2.646 0-3.447 4.793-3.895 7.454-3.895 3.27 0 6.676 1.04 6.676 4.316v7.307c0 1.426.534 2.955 2.595 1.285l.103.14c-1.312 1.112-2.945 2.159-5.04 2.159-1.776 0-2.84-1.359-2.981-3.239-.675 1.984-3.056 3.239-5.327 3.239-2.698 0-4.435-1.255-4.435-3.69 0-4.454 6.459-3.48 9.725-6.09v-1.496zM49.135 6.612h-2.732v-.21h5.29v.21h-2.238l-7.524 15.381-7.74-15.381H32.06v-.21h10.723v.21H40.26l4.368 9.218 4.506-9.218zm47.29 0h-2.52l4.368 9.218 4.508-9.218h-2.735v-.21h5.293v.21h-2.237l-7.528 15.381c-1.132 2.363-2.625 5.565-5.964 5.565-2.592 0-3.904-1.704-3.904-3.34 0-1.392.992-2.68 2.945-2.68 1.423 0 2.738.8 2.806 2.61-.675.208-1.313.8-1.313 1.636 0 .766.531.974.992.974 1.172 0 2.735-1.74 4.225-5.116l-7.525-15.03h-2.13v-.21h10.72v.21z"
+                      mask="url(#a6ck2hj45b)"/>
+            </g>
+        </svg>
+    </div>
+    <div id="galleryw0" class="crosspromo-gallery" style="--slider-n: 5; --slider-x: 0px; --slider-t: 0;">
+        <div class="crosspromo-gallery__track">
+
+                                                                                            <div class="crosspromo-gallery__article">
+                            <a href="https://divany.hu/offline/magyar-diva-hangjat-goebbels-megcsodalta/" target="_blank">
+                                <div class="image"><img src="https://divany.hu/neon/media/original_images/alpar-gitta1.jpg"/></div>
+                                <div class="title">A magyar díva hangját Goebbels is megcsodálta</div>
+                            </a>
+                        </div>
+                                                                                                                                <div class="crosspromo-gallery__article">
+                            <a href="https://divany.hu/testem/demencia-elleni-etelek-szinek-szerint/" target="_blank">
+                                <div class="image"><img src="https://divany.hu/neon/media/original_images/65051529_4801401_ac3159ed1e33988a252e847172050b40_wm.jpg"/></div>
+                                <div class="title">A demenciától is megvédhet, ha ilyen színű ételeket eszel</div>
+                            </a>
+                        </div>
+                                                                                                                                <div class="crosspromo-gallery__article">
+                            <a href="https://divany.hu/mindennapi/razzia-rendor-kereses/" target="_blank">
+                                <div class="image"><img src="https://divany.hu/neon/media/original_images/rendorauto2.jpg"/></div>
+                                <div class="title">Nagyszabású razzia indult ma: kiderült, meddig tart, és kiket keresnek a rendőrök</div>
+                            </a>
+                        </div>
+                                                                                                                                <div class="crosspromo-gallery__article">
+                            <a href="https://divany.hu/edesotthon/vagyonokat-ero-hulladekok-a-haztartasban/" target="_blank">
+                                <div class="image"><img src="https://divany.hu/neon/media/original_images/59618431_e341034380cfc8753f00fdfb9317c2a9_wm.jpg"/></div>
+                                <div class="title">Vagyonokat érhet az ilyen hulladék: a te otthonodban is ott lehet</div>
+                            </a>
+                        </div>
+                                                                                                                                <div class="crosspromo-gallery__article">
+                            <a href="https://divany.hu/eletem/5-evnel-idosebb-auto-lista-figyelem/" target="_blank">
+                                <div class="image"><img src="https://divany.hu/neon/media/original_images/autok.jpg"/></div>
+                                <div class="title">Erre figyelj, ha 5 évnél idősebb az autód: meglepő listát tettek közzé</div>
+                            </a>
+                        </div>
+                                                
+        </div>
+
+        <div class="crosspromo-gallery__button prev-btn" data-slide="-1">
+            <svg class="left" xmlns="http://www.w3.org/2000/svg" height="24" viewBox="0 0 24 24" width="24">
+                <path d="M0 0h24v24H0V0z" fill="none"/>
+                <path d="M15.41 16.59L10.83 12l4.58-4.59L14 6l-6 6 6 6 1.41-1.41z"/>
+            </svg>
+        </div>
+        <div class="crosspromo-gallery__button next-btn" data-slide="+1">
+            <svg class="right" xmlns="http://www.w3.org/2000/svg" height="24" viewBox="0 0 24 24" width="24">
+                <path d="M0 0h24v24H0V0z" fill="none"/>
+                <path d="M8.59 16.59L13.17 12 8.59 7.41 10 6l6 6-6 6-1.41-1.41z"/>
+            </svg>
+        </div>
+    </div>
+</div>
+<script>
+    !function(){this.CrossPromo=function(t,i){this.element=t,this.options=Object.assign({threshold:.2},i),this.init()},this.CrossPromo.prototype={init:function(){s.call(this),n.call(this),l.call(this)},lock:function(t){this.pointer=o.call(this,t),this.slider.classList.toggle("grabbing",this.locked=!0)},unlock:function(){this.pointer=null,this.slider.classList.toggle("grabbing",this.locked=!1),this.slider.classList.toggle("dragging",this.dragging=!1)},drag:function(i){i.preventDefault(),this.locked&&t.call(this,i)},move:function(t){t.preventDefault(),this.locked&&i.call(this,t)},select:function(){this.locked&&(e.call(this),this.unlock())},resize:function(){n.call(this),e.call(this,!0)}};const t=function(t){this.distance=o.call(this,t),this.shift=this.position+this.distance,this.threshold=Math.abs(this.distance/this.element.clientWidth).toFixed(2),this.element.style.setProperty("--slider-x",this.shift+"px"),this.slider.classList.toggle("dragging",this.dragging=this.threshold>this.options.threshold)},i=function(t){this.distance=-1*parseInt(t.target.dataset.slide),this.threshold=this.options.threshold,this.dragging=!0,this.select()},e=function(t){let i=Math.sign(this.distance),e=this.dragging||t,s=t?this.index:this.index-i;this.index=e&&s>=0&&s<this.slides.length?s:this.index,this.position=-1*h.call(this,this.index),this.element.style.setProperty("--slider-x",`${this.position}px`),this.element.style.setProperty("--slider-t",this.threshold)},s=function(){this.index=0,this.position=null,this.pointer=null,this.locked=!1,this.slider=this.element.querySelector(".crosspromo-gallery__track"),this.slides=this.slider.children,this.buttons={prev:this.element.querySelector(".prev-btn"),next:this.element.querySelector(".next-btn")},this.element.style.setProperty("--slider-n",this.slides.length)},n=function(){Array.from(this.slides).forEach((t,i)=>{if(t.size=t.getBoundingClientRect(),t.mark=t.size.x+t.size.width/2-this.element.offsetWidth/2+Math.abs(this.position)-this.element.getBoundingClientRect().x,0===i&&(t.mark=0),i===this.slides.length-1){let i=window.getComputedStyle(this.element),e=parseInt(i.paddingLeft)+parseInt(i.paddingRight);t.mark=this.slider.clientWidth-this.element.clientWidth+e}})},h=function(t){return this.slides.item(t).mark},l=function(){window.addEventListener("resize",d(this.resize.bind(this),250)),this.slider.addEventListener("mousedown",this.lock.bind(this),!1),this.slider.addEventListener("mousemove",this.drag.bind(this),!1),this.slider.addEventListener("mouseup",this.select.bind(this),!1),this.slider.addEventListener("mouseleave",this.select.bind(this),!1),this.slider.addEventListener("touchstart",this.lock.bind(this),!1),this.slider.addEventListener("touchmove",this.drag.bind(this),!1),this.slider.addEventListener("touchend",this.select.bind(this),!1),this.buttons.prev.addEventListener("mousedown",this.lock.bind(this),!1),this.buttons.next.addEventListener("mousedown",this.lock.bind(this),!1),this.buttons.prev.addEventListener("mouseup",this.move.bind(this),!1),this.buttons.next.addEventListener("mouseup",this.move.bind(this),!1)},o=function(t){return(t.changedTouches?t.changedTouches[0]:t).clientX-this.pointer},d=function(t,i){let e;return(...s)=>{const n=this;clearTimeout(e),e=setTimeout(()=>t.apply(n,s),i)}}}(),document.addEventListener("DOMContentLoaded",()=>{console.clear(),new CrossPromo(document.getElementById("galleryw0"))});
+</script>            </div>
+                        <div class="row related-bottom">
+                <h2>Neked ajánlott</h2>
+<!--
+<style>
+#contrec-sticky a {display:flex;}
+#contrec-sticky a img {display:block;float:left;height:50px;margin-right:15px;}
+#contrec-sticky a div p{display: -webkit-box;-webkit-line-clamp: 2;-webkit-box-orient: vertical;overflow: hidden;font-size: 14px;line-height: 18px;font-weight: 600;margin:0;}
+#contrec-sticky a div span {line-height: 1.125rem;font-weight: 400;font-size: 10px;color: rgba(65,65,65,0.7);display:block; margin-top:2px;}
+.indaContrecWidget {position:relative !important; z-index: 1000 !important; background-color: #fff !important;}
+#contrec-sticky-container {position: fixed; height: 69px; bottom: 0px; z-index: 999; left: 0; right: 0; background: white; box-shadow: 0 -3px 3px rgb(0 0 0 / 25%); max-width: 100vw; padding:10px;display:none;}
+#contrec-sticky-header {position: absolute; height: 27px; top: -26px; left: -3px; background: white; box-shadow: 3px -3px 3px rgb(0 0 0 / 25%); padding: 0 10px 0 13px; text-decoration: none; font-weight: bold; color: #909090; border: none; font-size:14px;}
+#contrec-sticky-close {position: absolute; height: 27px; top: -26px; right: -3px; background: white; box-shadow: -2px -3px 3px rgb(0 0 0 / 25%); padding:2px 14px 0 10px;; text-decoration: none; font-weight: bold; color: #909090; border: none;}
+#contrec-sticky-close::before {content: '✖';}
+</style>
+
+<div id="contrec-sticky-container"><button id="contrec-sticky-header">Olvasta már?</button><button id="contrec-sticky-close"></button><div id="contrec-sticky"></div></div>
+<script>
+document.getElementById("contrec-sticky-close").addEventListener("click", function() {
+	document.getElementById("contrec-sticky-container").style.display='none';
+});
+</script>
+-->
+                <div id="indaContrecWidget21" class="indaContrecWidget" data-href="21" data-param=""></div>
+            </div>
+            <script async src="https://cdn.contrec.index.hu/icwsMin3.js"></script>
+
+            <div class="row related-bottom">
+                <h3>Még ajánljuk</h3>
+
+                <div id="w1" class="list-view">
+<article class="related-content">
+            <a href="/cikk/mozi/kiderult-ezert-torkollt-sirasba-ben-affleck-es-sienna-miller-kozos-szexjelenetenek-forgatasa/article-125064" class="pull-left related-content-thumbnail extra-more-related-link" target="_top">
+            <img class="lazy" src="https://media.port.hu/images/001/807/20x11/930.webp" data-src="https://media.port.hu/images/001/807/476x268/930.webp" alt="Kiderült: ezért torkollt sírásba Ben Affleck és Sienna Miller közös szexjelenetének forgatása">
+        </a>
+    
+    <div class="related-content-details">
+        <h3 class="title">
+            <a href="/cikk/mozi/kiderult-ezert-torkollt-sirasba-ben-affleck-es-sienna-miller-kozos-szexjelenetenek-forgatasa/article-125064" class="extra-more-related-link">
+                Kiderült: ezért torkollt sírásba Ben Affleck és Sienna Miller közös szexjelenetének forgatása            </a>
+        </h3>
+        <p class="description">
+            10 évvel ezelőtt szerepeltek együtt egy filmben.        </p>
+        <label>
+            2026. április 8. &centerdot; <a href="/kereso/cikk?author=21677">PORT</a>        </label>
+    </div>
+</article>
+
+<article class="related-content">
+            <a href="/cikk/mozi/hogyan-kaszalj-nagyot-fullba-kell-nyomni-a-gonoszsagot-ha-ilyen-nagy-a-tet/article-125098" class="pull-left related-content-thumbnail extra-more-related-link" target="_top">
+            <img class="lazy" src="https://media.port.hu/images/001/808/20x11/050.webp" data-src="https://media.port.hu/images/001/808/476x268/050.webp" alt="Hogyan kaszálj nagyot - Fullba kell nyomni a gonoszságot, ha ilyen nagy a tét!">
+        </a>
+    
+    <div class="related-content-details">
+        <h3 class="title">
+            <a href="/cikk/mozi/hogyan-kaszalj-nagyot-fullba-kell-nyomni-a-gonoszsagot-ha-ilyen-nagy-a-tet/article-125098" class="extra-more-related-link">
+                Hogyan kaszálj nagyot - Fullba kell nyomni a gonoszságot, ha ilyen nagy a tét!            </a>
+        </h3>
+        <p class="description">
+            Ha egy sötét vígjáték arról szól, hogy hősünk csak úgy juthat hozzá hatalmas örökségéhez, ha...        </p>
+        <label>
+            2026. április 9. &centerdot; <a href="/kereso/cikk?author=21501">Vízer Balázs</a>        </label>
+    </div>
+</article>
+
+<article class="related-content">
+            <a href="/cikk/mozi/igy-versengett-azon-schwarzi-es-sly-hogy-ki-tud-tobb-embert-megolni-a-filmjeikben/article-124956" class="pull-left related-content-thumbnail extra-more-related-link" target="_top">
+            <img class="lazy" src="https://media.port.hu/images/001/806/20x11/902.webp" data-src="https://media.port.hu/images/001/806/476x268/902.webp" alt="Így versengett azon Schwarzi és Sly, hogy ki tud több embert megölni a filmjeikben">
+        </a>
+    
+    <div class="related-content-details">
+        <h3 class="title">
+            <a href="/cikk/mozi/igy-versengett-azon-schwarzi-es-sly-hogy-ki-tud-tobb-embert-megolni-a-filmjeikben/article-124956" class="extra-more-related-link">
+                Így versengett azon Schwarzi és Sly, hogy ki tud több embert megölni a filmjeikben            </a>
+        </h3>
+        <p class="description">
+            Bár a Kommandó rendezője tagadja, hogy ezért lett véresebb a film a tervezettnél.        </p>
+        <label>
+            2026. április 10. &centerdot; <a href="/kereso/cikk?author=21469">Baski Sándor</a>        </label>
+    </div>
+</article>
+
+<article class="related-content">
+            <a href="/cikk/mozi/olivia-munn-elmeselte-hogyan-verte-at-himsoviniszta-kollegajat/article-125134" class="pull-left related-content-thumbnail extra-more-related-link" target="_top">
+            <img class="lazy" src="https://media.port.hu/images/001/808/20x11/078.webp" data-src="https://media.port.hu/images/001/808/476x268/078.webp" alt="Olivia Munn elmesélte, hogyan verte át hímsoviniszta kollégáját">
+        </a>
+    
+    <div class="related-content-details">
+        <h3 class="title">
+            <a href="/cikk/mozi/olivia-munn-elmeselte-hogyan-verte-at-himsoviniszta-kollegajat/article-125134" class="extra-more-related-link">
+                Olivia Munn elmesélte, hogyan verte át hímsoviniszta kollégáját            </a>
+        </h3>
+        <p class="description">
+            Egy egyszerű pszichológiai trükkel.        </p>
+        <label>
+            2026. április 9. &centerdot; <a href="/kereso/cikk?author=21469">Baski Sándor</a>        </label>
+    </div>
+</article>
+
+<article class="related-content">
+            <a href="/cikk/mozi/tom-holland-szerint-christopher-nolan-odusszeiaja-egy-mestermu-ami-leolvasztotta-az-agyat/article-125118" class="pull-left related-content-thumbnail extra-more-related-link" target="_top">
+            <img class="lazy" src="https://media.port.hu/images/001/672/20x11/637.webp" data-src="https://media.port.hu/images/001/672/476x268/637.webp" alt="Tom Holland szerint Christopher Nolan Odüsszeiája egy mestermű, ami leolvasztotta az agyát">
+        </a>
+    
+    <div class="related-content-details">
+        <h3 class="title">
+            <a href="/cikk/mozi/tom-holland-szerint-christopher-nolan-odusszeiaja-egy-mestermu-ami-leolvasztotta-az-agyat/article-125118" class="extra-more-related-link">
+                Tom Holland szerint Christopher Nolan Odüsszeiája egy mestermű, ami leolvasztotta az agyát            </a>
+        </h3>
+        <p class="description">
+            Holland a Matt Damon által alakított Odüsszeusz fiát játssza a nyáron érkező, epikus feldolgozásban.        </p>
+        <label>
+            2026. április 9. &centerdot; <a href="/kereso/cikk?author=21659">Mohos Máté</a>        </label>
+    </div>
+</article></div>            </div>
+        </div>
+
+
+        <!--<div id="side-box" class="side-box wide">-->
+        <div id="side-box" class="side-box">
+
+            <div class="advert">
+                                
+                        <!-- (c)AdOcean 2003-2020, Port_Mozi_Aloldal_HP -->
+                        <div id="adoceanindexhuzmesfnqgon" data-id="adoceanindexhuzmesfnqgon" class="iap iap--ado empty bg--transparent ">
+                            <script class="iap-script">
+                                window.iap_zones = window.iap_zones || [];
+                                window.iap_zones.push({"id":"adoceanindexhuzmesfnqgon","empty":true,"lazy":false,"quality":true,"masterless":false,"area":"Port_Mozi_Aloldal_HP","events":{"loaded":false,"visible":false,"viewed":false},"stat":{"site":"port","path":"\/cikk\/mozi\/itt-a-kritika-amely-traumatizalta-quentin-tarantinot-a-karrierje-melypontjakent-elte-meg\/article-125132","type":"mozi\/cikk"},"porthu":{"id":"adoceanindexhuzmesfnqgon","section":"mozi","type":"cikk","device":"desktop","zone":"half_page"}});
+                            </script>
+                        </div>
+                                                </div>
+                        
+                        <!-- (c)AdOcean 2003-2020, Port_PR_ajanlo_Desktop -->
+                        <div id="ado-gOXxWRwvDFOT1myMEydqRqN.0EZKH8Ombhww_g95X.r.t7" data-id="ado-gOXxWRwvDFOT1myMEydqRqN.0EZKH8Ombhww_g95X.r.t7" class="iap iap--ado empty bg--transparent ad-label--hidden ad-label--ghost">
+                            <script class="iap-script">
+                                window.iap_zones = window.iap_zones || [];
+                                window.iap_zones.push({"id":"ado-gOXxWRwvDFOT1myMEydqRqN.0EZKH8Ombhww_g95X.r.t7","empty":true,"lazy":false,"quality":false,"masterless":true,"area":"Port_PR_ajanlo_Desktop","events":{"loaded":false,"visible":false,"viewed":false},"stat":{"site":"port","path":"\/cikk\/mozi\/itt-a-kritika-amely-traumatizalta-quentin-tarantinot-a-karrierje-melypontjakent-elte-meg\/article-125132","type":"mozi\/cikk"},"porthu":{"id":"ado-gOXxWRwvDFOT1myMEydqRqN.0EZKH8Ombhww_g95X.r.t7","section":"mozi","type":"cikk","device":"desktop","zone":"pr"}});
+                            </script>
+                        </div>
+                                                                            <h1>
+                    <span>Kapcsolódó</span>
+                    <span></span>
+                    <span></span>
+                </h1>
+
+                <div id="w2" class="related owl-carousel article-related"><div class="has-image"><a href="http://port.hu/adatlap/szemely/quentin-tarantino/person-1262" class="extra-article-related-link"><img src="https://media.port.hu/images/000/122/312x200/291.jpg" width="312" height="200" /><h4 class="must-shorten">Quentin Tarantino</h4></a></div></div>
+            
+			
+            <section class="block-container">
+    <h1 class="box-heading">
+        <span>Címlapon</span>
+        <span></span>
+    </h1>
+    <section class="row block row4ticket_small row-1-detailed">
+        <div class="column-container item-container">
+                            					<div class="article-rec-element">
+						<a href="/cikk/mozi/5-film-ami-papiron-meg-jonak-tunt-de-vegul-csunyan-megbukott/article-125264" class="are-img-link">
+															<img loading="lazy" src="https://media.port.hu/images/001/808/160x90/604.webp">
+													</a>
+						<div class="are-img-right">
+							<span>mozi</span>
+							<a href="/cikk/mozi/5-film-ami-papiron-meg-jonak-tunt-de-vegul-csunyan-megbukott/article-125264">5 film, ami papíron még jónak tűnt, de végül csúnyán megbukott</a>
+													</div>
+					</div>
+                                            					<div class="article-rec-element">
+						<a href="/cikk/mozi/tom-hanks-legnagyobb-bukasa-egyben-a-legszebb-film-is-amit-valaha-keszitett/article-125288" class="are-img-link">
+															<img loading="lazy" src="https://media.port.hu/images/001/472/160x90/726.jpg">
+													</a>
+						<div class="are-img-right">
+							<span>mozi</span>
+							<a href="/cikk/mozi/tom-hanks-legnagyobb-bukasa-egyben-a-legszebb-film-is-amit-valaha-keszitett/article-125288">Tom Hanks legnagyobb bukása egyben a „legszebb film” is, amit valaha készített</a>
+													</div>
+					</div>
+                                            					<div class="article-rec-element">
+						<a href="/cikk/stream/stephen-king-szerint-az-ev-eddigi-legjobb-mondata-a-netflix-horrorfilmjeben-hangzik-el/article-125280" class="are-img-link">
+															<img loading="lazy" src="https://media.port.hu/images/001/808/160x90/710.webp">
+													</a>
+						<div class="are-img-right">
+							<span>stream</span>
+							<a href="/cikk/stream/stephen-king-szerint-az-ev-eddigi-legjobb-mondata-a-netflix-horrorfilmjeben-hangzik-el/article-125280">Stephen King szerint az év eddigi legjobb mondata a Netflix horrorfilmjében hangzik el</a>
+													</div>
+					</div>
+                                            					<div class="article-rec-element">
+						<a href="/cikk/tv/van-egy-alulertekelt-misztikus-sorozat-amihez-az-x-aktaknak-is-jocskan-koze-van/article-125268" class="are-img-link">
+															<img loading="lazy" src="https://media.port.hu/images/001/808/160x90/602.webp">
+													</a>
+						<div class="are-img-right">
+							<span>tv</span>
+							<a href="/cikk/tv/van-egy-alulertekelt-misztikus-sorozat-amihez-az-x-aktaknak-is-jocskan-koze-van/article-125268">Van egy alulértékelt misztikus sorozat, amihez az X-aktáknak is jócskán köze van</a>
+													</div>
+					</div>
+                                            					<div class="article-rec-element">
+						<a href="/cikk/mozi/meglepo-vallomast-tett-az-amerikai-pite-sztarja-a-folytatasrol-is-megszolalt/article-125258" class="are-img-link">
+															<img loading="lazy" src="https://media.port.hu/images/001/808/160x90/558.webp">
+													</a>
+						<div class="are-img-right">
+							<span>mozi</span>
+							<a href="/cikk/mozi/meglepo-vallomast-tett-az-amerikai-pite-sztarja-a-folytatasrol-is-megszolalt/article-125258">Meglepő vallomást tett az Amerikai pite sztárja, a folytatásról is megszólalt </a>
+													</div>
+					</div>
+                                    </div>
+    </section>
+</section>
+
+                                        <div class="advert">
+                
+                        <!-- (c)AdOcean 2003-2020, Port_Mozi_Aloldal_MR -->
+                        <div id="adoceanindexhuwnlijkklji" data-id="adoceanindexhuwnlijkklji" class="iap iap--ado empty bg--transparent ">
+                            <script class="iap-script">
+                                window.iap_zones = window.iap_zones || [];
+                                window.iap_zones.push({"id":"adoceanindexhuwnlijkklji","empty":true,"lazy":true,"quality":false,"masterless":false,"area":"Port_Mozi_Aloldal_MR","events":{"loaded":false,"visible":false,"viewed":false},"stat":{"site":"port","path":"\/cikk\/mozi\/itt-a-kritika-amely-traumatizalta-quentin-tarantinot-a-karrierje-melypontjakent-elte-meg\/article-125132","type":"mozi\/cikk"},"porthu":{"id":"adoceanindexhuwnlijkklji","section":"mozi","type":"cikk","device":"desktop","zone":"medium_rectangle_b"}});
+                            </script>
+                        </div>
+                                </div>
+                            <section class="row row-1-detailed ">
+
+    <h1 class="box-heading">
+        <span>Heti mozipremierek</span>
+        <span class="premiers-link"><a href="/lista/mozi-premierek">Összes</a></span>
+    </h1>
+
+    <ul class="weekly_premiers square-image-list">
+                <li>
+            <a class="cover-img" href="/adatlap/film/mozi/hogyan-kaszalj-nagyot-how-to-make-a-killing/movie-266932">
+                                    <img src="https://media.port.hu/images/001/801/120x170/160.webp">
+                            </a>
+            <section>
+                <a class="title" href="/adatlap/film/mozi/hogyan-kaszalj-nagyot-how-to-make-a-killing/movie-266932">
+                    Hogyan kaszálj nagyot                </a>
+                <label>
+                    amerikai thriller, 98 perc, 2026                                            <img class="icon age-limit" src="/img/agelimit/vector/16_age_icon_black.svg" alt="16 éven aluliak számára nem ajánlott" title="16 éven aluliak számára nem ajánlott">                                    </label>
+                <article>
+                    A melós Becket Redfellow-t (Glen Powell), akit születésekor kitagadott ocsmányul gazdag családja, semmi sem állíthatja meg, hogy megszerezze az örökségét. Függetlenül attól, hogy hány...                </article>
+                <a class="check-events" href="/adatlap/film/mozi/hogyan-kaszalj-nagyot-how-to-make-a-killing/movie-266932#events">Időpontok</a>
+            </section>
+        </li>
+                <li>
+            <a class="cover-img" href="/adatlap/film/mozi/mariana-szobaja-la-chambre-de-mariana/movie-267566">
+                                    <img src="https://media.port.hu/images/001/800/120x170/476.webp">
+                            </a>
+            <section>
+                <a class="title" href="/adatlap/film/mozi/mariana-szobaja-la-chambre-de-mariana/movie-267566">
+                    Mariana szobája                </a>
+                <label>
+                    izraeli-francia-magyar-belga filmdráma, 131 perc, 2025                                            <img class="icon age-limit" src="/img/agelimit/vector/18_age_icon_black.svg" alt="18 éven aluliak számára nem ajánlott" title="18 éven aluliak számára nem ajánlott">                                    </label>
+                <article>
+                    Miközben odakint tombol a háború, egy náci megszállás alatt álló kelet-európai város bordélyházának falai között a megszokott módon, pezsegve zajlik az élet. A zsidó fiú, Hugo több...                </article>
+                <a class="check-events" href="/adatlap/film/mozi/mariana-szobaja-la-chambre-de-mariana/movie-267566#events">Időpontok</a>
+            </section>
+        </li>
+                <li>
+            <a class="cover-img" href="/adatlap/film/mozi/pipas-pipas/movie-267076">
+                                    <img src="https://media.port.hu/images/001/786/120x170/214.webp">
+                            </a>
+            <section>
+                <a class="title" href="/adatlap/film/mozi/pipas-pipas/movie-267076">
+                    Pipás                </a>
+                <label>
+                    magyar filmdráma, 88 perc, 2025                                            <img class="icon age-limit" src="/img/agelimit/vector/16_age_icon_black.svg" alt="16 éven aluliak számára nem ajánlott" title="16 éven aluliak számára nem ajánlott">                                    </label>
+                <article>
+                    Igaz történeten alapuló film egy hírhedt 1930-as évekbeli magyar orgyilkosról, Pipas Pistáról. Letartóztatásakor kiderül, hogy nőnek született, de férfiként élt. A börtönben,...                </article>
+                <a class="check-events" href="/adatlap/film/mozi/pipas-pipas/movie-267076#events">Időpontok</a>
+            </section>
+        </li>
+                <li>
+            <a class="cover-img" href="/adatlap/film/mozi/bts-arirang-tour-elo-kozvetites-bts-world-tour-arirang-in-goyang-live-viewing/movie-267570">
+                                    <img src="https://media.port.hu/images/001/806/120x170/024.webp">
+                            </a>
+            <section>
+                <a class="title" href="/adatlap/film/mozi/bts-arirang-tour-elo-kozvetites-bts-world-tour-arirang-in-goyang-live-viewing/movie-267570">
+                    BTS Arirang Tour élő közvetítés                </a>
+                <label>
+                    180 perc, 2026                                            <img class="icon age-limit" src="/img/agelimit/vector/0_age_icon_black.svg" alt="korhatárra való tekintet nélkül megtekinthető" title="korhatárra való tekintet nélkül megtekinthető">                                    </label>
+                <article>
+                    Koncert élőben Kojangból.                </article>
+                <a class="check-events" href="/adatlap/film/mozi/bts-arirang-tour-elo-kozvetites-bts-world-tour-arirang-in-goyang-live-viewing/movie-267570#events">Időpontok</a>
+            </section>
+        </li>
+            </ul>
+</section>                            <div class="advert">
+                    
+                        <!-- (c)AdOcean 2003-2020, Port_Ticket_Adatlapok_MR_B -->
+                        <div id="ado-0iTnJSbJd3gLSOt_3O5OReWzo45dKJKz33TJK2PDxSz.l7" data-id="ado-0iTnJSbJd3gLSOt_3O5OReWzo45dKJKz33TJK2PDxSz.l7" class="iap iap--ado empty bg--transparent ">
+                            <script class="iap-script">
+                                window.iap_zones = window.iap_zones || [];
+                                window.iap_zones.push({"id":"ado-0iTnJSbJd3gLSOt_3O5OReWzo45dKJKz33TJK2PDxSz.l7","empty":true,"lazy":true,"quality":false,"masterless":true,"area":"Port_Ticket_Adatlapok_MR_B","events":{"loaded":false,"visible":false,"viewed":false},"stat":{"site":"port","path":"\/cikk\/mozi\/itt-a-kritika-amely-traumatizalta-quentin-tarantinot-a-karrierje-melypontjakent-elte-meg\/article-125132","type":"mozi\/cikk"},"porthu":{"id":"ado-0iTnJSbJd3gLSOt_3O5OReWzo45dKJKz33TJK2PDxSz.l7","section":"mozi","type":"cikk","device":"desktop","zone":"ticket"}});
+                            </script>
+                        </div>
+                                    </div>
+
+                <div class="advert">
+                    
+                        <div class="sticky-con " style="text-align: center;">
+                            <div class="sticky ad-label" style="position: sticky; top: 60px;">
+                            <!-- (c)AdOcean 2003-2020, index sticky manual -->
+                                <div id="ado-wEGh6Uy_zA.O1EbZBhPO5f.ZL8v.rE_O4_nEreBJWrb.r7" data-id="ado-wEGh6Uy_zA.O1EbZBhPO5f.ZL8v.rE_O4_nEreBJWrb.r7" class="iap iap--ado empty bg--transparent">
+                                    <script class="iap-script">
+                                        window.iap_zones = window.iap_zones || [];
+                                        window.iap_zones.push({"id":"ado-wEGh6Uy_zA.O1EbZBhPO5f.ZL8v.rE_O4_nEreBJWrb.r7","empty":true,"lazy":true,"quality":true,"masterless":true,"area":"","events":{"loaded":false,"visible":false,"viewed":false},"stat":{"site":"port","path":"\/cikk\/mozi\/itt-a-kritika-amely-traumatizalta-quentin-tarantinot-a-karrierje-melypontjakent-elte-meg\/article-125132","type":"index_sticky"},"porthu":{"id":"ado-wEGh6Uy_zA.O1EbZBhPO5f.ZL8v.rE_O4_nEreBJWrb.r7","section":"sticky","type":"index_sticky","device":"","zone":"sticky"}});
+                                    </script>
+                                </div>
+                            </div>
+                        </div>
+                        <script>
+                            addEventListener("DOMContentLoaded", (event) => {
+                            if(document.getElementById("main-box") || document.querySelector(".person .main-box") || document.querySelector("#port-main-box")){
+                                addEventListener("scroll", (event) => {
+                                    var mainBox = document.querySelector(".main-box")
+                                    var sidebox =  document.querySelector(".side-box");
+                                    var stickyTop = document.querySelector(".sticky-con");
+                                    if(document.querySelector(".article-content") && document.querySelector("#main-box").clientHeight > sidebox.clientHeight){
+                                        sidebox.style.height = (document.querySelector("#main-box").clientHeight)+"px";
+                                    }
+                                    if(document.getElementById("search-results")){
+                                        document.querySelector(".sticky-con").style.height = (document.getElementById("search-results").clientHeight - stickyTop.parentElement.offsetTop + 60)+"px";
+                                    } else {
+                                        var targetHeight = mainBox.clientHeight - stickyTop.parentElement.offsetTop - 60;
+                                        if(targetHeight < document.querySelector(".sticky-con .sticky").clientHeight){
+                                            targetHeight = document.querySelector(".sticky-con .sticky").clientHeight;
+                                        }
+                                        document.querySelector(".sticky-con").style.height = targetHeight+"px";
+                                        sidebox.style.height = "auto";
+                                    }
+                                });
+                            } else {
+
+                            }
+                                
+                            })
+                        </script>
+                                    </div>
+                        
+<div class="az-en-kutyam-box row row-1-detailed" style="margin-top: 20px">
+    <div class="grid-item title-3 floated-title">
+                <div class="image-wrapper">
+            <a href="https://welovedogz.hu/elet/aranysakal-vaddiszno/" target="_blank" class="thumbnail-link">
+                <img src="https://welovedogz.hu/media/original_images/2024_04_gettyimages-983955670-1-1-1024x535.jpg" class="thumbnail-image">
+            </a>
+        </div>
+        <div class="content-wrapper">
+            <h2 class="title">
+                <a href="https://welovedogz.hu/elet/aranysakal-vaddiszno/" target="_blank" class="title-link">Megunta a vaddisznókoca az aranysakál sompolygását, hát elzavarta (videó)</a>
+            </h2>
+        </div>
+    </div>
+</div>
+                    </div>
+    </div>
+</div>
+
+
+
+
+
+    </div>
+</div>
+
+<div class="wrap footer-carousel-wrapper">
+    <div class="container">
+        <div id="footer-carousel" class="owl-carousel footer-carousel footer-default">
+            <div class="item">
+                <a href="https://divany.hu/" target="_blank" class="divany"></a>
+            </div>
+
+            <div class="item">
+                <a href="https://index.hu/" target="_blank" class="index"></a>
+            </div>
+
+            <div class="item">
+                <a href="https://welovebudapest.com/" target="_blank" class="we-love-budapest"></a>
+            </div>
+
+            <div class="item">
+                <a href="https://welovebalaton.hu/" target="_blank" class="we-love-balaton"></a>
+            </div>
+
+            <div class="item">
+                <a href="https://revizoronline.com/" target="_blank" class="revizor"></a>
+            </div>
+
+            <div class="item">
+                <a href="https://blog.hu/" target="_blank" class="bloghu"></a>
+            </div>
+
+            <div class="item">
+                <a href="https://indavideo.hu/" target="_blank" class="indavideo"></a>
+            </div>
+        </div>
+    </div>
+</div>
+
+<footer data-role="footer" class="port-2-footer">
+    <section>
+        <div class="container site-container">
+            <ul class="footer-col">
+                <li>
+                    <ul>
+	<li><a href="/lista/mozi-premierek">Filmpremierek</a></li>
+			<li><a target="_blank" href="/adatlap/film/mozi/hogyan-kaszalj-nagyot-how-to-make-a-killing/movie-266932">Hogyan kaszálj nagyot</a></li>
+			<li><a target="_blank" href="/adatlap/film/mozi/mariana-szobaja-la-chambre-de-mariana/movie-267566">Mariana szobája</a></li>
+			<li><a target="_blank" href="/adatlap/film/mozi/pipas-pipas/movie-267076">Pipás</a></li>
+			<li><a target="_blank" href="/adatlap/film/mozi/bts-arirang-tour-elo-kozvetites-bts-world-tour-arirang-in-goyang-live-viewing/movie-267570">BTS Arirang Tour élő közvetítés</a></li>
+	</ul>                </li>
+                <li>
+                    <ul>
+                        <li><a href="/mozi">Kiemelt mozik</a></li>
+                        <li><a href="/helyszin/mozi/cinema-city-allee/place-11170">Cinema City Allee</a></li>
+                        <li><a href="/helyszin/mozi/cinema-city-arena/place-7900">Cinema City Aréna</a></li>
+                        <li><a href="/helyszin/mozi/cinema-city-westend/place-8953">Cinema City Westend</a></li>
+                        <li><a href="/helyszin/mozi/corvin-budapest-filmpalota/place-7928">Corvin Budapest Filmpalota</a></li>
+                        <li><a href="/helyszin/mozi/cinema-city-mom-park/place-8948">Cinema MOM</a></li>
+                    </ul>
+                </li>
+
+                <li>
+                    <ul>
+                        <li><a href="/zene">Kiemelt helyszínek</a></li>
+                        <li><a href="/helyszin/zene/a38-hajo/place-261">A38</a></li>
+                        <li><a href="/helyszin/zene/papp-laszlo-budapest-sportarena/place-8966">Papp László Budapest Sportaréna</a></li>
+                        <li><a href="/helyszin/szinhaz/dumaszinhaz/place-8215">Dumaszínház</a></li>
+                        <li><a href="/helyszin/zene/budapest-jazz-club/place-15316">Budapest Jazz Club</a></li>
+                        <li><a href="/helyszin/szinhaz/mupa/place-8839">Müpa</a></li>
+                    </ul>
+                </li>
+
+                <li>
+                    <ul>
+                        <li><a href="/lista/szinhaz-bemutatok">Színházi bemutatók</a></li>
+                        <li><a href="/programkereso/szinhaz?interval=anytime&events_from=2026-04-15&events_until=&dft=i&cityMain=1&city=cityList-3372">Budapesti színházak</a></li>
+                        <li><a href="/programkereso/szinhaz?interval=today&events_from=2026-04-15&events_until=&dft=i&cityMain=1&city=cityList-3372">Napi színházműsor</a></li>
+                    </ul>
+                    <ul>
+                        <li><a href="/jegy">Jegyvásárlás</a></li>
+                        <li><a href="/programkereso/jegy?interval=anytime&events_from=&events_until=&dft=i&cityMain=1&city=cityList-3372&area=theater">Színházjegy</a></li>
+                        <li><a href="/programkereso/jegy?interval=anytime&events_from=&events_until=&dft=i&cityMain=1&city=cityList-3372&area=concert">Koncertjegy</a></li>
+                    </ul>
+                </li>
+
+                <li>
+                    <ul>
+	<li><a href="/lista/szuletesnapok">Ma született</a></li>
+			<li><a href="/adatlap/szemely/leonardo-da-vinci/person-281400">Leonardo da Vinci</a></li>
+			<li><a href="/adatlap/szemely/emma-thompson/person-3307">Emma Thompson</a></li>
+			<li><a href="/adatlap/szemely/bodrogi-gyula/person-2647">Bodrogi Gyula</a></li>
+			<li><a href="/adatlap/szemely/seth-rogen/person-190301">Seth Rogen</a></li>
+			<li><a href="/adatlap/szemely/szoke-szandra/person-206900">Szőke Szandra</a></li>
+			<li><a href="/adatlap/szemely/michael-kamen/person-15343">Michael Kamen</a></li>
+	</ul>
+                </li>
+
+            </ul><!--footer-col-->
+
+        </div><!--content-size-->
+    </section>
+    <section>
+        <div class="container site-container">
+            <div class="footer-logo-container">
+                <div class="footer-logo footer-logo-port"></div>
+                <div class="footer-logo footer-logo-pku"></div>
+            </div>
+            <ul>
+                <li>
+                    <a target="_blank" href="/impresszum">
+                        Impresszum
+                    </a>
+                </li>
+                <li>
+                    <a target="_blank" href="/cikk/magazin/szerzoi-jogok/article-42099">
+                        Szerzői jogok
+                    </a>
+                </li>
+                <li>
+                    <a href="/aszf-archivum">
+                        Adatkezelési szabályzat
+                    </a>
+                </li>
+                <li>
+                    <a href="/sutik">
+                        Süti szabályzat
+                    </a>
+                </li>
+                <li>
+                    <a href="/site/comment-rules">
+                        Kommentelési szabályzat
+                    </a>
+                </li>
+                <li>
+                    <a href="https://ajanlat.indamediasales.hu/markabiztonsag/Indamedia_Sales_Markabiztonsagi_nyilatkozat.pdf" target="_blank">
+                        Márkabiztonság
+                    </a>
+                </li>
+                <li>
+                    <a href="https://indamediasales.hu/2019/06/25/quality_placement_minosegbiztositasi_tajekoztato_728" target="_blank">
+                        Quality Placement
+                    </a>
+                </li>
+                <li>
+                    <a href="https://indamediasales.hu" target="_blank">
+                        Médiaajánlat
+                    </a>
+                </li>
+                <li>
+                    <a href="/impresszum#szerkesztoseg">
+                        Kapcsolat
+                    </a>
+                </li>
+                
+                <li>
+                    <a class="change-consent" onclick="window.__tcfapi('displayConsentUi', 2, function() {} );">Süti beállítások</a>
+                </li>
+                <li>
+                    <a href="/dsa" target="_blank">
+                        DSA
+                    </a>
+                </li>
+            </ul>
+        </div>
+    </section>
+    <section>
+        <div class="container site-container">
+            <ul class="pull-left">
+                <div class="x_footeradaptive">
+                    <ul class="pull-left">
+                        <li>Hirdetési lehetőségek:</li>
+                        <li>
+                            <a href="https://indamediasales.hu/" target="_blank">
+                                <img src="/img/indamedia_sales_bright.png">
+                            </a>
+                        </li>
+                    </ul>
+                </div>
+            </ul>
+        </div>
+    </section>
+</footer>
+
+<div id="noti-disabled-modal" class="fade modal noti-modals" tabindex="-1" role="dialog" aria-labelledby="olimpia_modal_label">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h5 class="modal-title">Figyelmeztetés</h5>
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                <span aria-hidden="true">&times;</span>
+                </button>
+            </div>
+            <div class="modal-body">
+                <p>Az értesítések jelenleg le vannak tiltva! Amennyiben szeretnél cikkajánlókat kapni, kérlek, hogy a böngésző Beállítások / Értesítések menüpontja alatt állítsd be az értesítések engedélyezését!</p>
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn disablePushNotiPopup">Értem!</button>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+    <div class="fade modal" id="login_modal" tabindex="-1" role="dialog" aria-labelledby="login_modal_label">
+    <div class="modal-dialog ">
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal" aria-hidden="true">×</button>
+                <h2>Bejelentkezés</h2>
+            </div>
+
+            <div class="modal-body">
+                <div id="indpl_login_box_450">
+                    <form action="https://daemon.indapass.hu/http/login" method="POST">
+                        <input type="hidden" name="partner_id" value="port"/>
+                        <input type="hidden" name="redirect_to" value="http://port.hu/cikk/mozi/itt-a-kritika-amely-traumatizalta-quentin-tarantinot-a-karrierje-melypontjakent-elte-meg/article-125132"/>
+                        <div class="indpl_info">
+                            <p>
+                                Jelentkezz be!
+                            </p>
+                        </div>
+                        <div class="indpl_fb_login">
+                            <a class="indpl_container" href="https://indapass.hu/providerlogin/?partner=port&amp;url=http://port.hu/cikk/mozi/itt-a-kritika-amely-traumatizalta-quentin-tarantinot-a-karrierje-melypontjakent-elte-meg/article-125132&amp;autologin=1" onclick="this.href = this.href.replace(/autologin=1/, 'autologin=' + (this.parentNode.parentNode['autologin'].checked ? 1 : 0));">
+                                <div class="indpl_img"></div>
+                                <div class="indpl_caption">
+                                    Belépek Facebookkal
+                                </div>
+                            </a>
+                        </div>
+                        <div class="indpl_or">
+                            <div class="indpl_line"></div>
+                            <div class="indpl_text">VAGY</div>
+                        </div>
+                        <div class="indpl_login">
+                            <div class="indpl_border"></div>
+                            <div class="indpl_err_box">
+                                <div>Hibás email cím vagy jelszó!</div>
+                            </div>
+                            <div class="indpl_formContainer">
+                                <div class="indpl_inputs">
+                                    <input name="username" class="indpl_text indpl_email" placeholder="Indapass email cím" />
+                                    <input name="password" type="password" class="indpl_text indpl_passwd" placeholder="Jelszó" />
+                                </div>
+                                <a href="https://indapass.hu/jelszoemlekezteto/" class="indpl_forgot">Elfelejtettem a jelszavam</a>
+                                <div class="indpl_container">
+                                    <input type="Submit" class="indpl_submit" value="Belépek" />
+                                </div>
+                                <div class="indpl_clr"></div>
+                            </div>
+                        </div>
+                        <div class="indpl_clr"></div>
+                        <div class="indpl_remember">
+                            <div class="checkbox">
+                                <input name="autologin" value="1" type="checkbox" checked="checked" id="indpl_login"/>
+                            </div>
+
+                            <label for="indpl_login">Maradjak belépve</label>
+                        </div>
+                        <div class="indpl_reg">
+                            <a href="https://indapass.hu/regisztracio/port" class="indpl_reg_button">Regisztrálok<span class="indpl_arrows">»</span></a>
+                            <a href="https://indapass.hu/segitseg" class="indpl_question"></a>
+                        </div>
+                        <div class="indpl_clr"></div>
+                        <div class="indpl_hidden_reg"></div>
+                    </form>
+                </div>
+            </div>
+
+        </div>
+    </div>
+</div>    
+
+<div class="advert layer">
+    
+                        <!-- (c)AdOcean 2003-2020, Port_Aloldal_Layer -->
+                        <div id="ado-.CGVEP.s7ZjFt4VHNCYt1LGv7GGnflCsI4Qfg_Vubd..H7" data-id="ado-.CGVEP.s7ZjFt4VHNCYt1LGv7GGnflCsI4Qfg_Vubd..H7" class="iap iap--ado empty bg--transparent ad-label--hidden no-margin">
+                            <script class="iap-script">
+                                window.iap_zones = window.iap_zones || [];
+                                window.iap_zones.push({"id":"ado-.CGVEP.s7ZjFt4VHNCYt1LGv7GGnflCsI4Qfg_Vubd..H7","empty":true,"lazy":false,"quality":true,"masterless":true,"area":"Port_Aloldal_Layer","events":{"loaded":false,"visible":false,"viewed":false},"stat":{"site":"port","path":"\/cikk\/mozi\/itt-a-kritika-amely-traumatizalta-quentin-tarantinot-a-karrierje-melypontjakent-elte-meg\/article-125132","type":"mozi\/cikk"},"porthu":{"id":"ado-.CGVEP.s7ZjFt4VHNCYt1LGv7GGnflCsI4Qfg_Vubd..H7","section":"mozi","type":"cikk","device":"desktop","zone":"layer"}});
+                            </script>
+                        </div>
+                    
+                <!-- (c)AdOcean 2003-2020, Port_Aloldal_Layer_gde_test -->
+                <div id="ado-E07xUtpBDFMsgRykoqv0JBHt.gXveTrqIPJoq0LSGQn.C7" data-id="ado-E07xUtpBDFMsgRykoqv0JBHt.gXveTrqIPJoq0LSGQn.C7" class="iap iap--ado empty bg--transparent">
+                    <script class="iap-script">
+                        window.iap_zones = window.iap_zones || [];
+                        window.iap_zones.push({"id":"ado-E07xUtpBDFMsgRykoqv0JBHt.gXveTrqIPJoq0LSGQn.C7","empty":true,"lazy":false,"quality":false,"masterless":true,"area":"Port_Aloldal_Layer_gde_test","events":{"loaded":false,"visible":false,"viewed":false},"stat":{"site":"port","path":"\/cikk\/mozi\/itt-a-kritika-amely-traumatizalta-quentin-tarantinot-a-karrierje-melypontjakent-elte-meg\/article-125132","type":"mozi\/cikk"},"porthu":{"id":"ado-E07xUtpBDFMsgRykoqv0JBHt.gXveTrqIPJoq0LSGQn.C7","section":"mozi","type":"cikk","device":"desktop","zone":"layer"}});
+                    </script>
+                </div></div>
+
+
+<script src="https://media.port.hu/assets/prod/2b5ec979a785aa0f3d2690dc24a2a83c/jquery.min.js?v=1775745431"></script>
+<script src="https://media.port.hu/assets/prod/7889c4ad332470431db0318d319c38bd/yii.js?v=1775745431"></script>
+<script src="https://media.port.hu/assets/prod/5e578a0bdb9cbf1e78c77a7b63b806ec/js/bootstrap.min.js?v=1775745431"></script>
+<script src="https://media.port.hu/assets/prod/8f00ae1add1eabe5de7a09787bacf9a5/min/moment.min.js?v=1775745431"></script>
+<script src="https://media.port.hu/assets/prod/8f00ae1add1eabe5de7a09787bacf9a5/min/locales.min.js?v=1775745431"></script>
+<script src="https://media.port.hu/assets/prod/ebbeefa7ace7d215cd9eeb585995d02e/src/jquery.dotdotdot.min.js?v=1775745431"></script>
+<script src="https://media.port.hu/assets/prod/d211ca00e7d14536132f61b30b50b929/svgxuse.min.js?v=1775745431" defer="defer"></script>
+<script src="/js/gallery/swiper.min.js?v=1775745235"></script>
+<script src="/js/gallery/crel.min.js?v=1775745233"></script>
+<script src="/js/gallery/gallery2.min.js?v=1775745234"></script>
+<script src="/js/gallery/gallery-init.min.js?v=1775745233"></script>
+<script src="https://media.port.hu/assets/prod/951429a37388ba1a5c344d26eb934b54/dist/owl.carousel.min.js?v=1775745431"></script>
+<script src="/js/toggle-header-modules.min.js?v=1775745251"></script>
+<script src="/js/header-navigation.min.js?v=1775745235"></script>
+<script src="/js/mobile-menu.min.js?v=1775745249"></script>
+<script src="/js/header.min.js?v=1775745235"></script>
+<script src="https://cdn.onesignal.com/sdks/OneSignalSDK.js"></script>
+<script src="/js/jquery-ui/jquery-ui.min.js?v=1775745238"></script>
+<script src="/js/jquery.swipe.min.js?v=1775745239"></script>
+<script src="/js/push-noti.min.js?v=1775745250"></script>
+<script src="/js/analytics.min.js?v=1775745220"></script>
+<script src="/js/calendar.min.js?v=1775745220"></script>
+<script src="/js/carousel.min.js?v=1775745221"></script>
+<script src="/js/events.min.js?v=1775745231"></script>
+<script src="/js/functions.min.js?v=1775745232"></script>
+<script src="/js/gallery.min.js?v=1775745232"></script>
+<script src="/js/index.min.js?v=1775745235"></script>
+<script src="/js/select.min.js?v=1775745250"></script>
+<script src="/js/tabs.min.js?v=1775745251"></script>
+<script src="https://media.port.hu/assets/prod/d7a8e131a891c53e0f75e9b056deaa5d/js/typeahead.bundle.min.js?v=1775745431"></script>
+<script src="https://media.port.hu/assets/prod/d7a8e131a891c53e0f75e9b056deaa5d/js/typeahead-kv.min.js?v=1775745431"></script>
+<script src="https://media.port.hu/assets/prod/d7a8e131a891c53e0f75e9b056deaa5d/js/handlebars.min.js?v=1775745431"></script>
+<script src="https://media.port.hu/assets/prod/cbbdad1271cc63e8280dd6672d9f1059/js/kv-widgets.min.js?v=1775745431"></script>
+<script src="https://media.port.hu/assets/prod/7889c4ad332470431db0318d319c38bd/yii.validation.js?v=1775745431"></script>
+<script src="https://media.port.hu/assets/prod/7889c4ad332470431db0318d319c38bd/yii.activeForm.js?v=1775745431"></script>
+<script>
+    (function() {
+        var sc = document.createElement('script'); sc.type = 'text/javascript'; sc.async = true;
+        sc.src = __passportHeader_config.HEADER_URL + 'passportHeader.js';
+       var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(sc, s);
+    })();</script>
+<script>jQuery(function ($) {
+$(".must-shorten").dotdotdot({watch: true});
+jQuery&&jQuery.pjax&&(jQuery.pjax.defaults.maxCacheLength=0);
+var highlighted_search_data_1 = new Bloodhound({"datumTokenizer":Bloodhound.tokenizers.whitespace,"queryTokenizer":Bloodhound.tokenizers.whitespace,"remote":{"url":"/search/suggest-list","wildcard":"%QUERY","cache":false,"prepare":function (query, settings) {
+                            window.portSearch = query;
+                              //ha van a szabadszavas keresonel kategoria kivalasztva, es az nem "all", akkor get parameterben azt is kuldjuk
+                               var selectedCategory = $("#highlighted-search").closest(".fulltext-search").find(".search-categories:visible").find(".options .option.active .caption").data("value");
+                               settings.data = { "q" : query };
+                               if (selectedCategory !== undefined && selectedCategory != "all"){
+                                    settings.data.category = selectedCategory;
+                               }
+
+                               return settings;
+                           }}});
+kvInitTA('highlighted-search', typeahead_7864e59a, [{"limit":10,"display":"name","templates":{"header":"<div class=\"searchHelpHeader\" onclick=\"$('.search__layer').submit();\"><div class=\"theWord\">Keresés a kifejezésre: <span id=\"search-label-value\"></span></div><div class=\"theQuestion\">Esetleg ezeket keresed?</div></div>","suggestion":Handlebars.compile("<div>\n                        <div class=\"thumbnail {{category.cls}}\">\n                            <img src=\"{{thumbnail}}\" width=\"40\" height=\"40\">\n                        <\/div>\n                        <div class=\"info {{category.cls}}\">\n                            <span class=\"type\">{{category.title}}<\/span>\n                            <span class=\"name\">{{name}}<\/span>\n                            <small class=\"subtitle\">{{subtitle}}<\/small>\n                        <\/div>\n                    <\/div>")},"name":"highlighted_search_data_1","source":highlighted_search_data_1.ttAdapter()}]);
+jQuery("#highlighted-search").on('typeahead:select', function(ev, sel) {
+                            if (sel.url) {
+                                document.location.href=sel.url;
+                                ev.preventDefault();
+                            }
+                        });
+jQuery("#highlighted-search").on('typeahead:render', function(ev, suggestion){
+                            $("#search-label-value").text(window.portSearch);
+                        });
+jQuery('#w5').yiiActiveForm([{"id":"highlighted-search","name":"q","container":".field-highlighted-search","input":"#highlighted-search","validate":function (attribute, value, messages, deferred, $form) {yii.validation.string(value, messages, {"message":"Q csak szöveg lehet.","skipOnEmpty":1});}}], []);
+});</script>
+<!-- adocean adblock mero -->
+<script type="text/javascript">
+    var gemABObj = {
+        docBody: document.getElementsByTagName('body')[0],
+        incScript: document.createElement('SCRIPT'),
+        checkIt: function(){document.getElementById("mnxHDozyKPjB")?pp_gemius_hit("nSdFzTtkvTTrx.B7K13yyfU378aFPueKFs36aeS6yET.A7","addon=no-adblock"):pp_gemius_hit("nSzrCTsGCKuF9KNE6iWTitVrzbu1Eg8GQHsHaml5W8n.b7","addon=adblock")}
+    };
+    gemABObj.incScript.src = '//hu.adocean.pl/files/emitter_global_files/a8a8ba/ads.js';
+    gemABObj.docBody.appendChild(gemABObj.incScript);
+
+    window.addEventListener("load",gemABObj.checkIt);
+</script>
+      </body>
+</html>
