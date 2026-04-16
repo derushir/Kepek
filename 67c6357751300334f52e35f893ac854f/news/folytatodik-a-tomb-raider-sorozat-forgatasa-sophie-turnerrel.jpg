@@ -1,0 +1,1398 @@
+<!DOCTYPE html>  <html>
+
+<head>
+    <title>Esport1 - Lara Croft ismét terepen: újra forog a Tomb Raider-sorozat</title>	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width">
+	<meta name="theme-color" content="#111111" />
+    <meta http-equiv="Content-Language" content="hu" />
+<meta name="robots" content="all" />
+<meta name="robots" content="index,follow" />
+<meta name="robots" content="max-image-preview:large" />
+<meta name="googlebot" content="all" />
+<meta name="googlebot" content="index, follow" />
+<meta name="msnbot" content="index, follow" />
+<meta name="apple-mobile-web-app-capable" content="yes" />
+<meta name="apple-mobile-web-app-status-bar-style" content="black" />
+<meta name="google-site-verification" content="fEo3H4d-3EMqwiCp65pjgiSUb5Q8Zqpg6yH2IPTWo3k" />
+<meta property="og:type" content="website" />
+<meta property="og:site_name" content="Esport1" />
+<meta property="og:title" content="Lara Croft ismét terepen: újra forog a Tomb Raider-sorozat" />
+<meta property="og:description" content="Még március végén írtunk arról, hogy leállt a Tomb Raider-sorozat forgatása, miután a főszereplő, Sophie Turner lesérült. " />
+<meta property="og:image:width" content="1200" />
+<meta property="og:image:height" content="630" />
+<meta property="og:image" content="https://esport1.hu/images/fb_share/69e0cccd3ff92_69e0cccd3ff4e-lara-croft-ismet-terepen-ujra-forog-a-tomb-raider-sorozat.jpg" />
+<meta property="og:url" content="https://esport1.hu/news/2026/04/16/filmek-es-sorozatok-tomb-raider-sorozat-ujra-forgat-sophie-turner-forgatas-meggyogyult-marlasinger-" />
+<meta name="description" content="Sophie Turner háta meggyógyult, újra forog a Tomb Raider-sorozat a TZM információi szerint, sőt van, aki már azt is tudni véli, hogy a Croft-birtoknak melyik helyszín ad majd otthont." />
+<meta name="keywords" content="tomb raider sorozat, tomb raider sorozat forgatsá, sophie turner háta, sophie turner lesérült, Keeley Hawes, Sigourney Weaver,  Celia Imrie, Jason Isaacs, Sigourney Weaver, Martin Bobb-Semple" />    <link href="/assets/desktop/css/all.css?v3.0066" media="screen" rel="stylesheet" type="text/css" />
+<link href="https://esport1.hu/news/2026/04/16/filmek-es-sorozatok-tomb-raider-sorozat-ujra-forgat-sophie-turner-forgatas-meggyogyult-marlasinger-" rel="canonical" />    
+    <link rel="alternate" type="application/rss+xml" href="https://esport1.hu/rss" title="RSS Feed - Esport1 összes hír">
+    <link href="/assets/desktop/img/favicon.png" rel="apple-touch-startup-image">
+    <link href="/assets/desktop/img/favicon.png" rel="shortcut icon">
+   
+    <meta name="facebook-domain-verification" content="9pa5598isvdu0kwfi7s1742216dc12" />
+        <style>
+        /* .slotLeaderboard  {display: none;}  */
+        /* #adp-layer-top-container {height: 250px; display: block;}  */
+        /* .main>.wrapper>header {
+            background-color: #181818;
+            margin-left: -20px;
+            margin-right: -20px;
+            padding: 10px 20px 0px 20px;
+        } */
+        @media only screen and (max-width:720px){
+            #article-recommend-popup {display: none !important;}
+        }
+
+
+        @media only screen and (min-width: 1100px) { 
+
+        .slotLeaderboard  {display: none;} 
+
+            /* 2026-os */
+            body {
+                background: url("/adserver/1920x1080_SzRT_Lutri_KAPUBANNER_GAMEKAPOCS_ver5.jpg") no-repeat center top ;
+            }
+            
+            .bg-drop {
+               background: transparent;
+                background-size: fixed;
+                z-index: 0;
+            }
+
+            .main {
+                margin-top: 330px;
+                background-color: #181818;
+                z-index: 1;
+                position: relative;
+            }
+        }            
+
+    </style>
+    <!--
+<style>
+#adp-layer-right-container {display:none !important;}
+#adp-layer-left-container {display:none !important;}
+#adp-layer-top-container {display:none !important;}
+.bottom-ad {display:none !important;}
+</style>
+-->
+
+    <!-- InMobi Choice. Consent Manager Tag v3.0 (for TCF 2.2) -->
+<script type="text/javascript" async=true>
+(function() {
+  var host = window.location.hostname;
+  var element = document.createElement('script');
+  var firstScript = document.getElementsByTagName('script')[0];
+  var url = 'https://cmp.inmobi.com'
+    .concat('/choice/', '2CFJPrqDGZcGN', '/', host, '/choice.js?tag_version=V3');
+  var uspTries = 0;
+  var uspTriesLimit = 3;
+  element.async = true;
+  element.type = 'text/javascript';
+  element.src = url;
+
+  firstScript.parentNode.insertBefore(element, firstScript);
+
+  function makeStub() {
+    var TCF_LOCATOR_NAME = '__tcfapiLocator';
+    var queue = [];
+    var win = window;
+    var cmpFrame;
+
+    function addFrame() {
+      var doc = win.document;
+      var otherCMP = !!(win.frames[TCF_LOCATOR_NAME]);
+
+      if (!otherCMP) {
+        if (doc.body) {
+          var iframe = doc.createElement('iframe');
+
+          iframe.style.cssText = 'display:none';
+          iframe.name = TCF_LOCATOR_NAME;
+          doc.body.appendChild(iframe);
+        } else {
+          setTimeout(addFrame, 5);
+        }
+      }
+      return !otherCMP;
+    }
+
+    function tcfAPIHandler() {
+      var gdprApplies;
+      var args = arguments;
+
+      if (!args.length) {
+        return queue;
+      } else if (args[0] === 'setGdprApplies') {
+        if (
+          args.length > 3 &&
+          args[2] === 2 &&
+          typeof args[3] === 'boolean'
+        ) {
+          gdprApplies = args[3];
+          if (typeof args[2] === 'function') {
+            args[2]('set', true);
+          }
+        }
+      } else if (args[0] === 'ping') {
+        var retr = {
+          gdprApplies: gdprApplies,
+          cmpLoaded: false,
+          cmpStatus: 'stub'
+        };
+
+        if (typeof args[2] === 'function') {
+          args[2](retr);
+        }
+      } else {
+        if(args[0] === 'init' && typeof args[3] === 'object') {
+          args[3] = Object.assign(args[3], { tag_version: 'V3' });
+        }
+        queue.push(args);
+      }
+    }
+
+    function postMessageEventHandler(event) {
+      var msgIsString = typeof event.data === 'string';
+      var json = {};
+
+      try {
+        if (msgIsString) {
+          json = JSON.parse(event.data);
+        } else {
+          json = event.data;
+        }
+      } catch (ignore) {}
+
+      var payload = json.__tcfapiCall;
+
+      if (payload) {
+        window.__tcfapi(
+          payload.command,
+          payload.version,
+          function(retValue, success) {
+            var returnMsg = {
+              __tcfapiReturn: {
+                returnValue: retValue,
+                success: success,
+                callId: payload.callId
+              }
+            };
+            if (msgIsString) {
+              returnMsg = JSON.stringify(returnMsg);
+            }
+            if (event && event.source && event.source.postMessage) {
+              event.source.postMessage(returnMsg, '*');
+            }
+          },
+          payload.parameter
+        );
+      }
+    }
+
+    while (win) {
+      try {
+        if (win.frames[TCF_LOCATOR_NAME]) {
+          cmpFrame = win;
+          break;
+        }
+      } catch (ignore) {}
+
+      if (win === window.top) {
+        break;
+      }
+      win = win.parent;
+    }
+    if (!cmpFrame) {
+      addFrame();
+      win.__tcfapi = tcfAPIHandler;
+      win.addEventListener('message', postMessageEventHandler, false);
+    }
+  };
+
+  makeStub();
+
+  var uspStubFunction = function() {
+    var arg = arguments;
+    if (typeof window.__uspapi !== uspStubFunction) {
+      setTimeout(function() {
+        if (typeof window.__uspapi !== 'undefined') {
+          window.__uspapi.apply(window.__uspapi, arg);
+        }
+      }, 500);
+    }
+  };
+
+  var checkIfUspIsReady = function() {
+    uspTries++;
+    if (window.__uspapi === uspStubFunction && uspTries < uspTriesLimit) {
+      console.warn('USP is not accessible');
+    } else {
+      clearInterval(uspInterval);
+    }
+  };
+
+  if (typeof window.__uspapi === 'undefined') {
+    window.__uspapi = uspStubFunction;
+    var uspInterval = setInterval(checkIfUspIsReady, 6000);
+  }
+})();
+</script>
+<!-- End InMobi Choice. Consent Manager Tag v3.0 (for TCF 2.2) -->
+
+    <!--[if lt IE 9]>
+   
+        <![endif]-->
+    <!--[if (gte IE 6)&(lte IE 8)]>
+            <script type="text/javascript" src="/assets/desktop/js/selectivizr-min.js"></script>
+        <![endif]-->
+    <!-- 
+        <script>
+            window.fbAsyncInit = function() {
+              FB.init({
+                appId      : '1779263728980368',
+                xfbml      : true,
+                version    : 'v2.6'
+              });
+            };
+
+            (function(d, s, id){
+               var js, fjs = d.getElementsByTagName(s)[0];
+               if (d.getElementById(id)) {return;}
+               js = d.createElement(s); js.id = id;
+               js.src = "//connect.facebook.net/en_US/sdk.js";
+               fjs.parentNode.insertBefore(js, fjs);
+             }(document, 'script', 'facebook-jssdk'));
+          </script> -->
+
+    <script>
+        (function(i, s, o, g, r, a, m) {
+            i['GoogleAnalyticsObject'] = r;
+            i[r] = i[r] || function() {
+                (i[r].q = i[r].q || []).push(arguments)
+            }, i[r].l = 1 * new Date();
+            a = s.createElement(o),
+                m = s.getElementsByTagName(o)[0];
+            a.async = 1;
+            a.src = g;
+            m.parentNode.insertBefore(a, m)
+        })(window, document, 'script', 'https://www.google-analytics.com/analytics.js', 'ga');
+
+        ga('create', 'UA-80489022-1', 'auto');
+        ga('send', 'pageview');
+    </script>
+    <script src='https://www.google.com/recaptcha/api.js'></script>
+    <!-- Facebook Pixel Code -->
+    <script>
+        ! function(f, b, e, v, n, t, s) {
+            if (f.fbq) return;
+            n = f.fbq = function() {
+                n.callMethod ?
+                    n.callMethod.apply(n, arguments) : n.queue.push(arguments)
+            };
+            if (!f._fbq) f._fbq = n;
+            n.push = n;
+            n.loaded = !0;
+            n.version = '2.0';
+            n.queue = [];
+            t = b.createElement(e);
+            t.async = !0;
+            t.src = v;
+            s = b.getElementsByTagName(e)[0];
+            s.parentNode.insertBefore(t, s)
+        }(window, document, 'script',
+            'https://connect.facebook.net/en_US/fbevents.js');
+        fbq('init', '848475978846545');
+        fbq('track', 'PageView');
+    </script>
+    <noscript>
+        <img height="1" width="1" src="https://www.facebook.com/tr?id=848475978846545&ev=PageView&noscript=1" />
+    </noscript>
+    <!-- <script async src="//paslsa.com/c/esport1.js"></script> -->
+    <!-- <script async src="//pahtbt.tech/c/esport1.js"></script> -->
+    <!-- End Facebook Pixel Code -->
+
+    <script>
+        var breaking = false    </script>
+
+	
+    
+    <script type="application/javascript" async=true>
+        var debugVersion=Date.now();const admeLocalQueryString=window.location.search,admeLocalUrlParams=new URLSearchParams(admeLocalQueryString),admeLocalDebug=admeLocalUrlParams.has("admeDebug"),admeUrl="https://link.adaptivemedia.hu/adme/extra/adme",admeLink=admeLocalDebug?admeUrl+".js?v="+debugVersion:admeUrl+".min.js",admeElement=document.createElement("script");admeElement.src=admeLink,document.head.appendChild(admeElement),admeElement.onload=()=>{console.log("adme.js loaded")},admeElement.onerror=()=>{console.log("adme.js cannot be loaded")};
+    </script>
+
+    <!-- <script>
+        function getMonday(d) {
+            d = new Date(d);
+            var day = d.getDay(),
+                diff = d.getDate() - day + (day == 0 ? -6 : 1);
+            return new Date(d.setDate(diff));
+        }
+
+
+        var version = getMonday(new Date()).toISOString().slice(0, 10).replaceAll("-", "");
+
+        const admeLocalQueryString = window.location.search;
+        const admeLocalUrlParams = new URLSearchParams(admeLocalQueryString);
+        const admeLocalDebug = admeLocalUrlParams.has('admeDebug');
+
+        if (admeLocalDebug) {
+            document.write("<script type=\"text/javascript\" src=\"https://link.adaptivemedia.hu/adme/extra/adme-core-async-general.js?v=" + version + "\"><\/script>");
+        } else {
+            document.write("<script type=\"text/javascript\" src=\"https://link.adaptivemedia.hu/adme/extra/adme-core-async-general.min.js?v=" + version + "\"><\/script>");
+        }
+    </script> -->
+    
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-TC4ZKHW');</script>
+<!-- End Google Tag Manager -->
+<!-- <script>
+!function (w, d, t) {
+  w.TiktokAnalyticsObject=t;var ttq=w[t]=w[t]||[];ttq.methods=["page","track","identify","instances","debug","on","off","once","ready","alias","group","enableCookie","disableCookie"],ttq.setAndDefer=function(t,e){t[e]=function(){t.push([e].concat(Array.prototype.slice.call(arguments,0)))}};for(var i=0;i<ttq.methods.length;i++)ttq.setAndDefer(ttq,ttq.methods[i]);ttq.instance=function(t){for(var e=ttq._i[t]||[],n=0;n<ttq.methods.length;n++)ttq.setAndDefer(e,ttq.methods[n]);return e},ttq.load=function(e,n){var i="https://analytics.tiktok.com/i18n/pixel/events.js";ttq._i=ttq._i||{},ttq._i[e]=[],ttq._i[e]._u=i,ttq._t=ttq._t||{},ttq._t[e]=+new Date,ttq._o=ttq._o||{},ttq._o[e]=n||{};var o=document.createElement("script");o.type="text/javascript",o.async=!0,o.src=i+"?sdkid="+e+"&lib="+t;var a=document.getElementsByTagName("script")[0];a.parentNode.insertBefore(o,a)};
+
+  ttq.load('CH5PPPBC77U2I5R8K8DG');
+  ttq.page();
+}(window, document, 'ttq');
+</script>   -->
+ 
+ 
+
+
+</head>
+
+<body>
+<div id="adp-layer-top-container"></div>
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-TC4ZKHW"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+<!-- (c) 2000-2026 Gemius SA version 2.0 Impressions: campaign: NLM SZRT Lutri 2026, placement: /Village Media/gamekapocs.hu/kapubanner , creative: link_kapu  -->
+<IMG SRC="https://gdehu.hit.gemius.pl/_[TIMESTAMP]/redot.gif?id=p32V9rNtCWkuuhHFYdwjFZXkHdwpLPrHjup_zPf2a3n.77/fastid=esardpjkaenmehepvhgljmxftnkb/stparam=rppkpmknwl/nc=0/gdpr=0/gdpr_consent=" />
+<a href="https://gdehu.hit.gemius.pl/hitredir/id=p32V9rNtCWkuuhHFYdwjFZXkHdwpLPrHjup_zPf2a3n.77/fastid=hfkgniogtceeowggpmpzruqyrnmi/stparam=lbohgxngwf/nc=0/gdpr=0/gdpr_consent=/url=https://bet.szerencsejatek.hu/jatekok/lutri/leiras?utm_source=mediavasarlas1401_gamekapocs.hu&utm_content=SzRT_Lutri_KAPUBANNER&utm_medium=kapubanner&utm_campaign=2026-lutri">
+
+
+    <div class="bg-drop"></div>
+    </a>
+
+    <div class="main" style="max-width: 1090px;">
+        <div class="wrapper">
+            <header class="slotHeader">
+                <div class="d-flex" style="align-items: center;">
+                    <a href="/">
+                        <img src="/assets/desktop/img/logo-e1hu.png" alt="" class="main-logo">
+                    </a>
+
+                    <div class="theme-switch-wrapper">
+                        <label class="theme-switch" for="checkbox">
+                            <input type="checkbox" id="checkbox" />
+                            <div class="slider round"></div>
+                        </label>
+                    </div>
+                    <div class="d-flex darkmode-icon">
+                        <svg width="18" height="18" viewBox="0 0 11 11" fill="none" xmlns="http://www.w3.org/2000/svg">
+                            <path d="M0.65625 5.25C0.65625 7.92578 2.82422 10.0938 5.5 10.0938C8.15625 10.0938 10.3438 7.92578 10.3438 5.25C10.3438 2.59375 8.15625 0.40625 5.5 0.40625C2.82422 0.40625 0.65625 2.59375 0.65625 5.25ZM5.5 8.84375V1.65625C7.47266 1.65625 9.09375 3.27734 9.09375 5.25C9.09375 7.24219 7.47266 8.84375 5.5 8.84375Z" fill="white" />
+                        </svg>
+                    </div>
+                </div>
+                <div class="header-right">
+
+                    <div class="desktop-nav-holder">
+                        <div class="desktop-nav">
+                        <div class="item">
+                <a href="https://www.youtube.com/channel/UC63OM61f7lc2tUtYHleNAnA" target="_blank">
+                <div class="icon-holder">
+                <svg width="25" height="21" viewBox="0 0 25 21" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
+                        <path d="M23.8,4.8C23.5,3.8 22.7,3 21.7,2.7C19.9,2.2 12.5,2.2 12.5,2.2C12.5,2.2 5.1,2.2 3.3,2.7C2.3,3 1.5,3.8 1.2,4.8C0.7,6.6 0.7,10.5 0.7,10.5C0.7,10.5 0.7,14.3 1.2,16.2C1.5,17.2 2.3,18 3.3,18.3C5.1,18.8 12.5,18.8 12.5,18.8C12.5,18.8 19.9,18.8 21.7,18.3C22.7,18 23.5,17.2 23.8,16.2C24.3,14.4 24.3,10.5 24.3,10.5C24.3,10.5 24.3,6.7 23.8,4.8ZM10.2,14L10.2,7L16.3,10.5L10.2,14Z" style="fill:rgb(225,225,225);fill-rule:nonzero;"/>
+                </svg>
+
+                </div>
+                <b>Videó</b>
+                </a>
+            </div>
+
+                            <div class="item">
+                                <a href="/e1tv">
+                                                            <div class="icon-holder">
+                                    <svg width="25" height="21" viewBox="0 0 25 21" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                        <path d="M23.125 0.5H1.875C0.820312 0.5 0 1.35938 0 2.375V14.875C0 15.9297 0.820312 16.75 1.875 16.75H11.25V18H4.375C4.02344 18 3.75 18.3125 3.75 18.625V19.875C3.75 20.2266 4.02344 20.5 4.375 20.5H20.625C20.9375 20.5 21.25 20.2266 21.25 19.875V18.625C21.25 18.3125 20.9375 18 20.625 18H13.75V16.75H23.125C24.1406 16.75 25 15.9297 25 14.875V2.375C25 1.35938 24.1406 0.5 23.125 0.5ZM22.5 14.25H2.5V3H22.5V14.25Z" fill="#E1E1E1" />
+                                    </svg>
+                                </div>
+                                                       
+                                <b>E1TV</b>
+                                </a>
+                            </div>
+
+                            <div class="item">
+                                <a href="/market">
+                                    <div class="icon-holder">
+                                        <svg width="28" height="24" viewBox="0 0 28 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                            <path d="M24.75 14.1562L26.9531 4.40625C27.0938 3.70312 26.5781 3 25.8281 3H7.45312L7.03125 0.9375C6.89062 0.421875 6.42188 0 5.90625 0H1.125C0.46875 0 0 0.515625 0 1.125V1.875C0 2.53125 0.46875 3 1.125 3H4.35938L7.6875 19.125C6.89062 19.5938 6.375 20.4375 6.375 21.375C6.375 22.8281 7.54688 24 9 24C10.4062 24 11.625 22.8281 11.625 21.375C11.625 20.6719 11.2969 20.0156 10.8281 19.5H20.625C20.1562 20.0156 19.875 20.6719 19.875 21.375C19.875 22.8281 21.0469 24 22.5 24C23.9062 24 25.125 22.8281 25.125 21.375C25.125 20.3438 24.5156 19.4531 23.625 19.0312L23.8594 17.9062C24.0469 17.2031 23.4844 16.5 22.7812 16.5H10.2188L9.89062 15H23.625C24.1406 15 24.6094 14.6719 24.75 14.1562Z" fill="white" />
+                                        </svg>
+
+                                    </div>
+                                    <b>PIAC</b>
+                                </a>
+                            </div>
+
+
+
+
+                                                            <div class="item">
+                                    <a href="/user/login">
+                                        <div class="icon-holder avatar-holder">
+                                            <img src="/images/e1_avatar.jpg">
+                                        </div>
+                                        <b>Belépés</b>
+                                    </a>
+                                </div>
+                            
+
+
+                            <div class="item">
+                                <div class="icon-holder">
+                                    <div class="menu-bar">
+                                        <button class="openX" id="main-menu-btn">
+                                            <span class="icon-bar"></span>
+                                            <span class="icon-bar"></span>
+                                            <span class="icon-bar"></span>
+                                        </button>
+                                    </div>
+
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                            </header>
+
+            <div class="main-content">
+                <div class="row">
+                    <div class="col-md-12">
+                                            </div>
+                </div>
+
+                <!--- CLS -->
+                <div class="cls-header-1 slotLeaderboard">
+
+                </div>
+
+                <script type="application/ld+json">
+{
+    "@context": "https://schema.org",
+    "@type": "NewsArticle",
+    "inLanguage": "hu",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://esport1.hu/news/2026/04/16/filmek-es-sorozatok-tomb-raider-sorozat-ujra-forgat-sophie-turner-forgatas-meggyogyult-marlasinger-"
+    },
+    "headline": "Lara Croft ismét terepen: újra forog a Tomb Raider-sorozat",
+    "image": "https://esport1.hu/images/69e0cccd14a8a_69e0cccd14a45-lara-croft-ismet-terepen-ujra-forog-a-tomb-raider-sorozat.jpg",
+    "datePublished": "2026-04-16T20:00:00",                
+    "author": {
+        "@type": "Person",
+        "name": "MarlaSinger"
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Esport1",
+        "url": "https://esport1.hu",
+        "logo": {
+            "@type": "ImageObject",
+            "url": "https://esport1.hu/assets/desktop/img/favicon.png",
+            "width": 100,
+            "height": 100
+        }
+    },
+    "description": "Sophie Turner háta meggyógyult, újra forog a Tomb Raider-sorozat a TZM információi szerint, sőt van, aki már azt is tudni véli, hogy a Croft-birtoknak melyik helyszín ad majd otthont.",        
+    "keywords": "tomb raider sorozat, tomb raider sorozat forgatsá, sophie turner háta, sophie turner lesérült, Keeley Hawes, Sigourney Weaver,  Celia Imrie, Jason Isaacs, Sigourney Weaver, Martin Bobb-Semple"        
+}
+</script>
+
+<script type="application/bannerData" id="adData">
+{
+    "url"         : "/news/2026/04/16/filmek-es-sorozatok-tomb-raider-sorozat-ujra-forgat-sophie-turner-forgatas-meggyogyult-marlasinger-",
+    "uid"         : "67925",
+    "pageType"    : "article",
+    "keywords"    : ["tomb raider sorozat","tomb raider sorozat forgatsá","sophie turner háta","sophie turner lesérült","Keeley Hawes","Sigourney Weaver","Celia Imrie","Jason Isaacs","Sigourney Weaver","Martin Bobb-Semple"],
+    "category"    : "44",
+    "adult"        : 0,
+    "gSens"        : 0,
+    "noads"        : 0,
+    "extraData"    : []
+}
+</script>
+
+
+<div class="row main-col-holder">
+
+
+
+
+<div class="main-col-left">
+
+    <div class="article-page article-holder" data-game="44" data-article="67925">
+        <!-- TOP -->
+
+        <section class="content">
+            <article>
+                <header>
+                    <!-- TOP ARTICLE -->
+                    <img src="/images/69e0cccd14a8a_69e0cccd14a45-lara-croft-ismet-terepen-ujra-forog-a-tomb-raider-sorozat.jpg" alt="Lara Croft ismét terepen: újra forog a Tomb Raider-sorozat"  title="Lara Croft ismét terepen: újra forog a Tomb Raider-sorozat" class="w100 article-main-image">
+                    <div class="title-holder">
+                        <h1>Lara Croft ismét terepen: újra forog a Tomb Raider-sorozat</h1>
+                    </div>
+                </header>
+
+                <div class="article-content slotArticle">
+                    <p><strong>M&eacute;g m&aacute;rcius v&eacute;g&eacute;n &iacute;rtunk arr&oacute;l, hogy le&aacute;llt a Tomb Raider-sorozat forgat&aacute;sa, miut&aacute;n a főszereplő, Sophie Turner les&eacute;r&uuml;lt.&nbsp;</strong></p>
+                    
+
+                    
+
+                    <p>A m&aacute;rciusi k&eacute;nyszersz&uuml;net ut&aacute;n most &uacute;gy n&eacute;z ki, ism&eacute;t s&iacute;nre ker&uuml;lt az Amazon MGM-f&eacute;le Tomb Raider-sorozat. Sophie Turner fel&eacute;p&uuml;lt a h&aacute;t&shy;s&eacute;r&uuml;l&eacute;s&eacute;ből, &iacute;gy a forgat&aacute;s &uacute;jra teljes gőzzel zajlik, r&aacute;ad&aacute;sul a TMZ &eacute;rtes&uuml;l&eacute;sei szerint a le&aacute;ll&aacute;s nem bor&iacute;totta fel a gy&aacute;rt&aacute;si &uuml;temtervet sem. A janu&aacute;rban indult produkci&oacute; teh&aacute;t komolyabb cs&uacute;sz&aacute;s n&eacute;lk&uuml;l halad tov&aacute;bb, &eacute;s van, aki m&aacute;r azt is tudni v&eacute;li, hogy&nbsp;a legend&aacute;s Croft-birtoknak melyik helysz&iacute;n ad majd otthont.&nbsp;</p>
+<div class="iframely-embed">
+<div class="iframely-responsive" style="padding-bottom: 52.5%; padding-top: 120px;"><a href="https://www.pcguru.hu/hirek/sophie-turner-hata-meggyogyult-ujra-forog-a-tomb-raider-sorozat-lara-croft-videojatek-adaptacio-marlasinger-/100315" data-iframely-url="https://iframely.net/WlgPtM3J?theme=light"></a></div>
+</div>
+<script async="" src="https://iframely.net/embed.js"></script>
+<p>Bor&iacute;t&oacute;k&eacute;p forr&aacute;sa: Amazon MGM&nbsp;</p>                </div>
+
+
+                
+
+                
+                
+                
+                <span class="article-info">
+                                                    <img src="/images/avatar/66b35d5257c1a_66b35d5257bd4-marlasinger.jpg" class="avatar pull-left" />
+                                                                            MarlaSinger                        
+                        
+                                                    <!-- <div class="savepost pull-right" attr-link=""><i class="fa fa-save"></i> Cikk mentése</div> -->
+                        
+                        <br>
+                        26/04/16  20:00
+                    </span>
+
+                <h4>Kövess Minket!</h4>
+                <div class="social">
+                    <a href="https://www.facebook.com/esport1.gg" target="_blank">
+                        <div>
+                            <img src="/assets/desktop/img/social_v3/facebook.png" class="social-icon" alt="" loading="lazy">
+                        </div>
+                    </a>
+                    <a href="https://www.instagram.com/esport1/" target="_blank">
+                        <div>
+                            <img src="/assets/desktop/img/social_v3/instagram.png" class="social-icon" alt="" loading="lazy" >
+                        </div>
+                    </a>
+                    <a href="https://www.youtube.com/channel/UC63OM61f7lc2tUtYHleNAnA" target="_blank">
+                        <div>
+                            <img src="/assets/desktop/img/social_v3/youtube.png" class="social-icon" alt=""  loading="lazy">
+                        </div>
+                    </a>
+                    <a href="https://www.tiktok.com/@esport1.hu" target="_blank">
+                        <div>
+                            <img src="/assets/desktop/img/social_v3/tiktok.png" class="social-icon" alt=""  loading="lazy">
+                        </div>
+
+                    </a>
+                </div>
+
+                <br>
+
+                <span class="tags-holder">
+                    <div class="video-tags">
+                                                    <a href="/news/movies">#movies</a>
+                                            </div>
+                </span>
+                <br>
+
+                                    <span class="tags-holder">
+                        <h2>Gamer szótár</h2>
+                        <div class="video-tags">
+                                                            <a href="/dictionary/botok" style="padding: 10px 20px; font-size:14px;">Botok</a>
+                                                            <a href="/dictionary/overpowered-(op)" style="padding: 10px 20px; font-size:14px;">Overpowered (OP)</a>
+                                                    </div>
+                    </span>
+                    <br>
+                
+            </article>
+
+            
+                        
+<div class="article-reaction-holder">
+    
+<button class="reaction-btn" data-type="1" data-article="67925"   >
+        <span class="raction-normal like" ></span>    
+        <span class="rection-counter reaction_like"  >1</span>
+        </button>
+<button class="reaction-btn" data-type="2" data-article="67925"   >
+        <span class="raction-normal angry" ></span>    
+        <span class="rection-counter reaction_angry"  >0</span>
+        </button>
+<button class="reaction-btn" data-type="3" data-article="67925"   >
+        <span class="raction-normal love" ></span>    
+        <span class="rection-counter reaction_love"  >0</span>
+        </button>
+<button class="reaction-btn" data-type="4" data-article="67925"   >
+        <span class="raction-normal happy" ></span>    
+        <span class="rection-counter reaction_happy"  >0</span>
+        </button>
+<button class="reaction-btn" data-type="5" data-article="67925"   >
+        <span class="raction-normal sad" ></span>    
+        <span class="rection-counter reaction_sad"  >0</span>
+        </button>
+<button class="reaction-btn" data-type="6" data-article="67925"   >
+        <span class="raction-normal surprise" ></span>    
+        <span class="rection-counter reaction_surprise"  >0</span>
+        </button>
+</div>
+
+
+            <footer style="float:left;width:100%; padding-top:20px;" class="slotSelfContent">
+
+
+
+                                <!-- <div class="share jssocials"></div>  -->
+
+                <!-- new tabola -->
+                                    <h3>Partnereink ajánlata</h3>
+
+                    <div class="tabola-holder">
+                                                        <article>
+                                    <header>
+                                        <a href="https://www.origo.hu/techbazis/2025/08/esport-bajnoksag-telekom-playit-t-esports-championship?utm_source=esport1&utm_medium=referral&utm_campaign=ott_esport101" class="article-image-list-holder" target="_blank">
+                                       
+                                            <img  class="w100 article-image-list" style="aspect-ratio: 16 / 9;object-fit: cover;" src="https://cdn.origo.hu/2025/08/Q3gmQY0D4Pn_B3UjAd_FsqpcDkQrya6LaGJmlP4K-JA/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50LzhhODhmMjhiNjkwMTQxOGViZTdhOTQ4MmMwZGE5NjQw.webp" alt="" loading="lazy">                                        
+
+                                        </a>
+                                        <div class="">
+                                            <a href="https://www.origo.hu/techbazis/2025/08/esport-bajnoksag-telekom-playit-t-esports-championship?utm_source=esport1&utm_medium=referral&utm_campaign=ott_esport101" target="_blank">
+                                                <h3>Most tényleg megéri órákig a gép előtt ülni – mutatjuk, miért</h3>
+                                            </a>
+                                        </div>
+                                    </header>
+                                </article>
+                                                                                    <article>
+                                    <header>
+                                        <a href="https://www.origo.hu/sport/sport-egyeni/2025/08/alica-schmidt-nehez-dontest-hozpott-szunetet-tart?utm_source=esport1&utm_medium=referral&utm_campaign=ott_esport102" class="article-image-list-holder" target="_blank">
+                                       
+                                            <img  class="w100 article-image-list" style="aspect-ratio: 16 / 9;object-fit: cover;" src="https://cdn.origo.hu/2025/08/TSlXSxSu-_Qb7r5uLqxH36G4Wx6mOsqkjbNVNzgj3hc/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50LzNiYWRjMDA5NWNkNjQxMTQ4ZGQ5ZjM5MTFiMGQ2NjVj.webp" alt="" loading="lazy">                                        
+
+                                        </a>
+                                        <div class="">
+                                            <a href="https://www.origo.hu/sport/sport-egyeni/2025/08/alica-schmidt-nehez-dontest-hozpott-szunetet-tart?utm_source=esport1&utm_medium=referral&utm_campaign=ott_esport102" target="_blank">
+                                                <h3>Elszomorította a rajongókat a világ legszexisebb sportolónője</h3>
+                                            </a>
+                                        </div>
+                                    </header>
+                                </article>
+                                                                                    <article>
+                                    <header>
+                                        <a href="https://www.origo.hu/techbazis/2025/08/samsung-micro-rgb-panel-luxusteve?utm_source=esport1&utm_medium=referral&utm_campaign=ott_esport103" class="article-image-list-holder" target="_blank">
+                                       
+                                            <img  class="w100 article-image-list" style="aspect-ratio: 16 / 9;object-fit: cover;" src="https://cdn.origo.hu/2025/08/7RrTez5AIAO4dgNFBnXXowGdXsn2FPN-VrS0P2O3CBE/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50L2JmYjQyNzgwN2I1MzQ4ZjI4MTllODE4M2UxYjY5MTdk.webp" alt="" loading="lazy">                                        
+
+                                        </a>
+                                        <div class="">
+                                            <a href="https://www.origo.hu/techbazis/2025/08/samsung-micro-rgb-panel-luxusteve?utm_source=esport1&utm_medium=referral&utm_campaign=ott_esport103" target="_blank">
+                                                <h3>Forradalmi tévékijelzőt talált fel a Samsung</h3>
+                                            </a>
+                                        </div>
+                                    </header>
+                                </article>
+                                                                                    <article>
+                                    <header>
+                                        <a href="https://www.origo.hu/filmklub/2025/08/zendaya-pokember-dune-odusszeia-euforia-shrek-drama?utm_source=esport1&utm_medium=referral&utm_campaign=ott_esport105" class="article-image-list-holder" target="_blank">
+                                       
+                                            <img  class="w100 article-image-list" style="aspect-ratio: 16 / 9;object-fit: cover;" src="https://cdn.origo.hu/2025/08/noiYhYL1bMP4cjHGFfi4_aPHDLHox6-sAphvhc_S64s/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50Lzk4YzA5MWNhNDIzNTRkMDRiYWZjZDc0MjAyNGY0MDNh.webp" alt="" loading="lazy">                                        
+
+                                        </a>
+                                        <div class="">
+                                            <a href="https://www.origo.hu/filmklub/2025/08/zendaya-pokember-dune-odusszeia-euforia-shrek-drama?utm_source=esport1&utm_medium=referral&utm_campaign=ott_esport105" target="_blank">
+                                                <h3>Zendaya éve lesz 2026: 5+1 film, amiben a színésznőt láthatjuk jövőre</h3>
+                                            </a>
+                                        </div>
+                                    </header>
+                                </article>
+                                                                                    <article>
+                                    <header>
+                                        <a href="https://www.borsonline.hu/foci/2025/08/cristiano-ronaldo-velemeny-gyokeres-viktor?utm_source=esport1&utm_medium=referral&utm_campaign=ott_esport110" class="article-image-list-holder" target="_blank">
+                                       
+                                            <img  class="w100 article-image-list" style="aspect-ratio: 16 / 9;object-fit: cover;" src="https://cdn.borsonline.hu/2025/03/0WtHMtcoNtJ9NfC0JS8PKAaapsP7NdQ1-3iUTmBnaTg/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50L2FjYThhNDkxYjMxODQ5NDViOWFjMmMxMzJlOGU2NjU5.webp" alt="" loading="lazy">                                        
+
+                                        </a>
+                                        <div class="">
+                                            <a href="https://www.borsonline.hu/foci/2025/08/cristiano-ronaldo-velemeny-gyokeres-viktor?utm_source=esport1&utm_medium=referral&utm_campaign=ott_esport110" target="_blank">
+                                                <h3>Cristiano Ronaldónak megvan a véleménye a magyar focistáról</h3>
+                                            </a>
+                                        </div>
+                                    </header>
+                                </article>
+                                                                                    <article>
+                                    <header>
+                                        <a href="https://ripost.hu/tuzeloallas/2025/08/liverpool-isak-sztrajk-van-dijk?utm_source=esport1&utm_medium=referral&utm_campaign=ott_esport111" class="article-image-list-holder" target="_blank">
+                                       
+                                            <img  class="w100 article-image-list" style="aspect-ratio: 16 / 9;object-fit: cover;" src="https://cdn.ripost.hu/2025/08/4dCUd82XJJcvQu4z7zxR_dZrJG9U1oz9jOGEtLvVNrk/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50LzQzODkyMTkzNDEzYjRjNjE5YTJlZmM3MTFmMmE1ZjFk.jpg" alt="" loading="lazy">                                        
+
+                                        </a>
+                                        <div class="">
+                                            <a href="https://ripost.hu/tuzeloallas/2025/08/liverpool-isak-sztrajk-van-dijk?utm_source=esport1&utm_medium=referral&utm_campaign=ott_esport111" target="_blank">
+                                                <h3>Áll a bál a Liverpool körül, Szoboszlaiéknál sztrájkról szólnak a hírek</h3>
+                                            </a>
+                                        </div>
+                                    </header>
+                                </article>
+                                                                        </div>
+                
+                <!-- Gamestar Tabola -->
+                                    <h3>Gamestar</h3>
+
+                    <div class="tabola-holder">
+                                                        <article>
+                                    <header>
+                                        <a href="https://www.pcwplus.hu/pcwlite/egy-zuckerberget-gunyolo-polo-ami-tobbet-hozott-a-blueskynak-mint-ket-ev-uzleti-tevekenysege-364137.html" class="article-image-list-holder" target="_blank">
+                                            <img  class="w100 article-image-list" style="aspect-ratio: 16 / 9;object-fit: cover;" src="https://i.cdn29.hu/apix_collect_c/ngg_images/2503/21/jay_graber_125322_2_original_390x220_cover.jpg" alt="" loading="lazy">                                        
+                                        </a>
+                                        <div class="">
+                                            <a href="https://www.pcwplus.hu/pcwlite/egy-zuckerberget-gunyolo-polo-ami-tobbet-hozott-a-blueskynak-mint-ket-ev-uzleti-tevekenysege-364137.html" target="_blank">
+                                                <h3>Egy Zuckerberget gúnyoló póló, ami többet hozott a Blueskynak, mint két év üzleti tevékenysége</h3>
+                                            </a>
+                                        </div>
+                                    </header>
+                                </article>
+                                                                                    <article>
+                                    <header>
+                                        <a href="https://www.gsplus.hu/masvilag/jason-momoa-szerint-lobo-megjelenese-a-supergirlfilmben-hu-lesz-a-kepregenyekhez-364152.html" class="article-image-list-holder" target="_blank">
+                                            <img  class="w100 article-image-list" style="aspect-ratio: 16 / 9;object-fit: cover;" src="https://i.cdn29.hu/apix_collect_c/ngg_images/2503/21/lobo_195317_1_original_390x220_cover.jpg" alt="" loading="lazy">                                        
+                                        </a>
+                                        <div class="">
+                                            <a href="https://www.gsplus.hu/masvilag/jason-momoa-szerint-lobo-megjelenese-a-supergirlfilmben-hu-lesz-a-kepregenyekhez-364152.html" target="_blank">
+                                                <h3>Jason Momoa szerint Lobo megjelenése a Supergirl-filmben hű lesz a képregényekhez</h3>
+                                            </a>
+                                        </div>
+                                    </header>
+                                </article>
+                                                                                    <article>
+                                    <header>
+                                        <a href="https://www.gsplus.hu/hir/hatalmas-botrany-lett-az-ark-survival-evolved-bovitmenyenek-ai-elozetesebol-364151.html" class="article-image-list-holder" target="_blank">
+                                            <img  class="w100 article-image-list" style="aspect-ratio: 16 / 9;object-fit: cover;" src="https://i.cdn29.hu/apix_collect_c/ngg_images/2503/21/ark_aquatica_193720_1_original_390x220_cover.jpg" alt="" loading="lazy">                                        
+                                        </a>
+                                        <div class="">
+                                            <a href="https://www.gsplus.hu/hir/hatalmas-botrany-lett-az-ark-survival-evolved-bovitmenyenek-ai-elozetesebol-364151.html" target="_blank">
+                                                <h3>Hatalmas botrány lett az Ark: Survival Evolved bővítményének AI előzeteséből</h3>
+                                            </a>
+                                        </div>
+                                    </header>
+                                </article>
+                                                                        </div>
+                
+                
+
+
+                
+
+
+                    <div class="comments-holder slotComments">
+
+                                                <!-- Comments -->
+                        <ul class="comments">
+                            <!-- Comment Row -->
+                             
+    
+
+
+    <script>
+
+
+    </script>
+
+        
+                        </ul>
+                                                    <div class="clearfix"></div>
+                            <div class="new-comments" style="margin-top:10px;">
+                                <a href="/user/login?redirect=/news/2026/04/16/filmek-es-sorozatok-tomb-raider-sorozat-ujra-forgat-sophie-turner-forgatas-meggyogyult-marlasinger-">Lépj be</a>, ha hozzá akarsz szólni!
+                            </div>
+
+                                            </div>
+
+                
+                <!--<div class="fb-comments" data-href="https://esport1.hu/news/2026/04/16/filmek-es-sorozatok-tomb-raider-sorozat-ujra-forgat-sophie-turner-forgatas-meggyogyult-marlasinger-" data-numposts="5" width="100%"></div>-->
+            </footer>
+
+        </section>
+
+    </div>
+
+
+
+
+</div>
+
+
+<!-- right -->
+<div class="main-col-right">
+
+
+    <!--- Podcast --->
+    
+  
+
+
+    <div class="pull-left slotSingleColumn">
+        <div class="cls-right-1 slotHalfpage"></div>
+
+<div class="clear-fix"></div>
+     
+    <!-- <div class="col-sm-12 col-md-12">
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/SYPxaXL3s-o" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+        <small class="b-section-text">  Hirdetés <i class="fa fa-angle-up"></i></small>
+    </div> -->
+
+    <article class="article-list-item">
+                    <header>
+                        <div class="article-image-holder">       
+                        <a href="/news/2026/04/16/filmek-es-sorozatok-as-deep-as-the-grave-elozetes-nehai-val-kilmer-cinemacon-marlasinger-">                     
+                            <img loading="lazy"  src="/images/69e0dcf7d7142_69e0dcf7d70f9-mesterseges-intelligenciaval-tamasztottak-fel-az-elhunyt-val-kilmert-mar-elozetes-is-van-.jpg" alt="Film és Sorozat - Mesterséges intelligenciával támasztották fel az elhunyt Val Kilmert, már előzetes is van" class="list-image"/>                                                                                                                                                                                                                     
+                                <div class="intro-raction-holder">
+                                                                           
+                                                                            <span class="raction-small like"></span>        
+                                    
+                                                            
+                                                            
+                                                            
+                                    
+                                                                     
+                                </div>
+                      
+                            </a>
+                        </div>
+
+
+
+                        <div class="title-holder">
+                            <a href="/news/2026/04/16/filmek-es-sorozatok-as-deep-as-the-grave-elozetes-nehai-val-kilmer-cinemacon-marlasinger-">
+                                <h2>Mesterséges intelligenciával támasztották fel az elhunyt Val Kilmert, már előzetes is van</h2> 
+                            </a>
+
+                        </div>
+
+                    </header>
+                    <p>Az As Deep as the Grave az USA egyik első női r&eacute;g&eacute;sz&eacute;nek t&ouml;rt&eacute;net&eacute;t mes&eacute;li el.&nbsp;</p>
+                </article>
+
+    
+    
+
+
+    <article class="article-list-item">
+                    <header>
+                        <div class="article-image-holder">       
+                        <a href="/news/2026/04/16/filmek-es-sorozatok-hegylako-henry-cavill-cinemacon-2026-harcok-betekintes-marlasinger-">                     
+                            <img loading="lazy"  src="/images/69e0c71a455c2_69e0c71a4557c-rave-buli-motoros-uldozes-es-rengeteg-kardparbaj-is-lesz-a-hegylako-rebootjaban-.jpg" alt="Film és Sorozat - Rave-buli, motoros üldözés és rengeteg kardpárbaj is lesz a Hegylakó rebootjában" class="list-image"/>                                                                                                                                                                                                                     
+                                <div class="intro-raction-holder">
+                                                                           
+                                                                            <span class="raction-small like"></span>        
+                                    
+                                                            
+                                                            
+                                                            
+                                    
+                                                                     
+                                </div>
+                      
+                            </a>
+                        </div>
+
+
+
+                        <div class="title-holder">
+                            <a href="/news/2026/04/16/filmek-es-sorozatok-hegylako-henry-cavill-cinemacon-2026-harcok-betekintes-marlasinger-">
+                                <h2>Rave-buli, motoros üldözés és rengeteg kardpárbaj is lesz a Hegylakó rebootjában</h2> 
+                            </a>
+
+                        </div>
+
+                    </header>
+                    <p>A CinemaCon n&eacute;zői kaphattak egy kis betekint&eacute;st az &uacute;j Hegylak&oacute;-filmbe, ami a h&iacute;rek szerint le se tagadhatn&aacute;, hogy a John Wick-filmek atyja,&nbsp;Chad Stahelski &aacute;ll m&ouml;g&ouml;tte.&nbsp;</p>
+                </article>
+
+    
+    
+        
+    
+
+
+    <article class="article-list-item">
+                    <header>
+                        <div class="article-image-holder">       
+                        <a href="/news/2026/04/16/filmek-es-sorozatok-street-fighter-trailer-film-mozi-mozifilm-elozetes-50-cent-capcom-britpopper">                     
+                            <img loading="lazy"  src="/images/69e0e64b09297_69e0e64b0924f-oda-csap-ahova-koll--friss-elozetesen-az-eloszereplos-street-fighter.jpg" alt="Film és Sorozat - Oda csap, ahova KÖLL – Friss előzetesen az élőszereplős Street Fighter" class="list-image"/>                                                                                                                                                                                                                     
+                                <div class="intro-raction-holder">
+                                                                           
+                                                                            <span class="raction-small like"></span>        
+                                    
+                                                            
+                                                            
+                                                            
+                                    
+                                                                     
+                                </div>
+                      
+                            </a>
+                        </div>
+
+
+
+                        <div class="title-holder">
+                            <a href="/news/2026/04/16/filmek-es-sorozatok-street-fighter-trailer-film-mozi-mozifilm-elozetes-50-cent-capcom-britpopper">
+                                <h2>Oda csap, ahova KÖLL – Friss előzetesen az élőszereplős Street Fighter</h2> 
+                            </a>
+
+                        </div>
+
+                    </header>
+                    <p>Befutott a legfrissebb előzetes a k&ouml;zelgő filmhez, ez alapj&aacute;n pedig legal&aacute;bb a buny&oacute;kkal biztosan nem lesz probl&eacute;ma.</p>
+                </article>
+
+    
+    
+
+
+    <article class="article-list-item">
+                    <header>
+                        <div class="article-image-holder">       
+                        <a href="/news/2026/04/16/filmek-es-sorozatok-werwulf-robert-eggers-levetttek-elozetes-cinemacon-marlasinger-">                     
+                            <img loading="lazy"  src="/images/69e0a2efd1348_69e0a2efd12fb-kokemeny-perceket-iger-robert-eggers-uj-gotikus-horrorja-a-werwulf-.jpg" alt="Film és Sorozat - Kőkemény perceket ígér Robert Eggers új gótikus horrorja, a Werwulf" class="list-image"/>                                                                                                                                                                                                                     
+                                <div class="intro-raction-holder">
+                                                                           
+                                    
+                                                            
+                                                            
+                                                            
+                                    
+                                                                            <span class="raction-small surprise"></span>        
+                                                                     
+                                </div>
+                      
+                            </a>
+                        </div>
+
+
+
+                        <div class="title-holder">
+                            <a href="/news/2026/04/16/filmek-es-sorozatok-werwulf-robert-eggers-levetttek-elozetes-cinemacon-marlasinger-">
+                                <h2>Kőkemény perceket ígér Robert Eggers új gótikus horrorja, a Werwulf</h2> 
+                            </a>
+
+                        </div>
+
+                    </header>
+                    <p>A rendező &bdquo;eddigi legf&eacute;lelmetesebb filmjek&eacute;nt&rdquo; harangozt&aacute;k be az &eacute;v v&eacute;g&eacute;n &eacute;rkező Werwulfot.&nbsp;</p>
+                </article>
+
+    
+    
+
+
+    </div>
+
+    
+
+
+    <div class="e1tv-block-holder pull-left w100">
+        <h4>Közvetítések</h4>
+        <div class="match-calendar-holder">                                        
+               
+        
+</div>    </div>
+
+
+</div>
+
+
+
+</div>            </div>
+            <!-- </div> -->
+
+            <div class="footer">
+
+            <div class="row">
+            <div class="col-md-12">
+                <div class="footer-copyrights">Minden jog fenntartva <a href="https://corporate.esport1.hu/"  target="_blank" style="font-weight: bold; color: #BF1B2C;">Esport1 Kft.</a></div>
+             
+             
+                <div class="footer-links" style="margin-left: auto;">
+                    <!-- <a id="open-adatvedelem" style="cursor:pointer;">Adatvédelem</a> -->
+                    <a href="/content/impresszum">Impresszum</a>
+                    <a href="/content/szerzoi-jogok">Szerzői jogok</a>
+                    <a href="/content/adatkezeles">Adatkezelés</a>
+                    <a class="change-consent" onclick="window.__tcfapi('displayConsentUi', 2, function() {} );">Adatvédelmi
+                        beállítások</a>
+		    <a href="javascript:window.__tcfapi('displayConsentUi', 2, function() {} );">Sütibeállítások</a>
+
+                    <a href="/content/felhasznalasi-feltetelek">Felhasználási Feltételek</a>
+                    
+                   
+                </div>
+                </div>
+
+                <div class="col-md-12 text-right">
+                    <img src="/assets/desktop/img/adaptive_white.png" style="margin-top: 20px;">
+                </div>
+            </div>
+
+
+            </div>
+
+        </div>
+
+
+
+
+
+
+
+        <!-- Footer Nav -->
+
+        <footer class="footer-nav">
+            <div class="item">
+                <div class="icon-holder">
+                    <div class="menu-bar">
+                        <button class="openX">
+                            <span class="icon-bar"></span>
+                            <span class="icon-bar"></span>
+                            <span class="icon-bar"></span>
+                        </button>
+                    </div>
+
+                </div>
+                <b>Menü</b>
+            </div>
+
+            <div class="item">
+                <a href="https://www.youtube.com/channel/UC63OM61f7lc2tUtYHleNAnA" target="_blank">
+                <div class="icon-holder">
+                <svg width="25" height="21" viewBox="0 0 25 21" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
+                        <path d="M23.8,4.8C23.5,3.8 22.7,3 21.7,2.7C19.9,2.2 12.5,2.2 12.5,2.2C12.5,2.2 5.1,2.2 3.3,2.7C2.3,3 1.5,3.8 1.2,4.8C0.7,6.6 0.7,10.5 0.7,10.5C0.7,10.5 0.7,14.3 1.2,16.2C1.5,17.2 2.3,18 3.3,18.3C5.1,18.8 12.5,18.8 12.5,18.8C12.5,18.8 19.9,18.8 21.7,18.3C22.7,18 23.5,17.2 23.8,16.2C24.3,14.4 24.3,10.5 24.3,10.5C24.3,10.5 24.3,6.7 23.8,4.8ZM10.2,14L10.2,7L16.3,10.5L10.2,14Z" style="fill:rgb(225,225,225);fill-rule:nonzero;"></path>
+                </svg>
+
+                </div>
+                <b>Videó</b>
+                </a>
+            </div>
+
+            <div class="item">
+                
+            <a href="/e1tv">
+                <div class="icon-holder"> 
+
+                                    <svg width="25" height="21" viewBox="0 0 25 21" fill="none" xmlns="http://www.w3.org/2000/svg">
+                        <path d="M23.125 0.5H1.875C0.820312 0.5 0 1.35938 0 2.375V14.875C0 15.9297 0.820312 16.75 1.875 16.75H11.25V18H4.375C4.02344 18 3.75 18.3125 3.75 18.625V19.875C3.75 20.2266 4.02344 20.5 4.375 20.5H20.625C20.9375 20.5 21.25 20.2266 21.25 19.875V18.625C21.25 18.3125 20.9375 18 20.625 18H13.75V16.75H23.125C24.1406 16.75 25 15.9297 25 14.875V2.375C25 1.35938 24.1406 0.5 23.125 0.5ZM22.5 14.25H2.5V3H22.5V14.25Z" fill="#E1E1E1" />
+                    </svg>
+                                    </div>
+                <b>E1TV</b>
+                </a>
+            </div>
+     
+
+
+                            <div class="item">
+                    <a href="/user/login">
+                        <div class="icon-holder avatar-holder">
+                            <img src="/images/e1_avatar.jpg">
+                        </div>
+                        <b>Belépés</b>
+                    </a>
+                </div>
+            
+
+
+    </div>
+    </footer>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    <div class="overlay-menu-new">
+        <div class="content row">
+        
+            <div class="h-menu-holder col-md-4">
+            <h2>Menü</h2>
+                <div class="h-menu-row">
+
+                    <a href="https://www.pcguru.hu/" target="_blank">
+                        <div class="h-menu-item">
+                            <img src="/assets/desktop/img/menu/e1_webicons_PCG-01.svg" alt="PCGURU">
+                            <b>PC Guru</b>  
+                        </div>
+                    </a>
+     
+                    <a href="/e1tv">
+                        <div class="h-menu-item">
+                            <img src="/assets/desktop/img/menu/e1_webicons_ETV-02.svg" alt="E1TV">
+                            <b>Esport1TV</b>  
+                        </div>
+                    </a>
+                    
+                    <a href="https://www.playitstore.hu/" target="_blank">
+                        <div class="h-menu-item">
+                            <img src="/assets/desktop/img/menu/e1_webicons_playit-23-23.svg" alt="PlayIT Store">
+                            <b>PlayIT Store</b>  
+                        </div>
+                    </a>
+
+                    <a href="/market">
+                        <div class="h-menu-item">
+                            <img src="/assets/desktop/img/menu/e1_webicons_PIAC-04.svg" alt="Piac">
+                            <b>Piac</b>  
+                        </div>
+                    </a>
+
+
+                </div>
+                <h2>ROVATOK</h2>
+                <div class="h-menu-row">
+
+                    <a href="/news/Gaming">
+                        <div class="h-menu-item">
+                            <img src="/assets/desktop/img/menu/e1_webicons_GAMING-05.svg" alt="Gaming">
+                            <b>Gaming</b>  
+                        </div>
+                    </a>
+     
+                    <a href="/news/tech">
+                        <div class="h-menu-item">
+                            <img src="/assets/desktop/img/menu/e1_webicons_TECH.svg" alt="">
+                            <b>Tech</b>  
+                        </div>
+                    </a>
+                    
+                    <a href="/news/movies">
+                        <div class="h-menu-item">
+                            <img src="/assets/desktop/img/menu/e1_webicons_FILM-07.svg" alt="">
+                            <b>Film-sorozat</b>  
+                        </div>
+                    </a>
+
+                    <a href="/news/ai">
+                        <div class="h-menu-item">
+                            <img src="/assets/desktop/img/menu/e1_webicons_AI-22.svg" alt="">
+                            <b>AI</b>  
+                        </div>
+                    </a>
+                </div>
+                
+                <div class="h-menu-row">
+
+                    <a href="/news/LeagueofLegends">
+                        <div class="h-menu-item">
+                            <img src="/assets/desktop/img/menu/e1_webicons_LOL-09.svg" alt="">
+                            <b>LoL</b>  
+                        </div>
+                    </a>
+     
+                    <a href="/news/cs2">
+                        <div class="h-menu-item">
+                            <img src="/assets/desktop/img/menu/e1_webicons_CSGO-10.svg" alt="">
+                            <b>CS2</b>  
+                        </div>
+                    </a>
+                    
+                    <a href="/news/gta-6">
+                        <div class="h-menu-item">
+                            <img src="/assets/desktop/img/menu/e1_webicons_GTA6-21.svg" alt="">
+                            <b>GTA 6</b>  
+                        </div>
+                    </a>
+
+                    <a href="/news/bulvar">
+                        <div class="h-menu-item">
+                            <img src="/assets/desktop/img/menu/e1_webicons_BULVAR.svg" alt="">
+                            <b>Szórakozás</b>  
+                        </div>
+                    </a>
+                </div>
+                </div>
+                <div class="h-menu-holder col-md-4">
+                     <h2>Versenyek</h2>
+                    <div class="h-menu-row">
+
+                        <a href="/news/mneb">
+                            <div class="h-menu-item">
+                                <img src="/assets/desktop/img/menu/e1_webicons_MNEB-13.svg" alt="">
+                                <b>K&H MNEB</b>  
+                            </div>
+                        </a>
+        
+                        <a href="/news/tippmixprocsgo">
+                            <div class="h-menu-item">
+                                <img src="/assets/desktop/img/menu/e1_webicons_TMPCS2-14.svg" alt="">
+                                <b>TMP CS2</b>  
+                            </div>
+                        </a>
+                        
+                        <a href="/news/iesfvb">
+                            <div class="h-menu-item">
+                                <img src="/assets/desktop/img/menu/e1_webicons_MEV-15.svg" alt="">
+                                <b>MEV</b>  
+                            </div>
+                        </a>
+
+                        <a href="/news/ogex">
+                            <div class="h-menu-item">
+                                <img src="/assets/desktop/img/menu/e1_webicons_OGEX-16.svg" alt="">
+                                <b>OGEX</b>  
+                            </div>
+                        </a>
+                    </div>
+
+                     <h2>Kövess minket!</h2>
+                    <div class="h-menu-row">
+
+                        <a href="https://www.facebook.com/esport1.gg" target="_blank">
+                            <div class="h-menu-item">
+                                <img src="/assets/desktop/img/menu/e1_webicons_SOCIAL_FB-17.svg" alt="">
+                                <b>Facebook</b>  
+                            </div>
+                        </a>
+        
+                        <a href="https://www.tiktok.com/@esport1.hu" target="_blank">
+                            <div class="h-menu-item">
+                                <img src="/assets/desktop/img/menu/e1_webicons_SOCIAL_TIKTOK-18.svg" alt="">
+                                <b>Tiktok</b>  
+                            </div>
+                        </a>
+                        
+                        <a href="https://www.youtube.com/channel/UC63OM61f7lc2tUtYHleNAnA">
+                            <div class="h-menu-item">
+                                <img src="/assets/desktop/img/menu/e1_webicons_SOCIAL_YT-19.svg" alt="">
+                                <b>Youtube</b>  
+                            </div>
+                        </a>
+
+                        <a href="https://discord.gg/mjszHPE">
+                            <div class="h-menu-item">
+                                <img src="/assets/desktop/img/menu/e1_webicons_SOCIAL_DISCORD-20.svg" alt="">
+                                <b>Discord</b>  
+                            </div>
+                        </a>
+
+                        
+                    </div>
+                    <div>
+                    <h2><i class="fa fa-search search-btn"></i> Kereső</h2>
+                            <div class="search-holder">
+                                <input type="text" placeholder="keresés..." class="search" autocomplete="off" id="search">
+                                <button class="search-btn">Keresés</button>
+                            </div>
+                </div>
+            </div>
+            
+         
+
+            
+   
+
+      
+
+    
+
+        </div>
+    </div>
+
+
+
+
+    <!-- recommend flyin -->
+    <div id="article-recommend-popup">
+        <div id="article-recommend-popup-content"> </div>
+    </div>
+
+    
+
+
+
+
+    <input type="hidden" id="token" value="695f40668abf46f0bef4380f0a0b02bf4e02c992">
+    <!-- Google remarketingcímke-kód -->
+    <!--
+A remarketingcímkék nem társíthatók személyazonosításra alkalmas adatokkal, és nem helyezhetők el érzékeny kategóriához kapcsolódó oldalakon. A címke beállításával kapcsolatban további információt és útmutatást a következő címen olvashat: http://google.com/ads/remarketingsetup
+-->
+    <script type="text/javascript">
+        /* <![CDATA[ */
+        var google_conversion_id = 873479335;
+        var google_custom_params = window.google_tag_params;
+        var google_remarketing_only = true;
+        /* ]]> */
+    </script>
+    <script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js">
+    </script>
+    <noscript>
+        <div style="display:inline;">
+            <img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/873479335/?value=0&amp;guid=ON&amp;script=0" />
+        </div>
+    </noscript>
+    <script>
+                    var text_please_login_reaction = "Ezen funkció eléréséhez be kell jelentkezned!";
+                    var text_comment_report = "Biztosan jelenteni akarod a felhasználót ?";
+                    var text_comment_user_report = "Biztosan jelenteni akarod a felhasználót ?";
+                    var text_thanks_for_reporting = "Köszönjük! Az adminok hamarosan megvizsgálják a jelentést!";
+                    var text_notice_twitch_login = "Úgy tűnik nem vagy a Twitch nézők között! Be vagy jelentkezve a Twitch-en ? Bejelentkezés után frissíts rá az oldalra! (Amennyiben már bejelentkeztél, várd meg, amíg a rendszerünk szinkronizál!) Köszönjük a türelmet!";
+                    var text_apply_mission_login = "A nyereményjátékon való részvételhez jelentkezz be!";
+                    var text_apply_mission_no_default = "Először a belépő küldetést kell teljesítened! Erre a küldetésre ezután tudsz jelentkezni!";
+                    var text_apply_mission_already_exist = "Már jelentkeztél erre a küldetésre!";
+                    var text_apply_mission_unknown_error = "Ismeretlen hiba! Próbáld meg később!";
+                    var text_apply_mission_success = "Sikeresen felvetted a küldetést, amit megtalálsz a profil oldaladon. Nemsokára átirányítunk!";
+                    var text_delete_profile = "Törlés esetén, elveszted a pontjaid és a jelentkezésed a folyamatban levő nyereményjátékokban. A művelet nem visszavonható! Biztosan törölni akarod a felhasználó fiókodat?";
+                    var text_profile_avatar_wrong_picture = "Nem támogatott formátum! Csak JPG lehet!";
+                    var text_apply_mission_no_answer = "Jelöld ki a választ!";
+                    var text_apply_mission_no_answer_notfound = "Error!";
+                    var text_apply_mission_no_agree = "A játékszabályzatot el kell fogadnod!";
+                    var text_delete_comment = "Biztos törölni akarod a kommentedet ?";
+                    var text_report_user = "Biztosan jelenteni akarod névtelenül ?";
+                    var text_profile_avatar_wrong_size = "A képnek 2 Megabyte-nál kisebbnek kell lennie!";
+                    var text_no_accepted = "Az adatvédelmi szabályzatot el kell fogadnod!";
+                    var missionexperied = "A küldetésre való jelentkezési határidő lejárt!";
+                    var text_banned_comment = "Szabályok megsértése miatt, felfüggesztettük a kommentelési lehetőségedet {{DATE}}-ig!";
+                    var text_apply_prize_code = "Kérlek add meg a nyereményjáték szelvény kódodat!";
+                    var text_apply_prize_code_notfound = "Nyereményjáték szelvény kódod érvénytelen!";
+                    var text_apply_prize_code_used = "A nyereményjáték szelvény kódod már fel lett használva!";
+                    var text_apply_prize_success = "Sikeres jelentkezés!";
+                    var text_shop_login = "A pontbeváltáshoz be kell lépned!";
+                    var text_vote_login = "A szavazáshoz be kell jelentkezned!";
+            </script>
+
+    <script type="text/javascript" src="/assets/desktop/js/all.js?v3.0066"></script>            <script>
+            var hasIdentity = false;
+        </script>
+        
+
+
+
+
+</body>
+
+</html>
+<!-- Execution time : 1.0205190181732 seconds -->
