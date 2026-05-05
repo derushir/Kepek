@@ -1,0 +1,806 @@
+<!DOCTYPE html><html lang="hu"><head>
+    <meta charset="utf-8">
+    
+    
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <meta name="n3/config/environment" content="%7B%22modulePrefix%22%3A%22n3%22%2C%22environment%22%3A%22production%22%2C%22rootURL%22%3A%22%2F%22%2C%22locationType%22%3A%22history%22%2C%22EmberENV%22%3A%7B%22EXTEND_PROTOTYPES%22%3Afalse%2C%22FEATURES%22%3A%7B%7D%2C%22_APPLICATION_TEMPLATE_WRAPPER%22%3Afalse%2C%22_DEFAULT_ASYNC_OBSERVERS%22%3Atrue%2C%22_JQUERY_INTEGRATION%22%3Afalse%2C%22_NO_IMPLICIT_ROUTE_MODEL%22%3Atrue%2C%22_TEMPLATE_ONLY_GLIMMER_COMPONENTS%22%3Atrue%2C%22_USE_EMBER_MODULES%22%3Atrue%7D%2C%22APP%22%3A%7B%22name%22%3A%22n3%22%2C%22version%22%3A%220.0.0%2Baaa35afa%22%7D%2C%22fastboot%22%3A%7B%22hostWhitelist%22%3A%5B%22localhost%3A3000%22%2C%220.0.0.0%3A3000%22%2C%22444.hu%22%5D%7D%2C%22metricsAdapters%22%3A%5B%7B%22name%22%3A%22GoogleTagManager%22%2C%22environments%22%3A%5B%22production%22%5D%2C%22config%22%3A%7B%22id%22%3A%22GTM-KZVBKWD%22%7D%7D%2C%7B%22name%22%3A%22Remp%22%2C%22environments%22%3A%5B%22production%22%5D%2C%22config%22%3A%7B%22scriptUrl%22%3A%22https%3A%2F%2Fcdn.pmd.444.hu%2Fassets%2Flib%2Fjs%2Fheartbeat.js%22%2C%22host%22%3A%22https%3A%2F%2Fheartbeat.pmd.444.hu%22%2C%22token%22%3A%2258501271-8451-48bf-821e-10821a06f364%22%2C%22cookieDomain%22%3A%22.444.hu%22%7D%7D%5D%2C%22emberRollbarClient%22%3A%7B%22enabled%22%3Atrue%2C%22accessToken%22%3A%224c0fcee6de3b4ca9a8c6e629555ab07e%22%2C%22verbose%22%3Atrue%2C%22captureUncaught%22%3Atrue%2C%22captureUnhandledRejections%22%3Atrue%2C%22payload%22%3A%7B%22environment%22%3A%22production%22%2C%22client%22%3A%7B%22javascript%22%3A%7B%22source_map_enabled%22%3Atrue%2C%22code_version%22%3A%220.0.0%2Baaa35af%22%2C%22guess_uncaught_frames%22%3Atrue%7D%7D%7D%2C%22hostSafeList%22%3A%5B%22444.hu%22%5D%7D%2C%22ENGINES%22%3A%5B%7B%22name%22%3A%22valasztas--election%22%2C%22type%22%3A%22election%22%2C%22config%22%3A%7B%22buckets%22%3A%5B%22444%22%5D%7D%7D%2C%7B%22name%22%3A%22author--author%22%2C%22type%22%3A%22author%22%2C%22config%22%3A%7B%22buckets%22%3A%5B%22444%22%2C%22insight-hungary%22%2C%22partizan%22%5D%7D%7D%2C%7B%22name%22%3A%22kereses--search%22%2C%22type%22%3A%22search%22%2C%22config%22%3A%7B%22buckets%22%3A%5B%22444%22%2C%22insight-hungary%22%2C%22partizan%22%5D%7D%7D%2C%7B%22name%22%3A%22foci%2Fbajnoksag--championship%22%2C%22type%22%3A%22championship%22%2C%22config%22%3A%7B%22buckets%22%3A%5B%22foci%22%5D%7D%7D%2C%7B%22name%22%3A%22partizan--reader%22%2C%22type%22%3A%22reader%22%2C%22config%22%3A%7B%22buckets%22%3A%5B%22partizan%22%5D%7D%7D%2C%7B%22name%22%3A%22--reader%22%2C%22type%22%3A%22reader%22%2C%22config%22%3A%7B%22buckets%22%3A%5B%22444%22%5D%7D%7D%5D%7D">
+<!-- EMBER_CLI_FASTBOOT_TITLE -->      <meta name="ember-head-start" content>
+      
+      <meta name="author" content="Benics Márk">
+
+        <meta name="keywords" content="belföld,hekkertámadás,adatvédelmi incidens,személyes adatok,mediaworks,Nemzeti Adatvédelmi és Információszabadság Hatóság,NAIH,World Leaks,Mediaworks Hungary Zrt,darkweb">
+        <meta name="news_keywords" content="belföld,hekkertámadás,adatvédelmi incidens,személyes adatok,mediaworks,Nemzeti Adatvédelmi és Információszabadság Hatóság,NAIH,World Leaks,Mediaworks Hungary Zrt,darkweb">
+        <meta itemprop="keywords" content="belföld,hekkertámadás,adatvédelmi incidens,személyes adatok,mediaworks,Nemzeti Adatvédelmi és Információszabadság Hatóság,NAIH,World Leaks,Mediaworks Hungary Zrt,darkweb">
+
+    <meta name="twitter:card" content="summary_large_image">
+
+        <link rel="canonical" href="https://444.hu/2026/05/04/vizsgalatot-indit-az-adatvedelmi-hatosag-a-mediaworks-adatlopasi-ugyeben">
+        <meta property="og:url" content="https://444.hu/2026/05/04/vizsgalatot-indit-az-adatvedelmi-hatosag-a-mediaworks-adatlopasi-ugyeben">
+        <meta property="twitter:url" content="https://444.hu/2026/05/04/vizsgalatot-indit-az-adatvedelmi-hatosag-a-mediaworks-adatlopasi-ugyeben">
+
+      <meta property="og:site_name" content="444">
+
+    <meta property="og:type" content="article">
+    <meta property="og:locale" content="hu">
+
+        <title>Vizsgálatot indít az adatvédelmi hatóság a Mediaworks adatlopási ügyében</title>
+        <meta name="title" content="Vizsgálatot indít az adatvédelmi hatóság a Mediaworks adatlopási ügyében">
+        <meta property="og:title" content="Vizsgálatot indít az adatvédelmi hatóság a Mediaworks adatlopási ügyében">
+        <meta name="twitter:title" content="Vizsgálatot indít az adatvédelmi hatóság a Mediaworks adatlopási ügyében">
+
+        <meta name="description" content="Azt írták, a sajtóból értesültek a hekkertámadásról.">
+        <meta property="og:description" content="Azt írták, a sajtóból értesültek a hekkertámadásról.">
+        <meta name="twitter:description" content="Azt írták, a sajtóból értesültek a hekkertámadásról.">
+
+        <meta property="og:image" content="https://assets.4cdn.hu/kraken/7bmknw5wXQ1ii8TQs-lg.jpeg">
+        <meta name="twitter:image" content="https://assets.4cdn.hu/kraken/7bmknw5wXQ1ii8TQs-lg.jpeg">
+
+      <meta name="robots" content="max-image-preview:large">
+
+      <script type="application/ld+json">[{"@context":"https://schema.org","@type":"NewsArticle","mainEntityOfPage":"https://444.hu/2026/05/04/vizsgalatot-indit-az-adatvedelmi-hatosag-a-mediaworks-adatlopasi-ugyeben","headline":"Vizsgálatot indít az adatvédelmi hatóság a Mediaworks adatlopási ügyében","description":"Azt írták, a sajtóból értesültek a hekkertámadásról.","datePublished":"2026-05-04T12:32:42+02:00","dateModified":"2026-05-04T12:38:43+02:00","author":[{"@type":"Person","name":"Benics Márk","image":"https://assets.4cdn.hu/kraken/8FFKhaKhXIYt1nI1CCs-xxs.jpeg?width=96&amp;height=96&amp;fit=crop"}],"image":"https://assets.4cdn.hu/kraken/7bmknw5wXQ1ii8TQs.jpeg","publisher":{"@type":"Organization","name":"444","logo":"https://cdn.444r.cloud/assets/appicon-180.f28fd1db6b2192fcd860.png"}},{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"444","item":"https://444.hu"},{"@type":"ListItem","position":2,"name":"belföld","item":"https://444.hu/category/belfold"},{"@type":"ListItem","position":3,"name":"Vizsgálatot indít az adatvédelmi hatóság a Mediaworks adatlopási ügyében"}]}]</script>
+
+      <meta property="article:published_time" content="2026-05-04T12:32:39+02:00">
+
+<!---->
+<!---->
+<!---->
+      <link rel="icon" href="https://cdn.444r.cloud/assets/favicon.59a582e6612fdac3b572.svg" type="image/svg+xml">
+
+      <link rel="apple-touch-icon" href="https://cdn.444r.cloud/assets/appicon-180.f28fd1db6b2192fcd860.png">
+
+      <link rel="manifest" href="/manifest.e46292aedadf78a83e06.webmanifest" crossorigin="use-credentials">
+  
+      <meta name="ember-head-end" content>
+
+<meta name="author/config/environment" content="%7B%22modulePrefix%22%3A%22author%22%2C%22environment%22%3A%22production%22%7D">
+<meta name="championship/config/environment" content="%7B%22modulePrefix%22%3A%22championship%22%2C%22environment%22%3A%22production%22%7D">
+<meta name="election/config/environment" content="%7B%22modulePrefix%22%3A%22election%22%2C%22environment%22%3A%22production%22%7D">
+<link rel="preconnect" href="https://www.googletagmanager.com">
+<meta name="reader/config/environment" content="%7B%22modulePrefix%22%3A%22reader%22%2C%22environment%22%3A%22production%22%7D">
+<meta name="search/config/environment" content="%7B%22modulePrefix%22%3A%22search%22%2C%22environment%22%3A%22production%22%7D">
+
+    
+    
+
+
+    <meta name="n3/config/asset-manifest" content="%GENERATED_ASSET_MANIFEST%">
+  
+<link href="https://cdn.444r.cloud/assets/chunk.9ed997efb6b071b196d4.css" rel="stylesheet">
+<link href="https://cdn.444r.cloud/assets/chunk.b1a35005f2c29f82e0b6.css" rel="stylesheet"></head>
+  <body class="_1bucvez1 jtivel0 xrg4ok0 _1pjxevg0 _4n4slr0 xsgiua0 _1g4l6550 i0wrnc0 srf2jf0 _15jjbzu0 _8da7wc0 ovyd8u0 _1nentwd0 epzvfx0 ana7u81 _8b6bxc9 _1dy6oyqid">
+    <script type="x/boundary" id="fastboot-body-start"></script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    <div>
+      
+  
+  
+
+  
+
+    
+    
+    
+    
+    
+    
+
+    
+    
+    
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  <!---->
+
+<!----><!---->
+  
+      
+      
+<!---->
+  
+  <div class="p03hpr0 _1chu0ywg p4kpu33i p4kpu38d">
+    
+    
+    <div id="ap-site-header-top" class="_13ou49a0 "></div>
+  
+
+    <header class="v9sb5o0 _1chu0ywu _1chu0ywz _1chu0ywm _1chu0ywg _1chu0yw14 ta3a4c1ig ta3a4c106 ta3a4c1aa p4kpu38y">
+<!---->
+      
+    <a href="https://444.hu" class="uwwrama ta3a4c0 ta3a4cdf ta3a4c4h ta3a4c8y _1chu0ywh _1chu0yw12 ta3a4c1fc ta3a4c14n p4kpu30 _1chu0yw17" rel="noopener">
+        <svg xmlns="http://www.w3.org/2000/svg" style="height: 28px; width: 159px;">
+          <use href="/assets/logo-444-1szazalek.svg#logo" fill="currentColor"></use>
+        </svg>
+      </a>
+  
+
+<!---->    </header>
+  
+
+      
+    <div id="ap-site-header-bottom" class="_13ou49a0 "></div>
+  
+      
+    <div id="ap-featured" class="_13ou49a0 "></div>
+  
+
+    
+      
+    <div id="ap-top" class="_13ou49a0  slotHeader"></div>
+  
+
+    
+  <div class="_2r9i95 _1chu0ywh p4kpu3e _1chu0ywh p4kpu3hp p4kpu3i5">
+    
+      
+<!---->
+
+      <div class="_1j8zfzf3 ta3a4cz ta3a4c1f ta3a4c5g ta3a4c5w _1chu0yw9 _2r9i9g">
+        
+      <h1 class="_19gjvagj _1dy6oyq4l _19gjvagm _19gjvagk _19gjvags _19gjvagq
+          
+          ">
+        <span>
+<!---->          <span class="_1dy6oyq5g _1dy6oyq5s">Vizsgálatot indít az adatvédelmi hatóság a Mediaworks adatlopási ügyében</span>
+        </span>
+      </h1>
+  
+      </div>
+
+      
+  <div class="_1rlsxp0 p4kpu3dm p4kpu3i3 _1chu0yw9 _1chu0ywh _1chu0yw9 _2r9i9h _2r9i9l">
+    
+        
+  <div class="_2r9i95 _1chu0ywh p4kpu3e _1chu0yw9 _1rlsxpe _1rlsxpf _1rlsxps _1rlsxp15 _1rlsxp1i _1rlsxp1v _1rlsxp2f _1rlsxp2l _1rlsxp2y _1rlsxp3b _1rlsxp3o _1rlsxp41
+            _1chu0ywh p4kpu3hp p4kpu3i5
+            slotDoubleColumn">
+    
+          
+    <div class="_1chu0ywg p4kpu34h p4kpu34c p4kpu3cn p4kpu3hp _1chu0yw9 _2r9i9d">
+      
+    <div class="p4kpu3c9 p4kpu3gq _1chu0ywg _1dy6oyq2r _1dy6oyqb5 p4kpu31k ta3a4c106 ta3a4czu p4kpu35g">
+        <div class="_1chu0ywg p4kpu3c2">
+            <div class="_1wsp8zg4 _1chu0ywu _1chu0ywz _1chu0ywk _8b6bx51 _1dy6oyqb5 _1chu0ywt _1chu0ywy _1wsp8zg2" style="--_1wsp8zg0:40">
+    <img class="ta3a4c106 ta3a4c1fc _1chu0ywo" src="https://assets.4cdn.hu/kraken/8FFKhaKhXIYt1nI1CCs-xxs.jpeg?width=96&amp;height=96&amp;fit=crop" alt loading="lazy">
+</div>
+        </div>
+
+      <div class="_1chu0ywh p4kpu31k">
+        <div>
+                <a href="/author/benicsm" class="_1dy6oyq5o">Benics Márk</a><!---->
+        </div>
+
+        <div class="_1chu0ywg p4kpu3c2">
+            <span class="_1dy6oyq4k">
+                <a href="/category/belfold" class="_1dy6oyq5o">belföld</a>            </span>
+
+            <span class="_2eey3i9 _1dy6oyq4b"></span>
+
+            <time class="_2eey3i8" datetime="2026-05-04T12:32:39+02:00">
+2026. május 4. 12:32            </time>
+        </div>
+      </div>
+    </div>
+  
+
+      
+    <div class="_1n6u2803 _1chu0ywe">
+  
+  
+      <div class="_1n6u2804 _1chu0ywk">
+          <button class="_1oiqrbrt p4kpu3c9 p4kpu3gq _1chu0yw6 _1chu0ywl ta3a4c1i2 p4kpu377 p4kpu31k p4kpu37z _1dy6oyq4x uwwrama _1dy6oyq1s _1chu0ywt _1chu0ywy _1oiqrbr0 uwwram3 uwwramj _18ssces1 _18ssces5 _18ssces15 _18ssces7n _18sscesh3 _1dy6oyq5v _1dy6oyqam _1dy6oyqk2 diq4x0 _1oiqrbr6 _7oso933 _1chu0yw14 ta3a4css ta3a4cxn" type="button">
+      <span class="_15pnudm3 _1chu0ywj _1dy6oyq4j _1dy6oyq4x" style="--_15pnudm0:18;--_15pnudm2:0" data-icon="share">
+</span>
+
+    
+          Megosztás
+        
+  </button>
+
+      </div>
+      <!---->
+    
+  <div class="_1n6u2805 _1chu0yw13 _1n6u2806 _1n6u2808 _1n6u280a" popover="auto">
+    
+      <!---->
+      <div class="_25g4rm3 ta3a4cj2 ta3a4cnj _1chu0ywh p4kpu37l _1chu0ywu _8b6bx65 diq4xa _1chu0ywt _1chu0ywy _25g4rm1">
+  
+            <button class="_25g4rm9 _25g4rm4 ta3a4csl ta3a4cx2 _1chu0ywh p4kpu35n p4kpu377 ta3a4c1ig p4kpu31k uwwrama _1dy6oyq1s _1dy6oyqal _1dy6oyqk2 _25g4rm5 _7oso933 _1chu0yw14 uwwram3 uwwramj _25g4rmb" role="button">
+      <span class="_15pnudm3 _1chu0ywj _1dy6oyq4j _1dy6oyq4x ta3a4cf6 _1dy6oyqb5" style="--_15pnudm0:24;--_15pnudm2:0" data-icon="content_copy" role="presentation">
+</span>
+
+    <span class="_25g4rmf _1chu0ywu _1dy6oyq4x">
+      
+            Link másolása
+          
+    </span>
+
+<!---->  </button>
+
+            <button class="_25g4rm9 _25g4rm4 ta3a4csl ta3a4cx2 _1chu0ywh p4kpu35n p4kpu377 ta3a4c1ig p4kpu31k uwwrama _1dy6oyq1s _1dy6oyqal _1dy6oyqk2 _25g4rm5 _7oso933 _1chu0yw14 uwwram3 uwwramj _25g4rmb" role="button">
+      <span class="_15pnudm3 _1chu0ywj _1dy6oyq4j _1dy6oyq4x ta3a4cf6 _1dy6oyqb5" style="--_15pnudm0:24;--_15pnudm2:0" data-icon="logo_facebook" role="presentation">
+</span>
+
+    <span class="_25g4rmf _1chu0ywu _1dy6oyq4x">
+      
+            Facebook
+          
+    </span>
+
+<!---->  </button>
+
+            <button class="_25g4rm9 _25g4rm4 ta3a4csl ta3a4cx2 _1chu0ywh p4kpu35n p4kpu377 ta3a4c1ig p4kpu31k uwwrama _1dy6oyq1s _1dy6oyqal _1dy6oyqk2 _25g4rm5 _7oso933 _1chu0yw14 uwwram3 uwwramj _25g4rmb" role="button">
+      <span class="_15pnudm3 _1chu0ywj _1dy6oyq4j _1dy6oyq4x ta3a4cf6 _1dy6oyqb5" style="--_15pnudm0:24;--_15pnudm2:0" data-icon="logo_x" role="presentation">
+</span>
+
+    <span class="_25g4rmf _1chu0ywu _1dy6oyq4x">
+      
+            X (Twitter)
+          
+    </span>
+
+<!---->  </button>
+
+            <button class="_25g4rm9 _25g4rm4 ta3a4csl ta3a4cx2 _1chu0ywh p4kpu35n p4kpu377 ta3a4c1ig p4kpu31k uwwrama _1dy6oyq1s _1dy6oyqal _1dy6oyqk2 _25g4rm5 _7oso933 _1chu0yw14 uwwram3 uwwramj _25g4rmb" role="button">
+      <span class="_15pnudm3 _1chu0ywj _1dy6oyq4j _1dy6oyq4x ta3a4cf6 _1dy6oyqb5" style="--_15pnudm0:24;--_15pnudm2:0" data-icon="logo_tumblr" role="presentation">
+</span>
+
+    <span class="_25g4rmf _1chu0ywu _1dy6oyq4x">
+      
+            Tumblr
+          
+    </span>
+
+<!---->  </button>
+
+            <button class="_25g4rm9 _25g4rm4 ta3a4csl ta3a4cx2 _1chu0ywh p4kpu35n p4kpu377 ta3a4c1ig p4kpu31k uwwrama _1dy6oyq1s _1dy6oyqal _1dy6oyqk2 _25g4rm5 _7oso933 _1chu0yw14 uwwram3 uwwramj _25g4rmb" role="button">
+      <span class="_15pnudm3 _1chu0ywj _1dy6oyq4j _1dy6oyq4x ta3a4cf6 _1dy6oyqb5" style="--_15pnudm0:24;--_15pnudm2:0" data-icon="logo_linkedin" role="presentation">
+</span>
+
+    <span class="_25g4rmf _1chu0ywu _1dy6oyq4x">
+      
+            LinkedIn
+          
+    </span>
+
+<!---->  </button>
+
+      
+</div>
+    
+  </div>
+
+</div>
+
+
+<!---->    </div>
+  
+
+          
+    <div id="ap-article-top-001" class="_13ou49a0 "></div>
+  
+
+          
+  <div class="fkng932 _1chu0yw9 _2r9i9h _2r9i9i slotArticle">
+    
+            
+      
+  <p class>
+    A Nemzeti Adatvédelmi és Információszabadság Hatóság hivatalból vizsgálatot indít a Mediaworks adatvédelmi incidensével kapcsolatban. 
+  </p>
+
+      
+  <p class>
+    Közleményük szerint a sajtóban megjelent információk alapján szereztek tudomást arról, hogy a World Leaks nevű, zsarolásra specializálódott hackercsoport csaknem 15 millió fájlt, összesen mintegy 8,5 terabájtnyi adatot <a href="https://444.hu/2026/04/30/feltortek-a-mediaworksot-rengeteg-adatukat-tettek-ki-a-dark-webre" >szerzett meg jogellenesen</a> a fideszes médiaholding rendszeréből és tett közzé a darkweben. A nyilvánosságra hozott fájlok nagy része régebbi, de vannak újak is, közöttük bérjegyzékek, szerződések, kimutatások, belső üzenetek is.
+  </p>
+
+      
+    <figure class="he2knv0 _1chu0ywu _1chu0ywz ta3a4c8y ta3a4cdf _1chu0yw6 ta3a4c1aa _1dy6oyq4e ">
+      
+    <a href="https://assets.4cdn.hu/kraken/7bmknw5wXQ1ii8TQs.jpeg" class="uwwrama _1chu0ywg _8b6bx65" rel="nofollow">
+        
+        
+  <img loading="lazy" src="https://assets.4cdn.hu/kraken/7bmknw5wXQ1ii8TQs.jpeg" srcset="https://assets.4cdn.hu/kraken/7bmknw5wXQ1ii8TQs-xxs.jpeg 96w, https://assets.4cdn.hu/kraken/7bmknw5wXQ1ii8TQs-xs.jpeg 360w, https://assets.4cdn.hu/kraken/7bmknw5wXQ1ii8TQs-sm.jpeg 640w, https://assets.4cdn.hu/kraken/7bmknw5wXQ1ii8TQs-md.jpeg 768w, https://assets.4cdn.hu/kraken/7bmknw5wXQ1ii8TQs-lg.jpeg 1366w, https://assets.4cdn.hu/kraken/7bmknw5wXQ1ii8TQs-xl.jpeg 1920w, https://assets.4cdn.hu/kraken/7bmknw5wXQ1ii8TQs-xxl.jpeg 2560w" sizes="auto" class="_672m2jd _1chu0ywo ta3a4c1ey ta3a4c1aa he2knv4 ta3a4c1ey ta3a4czs" style="--_672m2j6:1.50;--_672m2j5:2560px 1707px" alt>
+
+  
+      </a>
+  
+
+        <figcaption class="he2knv6 ta3a4c1d _1dy6oyqb5">
+            <div class="_1dy6oyq2k">
+              Péterfalvi Attila, a Nemzeti Adatvédelmi és Információszabadság Hatóság elnöke.
+            </div>
+            <div class="he2knv8 _1dy6oyq2r">
+              Fotó:
+                Koszticsák Szilárd/MTI/MTVA
+            </div>
+        </figcaption>
+    </figure>
+
+      
+  <p class>
+    A NAIH szerint a dokumentumok között vannak, amelyek nagy számban személyes adatokat (neveket, lakcímeket, bankszámla adatokat), valamint közérdekű és közérdekből nyilvános adatokat is tartalmaznak. Azt írták, megalapozottan állítható, hogy ez a magatartás személyes adatok jogellenes kezelését valósíthatja meg, ezért hivatalból vizsgálatot indítanak, és ennek eredményétől függően megteszik a szükséges további intézkedéseket.
+  </p>
+
+      
+  <blockquote class>
+    <p >„A Hatóság, ahogyan azt a Tisza Párt adatvédelmi incidense kapcsán is tette, nyomatékosan felhívja a figyelmet arra, hogy amennyiben a Mediaworks Hungary Zrt. adatvédelmi incidenséről – mint közérdekű ügyről – a sajtó beszámol, tartózkodjon attól, hogy közölje a jogellenesen nyilvánosságra hozott személyes adatok internetes elérhetőségét”</p>
+  </blockquote>
+
+      
+  <p class>
+    – figyelmeztettek. Miközben a Tisza Világ applikáció feltörésekor még arról beszélt Péterfalvi Attila NAIH-elnök, hogy a pártnak is felelőssége lehet az „adatszivárgásban”, most ilyenre nem tértek ki.
+  </p>
+
+      
+  <p class>
+    A hétvégén a Mediaworks honlapját is <a href="https://444.hu/2026/05/03/meghekkeltek-a-mediaworks-oldalat" >meghekkelték</a>, az oldalon több helyen csak Gulyás Gergely fotója és a „<a href="https://444.hu/2024/03/26/roganek-kiadtak-a-jelszot-kipukkadt-a-lufi" target="_blank" >kipukkadt a lufi”</a> szöveg volt látható.
+  </p>
+
+
+          
+  </div>
+
+
+            
+    <div id="ap-article-bottom-001" class="_13ou49a0 "></div>
+  
+            
+    <div id="ap-article-bottom-002" class="_13ou49a0 "></div>
+  
+            
+    <div id="ap-article-bottom-003" class="_13ou49a0 "></div>
+  
+
+          
+    <div class="_1chu0ywg p4kpu34h p4kpu3c9 p4kpu3hb _1chu0yw9 _2r9i9d">
+<!---->
+            <a class="_189c837e _189c8375 _1chu0yw6 _1chu0ywl ta3a4c1ho p4kpu377 p4kpu3c9 p4kpu31k _1dy6oyq4x uwwrama _1dy6oyq1s _1chu0ywt _1chu0ywy _189c8370 uwwram3 uwwramj _189c8373 _7oso933 _1chu0yw14 _189c837g _189c837i _189c837k _189c837m ta3a4cx9 _189c8378 diq4x0 _18ssces1 _18ssces5 _18ssces2 _18ssces15 _18ssces7n _18ssces7k _18sscesh3 _189c8379 _1dy6oyqam _1dy6oyqk2 ta3a4css _1go36eq2 _1dy6oyq4k" data-group href="https://444.hu/category/belfold" role="button">
+    
+
+<!---->
+    <span class="_1chu0ywu _1chu0ywz _1dy6oyq4g">
+      
+    
+    belföld
+  
+  
+    </span>
+
+<!---->  </a>
+
+
+
+            <a class="_189c837e _189c8375 _1chu0yw6 _1chu0ywl ta3a4c1ho p4kpu377 p4kpu3c9 p4kpu31k _1dy6oyq4x uwwrama _1dy6oyq1s _1chu0ywt _1chu0ywy _189c8370 uwwram3 uwwramj _189c8373 _7oso933 _1chu0yw14 _189c837g _189c837i _189c837k _189c837m ta3a4cx9 _189c8378 diq4x0 _18ssces1 _18ssces5 _18ssces2 _18ssces15 _18ssces7n _18ssces7k _18sscesh3 _189c8379 _1dy6oyqam _1dy6oyqk2 ta3a4css _1dy6oyq4k" data-group href="https://444.hu/tag/hekkertamadas" role="button">
+    
+
+<!---->
+    <span class="_1chu0ywu _1chu0ywz _1dy6oyq4g">
+      
+    
+    hekkertámadás
+  
+  
+    </span>
+
+<!---->  </a>
+
+
+            <a class="_189c837e _189c8375 _1chu0yw6 _1chu0ywl ta3a4c1ho p4kpu377 p4kpu3c9 p4kpu31k _1dy6oyq4x uwwrama _1dy6oyq1s _1chu0ywt _1chu0ywy _189c8370 uwwram3 uwwramj _189c8373 _7oso933 _1chu0yw14 _189c837g _189c837i _189c837k _189c837m ta3a4cx9 _189c8378 diq4x0 _18ssces1 _18ssces5 _18ssces2 _18ssces15 _18ssces7n _18ssces7k _18sscesh3 _189c8379 _1dy6oyqam _1dy6oyqk2 ta3a4css _1dy6oyq4k" data-group href="https://444.hu/tag/adatvedelmi-incidens" role="button">
+    
+
+<!---->
+    <span class="_1chu0ywu _1chu0ywz _1dy6oyq4g">
+      
+    
+    adatvédelmi incidens
+  
+  
+    </span>
+
+<!---->  </a>
+
+
+            <a class="_189c837e _189c8375 _1chu0yw6 _1chu0ywl ta3a4c1ho p4kpu377 p4kpu3c9 p4kpu31k _1dy6oyq4x uwwrama _1dy6oyq1s _1chu0ywt _1chu0ywy _189c8370 uwwram3 uwwramj _189c8373 _7oso933 _1chu0yw14 _189c837g _189c837i _189c837k _189c837m ta3a4cx9 _189c8378 diq4x0 _18ssces1 _18ssces5 _18ssces2 _18ssces15 _18ssces7n _18ssces7k _18sscesh3 _189c8379 _1dy6oyqam _1dy6oyqk2 ta3a4css _1dy6oyq4k" data-group href="https://444.hu/tag/szemelyes-adatok" role="button">
+    
+
+<!---->
+    <span class="_1chu0ywu _1chu0ywz _1dy6oyq4g">
+      
+    
+    személyes adatok
+  
+  
+    </span>
+
+<!---->  </a>
+
+
+            <a class="_189c837e _189c8375 _1chu0yw6 _1chu0ywl ta3a4c1ho p4kpu377 p4kpu3c9 p4kpu31k _1dy6oyq4x uwwrama _1dy6oyq1s _1chu0ywt _1chu0ywy _189c8370 uwwram3 uwwramj _189c8373 _7oso933 _1chu0yw14 _189c837g _189c837i _189c837k _189c837m ta3a4cx9 _189c8378 diq4x0 _18ssces1 _18ssces5 _18ssces2 _18ssces15 _18ssces7n _18ssces7k _18sscesh3 _189c8379 _1dy6oyqam _1dy6oyqk2 ta3a4css _1dy6oyq4k" data-group href="https://444.hu/tag/mediaworks" role="button">
+    
+
+<!---->
+    <span class="_1chu0ywu _1chu0ywz _1dy6oyq4g">
+      
+    
+    mediaworks
+  
+  
+    </span>
+
+<!---->  </a>
+
+
+            <a class="_189c837e _189c8375 _1chu0yw6 _1chu0ywl ta3a4c1ho p4kpu377 p4kpu3c9 p4kpu31k _1dy6oyq4x uwwrama _1dy6oyq1s _1chu0ywt _1chu0ywy _189c8370 uwwram3 uwwramj _189c8373 _7oso933 _1chu0yw14 _189c837g _189c837i _189c837k _189c837m ta3a4cx9 _189c8378 diq4x0 _18ssces1 _18ssces5 _18ssces2 _18ssces15 _18ssces7n _18ssces7k _18sscesh3 _189c8379 _1dy6oyqam _1dy6oyqk2 ta3a4css _1dy6oyq4k" data-group href="https://444.hu/tag/nemzeti-adatvedelmi-es-informacioszabadsag-hatosag" role="button">
+    
+
+<!---->
+    <span class="_1chu0ywu _1chu0ywz _1dy6oyq4g">
+      
+    
+    Nemzeti Adatvédelmi és Információszabadság Hatóság
+  
+  
+    </span>
+
+<!---->  </a>
+
+
+            <a class="_189c837e _189c8375 _1chu0yw6 _1chu0ywl ta3a4c1ho p4kpu377 p4kpu3c9 p4kpu31k _1dy6oyq4x uwwrama _1dy6oyq1s _1chu0ywt _1chu0ywy _189c8370 uwwram3 uwwramj _189c8373 _7oso933 _1chu0yw14 _189c837g _189c837i _189c837k _189c837m ta3a4cx9 _189c8378 diq4x0 _18ssces1 _18ssces5 _18ssces2 _18ssces15 _18ssces7n _18ssces7k _18sscesh3 _189c8379 _1dy6oyqam _1dy6oyqk2 ta3a4css _1dy6oyq4k" data-group href="https://444.hu/tag/naih" role="button">
+    
+
+<!---->
+    <span class="_1chu0ywu _1chu0ywz _1dy6oyq4g">
+      
+    
+    NAIH
+  
+  
+    </span>
+
+<!---->  </a>
+
+
+            <a class="_189c837e _189c8375 _1chu0yw6 _1chu0ywl ta3a4c1ho p4kpu377 p4kpu3c9 p4kpu31k _1dy6oyq4x uwwrama _1dy6oyq1s _1chu0ywt _1chu0ywy _189c8370 uwwram3 uwwramj _189c8373 _7oso933 _1chu0yw14 _189c837g _189c837i _189c837k _189c837m ta3a4cx9 _189c8378 diq4x0 _18ssces1 _18ssces5 _18ssces2 _18ssces15 _18ssces7n _18ssces7k _18sscesh3 _189c8379 _1dy6oyqam _1dy6oyqk2 ta3a4css _1dy6oyq4k" data-group href="https://444.hu/tag/world-leaks" role="button">
+    
+
+<!---->
+    <span class="_1chu0ywu _1chu0ywz _1dy6oyq4g">
+      
+    
+    World Leaks
+  
+  
+    </span>
+
+<!---->  </a>
+
+
+            <a class="_189c837e _189c8375 _1chu0yw6 _1chu0ywl ta3a4c1ho p4kpu377 p4kpu3c9 p4kpu31k _1dy6oyq4x uwwrama _1dy6oyq1s _1chu0ywt _1chu0ywy _189c8370 uwwram3 uwwramj _189c8373 _7oso933 _1chu0yw14 _189c837g _189c837i _189c837k _189c837m ta3a4cx9 _189c8378 diq4x0 _18ssces1 _18ssces5 _18ssces2 _18ssces15 _18ssces7n _18ssces7k _18sscesh3 _189c8379 _1dy6oyqam _1dy6oyqk2 ta3a4css _1dy6oyq4k" data-group href="https://444.hu/tag/mediaworks-hungary-zrt" role="button">
+    
+
+<!---->
+    <span class="_1chu0ywu _1chu0ywz _1dy6oyq4g">
+      
+    
+    Mediaworks Hungary Zrt
+  
+  
+    </span>
+
+<!---->  </a>
+
+
+            <a class="_189c837e _189c8375 _1chu0yw6 _1chu0ywl ta3a4c1ho p4kpu377 p4kpu3c9 p4kpu31k _1dy6oyq4x uwwrama _1dy6oyq1s _1chu0ywt _1chu0ywy _189c8370 uwwram3 uwwramj _189c8373 _7oso933 _1chu0yw14 _189c837g _189c837i _189c837k _189c837m ta3a4cx9 _189c8378 diq4x0 _18ssces1 _18ssces5 _18ssces2 _18ssces15 _18ssces7n _18ssces7k _18sscesh3 _189c8379 _1dy6oyqam _1dy6oyqk2 ta3a4css _1dy6oyq4k" data-group href="https://444.hu/tag/darkweb" role="button">
+    
+
+<!---->
+    <span class="_1chu0ywu _1chu0ywz _1dy6oyq4g">
+      
+    
+    darkweb
+  
+  
+    </span>
+
+<!---->  </a>
+
+
+    </div>
+  
+
+            
+  <div class="_1chu0ywm slotVideoPlayer _1chu0yw9 _2r9i9d"></div>
+
+
+          
+    <section class="_1chu0yw9 _2r9i9d">
+      
+  <div class="_1myqn4p0 _1chu0ywg p4kpu31k ta3a4c1h3 _1dy6oyq4x _1dy6oyq35 ta3a4c6f">
+        Kapcsolódó cikkek
+      <span class="ta3a4c1fq _8b6bx8d p4kpu35g" aria-hidden="true"></span>
+<!---->  </div>
+
+      <div class="_1chu0ywg p4kpu33i p4kpu3hb p4kpu3i5">
+          
+        <a href="/2024/03/26/roganek-kiadtak-a-jelszot-kipukkadt-a-lufi" title="Rogánék kiadták a jelszót: Kipukkadt a lufi!" class="c3zuugc _1chu0yw9 _1chu0yw14 _1chu0ywh p4kpu3cn p4kpu31y p4kpu3e c3zuug0 c3zuugg c3zuugj p4kpu3cn c3zuug8 c3zuug7" data-group>
+            
+        
+  <img loading="lazy" src="https://assets.4cdn.hu/kraken/81e7RBPFMmhLCu9ga.gif" srcset="https://assets.4cdn.hu/kraken/81e7RBPFMmhLCu9ga-xxs.gif 96w, https://assets.4cdn.hu/kraken/81e7RBPFMmhLCu9ga-xs.gif 360w, https://assets.4cdn.hu/kraken/81e7RBPFMmhLCu9ga-sm.gif 640w, https://assets.4cdn.hu/kraken/81e7RBPFMmhLCu9ga-md.gif 768w, https://assets.4cdn.hu/kraken/81e7RBPFMmhLCu9ga-lg.gif 1366w, https://assets.4cdn.hu/kraken/81e7RBPFMmhLCu9ga-xl.gif 1920w, https://assets.4cdn.hu/kraken/81e7RBPFMmhLCu9ga-xxl.gif 2560w" sizes="auto" class="_672m2jd _1chu0ywo ta3a4c1ey ta3a4c1aa c3zuugu ta3a4c106 c3zuuga" style="--_672m2j6:1.33;--_672m2j5:800px 600px" alt>
+
+  
+
+          <div class="c3zuugv _1chu0yw9 c3zuugb _1chu0ywh ta3a4c1fc">
+            
+      <h1 class="_19gjvagj _1dy6oyq4l _19gjvagm _19gjvagk _19gjvagr _19gjvagp
+          
+          ">
+        <span>
+<!---->          <span class="_1dy6oyq5g _1dy6oyq5s">Rogánék kiadták a jelszót: Kipukkadt a lufi!</span>
+        </span>
+      </h1>
+  
+          </div>
+
+            <div class="c3zuug17 c3zuug16 c3zuugv _1chu0yw9 ta3a4c16">
+              <p class="c3zuug18">
+                A kormányzati gépezet és a médiája szó szerint ugyanazt ismételgeti Magyar Péterről.
+              </p>
+            </div>
+
+            
+    <div class="p4kpu3c9 p4kpu3gq _1chu0ywg _1dy6oyq2r _1dy6oyqb5 p4kpu31k c3zuug19 c3zuug16 ta3a4c1r">
+        <div class="_1chu0ywg p4kpu3c2">
+            <div class="_1wsp8zg4 _1chu0ywu _1chu0ywz _1chu0ywk _8b6bx51 _1dy6oyqb5 _1chu0ywt _1chu0ywy _1wsp8zg2" style="--_1wsp8zg0:40">
+    <img class="ta3a4c106 ta3a4c1fc _1chu0ywo" src="https://assets.4cdn.hu/kraken/7wLSkvP3l1gjiRZvs-xxs.jpeg?width=96&amp;height=96&amp;fit=crop" alt loading="lazy">
+</div>
+        </div>
+
+      <div class="_1chu0ywh p4kpu31k">
+        <div>
+Urfi Péter<!---->
+        </div>
+
+        <div class="_1chu0ywg p4kpu3c2">
+            <span class="_1dy6oyq4k">
+POLITIKA            </span>
+
+            <span class="_2eey3i9 _1dy6oyq4b"></span>
+
+            <time class="_2eey3i8" datetime="2024-03-26T11:04:32+01:00">
+2024. március 26. 11:04            </time>
+        </div>
+      </div>
+    </div>
+  
+        </a>
+        <!---->
+  
+          
+        <a href="/2026/05/03/meghekkeltek-a-mediaworks-oldalat" title="Meghekkelték a Mediaworks oldalát" class="c3zuugc _1chu0yw9 _1chu0yw14 _1chu0ywh p4kpu3cn p4kpu31y p4kpu3e c3zuug0 c3zuugg c3zuugj p4kpu3cn c3zuug8 c3zuug7" data-group>
+            
+        
+  <img loading="lazy" src="https://assets.4cdn.hu/kraken/8Kw4x1Jq4wfkCV7Ms.png" srcset="https://assets.4cdn.hu/kraken/8Kw4x1Jq4wfkCV7Ms-xxs.png 96w, https://assets.4cdn.hu/kraken/8Kw4x1Jq4wfkCV7Ms-xs.png 360w, https://assets.4cdn.hu/kraken/8Kw4x1Jq4wfkCV7Ms-sm.png 640w, https://assets.4cdn.hu/kraken/8Kw4x1Jq4wfkCV7Ms-md.png 768w, https://assets.4cdn.hu/kraken/8Kw4x1Jq4wfkCV7Ms-lg.png 1366w, https://assets.4cdn.hu/kraken/8Kw4x1Jq4wfkCV7Ms-xl.png 1920w, https://assets.4cdn.hu/kraken/8Kw4x1Jq4wfkCV7Ms-xxl.png 2560w" sizes="auto" class="_672m2jd _1chu0ywo ta3a4c1ey ta3a4c1aa c3zuugu ta3a4c106 c3zuuga" style="--_672m2j6:1.70;--_672m2j5:775px 456px" alt>
+
+  
+
+          <div class="c3zuugv _1chu0yw9 c3zuugb _1chu0ywh ta3a4c1fc">
+            
+      <h1 class="_19gjvagj _1dy6oyq4l _19gjvagm _19gjvagk _19gjvagr _19gjvagp
+          
+          ">
+        <span>
+<!---->          <span class="_1dy6oyq5g _1dy6oyq5s">Meghekkelték a Mediaworks oldalát</span>
+        </span>
+      </h1>
+  
+          </div>
+
+            <div class="c3zuug17 c3zuug16 c3zuugv _1chu0yw9 ta3a4c16">
+              <p class="c3zuug18">
+                Mindenhol Gulyás Gergely jött szembe a Magyar Péterre tett megjegyzésével.
+              </p>
+            </div>
+
+            
+    <div class="p4kpu3c9 p4kpu3gq _1chu0ywg _1dy6oyq2r _1dy6oyqb5 p4kpu31k c3zuug19 c3zuug16 ta3a4c1r">
+        <div class="_1chu0ywg p4kpu3c2">
+            <div class="_1wsp8zg4 _1chu0ywu _1chu0ywz _1chu0ywk _8b6bx51 _1dy6oyqb5 _1chu0ywt _1chu0ywy _1wsp8zg2" style="--_1wsp8zg0:40">
+    <img class="ta3a4c106 ta3a4c1fc _1chu0ywo" src="https://assets.4cdn.hu/kraken/833hrv1DDvOzWGWGs-xxs.jpeg?width=96&amp;height=96&amp;fit=crop" alt loading="lazy">
+</div>
+        </div>
+
+      <div class="_1chu0ywh p4kpu31k">
+        <div>
+Windisch Judit<!---->
+        </div>
+
+        <div class="_1chu0ywg p4kpu3c2">
+            <span class="_1dy6oyq4k">
+POLITIKA            </span>
+
+            <span class="_2eey3i9 _1dy6oyq4b"></span>
+
+            <time class="_2eey3i8" datetime="2026-05-03T07:43:12+02:00">
+tegnap 7:43            </time>
+        </div>
+      </div>
+    </div>
+  
+        </a>
+        <!---->
+  
+          
+        <a href="/2026/04/30/feltortek-a-mediaworksot-rengeteg-adatukat-tettek-ki-a-dark-webre" title="Feltörték a Mediaworksöt, rengeteg adatukat tették ki a dark webre" class="c3zuugc _1chu0yw9 _1chu0yw14 _1chu0ywh p4kpu3cn p4kpu31y p4kpu3e c3zuug0 c3zuugg c3zuugj p4kpu3cn c3zuug8 c3zuug7" data-group>
+            
+        
+  <img loading="lazy" src="https://assets.4cdn.hu/kraken/6ystS4htMkGQlWVgs.jpeg" srcset="https://assets.4cdn.hu/kraken/6ystS4htMkGQlWVgs-xxs.jpeg 96w, https://assets.4cdn.hu/kraken/6ystS4htMkGQlWVgs-xs.jpeg 360w, https://assets.4cdn.hu/kraken/6ystS4htMkGQlWVgs-sm.jpeg 640w, https://assets.4cdn.hu/kraken/6ystS4htMkGQlWVgs-md.jpeg 768w, https://assets.4cdn.hu/kraken/6ystS4htMkGQlWVgs-lg.jpeg 1366w, https://assets.4cdn.hu/kraken/6ystS4htMkGQlWVgs-xl.jpeg 1920w, https://assets.4cdn.hu/kraken/6ystS4htMkGQlWVgs-xxl.jpeg 2560w" sizes="auto" class="_672m2jd _1chu0ywo ta3a4c1ey ta3a4c1aa c3zuugu ta3a4c106 c3zuuga" style="--_672m2j6:1.50;--_672m2j5:2560px 1707px" alt>
+
+  
+
+          <div class="c3zuugv _1chu0yw9 c3zuugb _1chu0ywh ta3a4c1fc">
+            
+      <h1 class="_19gjvagj _1dy6oyq4l _19gjvagm _19gjvagk _19gjvagr _19gjvagp
+          
+          ">
+        <span>
+<!---->          <span class="_1dy6oyq5g _1dy6oyq5s">Feltörték a Mediaworksöt, rengeteg adatukat tették ki a dark webre</span>
+        </span>
+      </h1>
+  
+          </div>
+
+            <div class="c3zuug17 c3zuug16 c3zuugv _1chu0yw9 ta3a4c16">
+              <p class="c3zuug18">
+                Vannak közöttük szerződések, kimutatások, bérjegyzékek, belső üzenetek is.
+              </p>
+            </div>
+
+            
+    <div class="p4kpu3c9 p4kpu3gq _1chu0ywg _1dy6oyq2r _1dy6oyqb5 p4kpu31k c3zuug19 c3zuug16 ta3a4c1r">
+        <div class="_1chu0ywg p4kpu3c2">
+            <div class="_1wsp8zg4 _1chu0ywu _1chu0ywz _1chu0ywk _8b6bx51 _1dy6oyqb5 _1chu0ywt _1chu0ywy _1wsp8zg2" style="--_1wsp8zg0:40">
+    <img class="ta3a4c106 ta3a4c1fc _1chu0ywo" src="https://assets.4cdn.hu/kraken/6mcaIUIiQDMX3E3Ea-xxs.gif?width=96&amp;height=96&amp;fit=crop" alt loading="lazy">
+</div>
+        </div>
+
+      <div class="_1chu0ywh p4kpu31k">
+        <div>
+Szily László<!---->
+        </div>
+
+        <div class="_1chu0ywg p4kpu3c2">
+            <span class="_1dy6oyq4k">
+INTERNET            </span>
+
+            <span class="_2eey3i9 _1dy6oyq4b"></span>
+
+            <time class="_2eey3i8" datetime="2026-04-30T19:58:43+02:00">
+április 30. 19:58            </time>
+        </div>
+      </div>
+    </div>
+  
+        </a>
+        <!---->
+  
+      </div>
+    </section>
+
+        
+  </div>
+
+
+<!---->      
+  </div>
+
+    
+  </div>
+
+  
+
+    <div class="ta3a4c1mq"></div>
+    
+  <footer class="sun34x0 ta3a4ckm ta3a4cp3 _1chu0ywh p4kpu3hp _1dy6oyq1s ta3a4c0">
+    <div class="ta3a4csw ta3a4ctl ta3a4cxd ta3a4cy2 _1chu0ywg p4kpu31k p4kpu37z p4kpu34h">
+      <a href="/gyik" class="ta3a4cj9 ta3a4cnq _1dy6oyq5o uwwrama _1dy6oyq4x">
+        GYIK
+      </a>
+      <span class="sun34x3 ta3a4cz ta3a4c5g ta3a4cab ta3a4ces _1dy6oyq4b"></span>
+      <a href="mailto:elakadtam@444.hu" class="ta3a4cj9 ta3a4cnq _1dy6oyq5o uwwrama _1dy6oyq4x">
+        Hibát jelentek
+      </a>
+      <span class="sun34x3 ta3a4cz ta3a4c5g ta3a4cab ta3a4ces _1dy6oyq4b"></span>
+      <a href="/impresszum" class="ta3a4cj9 ta3a4cnq _1dy6oyq5o uwwrama _1dy6oyq4x">
+        Impresszum
+      </a>
+      <span class="sun34x3 ta3a4cz ta3a4c5g ta3a4cab ta3a4ces _1dy6oyq4b"></span>
+      <a href="/helyreigazitasok-javitasok" class="ta3a4cj9 ta3a4cnq _1dy6oyq5o uwwrama _1dy6oyq4x">
+        Javítások kezelése
+      </a>
+      <span class="sun34x3 ta3a4cz ta3a4c5g ta3a4cab ta3a4ces _1dy6oyq4b"></span>
+      
+    <a href="https://444.hu/jogi-dokumentumok" class="uwwrama ta3a4cj9 ta3a4cnq _1dy6oyq5o uwwrama _1dy6oyq4x" rel="noopener">
+        Jogi dokumentumok
+      </a>
+  
+      <span class="sun34x3 ta3a4cz ta3a4c5g ta3a4cab ta3a4ces _1dy6oyq4b"></span>
+      
+    <a href="https://444.hu/mediaajanlat" class="uwwrama ta3a4cj9 ta3a4cnq _1dy6oyq5o uwwrama _1dy6oyq4x" rel="noopener">
+        Médiaajánlat
+      </a>
+  
+      <span class="sun34x3 ta3a4cz ta3a4c5g ta3a4cab ta3a4ces _1dy6oyq4b"></span>
+      <a href="/feed" class="ta3a4cj9 ta3a4cnq _1dy6oyq5o uwwrama _1dy6oyq4x">
+        RSS
+      </a>
+      <span class="sun34x3 ta3a4cz ta3a4c5g ta3a4cab ta3a4ces _1dy6oyq4b"></span>
+      <span class="ta3a4cj9 ta3a4cnq _1dy6oyq5o uwwrama _1dy6oyq4x" role="button">
+        Sütibeállítások
+      </span>
+    </div>
+    <div class="ta3a4csw ta3a4ctl ta3a4cxd ta3a4cy2 _1chu0ywg p4kpu31k p4kpu37z p4kpu34h">
+      <span>
+        ©
+        2026
+        Magyar Jeti Zrt.
+      </span>
+    </div>
+    <div class="sun34x4 _1chu0ywh p4kpu31k p4kpu3cu">
+      
+  <hr class="_18wajyd1 _1chu0ywf _8b6bx8d sun34x5">
+
+      Vége
+      
+  <hr class="_18wajyd1 _1chu0ywf _8b6bx8d sun34x5">
+
+    </div>
+  </footer>
+
+  </div>
+
+
+
+
+
+
+  
+<!---->  
+
+
+    </div>
+  
+
+
+<!---->  <script type="fastboot/shoebox" id="shoebox-apollo-cache">{"cache":{"Bucket:70b47701-2c71-55dc-95b1-7ac5be6b8a21":{"__typename":"Bucket","id":"70b47701-2c71-55dc-95b1-7ac5be6b8a21","slug":"444","name":"444"},"MediaItem:7a8bc1f8-4606-5a08-b008-46155aeed585":{"__typename":"Image","caption":"Péterfalvi Attila, a Nemzeti Adatvédelmi és Információszabadság Hatóság elnöke.","author":"Koszticsák Szilárd/MTI/MTVA","url":"https://assets.4cdn.hu/kraken/7bmknw5wXQ1ii8TQs.jpeg","creditType":"Fotó","sourceLink":null,"bucket":{"__ref":"Bucket:70b47701-2c71-55dc-95b1-7ac5be6b8a21"},"id":"7a8bc1f8-4606-5a08-b008-46155aeed585","width":2736,"height":1824,"variations":[{"__typename":"ImageVariation","url":"https://assets.4cdn.hu/kraken/7bmknw5wXQ1ii8TQs-xxs.jpeg","size":"xxs","width":96,"height":64},{"__typename":"ImageVariation","url":"https://assets.4cdn.hu/kraken/7bmknw5wXQ1ii8TQs-xs.jpeg","size":"xs","width":360,"height":240},{"__typename":"ImageVariation","url":"https://assets.4cdn.hu/kraken/7bmknw5wXQ1ii8TQs-sm.jpeg","size":"sm","width":640,"height":427},{"__typename":"ImageVariation","url":"https://assets.4cdn.hu/kraken/7bmknw5wXQ1ii8TQs-md.jpeg","size":"md","width":768,"height":512},{"__typename":"ImageVariation","url":"https://assets.4cdn.hu/kraken/7bmknw5wXQ1ii8TQs-lg.jpeg","size":"lg","width":1366,"height":911},{"__typename":"ImageVariation","url":"https://assets.4cdn.hu/kraken/7bmknw5wXQ1ii8TQs-xl.jpeg","size":"xl","width":1920,"height":1280},{"__typename":"ImageVariation","url":"https://assets.4cdn.hu/kraken/7bmknw5wXQ1ii8TQs-xxl.jpeg","size":"xxl","width":2560,"height":1707}]},"Author:81f4709f-24b4-428b-881a-b7e98cd216bc":{"__typename":"Author","id":"81f4709f-24b4-428b-881a-b7e98cd216bc","name":"Benics Márk","avatar":"https://assets.4cdn.hu/kraken/8FFKhaKhXIYt1nI1CCs.jpeg?width=96\u0026height=96\u0026fit=crop","slug":"benicsm"},"Category:b722e920-44ed-4c26-bca0-2ac8fc0cd644":{"__typename":"Category","id":"b722e920-44ed-4c26-bca0-2ac8fc0cd644","slug":"belfold","name":"belföld","description":"","url":"https://444.hu/category/belfold"},"Tag:29e989ca-8281-4082-af7f-a788e45ef36a":{"__typename":"Tag","id":"29e989ca-8281-4082-af7f-a788e45ef36a","slug":"hekkertamadas","name":"hekkertámadás","description":"","url":"https://444.hu/tag/hekkertamadas"},"Tag:30277029-c4e8-4f6c-9a84-4541762b877e":{"__typename":"Tag","id":"30277029-c4e8-4f6c-9a84-4541762b877e","slug":"adatvedelmi-incidens","name":"adatvédelmi incidens","description":"","url":"https://444.hu/tag/adatvedelmi-incidens"},"Tag:4f7073c1-0291-4439-ab7b-e9d35e06441c":{"__typename":"Tag","id":"4f7073c1-0291-4439-ab7b-e9d35e06441c","slug":"szemelyes-adatok","name":"személyes adatok","description":"","url":"https://444.hu/tag/szemelyes-adatok"},"Tag:81a06bbf-fffb-4d82-80af-73e44d4b285e":{"__typename":"Tag","id":"81a06bbf-fffb-4d82-80af-73e44d4b285e","slug":"mediaworks","name":"mediaworks","description":"","url":"https://444.hu/tag/mediaworks"},"Tag:9b176caf-b5dd-40bc-a5cb-2deaba7ba60a":{"__typename":"Tag","id":"9b176caf-b5dd-40bc-a5cb-2deaba7ba60a","slug":"nemzeti-adatvedelmi-es-informacioszabadsag-hatosag","name":"Nemzeti Adatvédelmi és Információszabadság Hatóság","description":"","url":"https://444.hu/tag/nemzeti-adatvedelmi-es-informacioszabadsag-hatosag"},"Tag:a1831f9d-1cef-42f2-9c1a-e223c883716e":{"__typename":"Tag","id":"a1831f9d-1cef-42f2-9c1a-e223c883716e","slug":"naih","name":"NAIH","description":"","url":"https://444.hu/tag/naih"},"Tag:bdbca947-9fa7-4667-968f-18fb1bc982d0":{"__typename":"Tag","id":"bdbca947-9fa7-4667-968f-18fb1bc982d0","slug":"world-leaks","name":"World Leaks","description":"","url":"https://444.hu/tag/world-leaks"},"Tag:cd8fa4fd-150a-4c27-8f7f-5fa3157788cf":{"__typename":"Tag","id":"cd8fa4fd-150a-4c27-8f7f-5fa3157788cf","slug":"mediaworks-hungary-zrt","name":"Mediaworks Hungary Zrt","description":"","url":"https://444.hu/tag/mediaworks-hungary-zrt"},"Tag:f23c4d05-b47d-5268-81bb-a87ddc75c7a3":{"__typename":"Tag","id":"f23c4d05-b47d-5268-81bb-a87ddc75c7a3","slug":"darkweb","name":"darkweb","description":null,"url":"https://444.hu/tag/darkweb"},"Format:7a6036e1-c587-11f0-9297-525400d76232":{"__typename":"Format","id":"7a6036e1-c587-11f0-9297-525400d76232","slug":"cikk","name":"Cikk","description":null,"url":"https://444.hu/format/cikk","mateType":"DEFAULT"},"MediaItem:b16a47db-0257-5dfe-924b-ff561430daf5":{"__typename":"Image","caption":"","author":"","url":"https://assets.4cdn.hu/kraken/81e7RBPFMmhLCu9ga.gif","creditType":"Fotó","sourceLink":null,"bucket":{"__ref":"Bucket:70b47701-2c71-55dc-95b1-7ac5be6b8a21"},"id":"b16a47db-0257-5dfe-924b-ff561430daf5","width":800,"height":600,"variations":[{"__typename":"ImageVariation","url":"https://assets.4cdn.hu/kraken/81e7RBPFMmhLCu9ga-xxs.gif","size":"xxs","width":96,"height":72},{"__typename":"ImageVariation","url":"https://assets.4cdn.hu/kraken/81e7RBPFMmhLCu9ga-xs.gif","size":"xs","width":360,"height":270},{"__typename":"ImageVariation","url":"https://assets.4cdn.hu/kraken/81e7RBPFMmhLCu9ga-sm.gif","size":"sm","width":640,"height":480},{"__typename":"ImageVariation","url":"https://assets.4cdn.hu/kraken/81e7RBPFMmhLCu9ga-md.gif","size":"md","width":768,"height":576},{"__typename":"ImageVariation","url":"https://assets.4cdn.hu/kraken/81e7RBPFMmhLCu9ga-lg.gif","size":"lg","width":1366,"height":1025},{"__typename":"ImageVariation","url":"https://assets.4cdn.hu/kraken/81e7RBPFMmhLCu9ga-xl.gif","size":"xl","width":1920,"height":1440},{"__typename":"ImageVariation","url":"https://assets.4cdn.hu/kraken/81e7RBPFMmhLCu9ga-xxl.gif","size":"xxl","width":2560,"height":1920}]},"Author:a549ae5a-2793-4166-b631-1ec4d4e110ae":{"__typename":"Author","id":"a549ae5a-2793-4166-b631-1ec4d4e110ae","name":"Urfi Péter","avatar":"https://assets.4cdn.hu/kraken/7wLSkvP3l1gjiRZvs.jpeg?width=96\u0026height=96\u0026fit=crop","slug":"urfip"},"Category:492b6bf0-019a-4f4a-a596-fec37b6676b1":{"__typename":"Category","id":"492b6bf0-019a-4f4a-a596-fec37b6676b1","slug":"politika","name":"POLITIKA","description":"","url":"https://444.hu/category/politika"},"Article:639fae40-292a-5cbe-9673-72a6b4636e7a":{"__typename":"Article","id":"639fae40-292a-5cbe-9673-72a6b4636e7a","title":"Rogánék kiadták a jelszót: Kipukkadt a lufi!","slug":"roganek-kiadtak-a-jelszot-kipukkadt-a-lufi","featuredImage":{"__ref":"MediaItem:b16a47db-0257-5dfe-924b-ff561430daf5"},"excerpt":"A kormányzati gépezet és a médiája szó szerint ugyanazt ismételgeti Magyar Péterről.","publishedAt":"2024-03-26T11:04:32+01:00","createdAt":"2024-03-26T11:04:34+01:00","authors":[{"__ref":"Author:a549ae5a-2793-4166-b631-1ec4d4e110ae"}],"categories":[{"__ref":"Category:492b6bf0-019a-4f4a-a596-fec37b6676b1"}],"collections":[],"bucket":{"__ref":"Bucket:70b47701-2c71-55dc-95b1-7ac5be6b8a21"},"options":[{"__typename":"Option","key":"template","value":""},{"__typename":"Option","key":"color_scheme","value":""},{"__typename":"Option","key":"is_anonym","value":false},{"__typename":"Option","key":"background_shadow","value":false},{"__typename":"Option","key":"title_inner","value":false},{"__typename":"Option","key":"jumbotron","value":""},{"__typename":"Option","key":"external_url","value":""},{"__typename":"Option","key":"title_alignment","value":""},{"__typename":"Option","key":"comments_enabled","value":false},{"__typename":"Option","key":"stream","value":true}],"format":{"__ref":"Format:7a6036e1-c587-11f0-9297-525400d76232"},"partners":[],"url":"https://444.hu/2024/03/26/roganek-kiadtak-a-jelszot-kipukkadt-a-lufi"},"MediaItem:af314e3e-30a6-5f8e-a0c8-080b5d2f1603":{"__typename":"Image","caption":"","author":"Magyarország Kormánya","url":"https://assets.4cdn.hu/kraken/8Kw4x1Jq4wfkCV7Ms.png","creditType":"Fotó","sourceLink":null,"bucket":{"__ref":"Bucket:70b47701-2c71-55dc-95b1-7ac5be6b8a21"},"id":"af314e3e-30a6-5f8e-a0c8-080b5d2f1603","width":775,"height":456,"variations":[{"__typename":"ImageVariation","url":"https://assets.4cdn.hu/kraken/8Kw4x1Jq4wfkCV7Ms-xxs.png","size":"xxs","width":96,"height":56},{"__typename":"ImageVariation","url":"https://assets.4cdn.hu/kraken/8Kw4x1Jq4wfkCV7Ms-xs.png","size":"xs","width":360,"height":212},{"__typename":"ImageVariation","url":"https://assets.4cdn.hu/kraken/8Kw4x1Jq4wfkCV7Ms-sm.png","size":"sm","width":640,"height":377},{"__typename":"ImageVariation","url":"https://assets.4cdn.hu/kraken/8Kw4x1Jq4wfkCV7Ms-md.png","size":"md","width":768,"height":452},{"__typename":"ImageVariation","url":"https://assets.4cdn.hu/kraken/8Kw4x1Jq4wfkCV7Ms-lg.png","size":"lg","width":1366,"height":804},{"__typename":"ImageVariation","url":"https://assets.4cdn.hu/kraken/8Kw4x1Jq4wfkCV7Ms-xl.png","size":"xl","width":1920,"height":1130},{"__typename":"ImageVariation","url":"https://assets.4cdn.hu/kraken/8Kw4x1Jq4wfkCV7Ms-xxl.png","size":"xxl","width":2560,"height":1506}]},"Author:b6e04a12-64df-4b60-95a1-72155ed14bd6":{"__typename":"Author","id":"b6e04a12-64df-4b60-95a1-72155ed14bd6","name":"Windisch Judit","avatar":"https://assets.4cdn.hu/kraken/833hrv1DDvOzWGWGs.jpeg?width=96\u0026height=96\u0026fit=crop","slug":"windischj"},"Article:81be135c-3ee1-5aa9-a455-52de5986d883":{"__typename":"Article","id":"81be135c-3ee1-5aa9-a455-52de5986d883","title":"Meghekkelték a Mediaworks oldalát","slug":"meghekkeltek-a-mediaworks-oldalat","featuredImage":{"__ref":"MediaItem:af314e3e-30a6-5f8e-a0c8-080b5d2f1603"},"excerpt":"Mindenhol Gulyás Gergely jött szembe a Magyar Péterre tett megjegyzésével.","publishedAt":"2026-05-03T07:43:12+02:00","createdAt":"2026-05-03T07:43:15+02:00","authors":[{"__ref":"Author:b6e04a12-64df-4b60-95a1-72155ed14bd6"}],"categories":[{"__ref":"Category:492b6bf0-019a-4f4a-a596-fec37b6676b1"}],"collections":[],"bucket":{"__ref":"Bucket:70b47701-2c71-55dc-95b1-7ac5be6b8a21"},"options":[{"__typename":"Option","key":"template","value":""},{"__typename":"Option","key":"language","value":"hu"},{"__typename":"Option","key":"color_scheme","value":""},{"__typename":"Option","key":"is_anonym","value":false},{"__typename":"Option","key":"background_shadow","value":false},{"__typename":"Option","key":"title_inner","value":false},{"__typename":"Option","key":"lead_av","value":""},{"__typename":"Option","key":"jumbotron","value":""},{"__typename":"Option","key":"external_url","value":""},{"__typename":"Option","key":"title_alignment","value":""},{"__typename":"Option","key":"comments_enabled","value":true},{"__typename":"Option","key":"stream","value":true}],"format":{"__ref":"Format:7a6036e1-c587-11f0-9297-525400d76232"},"partners":[],"url":"https://444.hu/2026/05/03/meghekkeltek-a-mediaworks-oldalat"},"MediaItem:b6272ad3-4396-57e3-abc8-42455c7adc12":{"__typename":"Image","caption":"","author":"Botos Tamás/444","url":"https://assets.4cdn.hu/kraken/6ystS4htMkGQlWVgs.jpeg","creditType":"Fotó","sourceLink":"","bucket":{"__ref":"Bucket:70b47701-2c71-55dc-95b1-7ac5be6b8a21"},"id":"b6272ad3-4396-57e3-abc8-42455c7adc12","width":2946,"height":1964,"variations":[{"__typename":"ImageVariation","url":"https://assets.4cdn.hu/kraken/6ystS4htMkGQlWVgs-xxs.jpeg","size":"xxs","width":96,"height":64},{"__typename":"ImageVariation","url":"https://assets.4cdn.hu/kraken/6ystS4htMkGQlWVgs-xs.jpeg","size":"xs","width":360,"height":240},{"__typename":"ImageVariation","url":"https://assets.4cdn.hu/kraken/6ystS4htMkGQlWVgs-sm.jpeg","size":"sm","width":640,"height":427},{"__typename":"ImageVariation","url":"https://assets.4cdn.hu/kraken/6ystS4htMkGQlWVgs-md.jpeg","size":"md","width":768,"height":512},{"__typename":"ImageVariation","url":"https://assets.4cdn.hu/kraken/6ystS4htMkGQlWVgs-lg.jpeg","size":"lg","width":1366,"height":911},{"__typename":"ImageVariation","url":"https://assets.4cdn.hu/kraken/6ystS4htMkGQlWVgs-xl.jpeg","size":"xl","width":1920,"height":1280},{"__typename":"ImageVariation","url":"https://assets.4cdn.hu/kraken/6ystS4htMkGQlWVgs-xxl.jpeg","size":"xxl","width":2560,"height":1707}]},"Author:903f72f5-d8b3-47e5-9755-eb92e76e7b1f":{"__typename":"Author","id":"903f72f5-d8b3-47e5-9755-eb92e76e7b1f","name":"Szily László","avatar":"https://assets.4cdn.hu/kraken/6mcaIUIiQDMX3E3Ea.gif?width=96\u0026height=96\u0026fit=crop","slug":"szily"},"Category:3f5635b8-c99f-47fd-a51a-c257ef14c011":{"__typename":"Category","id":"3f5635b8-c99f-47fd-a51a-c257ef14c011","slug":"internet","name":"INTERNET","description":"","url":"https://444.hu/category/internet"},"Article:a64e85db-a387-55ea-9cb0-6d3fafd3c244":{"__typename":"Article","id":"a64e85db-a387-55ea-9cb0-6d3fafd3c244","title":"Feltörték a Mediaworksöt, rengeteg adatukat tették ki a dark webre","slug":"feltortek-a-mediaworksot-rengeteg-adatukat-tettek-ki-a-dark-webre","featuredImage":{"__ref":"MediaItem:b6272ad3-4396-57e3-abc8-42455c7adc12"},"excerpt":"Vannak közöttük szerződések, kimutatások, bérjegyzékek, belső üzenetek is.","publishedAt":"2026-04-30T19:58:43+02:00","createdAt":"2026-04-30T19:58:46+02:00","authors":[{"__ref":"Author:903f72f5-d8b3-47e5-9755-eb92e76e7b1f"}],"categories":[{"__ref":"Category:3f5635b8-c99f-47fd-a51a-c257ef14c011"}],"collections":[],"bucket":{"__ref":"Bucket:70b47701-2c71-55dc-95b1-7ac5be6b8a21"},"options":[{"__typename":"Option","key":"template","value":""},{"__typename":"Option","key":"language","value":"hu"},{"__typename":"Option","key":"color_scheme","value":""},{"__typename":"Option","key":"is_anonym","value":false},{"__typename":"Option","key":"background_shadow","value":false},{"__typename":"Option","key":"title_inner","value":false},{"__typename":"Option","key":"lead_av","value":""},{"__typename":"Option","key":"jumbotron","value":""},{"__typename":"Option","key":"external_url","value":""},{"__typename":"Option","key":"title_alignment","value":""},{"__typename":"Option","key":"comments_enabled","value":true},{"__typename":"Option","key":"stream","value":true}],"format":{"__ref":"Format:7a6036e1-c587-11f0-9297-525400d76232"},"partners":[],"url":"https://444.hu/2026/04/30/feltortek-a-mediaworksot-rengeteg-adatukat-tettek-ki-a-dark-webre"},"Article:58e142f6-0e1e-5044-9ab9-48af59dd5283":{"__typename":"Article","id":"58e142f6-0e1e-5044-9ab9-48af59dd5283","featuredImage":{"__ref":"MediaItem:7a8bc1f8-4606-5a08-b008-46155aeed585"},"title":"Vizsgálatot indít az adatvédelmi hatóság a Mediaworks adatlopási ügyében","body":[[{"type":"core/paragraph","params":{},"content":"A Nemzeti Adatvédelmi és Információszabadság Hatóság hivatalból vizsgálatot indít a Mediaworks adatvédelmi incidensével kapcsolatban. "},{"type":"core/paragraph","params":{},"content":"Közleményük szerint a sajtóban megjelent információk alapján szereztek tudomást arról, hogy a World Leaks nevű, zsarolásra specializálódott hackercsoport csaknem 15 millió fájlt, összesen mintegy 8,5 terabájtnyi adatot \u003ca href=\"https://444.hu/2026/04/30/feltortek-a-mediaworksot-rengeteg-adatukat-tettek-ki-a-dark-webre\" \u003eszerzett meg jogellenesen\u003c/a\u003e a fideszes médiaholding rendszeréből és tett közzé a darkweben. A nyilvánosságra hozott fájlok nagy része régebbi, de vannak újak is, közöttük bérjegyzékek, szerződések, kimutatások, belső üzenetek is."},{"type":"image","params":{"src":"https://4cdn.hu/kraken/image/upload/s--jeGUyKEU--/c_limit,w_760/7bmknw5wXQ1ii8TQs.jpeg","id":"7a8bc1f8-4606-5a08-b008-46155aeed585","showauthor":"true","alt":"","link":"","mediaItem":{"caption":"Péterfalvi Attila, a Nemzeti Adatvédelmi és Információszabadság Hatóság elnöke.","author":"Koszticsák Szilárd/MTI/MTVA","url":"https://assets.4cdn.hu/kraken/7bmknw5wXQ1ii8TQs.jpeg","creditType":"Fotó","sourceLink":null,"bucket":{"id":"70b47701-2c71-55dc-95b1-7ac5be6b8a21","slug":"444","name":"444","__typename":"Bucket"},"__typename":"Image","id":"7a8bc1f8-4606-5a08-b008-46155aeed585","width":2736,"height":1824,"variations":[{"url":"https://assets.4cdn.hu/kraken/7bmknw5wXQ1ii8TQs-xxs.jpeg","size":"xxs","width":96,"height":64,"__typename":"ImageVariation"},{"url":"https://assets.4cdn.hu/kraken/7bmknw5wXQ1ii8TQs-xs.jpeg","size":"xs","width":360,"height":240,"__typename":"ImageVariation"},{"url":"https://assets.4cdn.hu/kraken/7bmknw5wXQ1ii8TQs-sm.jpeg","size":"sm","width":640,"height":427,"__typename":"ImageVariation"},{"url":"https://assets.4cdn.hu/kraken/7bmknw5wXQ1ii8TQs-md.jpeg","size":"md","width":768,"height":512,"__typename":"ImageVariation"},{"url":"https://assets.4cdn.hu/kraken/7bmknw5wXQ1ii8TQs-lg.jpeg","size":"lg","width":1366,"height":911,"__typename":"ImageVariation"},{"url":"https://assets.4cdn.hu/kraken/7bmknw5wXQ1ii8TQs-xl.jpeg","size":"xl","width":1920,"height":1280,"__typename":"ImageVariation"},{"url":"https://assets.4cdn.hu/kraken/7bmknw5wXQ1ii8TQs-xxl.jpeg","size":"xxl","width":2560,"height":1707,"__typename":"ImageVariation"}]}},"content":"Péterfalvi Attila, a Nemzeti Adatvédelmi és Információszabadság Hatóság elnöke."},{"type":"core/paragraph","params":{},"content":"A NAIH szerint a dokumentumok között vannak, amelyek nagy számban személyes adatokat (neveket, lakcímeket, bankszámla adatokat), valamint közérdekű és közérdekből nyilvános adatokat is tartalmaznak. Azt írták, megalapozottan állítható, hogy ez a magatartás személyes adatok jogellenes kezelését valósíthatja meg, ezért hivatalból vizsgálatot indítanak, és ennek eredményétől függően megteszik a szükséges további intézkedéseket."},{"type":"core/blockquote","params":{},"content":"\u003cp \u003e„A Hatóság, ahogyan azt a Tisza Párt adatvédelmi incidense kapcsán is tette, nyomatékosan felhívja a figyelmet arra, hogy amennyiben a Mediaworks Hungary Zrt. adatvédelmi incidenséről – mint közérdekű ügyről – a sajtó beszámol, tartózkodjon attól, hogy közölje a jogellenesen nyilvánosságra hozott személyes adatok internetes elérhetőségét”\u003c/p\u003e"},{"type":"core/paragraph","params":{},"content":"– figyelmeztettek. Miközben a Tisza Világ applikáció feltörésekor még arról beszélt Péterfalvi Attila NAIH-elnök, hogy a pártnak is felelőssége lehet az „adatszivárgásban”, most ilyenre nem tértek ki."},{"type":"core/paragraph","params":{},"content":"A hétvégén a Mediaworks honlapját is \u003ca href=\"https://444.hu/2026/05/03/meghekkeltek-a-mediaworks-oldalat\" \u003emeghekkelték\u003c/a\u003e, az oldalon több helyen csak Gulyás Gergely fotója és a „\u003ca href=\"https://444.hu/2024/03/26/roganek-kiadtak-a-jelszot-kipukkadt-a-lufi\" target=\"_blank\" \u003ekipukkadt a lufi”\u003c/a\u003e szöveg volt látható."}]],"slug":"vizsgalatot-indit-az-adatvedelmi-hatosag-a-mediaworks-adatlopasi-ugyeben","publishedAt":"2026-05-04T12:32:39+02:00","bucket":{"__ref":"Bucket:70b47701-2c71-55dc-95b1-7ac5be6b8a21"},"excerpt":"Azt írták, a sajtóból értesültek a hekkertámadásról.","createdAt":"2026-05-04T12:32:42+02:00","updatedAt":"2026-05-04T12:38:43+02:00","authors":[{"__ref":"Author:81f4709f-24b4-428b-881a-b7e98cd216bc"}],"categories":[{"__ref":"Category:b722e920-44ed-4c26-bca0-2ac8fc0cd644"}],"tags":[{"__ref":"Tag:29e989ca-8281-4082-af7f-a788e45ef36a"},{"__ref":"Tag:30277029-c4e8-4f6c-9a84-4541762b877e"},{"__ref":"Tag:4f7073c1-0291-4439-ab7b-e9d35e06441c"},{"__ref":"Tag:81a06bbf-fffb-4d82-80af-73e44d4b285e"},{"__ref":"Tag:9b176caf-b5dd-40bc-a5cb-2deaba7ba60a"},{"__ref":"Tag:a1831f9d-1cef-42f2-9c1a-e223c883716e"},{"__ref":"Tag:bdbca947-9fa7-4667-968f-18fb1bc982d0"},{"__ref":"Tag:cd8fa4fd-150a-4c27-8f7f-5fa3157788cf"},{"__ref":"Tag:f23c4d05-b47d-5268-81bb-a87ddc75c7a3"}],"collections":[],"meta":[{"__typename":"Meta","key":"description","value":""},{"__typename":"Meta","key":"excerpt","value":"Azt írták, a sajtóból értesültek a hekkertámadásról."},{"__typename":"Meta","key":"featuredImage","value":"7a8bc1f8-4606-5a08-b008-46155aeed585"},{"__typename":"Meta","key":"og:description","value":""},{"__typename":"Meta","key":"og:image","value":""},{"__typename":"Meta","key":"og:title","value":""},{"__typename":"Meta","key":"title","value":""}],"options":[{"__typename":"Option","key":"template","value":""},{"__typename":"Option","key":"language","value":"hu"},{"__typename":"Option","key":"color_scheme","value":""},{"__typename":"Option","key":"is_anonym","value":false},{"__typename":"Option","key":"background_shadow","value":false},{"__typename":"Option","key":"title_inner","value":false},{"__typename":"Option","key":"lead_av","value":""},{"__typename":"Option","key":"jumbotron","value":""},{"__typename":"Option","key":"external_url","value":""},{"__typename":"Option","key":"title_alignment","value":""},{"__typename":"Option","key":"comments_enabled","value":true},{"__typename":"Option","key":"stream","value":true}],"url":"https://444.hu/2026/05/04/vizsgalatot-indit-az-adatvedelmi-hatosag-a-mediaworks-adatlopasi-ugyeben","format":{"__ref":"Format:7a6036e1-c587-11f0-9297-525400d76232"},"partners":[],"relatedArticles":[{"__ref":"Article:639fae40-292a-5cbe-9673-72a6b4636e7a"},{"__ref":"Article:81be135c-3ee1-5aa9-a455-52de5986d883"},{"__ref":"Article:a64e85db-a387-55ea-9cb0-6d3fafd3c244"}],"userHasAccess":true},"ROOT_QUERY":{"__typename":"Query","content({\"fromBucket\":{\"column\":\"SLUG\",\"operator\":\"IN\",\"value\":[\"444\"]},\"publishedAt\":\"2026-05-04\",\"slug\":\"vizsgalatot-indit-az-adatvedelmi-hatosag-a-mediaworks-adatlopasi-ugyeben\"})":{"__ref":"Article:58e142f6-0e1e-5044-9ab9-48af59dd5283"}}}}</script><script type="fastboot/shoebox" id="shoebox-abgroup">null</script><script type="x/boundary" id="fastboot-body-end"></script>
+
+    
+<script src="https://cdn.444r.cloud/assets/vendor.a695b4593df413ede9de682fe5ad5e29.js"></script>
+
+
+
+<link href="https://cdn.444r.cloud/assets/chunk.d8e25383b5c6b80f7c15.css" rel="stylesheet">
+<script src="https://cdn.444r.cloud/assets/chunk.9ed997efb6b071b196d4.js"></script>
+<script src="https://cdn.444r.cloud/assets/chunk.b1a35005f2c29f82e0b6.js"></script>
+</body></html>
