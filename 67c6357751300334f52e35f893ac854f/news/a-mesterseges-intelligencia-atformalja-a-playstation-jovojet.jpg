@@ -1,0 +1,884 @@
+<!DOCTYPE html>
+<html lang="hu">
+
+<head>
+<meta charset="UTF-8">
+<title>A gaming teljesen megváltozhat a PlayStation jövőbeli tervei miatt</title>
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width">
+<meta name="keywords" content="&quot;AI játékfejlesztés&quot;,&quot;AI&quot;,&quot;AI asszisztens&quot;,&quot;áremelés&quot;,&quot;Hideaki Nishino&quot;,&quot;mesterséges intelligencia&quot;,&quot;NPC&quot;,&quot;playstation&quot;,&quot;PlayStation 6&quot;,&quot;playstation store&quot;,&quot;playstation5&quot;,&quot;PS6&quot;,&quot;sony&quot;,&quot;videójáték-fejlesztés&quot;" />
+<meta name="description" content="A Sony fejest ugrott az AI-medencébe, és a hajszálaktól a boltig mindent algoritmusok fognak vezérelni." />
+
+<meta name="robots" content="all" />
+<meta name="robots" content="index,follow" />
+<meta name="robots" content="max-image-preview:large" />
+
+<meta name="googlebot" content="all" />
+<meta name="googlebot" content="index,follow" />
+
+<meta name="facebookexternalhit" content="index,follow" />
+
+<link rel="alternate" type="application/rss+xml" href="/rss">
+<link href="/assets/desktop/img/pcguru.ico" rel="shortcut icon">
+<link rel="canonical" href="https://www.pcguru.hu/hirek/a-gaming-teljesen-megvaltozhat-a-playstation-jovobeli-tervei-miatt-tzeus/100815" />
+<meta property="og:type" content="website" />
+<meta property="og:site_name" content="PCGURU" />
+<meta property="og:title" content="A gaming teljesen megváltozhat a PlayStation jövőbeli tervei miatt" />
+<meta property="og:url" content="https://www.pcguru.hu/hirek/a-gaming-teljesen-megvaltozhat-a-playstation-jovobeli-tervei-miatt-tzeus/100815" />
+<meta property="og:description" content="A Sony fejest ugrott az AI-medencébe, és a hajszálaktól a boltig mindent algoritmusok fognak vezérelni." />
+<meta property="og:image:width" content="1200" />
+<meta property="og:image:height" content="630" />
+<meta property="og:image" content="https://www.pcguru.hu/images/news/2026-05/a_gaming_teljesen_megvaltozhat_a_playstation_jovobeli_tervei_miatt_1778251514_da587d735effedfd307e.jpg" />
+
+<!-- Fonts -->
+<link rel="preconnect" href="https://fonts.googleapis.com" crossorigin />
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+
+
+<!-- CSS files -->
+<link rel="stylesheet" href="/assets/desktop/css/style.css?v=1.0.260">
+<!-- scirpts -->
+<meta name="facebook-domain-verification" content="xsibxrn867tpszakl3xr0xlwq23vhf" /><!-- Global site tag (gtag.js) - Google Ads: 1010187875 -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=AW-1010187875"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'AW-1010187875');
+</script>
+<meta property="fb:pages" content="104095542966675" /><script type="text/javascript" src="//hu.adocean.pl/files/js/ado.js"></script>
+    <script async="" type="text/javascript">
+	window.adocf = {};
+	window.adocf.useDOMContentLoaded = true;
+	
+	
+      /* (c)AdOcean 2003-2022 */
+      if (typeof ado !== "object") {
+          ado={};
+          ado.config = ado.preview = ado.placement = ado.master = ado.slave = function(){};
+      }
+      ado.config({mode: 'new', xml: false, consent: true, characterEncoding: true, attachReferrer: true, fpc: 'auto', defaultServer: 'hu.adocean.pl', cookieDomain: 'SLD'});
+      ado.preview({enabled: true});
+</script>
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-MZH3NTSH81"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-MZH3NTSH81');
+</script>
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-W8SZHGK');</script>
+<!-- End Google Tag Manager --><script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4746115996173150"
+     crossorigin="anonymous"></script>
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-MZH3NTSH81"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-MZH3NTSH81');
+</script>
+<!-- InMobi Choice. Consent Manager Tag v3.0 (for TCF 2.2) -->
+<script type="text/javascript" async=true>
+(function() {
+var host = 'www.pcguru.hu';
+var element = document.createElement('script');
+var firstScript = document.getElementsByTagName('script')[0];
+var url = 'https://cmp.inmobi.com'
+.concat('/choice/', 'WSG5WJTygcpRS', '/', host, '/choice.js?tag_version=V3');
+var uspTries = 0;
+var uspTriesLimit = 3;
+element.async = true;
+element.type = 'text/javascript';
+element.src = url;
+
+firstScript.parentNode.insertBefore(element, firstScript);
+
+function makeStub() {
+var TCF_LOCATOR_NAME = '__tcfapiLocator';
+var queue = [];
+var win = window;
+var cmpFrame;
+
+function addFrame() {
+var doc = win.document;
+var otherCMP = !!(win.frames[TCF_LOCATOR_NAME]);
+
+if (!otherCMP) {
+if (doc.body) {
+var iframe = doc.createElement('iframe');
+
+iframe.style.cssText = 'display:none';
+iframe.name = TCF_LOCATOR_NAME;
+doc.body.appendChild(iframe);
+} else {
+setTimeout(addFrame, 5);
+}
+}
+return !otherCMP;
+}
+
+function tcfAPIHandler() {
+var gdprApplies;
+var args = arguments;
+
+if (!args.length) {
+return queue;
+} else if (args[0] === 'setGdprApplies') {
+if (
+args.length > 3 &&
+args[2] === 2 &&
+typeof args[3] === 'boolean'
+) {
+gdprApplies = args[3];
+if (typeof args[2] === 'function') {
+args[2]('set', true);
+}
+}
+} else if (args[0] === 'ping') {
+var retr = {
+gdprApplies: gdprApplies,
+cmpLoaded: false,
+cmpStatus: 'stub'
+};
+
+if (typeof args[2] === 'function') {
+args[2](retr);
+}
+} else {
+if(args[0] === 'init' && typeof args[3] === 'object') {
+args[3] = Object.assign(args[3], { tag_version: 'V3' });
+}
+queue.push(args);
+}
+}
+
+function postMessageEventHandler(event) {
+var msgIsString = typeof event.data === 'string';
+var json = {};
+
+try {
+if (msgIsString) {
+json = JSON.parse(event.data);
+} else {
+json = event.data;
+}
+} catch (ignore) {}
+
+var payload = json.__tcfapiCall;
+
+if (payload) {
+window.__tcfapi(
+payload.command,
+payload.version,
+function(retValue, success) {
+var returnMsg = {
+  __tcfapiReturn: {
+    returnValue: retValue,
+    success: success,
+    callId: payload.callId
+  }
+};
+if (msgIsString) {
+  returnMsg = JSON.stringify(returnMsg);
+}
+if (event && event.source && event.source.postMessage) {
+  event.source.postMessage(returnMsg, '*');
+}
+},
+payload.parameter
+);
+}
+}
+
+while (win) {
+try {
+if (win.frames[TCF_LOCATOR_NAME]) {
+cmpFrame = win;
+break;
+}
+} catch (ignore) {}
+
+if (win === window.top) {
+break;
+}
+win = win.parent;
+}
+if (!cmpFrame) {
+addFrame();
+win.__tcfapi = tcfAPIHandler;
+win.addEventListener('message', postMessageEventHandler, false);
+}
+};
+
+makeStub();
+
+function makeGppStub() {
+const CMP_ID = 10;
+const SUPPORTED_APIS = [
+'2:tcfeuv2',
+'6:uspv1',
+'7:usnatv1',
+'8:usca',
+'9:usvav1',
+'10:uscov1',
+'11:usutv1',
+'12:usctv1'
+];
+
+window.__gpp_addFrame = function (n) {
+if (!window.frames[n]) {
+if (document.body) {
+var i = document.createElement("iframe");
+i.style.cssText = "display:none";
+i.name = n;
+document.body.appendChild(i);
+} else {
+window.setTimeout(window.__gpp_addFrame, 10, n);
+}
+}
+};
+window.__gpp_stub = function () {
+var b = arguments;
+__gpp.queue = __gpp.queue || [];
+__gpp.events = __gpp.events || [];
+
+if (!b.length || (b.length == 1 && b[0] == "queue")) {
+return __gpp.queue;
+}
+
+if (b.length == 1 && b[0] == "events") {
+return __gpp.events;
+}
+
+var cmd = b[0];
+var clb = b.length > 1 ? b[1] : null;
+var par = b.length > 2 ? b[2] : null;
+if (cmd === "ping") {
+clb(
+{
+gppVersion: "1.1", // must be “Version.Subversion”, current: “1.1”
+cmpStatus: "stub", // possible values: stub, loading, loaded, error
+cmpDisplayStatus: "hidden", // possible values: hidden, visible, disabled
+signalStatus: "not ready", // possible values: not ready, ready
+supportedAPIs: SUPPORTED_APIS, // list of supported APIs
+cmpId: CMP_ID, // IAB assigned CMP ID, may be 0 during stub/loading
+sectionList: [],
+applicableSections: [-1],
+gppString: "",
+parsedSections: {},
+},
+true
+);
+} else if (cmd === "addEventListener") {
+if (!("lastId" in __gpp)) {
+__gpp.lastId = 0;
+}
+__gpp.lastId++;
+var lnr = __gpp.lastId;
+__gpp.events.push({
+id: lnr,
+callback: clb,
+parameter: par,
+});
+clb(
+{
+eventName: "listenerRegistered",
+listenerId: lnr, // Registered ID of the listener
+data: true, // positive signal
+pingData: {
+  gppVersion: "1.1", // must be “Version.Subversion”, current: “1.1”
+  cmpStatus: "stub", // possible values: stub, loading, loaded, error
+  cmpDisplayStatus: "hidden", // possible values: hidden, visible, disabled
+  signalStatus: "not ready", // possible values: not ready, ready
+  supportedAPIs: SUPPORTED_APIS, // list of supported APIs
+  cmpId: CMP_ID, // list of supported APIs
+  sectionList: [],
+  applicableSections: [-1],
+  gppString: "",
+  parsedSections: {},
+},
+},
+true
+);
+} else if (cmd === "removeEventListener") {
+var success = false;
+for (var i = 0; i < __gpp.events.length; i++) {
+if (__gpp.events[i].id == par) {
+__gpp.events.splice(i, 1);
+success = true;
+break;
+}
+}
+clb(
+{
+eventName: "listenerRemoved",
+listenerId: par, // Registered ID of the listener
+data: success, // status info
+pingData: {
+  gppVersion: "1.1", // must be “Version.Subversion”, current: “1.1”
+  cmpStatus: "stub", // possible values: stub, loading, loaded, error
+  cmpDisplayStatus: "hidden", // possible values: hidden, visible, disabled
+  signalStatus: "not ready", // possible values: not ready, ready
+  supportedAPIs: SUPPORTED_APIS, // list of supported APIs
+  cmpId: CMP_ID, // CMP ID
+  sectionList: [],
+  applicableSections: [-1],
+  gppString: "",
+  parsedSections: {},
+},
+},
+true
+);
+} else if (cmd === "hasSection") {
+clb(false, true);
+} else if (cmd === "getSection" || cmd === "getField") {
+clb(null, true);
+}
+//queue all other commands
+else {
+__gpp.queue.push([].slice.apply(b));
+}
+};
+window.__gpp_msghandler = function (event) {
+var msgIsString = typeof event.data === "string";
+try {
+var json = msgIsString ? JSON.parse(event.data) : event.data;
+} catch (e) {
+var json = null;
+}
+if (typeof json === "object" && json !== null && "__gppCall" in json) {
+var i = json.__gppCall;
+window.__gpp(
+i.command,
+function (retValue, success) {
+var returnMsg = {
+  __gppReturn: {
+    returnValue: retValue,
+    success: success,
+    callId: i.callId,
+  },
+};
+event.source.postMessage(msgIsString ? JSON.stringify(returnMsg) : returnMsg, "*");
+},
+"parameter" in i ? i.parameter : null,
+"version" in i ? i.version : "1.1"
+);
+}
+};
+if (!("__gpp" in window) || typeof window.__gpp !== "function") {
+window.__gpp = window.__gpp_stub;
+window.addEventListener("message", window.__gpp_msghandler, false);
+window.__gpp_addFrame("__gppLocator");
+}
+};
+
+makeGppStub();
+
+var uspStubFunction = function() {
+var arg = arguments;
+if (typeof window.__uspapi !== uspStubFunction) {
+setTimeout(function() {
+if (typeof window.__uspapi !== 'undefined') {
+window.__uspapi.apply(window.__uspapi, arg);
+}
+}, 500);
+}
+};
+
+var checkIfUspIsReady = function() {
+uspTries++;
+if (window.__uspapi === uspStubFunction && uspTries < uspTriesLimit) {
+console.warn('USP is not accessible');
+} else {
+clearInterval(uspInterval);
+}
+};
+
+if (typeof window.__uspapi === 'undefined') {
+window.__uspapi = uspStubFunction;
+var uspInterval = setInterval(checkIfUspIsReady, 6000);
+}
+})();
+</script>
+<!-- End InMobi Choice. Consent Manager Tag v3.0 (for TCF 2.2) --><script type="application/javascript" async>var debugVersion=Date.now();const admeLocalQueryString=window.location.search,admeLocalUrlParams=new URLSearchParams(admeLocalQueryString),admeLocalDebug=admeLocalUrlParams.has("admeDebug"),admeUrl="https://link.adaptivemedia.hu/adme-v2/bundle",admeLink=admeLocalDebug?admeUrl+".js?v="+debugVersion:admeUrl+".min.js",admeElement=document.createElement("script");admeElement.src=admeLink,admeElement.async=true,document.head.appendChild(admeElement),admeElement.onload=()=>{console.log("admeJs loaded")},admeElement.onerror=()=>{console.log("admeJs cannot be loaded")};</script>
+<!-- Meta Pixel Code -->
+<script>
+!function(f,b,e,v,n,t,s)
+{if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+n.queue=[];t=b.createElement(e);t.async=!0;
+t.src=v;s=b.getElementsByTagName(e)[0];
+s.parentNode.insertBefore(t,s)}(window, document,'script',
+'https://connect.facebook.net/en_US/fbevents.js');
+fbq('init', '2639710306119967');
+fbq('track', 'PageView');
+</script>
+<noscript><img height="1" width="1" style="display:none"
+src="https://www.facebook.com/tr?id=2639710306119967&ev=PageView&noscript=1"
+/></noscript>
+<!-- End Meta Pixel Code -->
+<!-- Ad Data -->
+<script type="application/bannerData" id="adData">
+	{
+    "url": "https://www.pcguru.hu/hirek/a-gaming-teljesen-megvaltozhat-a-playstation-jovobeli-tervei-miatt-tzeus/100815",
+    "uid": "100815",
+    "pageType": "article",
+    "keywords": [
+        " AI játékfejlesztés",
+        "AI",
+        "AI asszisztens",
+        "áremelés",
+        "Hideaki Nishino",
+        "mesterséges intelligencia",
+        "NPC",
+        "playstation",
+        "PlayStation 6",
+        "playstation store",
+        "playstation5",
+        "PS6",
+        "sony",
+        "videójáték-fejlesztés"
+    ],
+    "category": "Hírek",
+    "adult": 0,
+    "gSens": 0,
+    "noads": 0,
+    "extraData": []
+}
+</script>
+<!-- Shema.org -->
+<script type="application/ld+json">
+{
+    "@context": "https://schema.org",
+    "@type": "NewsArticle",
+    "headline": "A gaming teljesen megváltozhat a PlayStation jövőbeli tervei miatt",
+    "description": "A Sony fejest ugrott az AI-medencébe, és a hajszálaktól a boltig mindent algoritmusok fognak vezérelni.",
+    "image": {
+        "@type": "ImageObject",
+        "width": 1200,
+        "height": 630,
+        "url": "https://www.pcguru.hu/images/news/2026-05/a_gaming_teljesen_megvaltozhat_a_playstation_jovobeli_tervei_miatt_1778251514_da587d735effedfd307e.jpg"
+    },
+    "datePublished": "2026-05-09T22:00:00+0200",
+    "dateModified": "2026-05-09T22:00:00+0200",
+    "author": {
+        "@type": "Person",
+        "name": "PC Guru Online",
+        "url": "https://www.pcguru.hu/"
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "PC Guru Online",
+        "url": "https://www.pcguru.hu/",
+        "logo": {
+            "@type": "ImageObject",
+            "width": 600,
+            "height": 60,
+            "url": "https://www.pcguru.hu/assets/desktop/img/pcguru-facebook.jpg"
+        }
+    }
+}
+</script>
+
+</head>
+
+<body>
+<!-- scirpts -->
+<!-- <a href="https://hu.rog.gg/25Q4_ROG_Xbox_Ally_X_Banner_PcGuru" target="_blank" class="skinbanner" style="background-image: url('/assets/desktop/img/tmp/ALLY_X_skin_new.jpg');"></a> -->
+<main class="main-wrapper slotFullColumn">
+	<div class="main-nav slotHeader">
+		<div class="logo-holder">
+			<a href="/">
+				<img src="/assets/desktop/img/pcg_light.svg" alt="PCGURU">
+			</a>
+		</div>
+		<div class="nav">
+			<ul>
+				<li><a href="/hirek">Hírek</a></li>
+				<li><a href="/hirek?category=26">Film</a></li>
+				<li><a href="/hirek?category=35">Sorozatok</a></li>
+				<li><a href="/jatekok">Játékok</a></li>
+				<li><a href="/tesztek">Tesztek</a></li>
+			</ul>
+		</div>
+		<div class="search-holder">
+			<form action="/kereses" method="get">
+				<input type="text" name="searchstring" placeholder="Keresés">
+				<button type="submit"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="icon icon-tabler icons-tabler-outline icon-tabler-search">
+						<path stroke="none" d="M0 0h24v24H0z" fill="none" />
+						<path d="M10 10m-7 0a7 7 0 1 0 14 0a7 7 0 1 0 -14 0" />
+						<path d="M21 21l-6 -6" />
+					</svg></button>
+			</form>
+		</div>
+		<!-- Mobile menu button -->
+		<div class="mobile-menu-btn">
+			<button>
+				<div class="line"></div>
+				<div class="line"></div>
+				<div class="line"></div>
+			</button>
+		</div>
+	</div>
+
+	<div class="mobile-nav">
+		<ul>
+			<li><a href="/hirek">Hírek</a></li>
+			<li><a href="/hirek?category=26">Film</a></li>
+			<li><a href="/hirek?category=35">Sorozatok</a></li>
+			<li><a href="/jatekok">Játékok</a></li>
+			<li><a href="/tesztek">Tesztek</a></li>
+		</ul>
+
+	</div>
+
+	<div class="main">
+		<div class="bnr bnr-holder-top">
+
+		</div>
+		<div class="content-holder">
+
+			<div class="content slotDoubleColumn">
+				<!-- Article -->
+<div class="article slotArticle">
+    <article>
+        <header class="slotLead">
+            <h1>A gaming teljesen megváltozhat a PlayStation jövőbeli tervei miatt                            </h1>
+                            <h2 class="news_lead">A Sony fejest ugrott az AI-medencébe, és a hajszálaktól a boltig mindent algoritmusok fognak vezérelni.</h2>
+                    </header>
+        <!-- Article content -->
+        <section class="article-content">
+                            <p>A PlayStation boszorkánykonyhájában már javában rotyognak az új okosságok. Ott van például a Mockingbird nevű eszköz, ami a színészek arcmimikáját szinte a másodperc tört része alatt ülteti át a 3D-s karakterekre. Ez papíron remekül hangzik, hiszen gyorsabbá teszi a gyártást, de a színészek már most kongatják a vészharangot. Ashly Burch, Aloy megformálója szerint például komoly veszélyben van a színészi játék mint művészet, ha a jövőben gép generálta, kötetlen beszélgetések váltják fel a gondosan megírt dialógusokat. A történet nem áll meg a grafikánál. A Sony víziójában az AI egyfajta digitális személyi asszisztenssé válik a PlayStation Store-ban. Nemcsak azt fogja tudni, hogy melyik akciójáték jöhet be neked legközelebb, hanem a stílusod alapján konkrét pillanatokat, előfizetéseket vagy akár fizikai ajándéktárgyakat is az arcodba tolj majd. Ez a koncepció ugyan kényelmesnek tűnik, de egy kissé disztópikus is egyben, hiszen olyan, mintha a konzolod folyamatosan a pénztárcádban turkálna, miközben igyekszik megteremteni számodra a tökéletes digitális légkört.</p><p>A legnagyobb hatással azonban valóban a pénzügyekre van ez a technológia. Miközben az AI elvileg olcsóbbá és hatékonyabbá tenné a gigászi játékok fejlesztését, a valóságban épp ez a technológiai bumm drágítja meg a konzolokat. Az AI-szerverekhez szükséges alkatrészek iránti globális éhség miatt emelkednek a PS5 árai, így a játékosok egyfajta paradoxonba kerültünk, a technológiát, ami jobb játékokat ígér, nekünk kell megfizetnünk, méghozzá nem is kevéssel. Meglátjuk, hogy a végén tényleg a kreativitás szabadul-e fel, vagy csak a gépiesített tartalom önti-e el a nappalinkat. És vajon a végén még mi maradunk a főnökök, vagy csak a konzolunk által generált hirdetések szereplői leszünk?</p><div class="iframely-embed"><div class="iframely-responsive" style="padding-bottom: 52.5%; padding-top: 120px;"><a href="https://esport1.hu/news/2026/05/09/gaming-ai-a-playstation-fejese-szerint-az-ai-lesz-a-kovetkezo-konzolgeneracio-legnagyobb-durranasa-tzeus" data-iframely-url="https://iframely.net/cxxegPnb?theme=dark"></a></div></div><script async src="https://iframely.net/embed.js"></script><p><i>Borítókép: Steam</i></p>                    </section>
+   
+    </article>
+    <footer>
+        <div class="article-info">
+            <div class="article-info-item">
+                <p>Szerző: <a href="/profil/TZeus" target="_blank"><b>TZeus</b></a><br> Dátum: <b>2026.05.09 22:00</b></p>
+            </div>
+        </div>
+    </footer>
+            <div class="related-news slotSelfContent">
+            <div class="blockheader">
+                <h4>Kapcsolódó Hírek</h4>
+            </div>
+                            <a href="/hirek/az-ai-meg-a-covidnal-is-durvabb-mar-az-alaplapokkal-is-bajban-lesznek-a-gamerek-tzeus/100806">
+                    <h3>Az AI még a Covidnál is durvább, már az alaplapokkal is bajban lesznek a gamerek</h3>
+                </a>
+                            <a href="/hirek/clair-obscur-expedition-33-sandfall-interactive-andy-serkis-renoir-a-gyuruk-ura-a-majmok-bolygoja-cyberpunk-2077-death-stranding-leecobo/100807">
+                    <h3>Már a legnagyobb hollywoodi sznobok is belátják, hogy a videójátékok felérnek a filmekhez</h3>
+                </a>
+                            <a href="/hirek/vito-scaletta-es-a-tobbiek-11-ingyen-jatekkal-pakolja-tele-a-zsebeidet-az-amazon-tzeus/100809">
+                    <h3>Vito Scaletta és a többiek, 11 ingyen játékkal pakolja tele a zsebeidet az Amazon</h3>
+                </a>
+                    </div>
+    </div>
+
+<div class="floating-box articles-grid">
+  <div class="clipper">
+    <div class="blockheader">
+      <b>Olvastad már? </b>
+      <span id="close-floating">X</span>
+    </div>
+
+          
+              <article class="with-img">
+          <a href="/hirek/a-sony-megmondta-a-ps4-jatekosoknak-mit-tegyenek-a-gta-6-elott-tzeus/100819">
+            <img src="/images/news/2026-05/a_sony_megmondta_a_ps4-jatekosoknak_mit_tegyenek_a_gta_6_elott_1778321745_5b0f8034230f5ca4ab7d.jpg" alt="A Sony megmondta a PS4-játékosoknak, mit tegyenek a GTA 6 előtt" loading="lazy">
+          </a>
+          <div>
+            <a href="/hirek/a-sony-megmondta-a-ps4-jatekosoknak-mit-tegyenek-a-gta-6-elott-tzeus/100819">
+              <h2>A Sony megmondta a PS4-játékosoknak, mit tegyenek a GTA 6 előtt</h2>
+            </a>
+          </div>
+        </article>
+              <article class="with-img">
+          <a href="/hirek/egy-bakinak-koszonhetoen-meg-a-nav-is-felkereshet-a-steames-vasarlasok-miatt-tzeus/100756">
+            <img src="/images/news/2026-05/egy_bakinak_koszonhetoen_meg_a_nav_is_felkereshet_a_steames_vasarlasok_miatt_1778073610_48112ae664ea3db27488.jpg" alt="Egy bakinak köszönhetően még a NAV is felkereshet a Steames vásárlások miatt?!" loading="lazy">
+          </a>
+          <div>
+            <a href="/hirek/egy-bakinak-koszonhetoen-meg-a-nav-is-felkereshet-a-steames-vasarlasok-miatt-tzeus/100756">
+              <h2>Egy bakinak köszönhetően még a NAV is felkereshet a Steames vásárlások miatt?!</h2>
+            </a>
+          </div>
+        </article>
+      
+    
+
+  </div>
+</div>
+
+			</div>
+
+			<div class="sidebar slotSingleColumn">
+				<div class="block">
+  <div class="blockheader">
+    <h3>Legfrissebb videónk</h3>
+  </div>
+  <div class="youtube-widget">
+    <a href="https://www.youtube.com/watch?v=9xrQVIRZ15o" target="_blank">
+      <img src="https://img.youtube.com/vi/9xrQVIRZ15o/hqdefault.jpg" alt="GTA7">
+      <div class="play-button"></div>
+    </a>
+  </div>
+</div>
+
+<div class="bnr bnr-holder">
+ 
+</div>
+<!-- include form -->
+
+<!-- article tags widget -->
+    <div class="block tags-block">
+        <div class="blockheader">
+            <h3>Címkék</h3>
+        </div>
+
+        <ul class="tags"> 
+                                                <li><a href="/kereses/?searchstring=AI játékfejlesztés"> AI játékfejlesztés</a></li>
+                   
+                                                <li><a href="/kereses/?searchstring=AI">AI</a></li>
+                   
+                                                <li><a href="/kereses/?searchstring=AI asszisztens">AI asszisztens</a></li>
+                   
+                                                <li><a href="/kereses/?searchstring=áremelés">áremelés</a></li>
+                   
+                                                <li><a href="/kereses/?searchstring=Hideaki Nishino">Hideaki Nishino</a></li>
+                   
+                                                <li><a href="/kereses/?searchstring=mesterséges intelligencia">mesterséges intelligencia</a></li>
+                   
+                                                <li><a href="/kereses/?searchstring=NPC">NPC</a></li>
+                   
+                                                <li><a href="/kereses/?searchstring=playstation">playstation</a></li>
+                   
+                                                <li><a href="/kereses/?searchstring=PlayStation 6">PlayStation 6</a></li>
+                   
+                                                <li><a href="/kereses/?searchstring=playstation store">playstation store</a></li>
+                   
+                                                <li><a href="/kereses/?searchstring=playstation5">playstation5</a></li>
+                   
+                                                <li><a href="/kereses/?searchstring=PS6">PS6</a></li>
+                   
+                                                <li><a href="/kereses/?searchstring=sony">sony</a></li>
+                   
+                                                <li><a href="/kereses/?searchstring=videójáték-fejlesztés">videójáték-fejlesztés</a></li>
+                   
+                    </ul>
+    </div>
+
+
+
+
+ 
+
+<div class="block">
+    <div class="blockheader">
+        <h3>Esport1 Hírek</h3>
+    </div>
+    <div id="e1-rss-holder"></div>
+</div>
+
+ 
+
+    <div class="block last-news-block">
+        <div class="blockheader">
+            <h3>Ajánló</h3>
+        </div>
+        <ul class="last-news">
+                            <li>
+                    <a href="/hirek/a-sony-megmondta-a-ps4-jatekosoknak-mit-tegyenek-a-gta-6-elott-tzeus/100819">                        
+                        <h2>A Sony megmondta a PS4-játékosoknak, mit tegyenek a GTA 6 előtt</h2>
+                    </a>
+                </li>
+                            <li>
+                    <a href="/hirek/egy-bakinak-koszonhetoen-meg-a-nav-is-felkereshet-a-steames-vasarlasok-miatt-tzeus/100756">                        
+                        <h2>Egy bakinak köszönhetően még a NAV is felkereshet a Steames vásárlások miatt?!</h2>
+                    </a>
+                </li>
+                            <li>
+                    <a href="/hirek/letrehoztak-egy-fegyvert-a-fallout-4-ben-ami-meg-a-gepedet-is-ki-tudja-nyirni-tzeus/100704">                        
+                        <h2>Létrehoztak egy fegyvert a Fallout 4-ben, ami még a gépedet is ki tudja nyírni</h2>
+                    </a>
+                </li>
+                            <li>
+                    <a href="/hirek/a-gaming-teljesen-megvaltozhat-a-playstation-jovobeli-tervei-miatt-tzeus/100815">                        
+                        <h2>A gaming teljesen megváltozhat a PlayStation jövőbeli tervei miatt</h2>
+                    </a>
+                </li>
+                            <li>
+                    <a href="/hirek/nem-kell-felned-a-viztol-te-lehetsz-aquaman-az-assassins-creed-black-flag-resyncedben-tzeus/100818">                        
+                        <h2>Nem kell félned a víztől, mert te lehetsz Aquaman az AC Black Flag Resyncedben!</h2>
+                    </a>
+                </li>
+                            <li>
+                    <a href="/hirek/kikeszit-a-halhatatlan-csiga-megjott-a-jatek-amiben-ha-elbuksz-soha-tobbet-nem-jatszhatsz-tzeus/100821">                        
+                        <h2>Kikészít a halhatatlan csiga: íme a játék, amiben ha elbuksz, soha többet nem játszhatsz</h2>
+                    </a>
+                </li>
+                            <li>
+                    <a href="/hirek/egy-mozijegy-araert-most-a-legjobb-mortal-kombat-jatekokat-is-behuzhatod-tzeus/100790">                        
+                        <h2>Egy mozijegy áráért most a legjobb Mortal Kombat játékokat is behúzhatod!</h2>
+                    </a>
+                </li>
+                            <li>
+                    <a href="/hirek/meg-a-resident-evil-requiemet-is-lenyomta-megvan-2026-eddig-legjobbra-ertekelt-jateka-tzeus/100820">                        
+                        <h2>Még a Resident Evil Requiemet is lenyomta, megvan 2026 eddigi legjobbra értékelt játéka</h2>
+                    </a>
+                </li>
+                            <li>
+                    <a href="/hirek/tech-gamer-monitor-philips-evnia-27m2n6501l-bemutato-teszt-sziky/100822">                        
+                        <h2>Philips Evnia 27M2N6501L – 1440p, 240 Hz, OLED és olcsó</h2>
+                    </a>
+                </li>
+                            <li>
+                    <a href="/hirek/az-egyik-legjobb-survival-jatek-folytatasa-mar-az-elso-napon-benne-lesz-a-game-passban-tzeus/100735">                        
+                        <h2>Az egyik legjobb survival játék folytatása már az első napon benne lesz a Game Passban!</h2>
+                    </a>
+                </li>
+                    </ul>
+    </div>
+
+<div class="block latest-premiers-block">
+    <div class="blockheader">
+        <h3>Legfrissebb játékmegjelenések</h3>
+    </div>
+    <ul class="last-news latest-premiers">
+                                <li>
+                <a href="/jatek/directive-8020-pc-ps5-xsx-megjelenes/6870">                        
+                    <h2>Directive 8020</h2>
+                    <span class="premier_date">2026. május 12.</span>
+                </a>
+            </li>
+                                        <li>
+                <a href="/jatek/mixtape-pc-ps5-xsx-ns2-megjelenes/6869">                        
+                    <h2>Mixtape</h2>
+                    <span class="premier_date">2026. május 07.</span>
+                </a>
+            </li>
+                                        <li>
+                <a href="/jatek/forza-horizon-6-pc-xsx-ps5-megjelenes/6868">                        
+                    <h2>Forza Horizon 6</h2>
+                    <span class="premier_date">2026. május 19.</span>
+                </a>
+            </li>
+                                        <li>
+                <a href="/jatek/aphelion-pc-ps5-xsx-megjelenes/6867">                        
+                    <h2>Aphelion</h2>
+                    <span class="premier_date">2026. április 28.</span>
+                </a>
+            </li>
+                                        <li>
+                <a href="/jatek/pragmata-pc-ps5-xsx-ns2-megjelenes/6855">                        
+                    <h2>Pragmata</h2>
+                    <span class="premier_date">2026. április 17.</span>
+                </a>
+            </li>
+                    </ul>
+</div> 
+
+   <div class="block eset">	 	
+    <a href="https://www.eset.com/hu" target="_blank" class="external">
+        <img src="/assets/desktop/img/ESET_logo_DS_PP_horizontal_color_RGB_large.png" alt="A szerkesztőségi anyagok vírusellenőrzését az ESET programcsomagokkal végezzük, amelyet a szoftver magyarországi forgalmazója, a Sicontact Kft. biztosít számunkra." title="A szerkesztőségi anyagok vírusellenőrzését az ESET programcsomagokkal végezzük, amelyet a szoftver magyarországi forgalmazója, a Sicontact Kft. biztosít számunkra." style="height: 65px;">
+    </a>
+    <p style="padding: 10px; font-size: 10px; padding-bottom: 0px; padding-top: 0;">A szerkesztőségi anyagok vírusellenőrzését az ESET programcsomagokkal végezzük, amelyet a szoftver magyarországi forgalmazója, a Sicontact Kft. biztosít számunkra.
+            <small>Hirdetés</small>
+    </p>
+
+</div>
+    </div>
+			</div>
+
+		</div>
+	</div>
+	<div class="footer">
+
+		<div class="footer-logo">
+			<img src="/assets/desktop/img/pcg_light.svg" alt="PCGURU">
+			<p>Minden jog fenntartva © 2026</p>
+
+		</div>
+		<div class="footer-nav">
+			<ul>
+				<li><a href="/adatvedelem">Adatvédelem</a></li>
+				<!-- <li><a href="#">Médiaajánlat</a></li> -->
+				<li><a href="/impresszum">Impresszum</a></li>
+				<li>
+					<a class="change-consent" onclick="window.__tcfapi('displayConsentUi', 2, function() {} );">Adatvédelmi beállítások</a>
+				</li>
+				<li><a href="/rss">RSS</a></li>
+			</ul>
+		</div>
+		<!-- <div class="footer-social">
+				<ul>
+						<li><a href="#"><img src="/desktop/img/facebook.png" alt="Facebook"></a></li>
+						<li><a href="#"><img src="/desktop/img/instagram.png" alt="Instagram"></a></li>
+						<li><a href="#"><img src="/desktop/img/youtube.png" alt="Youtube"></a></li>
+				</ul>
+		</div> -->
+
+	</div>
+</main>
+
+
+<!-- JS files -->
+<script src="/assets/desktop/js/main.js?v=1.0.260"></script>
+<!-- scirpts -->
+<!-- (C)2000-2020 Gemius SA - gemiusPrism  / pcguru.hu/pcguru -->
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+var pp_gemius_identifier = 'd2Lr2UbwbHv8EoFQO_fxpceyPzNwsgdX5eovTm1W2zL.s7';
+var pp_gemius_use_cmp = true;
+var pp_gemius_cmp_timeout = Infinity;
+// lines below shouldn't be edited
+function gemius_pending(i) { window[i] = window[i] || function() {var x = window[i+'_pdata'] = window[i+'_pdata'] || []; x[x.length]=arguments;};};gemius_pending('gemius_hit'); gemius_pending('gemius_event'); gemius_pending('pp_gemius_hit'); gemius_pending('pp_gemius_event');(function(d,t) {try {var gt=d.createElement(t),s=d.getElementsByTagName(t)[0],l='http'+((location.protocol=='https:')?'s':''); gt.setAttribute('async','async');gt.setAttribute('defer','defer'); gt.src=l+'://gahu.hit.gemius.pl/xgemius.js'; s.parentNode.insertBefore(gt,s);} catch (e) {}})(document,'script');
+//--><!]]>
+</script><!-- Quantcast Tag -->
+<script type="text/javascript">
+window._qevents = window._qevents || [];
+
+(function() {
+var elem = document.createElement('script');
+elem.src = (document.location.protocol == "https:" ? "https://secure" : "http://edge") + ".quantserve.com/quant.js";
+elem.async = true;
+elem.type = "text/javascript";
+var scpt = document.getElementsByTagName('script')[0];
+scpt.parentNode.insertBefore(elem, scpt);
+})();
+
+window._qevents.push({
+qacct:"p-WSG5WJTygcpRS",
+uid:"__INSERT_EMAIL_HERE__"
+});
+</script>
+
+<noscript>
+<div style="display:none;">
+<img src="//pixel.quantserve.com/pixel/p-WSG5WJTygcpRS.gif" border="0" height="1" width="1" alt="Quantcast"/>
+</div>
+</noscript>
+<!-- End Quantcast tag -->
+<div id="adoceanhupfojbwkizp"></div>
+<script type="text/javascript">
+/* (c)AdOcean 2003-2024, Mediaworks_hu.PC Guru (SH).PCGuru_desktop.PCGuru_desktop_layer */
+ado.slave('adoceanhupfojbwkizp', {myMaster: 'k.DlxdxiLXEZ7h_9LRNuZSvZchgOI33fyNNAHFQCVhn.37' });
+</script>
+<div id="adoceanhumgfqetenuk"></div>
+<script type="text/javascript">
+/* (c)AdOcean 2003-2024, Mediaworks_hu.PC Guru (SH).PCGuru_mobil.PCGuru_mobil_layer */
+ado.slave('adoceanhumgfqetenuk', {myMaster: 'V_3gNtuod3FfyLy11_9A57xODXbOiqdgC5R4C_di.QH.S7' });
+</script>
+
+</body>
+
+</html>
