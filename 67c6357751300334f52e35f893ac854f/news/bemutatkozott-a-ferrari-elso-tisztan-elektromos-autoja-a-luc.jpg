@@ -1,0 +1,779 @@
+<!DOCTYPE html>
+<html lang="hu-HU">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=11">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css">
+    <link href="https://fonts.googleapis.com/css?family=Abhaya+Libre&display=swap" rel="stylesheet">
+
+    <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+    <link rel="manifest" href="/site.webmanifest">
+    <link rel="mask-icon" href="/safari-pinned-tab.svg" color="#5bbad5">
+    <meta name="msapplication-TileColor" content="#da532c">
+    <meta name="theme-color" content="#ffffff">
+
+        <title>A Ferrari mérföldkőhöz érkezett: íme a tisztán elektromos Luce! - Roadster.hu</title>
+    <script src="https://cdn.atmedia.hu/roadster.hu.js?20260527" async></script>
+    <meta name="facebook-domain-verification" content="7thaqaue3to3vwbirvp5xj5pe9f9g7" />
+    <meta property="fb:app_id" content="273727777406527" />
+    <script>
+    (function (w, d, s, l, i) {
+        w[l] = w[l] || [];
+        w[l].push({
+            'gtm.start':
+                new Date().getTime(), event: 'gtm.js'
+        });
+        var f = d.getElementsByTagName(s)[0],
+            j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : '';
+        j.async = true;
+        j.src =
+            'https://www.googletagmanager.com/gtm.js?id=' + i + dl;
+        f.parentNode.insertBefore(j, f);
+    })(window, document, 'script', 'dataLayer', 'GTM-WRQ75DZS');
+</script>
+
+<script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('consent', 'default', {
+        'ad_user_data': 'denied',
+        'ad_personalization': 'denied',
+        'ad_storage': 'denied',
+        'analytics_storage': 'denied',
+        'wait_for_update': 500,
+    });
+
+    gtag('js', new Date());
+    gtag('config', 'G-NBD480E5P7');
+</script>
+
+<script type="text/javascript">
+    function wait_for_tcloaded() {
+        window.__tcfapi('addEventListener', 2, function(tcData, listenerSuccess) {
+            if (listenerSuccess) {
+                if (tcData.eventStatus === 'useractioncomplete' ||  tcData.eventStatus === 'tcloaded') {
+                    gtag('consent', 'update', {
+                        ad_user_data: 'granted',
+                        ad_personalization: 'granted',
+                        ad_storage: 'granted',
+                        analytics_storage: 'granted'
+                    });
+                }
+            }
+        });
+    }
+    function check_tcfapi_is_ready() { if (typeof __tcfapi !== 'undefined') { wait_for_tcloaded(); } else { setTimeout(check_tcfapi_is_ready, 500); } }
+    check_tcfapi_is_ready();
+</script>    <meta name="article:published_time" content="2026-05-26T17:29:57+00:00">
+<meta name="description" content="Itt az első elektromos Ferrari, ami nemcsak a hajtása, hanem a dizájnja miatt is felkelti a figyelmet. ">
+<meta name="title" content="Ferrari Luce: Az első elektromos Ferrari-modell, amely új korszakot nyit">
+<meta name="keywords" content="luxusautó, dizájn, nagy sztori, lista, Ferrari, galéria, sportautó, Marc Newson, ferrari luce, Jony Ive">
+<meta property="og:title" content="A Ferrari mérföldkőhöz érkezett: íme a tisztán elektromos Luce!">
+<meta property="og:site_name" content="roadster.hu">
+<meta property="og:url" content="https://roadster.hu/a-ferrari-merfoldkohoz-erkezett-ime-a-tisztan-elektromos-luce">
+<meta property="og:type" content="article">
+<meta property="og:locale" content="hu_HU">
+<meta property="og:description" content="Itt az első elektromos Ferrari, ami nemcsak a hajtása, hanem a dizájnja miatt is felkelti a figyelmet.">
+<meta property="og:image" content="https://roadster.hu/uploads/2026/05/ferrari_luce14c-1290x675.jpg">
+
+<link href="https://roadster.hu/a-ferrari-merfoldkohoz-erkezett-ime-a-tisztan-elektromos-luce" rel="canonical">
+<link href="https://roadster.hu/a-ferrari-merfoldkohoz-erkezett-ime-a-tisztan-elektromos-luce" rel="canonical">
+<link href="/assets/2de14ce5/7ebd1854/css/select2.css" rel="stylesheet">
+<link href="/assets/2de14ce5/7ebd1854/css/jquery-ui.css" rel="stylesheet">
+<link href="/assets/2de14ce5/7ebd1854/css/swiper.css" rel="stylesheet">
+<link href="/assets/2de14ce5/7ebd1854/css/swiper-bundle.css" rel="stylesheet">
+<link href="/assets/2de14ce5/7ebd1854/css/mediaelementplayer.css" rel="stylesheet">
+<link href="/assets/6f495c5d/10a11983/css/style.css" rel="stylesheet">
+<link href="/assets/46af0934/90b37978/css/post.css" rel="stylesheet">
+<link href="/assets/130325b4/5b4bc3a5/css/select.css" rel="stylesheet">
+<script src="/assets/65a1126b/49caf3ac/raven.min.js"></script>
+<script>Raven.config("https://cb0b3fd6c2a84dfb81453b0b4dd60431@sentry.mito.hu/93", {"tags":{"php_version":"8.1.2-1ubuntu2.23"},"whitelistUrls":["http://roadster.hu","https://roadster.hu","http://staging.roadster.hu","https://staging.roadster.hu"],"release":"bcd0098","environment":"production"}).install();</script>    <script async src="https://securepubads.g.doubleclick.net/tag/js/gpt.js"></script>
+            <script>
+            window.googletag = window.googletag || {cmd: []};
+            googletag.cmd.push(function() {
+                googletag.defineSlot('/14489583/roadster-post-top', [125, 125], 'div-gpt-ad-1646647945845-0').addService(googletag.pubads());
+                googletag.defineSlot('/14489583/roadster-post-lead', [150, 150], 'div-gpt-ad-1646228575237-0').addService(googletag.pubads());
+                googletag.pubads().enableSingleRequest();
+                googletag.pubads().collapseEmptyDivs();
+                googletag.pubads().setTargeting('kategoria', 'design');
+                googletag.pubads().setTargeting('cikk', 'a-ferrari-merfoldkohoz-erkezett-ime-a-tisztan-elektromos-luce');
+
+                googletag.pubads().addEventListener('slotRenderEnded', function (event) {
+                    var $adUnit = $('#' + event.slot.getSlotId().getDomId());
+
+                    if (!$adUnit.hasClass('rh')) {
+                        return;
+                    }
+
+                    if (event.isEmpty) {
+                        if ($adUnit.attr('id') === 'div-gpt-ad-1646228575237-0') {
+                            $('.lead-ad-wrap').html('<div id="roadster_egyedi_fekvo"></div>');
+                            return;
+                        }
+
+                        $adUnit.parent().hide();
+                    }
+
+                    var $iframe = $adUnit.find('iframe');
+
+                    if ($adUnit.attr('id') !== 'div-gpt-ad-1646228575237-0') {
+                        return;
+                    }
+
+                    if ($iframe.attr('width') !== '150' || $iframe.attr('height') !== '150') {
+                        return;
+                    }
+
+                    $adUnit.removeClass('rh').addClass('iframe_inner');
+                    $adUnit.parent().removeClass().addClass('magician_iframe_wrap');
+                    initMagician();
+                });
+
+                googletag.enableServices();
+            });
+        </script>
+        
+<script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": "A Ferrari mérföldkőhöz érkezett: íme a tisztán elektromos Luce!",
+        "image": [
+            "https://roadster.hu/uploads/2026/05/ferrari_luce14c.jpg"
+        ],
+        "datePublished": "2026-05-26T19:29:57+02:00",
+        "dateModified": "2026-05-26T19:29:57+02:00",
+        "author": [{
+            "@type": "Person",
+            "name": "Ujlaky-Gazdag István",
+            "url": "https://roadster.hu/author/ujlaky-istvan/"
+        }]
+    }
+</script>
+
+<script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [{
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Design",
+            "item": "https://roadster.hu/design/"
+        },{
+            "@type": "ListItem",
+            "position": 2,
+            "name": "A Ferrari mérföldkőhöz érkezett: íme a tisztán elektromos Luce!",
+            "item": "https://roadster.hu/a-ferrari-merfoldkohoz-erkezett-ime-a-tisztan-elektromos-luce"
+        }]
+    }
+</script>        </head>
+<body class="single">
+
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WRQ75DZS" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+
+<div id="fb-root"></div>
+<script async defer crossorigin="anonymous" src="https://connect.facebook.net/hu_HU/sdk.js#xfbml=1&version=v14.0" nonce="fI33naL2"></script>
+
+<div class="ceramag-side-menu slide-left">
+    <div class="container">
+        <span class="close-button"></span>
+        <div class="site-branding">
+            <a href="https://roadster.hu/" class="custom-logo-link" rel="home" itemprop="url" data-ga_category="Cikkoldal" data-ga_action="Logo">
+            </a>
+        </div>
+        
+<nav class="main-navigation nav">
+    <ul id="menu-alapmenu">
+                        <li>
+            <a href="https://roadster.hu/bistro/" data-menu-txt="Bistro" class="ga-event-data" data-ga_category="Menü" data-ga_action="Bistro">
+                Bistro            </a>
+        </li>
+                        <li>
+            <a href="https://roadster.hu/business-lounge/" data-menu-txt="Business Lounge" class="ga-event-data" data-ga_category="Menü" data-ga_action="Business Lounge">
+                Business Lounge            </a>
+        </li>
+                        <li>
+            <a href="https://roadster.hu/design/" data-menu-txt="Design" class="ga-event-data" data-ga_category="Menü" data-ga_action="Design">
+                Design            </a>
+        </li>
+                        <li>
+            <a href="https://roadster.hu/garage/" data-menu-txt="Garage" class="ga-event-data" data-ga_category="Menü" data-ga_action="Garage">
+                Garage            </a>
+        </li>
+                        <li>
+            <a href="https://roadster.hu/kult/" data-menu-txt="Kult" class="ga-event-data" data-ga_category="Menü" data-ga_action="Kult">
+                Kult            </a>
+        </li>
+                        <li>
+            <a href="https://roadster.hu/road-trip/" data-menu-txt="Road Trip" class="ga-event-data" data-ga_category="Menü" data-ga_action="Road Trip">
+                Road Trip            </a>
+        </li>
+                        <li>
+            <a href="https://roadster.hu/style/" data-menu-txt="Style" class="ga-event-data" data-ga_category="Menü" data-ga_action="Style">
+                Style            </a>
+        </li>
+                        <li>
+            <a href="https://select.roadster.hu" data-menu-txt="Select" class="ga-event-data" data-ga_category="Menü" data-ga_action="Select">
+                Select            </a>
+        </li>
+                        <li>
+            <a href="https://roadster.hu/w/" data-menu-txt="W" class="ga-event-data" data-ga_category="Menü" data-ga_action="W">
+                W            </a>
+        </li>
+                        <li>
+            <a href="https://roadster.hu/store/" data-menu-txt="Store" class="ga-event-data" data-ga_category="Menü" data-ga_action="Store">
+                Store            </a>
+        </li>
+                <li><span class="search-button" data-ga_category="Menü" data-ga_action="Keresés"><i class="fa fa-search"></i></li>
+    </ul>
+</nav>
+    </div>
+</div>
+<div id="page">
+            <div class="rh-wrap rh-wrap-home-top rh_1200x300">
+        <div id='div-gpt-ad-1646647945845-0' class="rh">
+            <script>googletag.cmd.push(function() { googletag.display('div-gpt-ad-1646647945845-0'); });</script>
+        </div>
+    </div>
+        <header id="masthead" class="site-header site-header-centered">
+        <div class="container">
+            <div class="site-branding">
+                <a href="https://roadster.hu/" class="custom-logo-link" rel="home" itemprop="url" data-ga_category="Cikkoldal" data-ga_action="Logo">
+                </a>
+            </div>
+            <button id="menu-toggle" class="menu-toggle">Menu</button>
+        </div>
+        <div class="site-header-main">
+            <div id="site-header-menu" class="site-header-menu">
+                
+<nav class="main-navigation nav">
+    <ul id="menu-alapmenu">
+                        <li>
+            <a href="https://roadster.hu/bistro/" data-menu-txt="Bistro" class="ga-event-data" data-ga_category="Menü" data-ga_action="Bistro">
+                Bistro            </a>
+        </li>
+                        <li>
+            <a href="https://roadster.hu/business-lounge/" data-menu-txt="Business Lounge" class="ga-event-data" data-ga_category="Menü" data-ga_action="Business Lounge">
+                Business Lounge            </a>
+        </li>
+                        <li>
+            <a href="https://roadster.hu/design/" data-menu-txt="Design" class="ga-event-data" data-ga_category="Menü" data-ga_action="Design">
+                Design            </a>
+        </li>
+                        <li>
+            <a href="https://roadster.hu/garage/" data-menu-txt="Garage" class="ga-event-data" data-ga_category="Menü" data-ga_action="Garage">
+                Garage            </a>
+        </li>
+                        <li>
+            <a href="https://roadster.hu/kult/" data-menu-txt="Kult" class="ga-event-data" data-ga_category="Menü" data-ga_action="Kult">
+                Kult            </a>
+        </li>
+                        <li>
+            <a href="https://roadster.hu/road-trip/" data-menu-txt="Road Trip" class="ga-event-data" data-ga_category="Menü" data-ga_action="Road Trip">
+                Road Trip            </a>
+        </li>
+                        <li>
+            <a href="https://roadster.hu/style/" data-menu-txt="Style" class="ga-event-data" data-ga_category="Menü" data-ga_action="Style">
+                Style            </a>
+        </li>
+                        <li>
+            <a href="https://select.roadster.hu" data-menu-txt="Select" class="ga-event-data" data-ga_category="Menü" data-ga_action="Select">
+                Select            </a>
+        </li>
+                        <li>
+            <a href="https://roadster.hu/w/" data-menu-txt="W" class="ga-event-data" data-ga_category="Menü" data-ga_action="W">
+                W            </a>
+        </li>
+                        <li>
+            <a href="https://roadster.hu/store/" data-menu-txt="Store" class="ga-event-data" data-ga_category="Menü" data-ga_action="Store">
+                Store            </a>
+        </li>
+                <li><span class="search-button" data-ga_category="Menü" data-ga_action="Keresés"><i class="fa fa-search"></i></li>
+    </ul>
+</nav>
+            </div>
+        </div>
+    </header>
+        <div id="content" class="site-content">
+                <header class="post-header post-header-large has-post-thumbnail">
+            <div class="featured-img-container" style="background-image: url('https://roadster.hu/uploads/2026/05/ferrari_luce14c.jpg')"></div>
+            <div class="post-header-container">
+                <div class="cat-links"><a href="https://roadster.hu/design/" rel="category tag">Design</a></div>
+                <h1 class="post-title">A Ferrari mérföldkőhöz érkezett: íme a tisztán elektromos Luce!</h1>
+                <div class="post-meta">
+                                        <div class="meta-item"><a href="https://roadster.hu/author/ujlaky-istvan/" title="Ujlaky-Gazdag István">Ujlaky-Gazdag István</a></div>
+                                        <div class="meta-item"><a href="https://roadster.hu/a-ferrari-merfoldkohoz-erkezett-ime-a-tisztan-elektromos-luce"><time class="published" datetime="2026-05-26T19:29:57+02:00">2026-05-26</time></a></div>
+                </div>
+            </div>
+        </header>
+                <div class="container">
+            <div id="primary" class="content-area">
+                <article class="post">
+                    <div class="post-entry">
+                        <a href="https://news.google.com/publications/CAAqJQgKIh9DQklTRVFnTWFnMEtDM0p2WVdSemRHVnlMbWgxS0FBUAE" target="_blank" class="google-news">Legújabb cikkeinkért kövess minket a <b>Roadster</b> Google News oldalán is!</a>
+                                                                                                <p><strong>Rómában nyitott új fejezetet a történetében a Ferrari: ott, ahol 1947-ben az első győzelmét aratta. Akkor a Caracalla-fürdők körül kialakított pályán szerepelt a Ferrari 125 S, most a Vela di Calatrava – Città dello Sport területén debütált a Ferrari Luce, a maranellóiak első tisztán elektromos hajtású modellje.</strong></p><div class="lead-ad-wrap"><div class="rh-wrap rh_640x400"><div id='div-gpt-ad-1646228575237-0' class="rh"><script>googletag.cmd.push(function() { googletag.display('div-gpt-ad-1646228575237-0');});</script></div></div></div>
+<p>Bemutatták a Ferrari első tisztán elektromos modelljét, a Lucét, amelynek célja azonban nem a belső égésű motorok kiváltása, hanem a modellpaletta és a tervezési szabadság kiterjesztésére.</p>
+<p>
+<div class="gallery-extra-box">
+    <a href="https://roadster.hu/galeria/717" class="read-more" target="_blank">
+        <img src="https://roadster.hu/uploads/2026/05/ferrari_luce20-768x432.jpg" alt="Galéria Box #717">
+        <div class="info-container">
+            <h3>Az első elektromos Ferrari</h3>
+                        <p>Íme a Luce!</p>
+                        <div class="button">Megnézem</div>
+        </div>
+    </a>
+</div>
+</p>
+<p>A Luce egy teljesen egyedi, dedikált platformra épül, amelynek tervezése során a WEC-ben győztes 499P hiperautónál szerzett tapasztalatokat is hasznosították. A menetkész tömeget sikerült 2260 kilogrammon tartani, ami kiemelkedő az elektromos kategóriában. Az autót négy darab (kerekenként egy), az F80-as modellből származó, radiális fluxusú, állandó mágneses szinkronmotor hajtja, amelyek együttesen brutális, <strong>1050 lóerős</strong> maximális rendszerteljesítményt adnak le, <strong>990 Nm</strong> maximális nyomaték mellett. A Luce mindössze <strong>2,5 másodperc</strong> alatt gyorsul fel 0-ról 100 km/órára, 6,8 alatt 200-ra, a végsebessége pedig meghaladja a <strong>310 km/órát</strong>. Az ígéret szerint ez így együtt <strong>530 km</strong>-t meghaladó hatótávolságot jelent, és támogatja akár a 350 kW-os gyorstöltést is.</p>
+<div class='wide-image'><a class='roadster-gallery-item' aria-label='Galéria kép #312102' href='https://roadster.hu/uploads/2026/05/ferrari_luce16.jpg'><img src='https://roadster.hu/uploads/2026/05/ferrari_luce16.jpg' width='2000' height='1125' loading='lazy' alt=''></a></div>
+<div class="gallery-group gallery-two">
+<div class="gallery-group-wrap">
+<div class="gallery-group-column">
+<div class="gallery-group-item"><a href="https://roadster.hu/uploads/2026/05/ferrari_luce15a.jpg" class="roadster-gallery-item vertical" ><img class="gallery-image" src="https://roadster.hu/uploads/2026/05/ferrari_luce15a-960x1200.jpg" loading="lazy" alt="" /></a>
+<div class="caption hidden"></div>
+</div>
+<div class="gallery-group-item"><a href="https://roadster.hu/uploads/2026/05/ferrari_luce15b.jpg" class="roadster-gallery-item vertical" ><img class="gallery-image" src="https://roadster.hu/uploads/2026/05/ferrari_luce15b-768x960.jpg" loading="lazy" alt="" /></a>
+<div class="caption hidden"></div>
+</div>
+</div></div>
+</div>
+<div class='wide-image'><a class='roadster-gallery-item' aria-label='Galéria kép #312103' href='https://roadster.hu/uploads/2026/05/ferrari_luce17.jpg'><img src='https://roadster.hu/uploads/2026/05/ferrari_luce17.jpg' width='2000' height='1125' loading='lazy' alt=''></a></div>
+<p>Itt mutatkozik be a Vehicle Control Unit (VCU) vezérlőközpont, amely integrálja a hajtásláncot és a dinamikát:</p>
+<blockquote><p>másodpercenként 200-szor frissíti a célértékeket, és összehangolja a hatékonysági stratégiákat a szitén vadonatúj Side Slip Control X oldalcsúszás-szabályozó rendszerrel.</p></blockquote>
+<p>A kormány mögötti fülekkel szabályozható a nyomatékleadás fokozatossága és az energia-visszanyerés, így kiküszöbölhető a villanyautókra jellemző „ellaposodó” gyorsulásérzet. És ezzel – a fizikai kapcsolókkal – el is érkeztünk a dizájnhoz, ami a Ferrarinál ugyanolyan fontos, mint a teljesítmény.</p>
+<h5>Az Apple szelleme</h5>
+<p>A Luce dizájnja az egykori Apple-tervező Jony Ive és a generációjának legbefolyásosabb tervezői közt jegyzett Marc Newson kollektívája, a LoveFrom nevéhez fűződik, de a folyamatban együttműködött a Flavio Manzoni irányította Ferrari Design Studio is.</p>
+<p>A külső megjelenés ennek megfelelően végtelenül letisztult, amelyet az áramvonalas felületeknek és a kompromisszummentes aerodinamikai tulajdonságoknak rendeltek alá, aminek eredményeként</p>
+<blockquote><p>ez a modell büszkélkedhet a maranellói közúti autók történetének legalacsonyabb légellenállási együtthatójával.</p></blockquote>
+<p>Jellegzetes, ahogy az övvonal szinte kettéosztja az autót: fölötte egy üvegkabin lebeg, alatta az ék alakú váz hasítja az utat. Sorozatgyártású Ferrarikon még sosem volt ekkora, eltérő méretű kerékgarnitúra: elöl 23, hátul 24 hüvelykes felnik kaptak helyet.</p>
+<div class='wide-image'><a class='roadster-gallery-item' aria-label='Galéria kép #312087' href='https://roadster.hu/uploads/2026/05/ferrari_luce8.jpg'><img src='https://roadster.hu/uploads/2026/05/ferrari_luce8.jpg' width='2000' height='1125' loading='lazy' alt=''></a></div>
+<p>Ugyancsak ez az első ötüléses konfiguráció a Ferrari történetében, tágas és jól variálható belső térrel, amit legalábbis nem várnánk ebben a szegmensben. A beltérben egyensúlyba hozták a fizikai és a digitális világot: a háromküllős, újrahasznosított alumíniumból mart kormánykerék együtt mozog a többrétegű, háromcsöves műszeregységgel az optimális rálátásért.</p>
+<p>A Samsung Display© külön ide fejlesztett ultravékony OLED-panelei (összesen négy: 12,9, 12, 10,1 és 6,3 hüvelykes méretben) mélységérzetet adnak a digitális adatoknak, míg a klímát és a médiaközpontot elforgatható és billenő mechanikus gombokkal, kapcsolókkal végezhetjük.</p>
+<div class="gallery-group gallery-two">
+<div class="gallery-group-wrap">
+<div class="gallery-group-column">
+<div class="gallery-group-item"><a href="https://roadster.hu/uploads/2026/05/ferrari_luce.jpg" class="roadster-gallery-item vertical" ><img class="gallery-image" src="https://roadster.hu/uploads/2026/05/ferrari_luce-960x1200.jpg" loading="lazy" alt="" /></a>
+<div class="caption hidden"></div>
+</div>
+<div class="gallery-group-item"><a href="https://roadster.hu/uploads/2026/05/ferrari_luce3.jpg" class="roadster-gallery-item vertical" ><img class="gallery-image" src="https://roadster.hu/uploads/2026/05/ferrari_luce3-768x960.jpg" loading="lazy" alt="" /></a>
+<div class="caption hidden"></div>
+</div>
+</div></div>
+</div>
+<p>Az utastérben olyan nemes és fenntartható anyagok dominálnak, mint az eloxált alumínium, a prémium olasz bőr, az Alcantara és a Corning Gorilla Glass.</p>
+<p>A Luce számos izgalmat rejt, egy részüket nyilván majd élőben fedezhetik fel a szerencsések. Azt azonban már most tudjuk, hogy amikor a kulcsot a dokkolóba süllyesztik, a történelmi Ferrari-sárga szín hullámként árad szét a teljes kezelőfelületen, majd a rajtprogram is aktiválható a tetőkonzolon elhelyezett húzókarral.</p>
+<div class='wide-image'><a class='roadster-gallery-item' aria-label='Galéria kép #312091' href='https://roadster.hu/uploads/2026/05/ferrari_luce11.jpg'><img src='https://roadster.hu/uploads/2026/05/ferrari_luce11.jpg' width='2000' height='1125' loading='lazy' alt=''></a></div>
+<div class='wide-image'><a class='roadster-gallery-item' aria-label='Galéria kép #312080' href='https://roadster.hu/uploads/2026/05/ferrari_luce2.jpg'><img src='https://roadster.hu/uploads/2026/05/ferrari_luce2.jpg' width='2000' height='1125' loading='lazy' alt=''></a></div>
+<div class='wide-image'><a class='roadster-gallery-item' aria-label='Galéria kép #312098' href='https://roadster.hu/uploads/2026/05/ferrari_luce14e.jpg'><img src='https://roadster.hu/uploads/2026/05/ferrari_luce14e.jpg' width='2000' height='1125' loading='lazy' alt=''></a></div>
+<p>A középkonzolba helyezhető indítókulcs karcálló Gorilla üvegből készült, és egy energiatakarékos E-Ink kijelzőt kapott – az elsősorban e-könyv olvasókból ismert a technológia most debütál először a szektorban.</p>
+<p>Az utazási élményt a 21 hangszórós, 3000 wattos Ferrari Audio Signature rendszer koronázza meg. A Luce szerkezeti merevsége 25-35%-kal javult a korábbi négyajtós modellekéhez képest, miközben a felhasznált alumíniumötvözetek 70%-a újrahasznosított forrásból származik, ami drasztikusan csökkenti az autó karbonlábnyomát.</p>
+<p>Legutóbb a maranellóiaktól a személyre szabhatóság legmagasabb fokát jelentő <a href="https://roadster.hu/koreai-ferrari-dizajn">12Cilindri</a> modellt mutattuk be, amelyen három kontinensen és két éven át dolgoztak.</p>
+<p><em>(Forrás: Ferrari)</em></p>
+                                                                                                <p><a class='tag' href='https://roadster.hu/tag/sportauto/' data-ga_category='Cikkoldal' data-ga_action='Címke' data-ga_label='sportautó'>sportautó</a> | <a class='tag' href='https://roadster.hu/tag/ferrari/' data-ga_category='Cikkoldal' data-ga_action='Címke' data-ga_label='Ferrari'>Ferrari</a> | <a class='tag' href='https://roadster.hu/tag/nagy-sztori/' data-ga_category='Cikkoldal' data-ga_action='Címke' data-ga_label='nagy sztori'>nagy sztori</a> | <a class='tag' href='https://roadster.hu/tag/loveform/' data-ga_category='Cikkoldal' data-ga_action='Címke' data-ga_label='LoveForm'>LoveForm</a> | <a class='tag' href='https://roadster.hu/tag/dizajn/' data-ga_category='Cikkoldal' data-ga_action='Címke' data-ga_label='dizájn'>dizájn</a> | <a class='tag' href='https://roadster.hu/tag/jony-ive/' data-ga_category='Cikkoldal' data-ga_action='Címke' data-ga_label='Jony Ive'>Jony Ive</a></p>
+                                                <div class="fb-box-wrap">
+                            <div class="fb-share-button" data-ga_category="Cikkoldal" data-ga_action="FB megosztás" data-href="https://roadster.hu/a-ferrari-merfoldkohoz-erkezett-ime-a-tisztan-elektromos-luce" data-layout="button" data-size="large" data-mobile_iframe="true"></div>
+                            <a href="https://www.google.com/preferences/source?q=roadster.hu" class="google-prefer-btn">Itt állíthatod be, hogy a Roadster az elsők között legyen a Google keresőben</a>
+                        </div>
+                        
+<div class="post-box">
+    <div class="title">FOLYTASD EZZEL</div>
+    <div class="posts">
+                <a href="https://w.roadster.hu/living/durer-park" onclick="gtag('event', 'click', {'event_category': 'Cikk ajánló', 'event_action': 'https://w.roadster.hu/living/durer-park', 'event_label': 'CT'});">
+            <div class="post-container">
+                <div class="post-image" style="background-image: url('https://w.roadster.hu/app/uploads/2026/05/durer-allo-768x1013.jpg')"></div>
+                <h3 class="post-title"><span style="">Amikor a Városliget a nappalidig ér – Élet a Dürer Park zöld ligetében</span></h3>
+                            </div>
+        </a>
+                <a href="https://roadster.hu/dom-perignon-vintage-2017" onclick="gtag('event', 'click', {'event_category': 'Cikk ajánló', 'event_action': 'https://roadster.hu/dom-perignon-vintage-2017', 'event_label': 'CT'});">
+            <div class="post-container">
+                <div class="post-image" style="background-image: url('https://roadster.hu/uploads/2026/04/Fbc_DPs-69-1-768x614.jpg')"></div>
+                <h3 class="post-title">A limitált champagne-ritkaság, ami felkavarhatja a piacot és a gyűjtők egyik kedvence lehet</h3>
+                            </div>
+        </a>
+                <a href="https://roadster.hu/lengyelorszag-utazas-harmasvaros" onclick="gtag('event', 'click', {'event_category': 'Cikk ajánló', 'event_action': 'https://roadster.hu/lengyelorszag-utazas-harmasvaros', 'event_label': 'CT'});">
+            <div class="post-container">
+                <div class="post-image" style="background-image: url('https://roadster.hu/uploads/2026/05/71011720_Gdansk_Zuraw-768x512.jpg')"></div>
+                <h3 class="post-title">A lengyel város, ami csendben lenyomta a klasszikus kedvenceket a magyaroknál</h3>
+                            </div>
+        </a>
+                <a href="https://roadster.hu/greenfield-hotel-golf-spa-bukfurdo" onclick="gtag('event', 'click', {'event_category': 'Cikk ajánló', 'event_action': 'https://roadster.hu/greenfield-hotel-golf-spa-bukfurdo', 'event_label': 'CT'});">
+            <div class="post-container">
+                <div class="post-image" style="background-image: url('https://roadster.hu/uploads/2026/04/greenfield-hotel_cover-768x511.jpg')"></div>
+                <h3 class="post-title">Százhektáros paradicsom golfkóstolóval, privát wellnessel és regionális ízekkel</h3>
+                            </div>
+        </a>
+                <a href="https://roadster.hu/corinne-bailey-rae-mupa" onclick="gtag('event', 'click', {'event_category': 'Cikk ajánló', 'event_action': 'https://roadster.hu/corinne-bailey-rae-mupa', 'event_label': 'CT'});">
+            <div class="post-container">
+                <div class="post-image" style="background-image: url('https://roadster.hu/uploads/2026/05/Corinne-Bailey-Rae-1.Fall2025.Credit-Ulrike-Rindermann-horizontal-768x591.jpg')"></div>
+                <h3 class="post-title">Elfelejtheted a fesztiválkáoszt: Corinne Bailey Rae a Müpában mutatja meg, milyen a valódi nyári extázis</h3>
+                            </div>
+        </a>
+                <a href="https://w.roadster.hu/fashion/a-tavaszi-stilus-kulcsa-jol-megvalasztott-ekszerek" onclick="gtag('event', 'click', {'event_category': 'Cikk ajánló', 'event_action': 'https://w.roadster.hu/fashion/a-tavaszi-stilus-kulcsa-jol-megvalasztott-ekszerek', 'event_label': 'CT'});">
+            <div class="post-container">
+                <div class="post-image" style="background-image: url('https://w.roadster.hu/app/uploads/2026/05/pandora3-768x1093.jpg')"></div>
+                <h3 class="post-title"><span style="">A tavaszi stílus kulcsa: jól megválasztott ékszerek</span></h3>
+                            </div>
+        </a>
+        </div>
+</div>
+                                                <div class="store-box-zone">
+    <div class="store-box-wrap">
+        <div class="store-box-header"></div>
+        <div class="store-box-products">
+                            <div class="product">
+                    <a href="/store/csomagok/gyujtoi-kollekcio-2019-2022?utm_source=roadster-ebox&utm_medium=Roadster" target="_blank">
+                        <div class="image lazy-img" data-src="https://roadster.hu/uploads/2024/09/roadster-01-10-cover-500x450.jpg"></div>
+                        <div class="name">Gyűjtői kollekció: 2019-2022.</div>
+                        <div class="price">10.000 Ft</div>
+                    </a>
+                </div>
+                            <div class="product">
+                    <a href="/store/csomagok/1-eves-roadster-lapcsalad-elofizetes-party-csomag?utm_source=roadster-ebox&utm_medium=Roadster" target="_blank">
+                        <div class="image lazy-img" data-src="https://roadster.hu/uploads/2025/11/Pictures-1-1-500x500.png"></div>
+                        <div class="name">1 éves ROADSTER lapcsalád előfizetés + Party csomag</div>
+                        <div class="price">21.990 Ft</div>
+                    </a>
+                </div>
+                            <div class="product">
+                    <a href="/store/csomagok/1-eves-w-by-roadster-elofizetes-citadelle-rouge-gin-csomag?utm_source=roadster-ebox&utm_medium=Roadster" target="_blank">
+                        <div class="image lazy-img" data-src="https://roadster.hu/uploads/2026/02/Pictures-20-500x500.png"></div>
+                        <div class="name">1 éves W by ROADSTER előfizetés + Citadelle Rouge gin csomag</div>
+                        <div class="price">7.490 Ft</div>
+                    </a>
+                </div>
+                            <div class="product">
+                    <a href="/store/csomagok/gyujtoi-kollekcio-2024?utm_source=roadster-ebox&utm_medium=Roadster" target="_blank">
+                        <div class="image lazy-img" data-src="https://roadster.hu/uploads/2025/09/Pictures-6-500x500.png"></div>
+                        <div class="name">Gyűjtői kollekció: 2024.</div>
+                        <div class="price">12.000 Ft</div>
+                    </a>
+                </div>
+                    </div>
+            <a href="https://roadster.hu/store/" class="more-btn" target="_blank">Tovább az akciós ajánlatokhoz</a>
+    </div>
+</div>                        <div class="proposer">
+    <div class="proposer-image">
+        <img src="https://roadster.hu/uploads/2026/03/roadster23-promo-1-768x960.jpg" alt="" />
+    </div>
+    <div class="proposer-content">
+        <div class="title">Rendeld meg a Roadster magazin 23. számát!</div>
+        <p>Itt a tavasz, a Roadster legújabb lapszáma pedig diadalmas dübörgéssel robog be az életünkbe! A hagyományoknak megfelelően kalandok sora követi egymást a magazin színes, szélesvásznú lapjain, tele inspiráló történetekkel és még inspirálóbb karakterekkel. Mit találhatunk a 220 oldalas magazinban? Elutazunk Varsóba és Szicíliába, találkozunk a szupersztárokat fotózó Agata Serge-zsel, a gyönyörű izraeli színésznővel, Efrat Dorral, megnézzük, hogyan tiszteleg egy párizsi galéria egy magyar belsőépítész előtt, kipróbáljuk, milyen az új Mercedes és Omoda, megmutatunk négy új és lenyűgöző hotelt, végigjárjuk a Dolomitokat egy Audi A6-tal, belekóstolunk Dubai legjobb éttermeibe, és találkozunk a zseniális divattervezővel, Abodi Dórával is. És ahogy mondani szokás, ez még messze nem minden, a magazin még ezeken kívül is rengeteg színes kalandot tartogat!</p>
+        <a href="https://roadster.hu/store/" data-ga_category="Cikkoldal" data-ga_action="Magazin ajánló">Különleges csomagajánlatok itt!</a>
+    </div>
+</div>                    </div>
+                </article>
+                               <div style="max-width: max-content !important;"><div id="roadster_cikk_fekvo_1"></div></div>
+                
+<section class="program-box">
+    <div class="program-box-inner-wrap">
+        <div class="category-title"><span>Programajánló</span></div>
+
+        <ul class="program-box__list clearfix">
+                            <li>
+                    <a href="https://www.disneyplus.com/en-at/browse/entity-97399b9f-964e-444c-91f3-7db9f11efe5d" target="_blank">
+                        <div class="image-wrap">
+                            <div class="image" style="background-image: url('https://roadster.hu/uploads/2026/05/rivals.jpeg');"></div>
+                        </div>
+                        <div class="text-wrap">
+                            <div class="info-header">
+                                <div class="program-title">Riválisok, 2. évad</div>
+                            </div>
+                            <div class="info-box">
+                                <div class="box-title">Streaming</div>
+                                <div class="info">Premier:<br> 2026.05.15.</div>
+                                                                    <div class="info">Helyszín:<br> Disney+</div>
+                                                            </div>
+                        </div>
+                    </a>
+                </li>
+                            <li>
+                    <a href="https://www.facebook.com/events/s/v-belvarosi-bor-pezsgo-fesztiv/1725326525113992/" target="_blank">
+                        <div class="image-wrap">
+                            <div class="image" style="background-image: url('https://roadster.hu/uploads/2026/05/Kepernyofoto-2026-05-26-13.27.37-424x500.png');"></div>
+                        </div>
+                        <div class="text-wrap">
+                            <div class="info-header">
+                                <div class="program-title">V. Belvárosi Bor & Pezsgő Fesztivál</div>
+                            </div>
+                            <div class="info-box">
+                                <div class="box-title">Gasztro</div>
+                                <div class="info">Időpont:<br> 2026.05.20-25.</div>
+                                                                    <div class="info">Helyszín:<br> Budapest, Szabadság tér</div>
+                                                            </div>
+                        </div>
+                    </a>
+                </li>
+                            <li>
+                    <a href="https://www.facebook.com/events/s/dolce-vita-a-freyja-the-bakery/1586718919096904/" target="_blank">
+                        <div class="image-wrap">
+                            <div class="image" style="background-image: url('https://roadster.hu/uploads/2026/05/freyja.jpeg');"></div>
+                        </div>
+                        <div class="text-wrap">
+                            <div class="info-header">
+                                <div class="program-title">Dolce Vita a Freyja the Bakery-ben</div>
+                            </div>
+                            <div class="info-box">
+                                <div class="box-title">Gasztro</div>
+                                <div class="info">Premier:<br> 2026.05.23.</div>
+                                                                    <div class="info">Helyszín:<br> Budapest, Freyja</div>
+                                                            </div>
+                        </div>
+                    </a>
+                </li>
+                            <li>
+                    <a href="https://www.facebook.com/events/s/-kertmozi-est-ii-/2043282869930217/" target="_blank">
+                        <div class="image-wrap">
+                            <div class="image" style="background-image: url('https://roadster.hu/uploads/2026/05/Kepernyofoto-2026-05-26-14.19.38-454x500.png');"></div>
+                        </div>
+                        <div class="text-wrap">
+                            <div class="info-header">
+                                <div class="program-title">Kertmozi Est II.</div>
+                            </div>
+                            <div class="info-box">
+                                <div class="box-title">Mozi</div>
+                                <div class="info">Időpont:<br> 2026.05.23.</div>
+                                                                    <div class="info">Helyszín:<br> Budapest, Árpád fejedelem útja 125.</div>
+                                                            </div>
+                        </div>
+                    </a>
+                </li>
+                            <li>
+                    <a href="https://www.a38.hu/hu/program/fun-lovin-criminals-us-31098" target="_blank">
+                        <div class="image-wrap">
+                            <div class="image" style="background-image: url('https://roadster.hu/uploads/2026/05/Barabas-Lorinc-Quartet-f.-Erik-Truffaz-Miles-100-500x277.png');"></div>
+                        </div>
+                        <div class="text-wrap">
+                            <div class="info-header">
+                                <div class="program-title">Barabás Lőrinc Quartet f. Erik Truffaz: Miles 100</div>
+                            </div>
+                            <div class="info-box">
+                                <div class="box-title">Koncert</div>
+                                <div class="info">Időpont:<br> 2026.05.26., 19:<br>00</div>
+                                                                    <div class="info">Helyszín:<br> Budapest, A38</div>
+                                                            </div>
+                        </div>
+                    </a>
+                </li>
+                            <li>
+                    <a href="https://www.facebook.com/events/s/intermezzo-fesztival-2026/2095749144608223/" target="_blank">
+                        <div class="image-wrap">
+                            <div class="image" style="background-image: url('https://roadster.hu/uploads/2026/05/intermezzo.jpeg');"></div>
+                        </div>
+                        <div class="text-wrap">
+                            <div class="info-header">
+                                <div class="program-title">Intermezzo Fesztivál</div>
+                            </div>
+                            <div class="info-box">
+                                <div class="box-title">Élmény</div>
+                                <div class="info">Időpont:<br> 2026.május 22.</div>
+                                                                    <div class="info">Helyszín:<br> Budapest, Olof Palme sétány 3.</div>
+                                                            </div>
+                        </div>
+                    </a>
+                </li>
+                    </ul>
+    </div>
+</section>
+                <div style="max-width: max-content !important;"><div id="roadster_cikk_fekvo_2"></div></div>
+                
+            </div>
+        </div>
+    </div>
+</div>
+<section class="roadster-select">
+    
+<div class="header-wrap">
+    <header class="main-header">
+        <div class="roadster-select-logo">
+            <a href="https://select.roadster.hu" title="Roadster Select" data-ga_category="Roadster Select" data-ga_action="Logo">
+                <span class="logo"></span>
+                <span class="select"></span>
+            </a>
+        </div>
+    </header>
+
+    <div class="introduction">
+        <div class="image-container"></div>
+        <div class="text-container">
+            <div class="text">“Útra keltünk és összegyűjtöttük a legkiemelkedőbb hazai szállásokat és vendéglátóhelyeket számotokra. Ezek a helyek garantáltan felejthetetlen élményeket kínálnak, legyen szó romantikus pihenésről a Balaton partján vagy egy kulináris felfedezőútról Budapesten.”</div>
+            <div class="chief-editor">
+                <img src="/assets/130325b4/5b4bc3a5/images/chief-editor.png" alt="Izing Róbert"/>
+                <span>Izing Róbert, főszerkesztő</span>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="featured-content-section">
+    <h2>Kiemelt ajánlataink</h2>
+    <div class="featured-content-container">
+                    <a href="http://select.roadster.hu/mimosa-vendeghaz" class="featured-content" data-ga_category="Roadster Select" data-ga_action="Szállás" data-ga_label="Mimosa Vendégház">
+                <div class="category">Szállás</div>
+                <div class="image" style="background-image: url('https://select.roadster.hu/uploads/2025/06/mimosa-158-XL-768x512.jpg')"></div>
+                <div class="title">Mimosa Vendégház</div>
+                <div class="desc"></div>
+            </a>
+                    <a href="http://select.roadster.hu/three-corners-avenue-hotel" class="featured-content" data-ga_category="Roadster Select" data-ga_action="Szállás" data-ga_label="Three Corners Avenue Hotel">
+                <div class="category">Szállás</div>
+                <div class="image" style="background-image: url('https://select.roadster.hu/uploads/2025/11/Avenue-Facade-768x1152.jpg')"></div>
+                <div class="title">Three Corners Avenue Hotel</div>
+                <div class="desc"></div>
+            </a>
+                    <a href="http://select.roadster.hu/onyx" class="featured-content" data-ga_category="Roadster Select" data-ga_action="Gasztro" data-ga_label="ONYX">
+                <div class="category">Gasztro</div>
+                <div class="image" style="background-image: url('https://select.roadster.hu/uploads/2025/09/ONYX-768x965.png')"></div>
+                <div class="title">ONYX</div>
+                <div class="desc"></div>
+            </a>
+            </div>
+</div>
+
+<div class="recent-content-section">
+    <h2>Legfrissebb ajánlataink</h2>
+    <div class="recent-content-container">
+                    <a href="http://select.roadster.hu/hoppa-bistro" class="recent-content" data-ga_category="Roadster Select" data-ga_action="Gasztro" data-ga_label="Hoppá! Bistro">
+                <div class="category">Gasztro</div>
+                <div class="image" style="background-image: url('https://select.roadster.hu/uploads/2025/08/hoppa-6-768x768.jpg')"></div>
+                <div class="title">Hoppá! Bistro</div>
+                <div class="desc"></div>
+            </a>
+                    <a href="http://select.roadster.hu/umo" class="recent-content" data-ga_category="Roadster Select" data-ga_action="Gasztro" data-ga_label="UMO">
+                <div class="category">Gasztro</div>
+                <div class="image" style="background-image: url('https://select.roadster.hu/uploads/2025/08/umo-3-768x957.jpg')"></div>
+                <div class="title">UMO</div>
+                <div class="desc"></div>
+            </a>
+                    <a href="http://select.roadster.hu/flava" class="recent-content" data-ga_category="Roadster Select" data-ga_action="Gasztro" data-ga_label="Flava">
+                <div class="category">Gasztro</div>
+                <div class="image" style="background-image: url('https://select.roadster.hu/uploads/2025/08/flava-7-768x1152.webp')"></div>
+                <div class="title">Flava</div>
+                <div class="desc"></div>
+            </a>
+            </div>
+</div>
+<div class="more-content-section">
+    <a href="https://select.roadster.hu" data-ga_category="Roadster Select" data-ga_action="Irány a Roadster Select">Irány a Roadster Select<br> teljes adatbázisa</a>
+</div>
+</section>
+<footer class="main-footer">
+    <div class="footer-inner-wrap">
+        <div class="roadster-logo--footer">
+            <a href="https://roadster.hu" title="Roadster.hu"></a>
+            <span class="copy">&copy; Copyright 2026 Player Media Group Zrt.</span>
+        </div>
+
+        <ul id="menu-also-menu" class="footer-menu">
+        <li><a href="https://roadster.hu/impresszum/" data-ga_category="Menü" data-ga_action="Impresszum">Impresszum</a></li>
+        <li><a href="https://roadster.hu/szerzoi-jogok/" data-ga_category="Menü" data-ga_action="Szerzői jogok">Szerzői jogok</a></li>
+        <li><a href="https://playermedia.hu/roadster/" data-ga_category="Menü" data-ga_action="Médiaajánlat">Médiaajánlat</a></li>
+        <li><a href="https://roadster.hu/pr-archivum/" data-ga_category="Menü" data-ga_action="PR-Archívum">PR-Archívum</a></li>
+        <li><a href="https://roadster.hu/adatvedelmi-tajekoztato/" data-ga_category="Menü" data-ga_action="Adatvédelmi tájékoztató">Adatvédelmi tájékoztató</a></li>
+        <li><a href="https://roadster.hu/hirlevel/" data-ga_category="Menü" data-ga_action="Hírlevél">Hírlevél</a></li>
+    </ul>
+
+        <div class="social-plugin">
+            <div class="fb-page" data-href="https://www.facebook.com/roadster.hu" data-small-header="false" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="true"><blockquote cite="https://www.facebook.com/Roadster.hu" class="fb-xfbml-parse-ignore"><a href="https://www.facebook.com/Roadster.hu">Roadster</a></blockquote></div>
+        </div>
+
+    </div>
+</footer>
+
+
+
+<div class="gallery-overlay">
+    <a class="gallery-btn gallery-overlay--fullscreen" href="#" title="Teljes képernyő">
+        <i class="fa fa-arrows-alt" aria-hidden="true"></i>
+    </a>
+    <a class="gallery-btn gallery-overlay--close" href="#" title="Bezárás">
+        <i class="fa fa-times" aria-hidden="true"></i>
+    </a>
+    <div class="gallery-overlay__content">
+        <div class="gallery-overlay__items swiper-container">
+            <ul class="swiper-wrapper">
+            </ul>
+            <div class="gallery-overlay__pagination"></div>
+            <div class="gallery-overlay__btn--prev"></div>
+            <div class="gallery-overlay__btn--next"></div>
+        </div>
+    </div>
+</div>
+<div id="dialog-subscribe">
+    <a href="#" class="close"></a>
+    <div class="subscribe-title">Iratkozz fel a hírlevelünkre!</div>
+    <div class="subscribe-text">
+        Iratkozz fel a Roadster hírlevelére, hogy mindig értesülj a legizgalmasabb hírekről, sztorikról és véleményekről az utazás, a dizájn és a gasztronómia világából!
+    </div>
+    <div class="subscribe-button">
+        <span><a href="https://roadster.hu/hirlevel/">Feliratkozom</a></span>
+    </div>
+</div>
+
+
+<div id="nav-search">
+    <form action="/kereses/">
+        <input class="input" name="q" placeholder="Keresés" autocomplete="off" required>
+        <button type="submit" class="search-btn">
+            <svg fill="#131419" viewBox="0 0 30 30" width="40px" height="40px"><path d="M 13 3 C 7.4889971 3 3 7.4889971 3 13 C 3 18.511003 7.4889971 23 13 23 C 15.396508 23 17.597385 22.148986 19.322266 20.736328 L 25.292969 26.707031 A 1.0001 1.0001 0 1 0 26.707031 25.292969 L 20.736328 19.322266 C 22.148986 17.597385 23 15.396508 23 13 C 23 7.4889971 18.511003 3 13 3 z M 13 5 C 17.430123 5 21 8.5698774 21 13 C 21 17.430123 17.430123 21 13 21 C 8.5698774 21 5 17.430123 5 13 C 5 8.5698774 8.5698774 5 13 5 z"/></svg>
+        </button>
+    </form>
+    <button class="nav-close search-close">
+        <span></span>
+    </button>
+</div>
+<div class="search-overlay"></div><script src="/assets/2de14ce5/7ebd1854/js/jquery-3.6.0.min.js"></script>
+<script src="/assets/2de14ce5/7ebd1854/js/jquery.lazy.min.js"></script>
+<script src="/assets/2de14ce5/7ebd1854/js/jquery.cookie.js"></script>
+<script src="/assets/2de14ce5/7ebd1854/js/jquery-ui.min.js"></script>
+<script src="/assets/2de14ce5/7ebd1854/js/jquery.dfp.min.js"></script>
+<script src="/assets/2de14ce5/7ebd1854/js/jquery.validate.min.js"></script>
+<script src="/assets/2de14ce5/7ebd1854/js/noframework.waypoints.js"></script>
+<script src="/assets/2de14ce5/7ebd1854/js/select2.min.js"></script>
+<script src="/assets/2de14ce5/7ebd1854/js/swiper-bundle.min.js"></script>
+<script src="/assets/2de14ce5/7ebd1854/js/mediaelement-and-player.min.js"></script>
+<script src="/assets/2de14ce5/7ebd1854/js/glightbox.min.js"></script>
+<script src="/assets/6f495c5d/10a11983/js/base.js"></script>
+<script src="/assets/46af0934/90b37978/js/gallery.js"></script>
+<script src="/assets/46af0934/90b37978/js/magician.js"></script>
+<script src="/assets/46af0934/90b37978/js/mobile-promo.js"></script>
+<script src="/assets/46af0934/90b37978/js/poll.js"></script>
+<script src="/assets/46af0934/90b37978/js/quiz.js"></script>
+<script src="/assets/46af0934/90b37978/js/roadster.js"></script>
+<script src="/assets/46af0934/90b37978/js/video.js"></script>
+<script src="/assets/46af0934/90b37978/js/subscribePopup.js"></script>
+<script src="/assets/46af0934/90b37978/js/image-comparison.js"></script>
+<script>
+(function(){
+    if (typeof dataLayer !== 'undefined') {
+        dataLayer.push({
+            'post_author': 'Ujlaky-Gazdag István',
+            'post_category': 'Design',
+            'post_publish_date': '2026-05-26'
+        });
+    }
+    
+    if (typeof gtag !== 'undefined') {
+        var tags = ['luxusautó', 'dizájn', 'nagy sztori', 'lista', 'Ferrari', 'galéria', 'sportautó', 'Marc Newson', 'ferrari luce', 'Jony Ive'];
+        tags.forEach(function (tag) {
+            gtag('event', 'select_content', {'page_tags': tag});
+        });
+    }
+})();
+</script>
+<script charset="UTF-8" src="https://cdn.pushpushgo.com/js/5ba8a862a0a787000c1e0596.js" async="async"></script>
+<script>
+    (function() {
+        setTimeout(function () {
+                        jQuery('#pushpushgo-container').detach().appendTo(jQuery('header > .container'));
+                        jQuery('#pushpushgo-container').show();
+        }, 2000);
+    })();
+</script>
+<script>(function(){function c(){var b=a.contentDocument||a.contentWindow.document;if(b){var d=b.createElement('script');d.innerHTML="window.__CF$cv$params={r:'a0224642bf864884',t:'MTc3OTg1NjEyMw=='};var a=document.createElement('script');a.src='/cdn-cgi/challenge-platform/scripts/jsd/main.js';document.getElementsByTagName('head')[0].appendChild(a);";b.getElementsByTagName('head')[0].appendChild(d)}}if(document.body){var a=document.createElement('iframe');a.height=1;a.width=1;a.style.position='absolute';a.style.top=0;a.style.left=0;a.style.border='none';a.style.visibility='hidden';document.body.appendChild(a);if('loading'!==document.readyState)c();else if(window.addEventListener)document.addEventListener('DOMContentLoaded',c);else{var e=document.onreadystatechange||function(){};document.onreadystatechange=function(b){e(b);'loading'!==document.readyState&&(document.onreadystatechange=e,c())}}}})();</script></body>
+</html>
