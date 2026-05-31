@@ -1,0 +1,2521 @@
+<!doctype html>
+<html class="forbes-frontend" lang="hu">
+
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta name="format-detection" content="telephone=no">
+		<link rel="profile" href="https://gmpg.org/xfn/11">
+	<link rel="icon" type="image/png" href="https://forbes.hu/wp-content/themes/frontend/assets/icons/favicon-32x32.png"
+		  sizes="32x32">
+	<link rel="icon" type="image/png" href="https://forbes.hu/wp-content/themes/frontend/assets/icons/favicon-16x16.png"
+		  sizes="16x16">
+
+	<!-- Pass constants to window -->
+	<script>
+				window.AI_API_URL = "https:\/\/ai.forbes.hu\/api\/v1";
+						window.FEATURE_TOGGLE_MY_ACCOUNT = true;
+			</script>
+
+	<script>
+		window.forbesTranslations = {};
+
+		window.forbesCustomLeaderboardAdSlot = null;
+	</script>
+
+	<!-- Include Seznam scripts for CZ sites -->
+	
+	      <script async src="https://assets.forbes.hu/l/h7mnkzwe.js"></script>
+    
+	<meta name='robots' content='index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1' />
+
+	<!-- This site is optimized with the Yoast SEO plugin v23.5 - https://yoast.com/wordpress/plugins/seo/ -->
+	<title>A nyári foci vb-ig Magyarországra is elhozza a világ legkülönlegesebb tévéjét az LG, mutatjuk mit tud - Forbes.hu</title>
+	<meta name="description" content="Megérkeztek Magyarországra az LG új televíziói. Köztük az egyedülálló posztertévével és egy szokatlan haditervvel a háttérben." />
+	<link rel="canonical" href="https://www.forbes.hu/a-jo-elet/lg-tv-2026-magyarorszag/" />
+	<meta property="og:locale" content="hu_HU" />
+	<meta property="og:type" content="article" />
+	<meta property="og:title" content="A nyári foci vb-ig Magyarországra is elhozza a világ legkülönlegesebb tévéjét az LG, mutatjuk mit tud - Forbes.hu" />
+	<meta property="og:description" content="Megérkeztek Magyarországra az LG új televíziói. Köztük az egyedülálló posztertévével és egy szokatlan haditervvel a háttérben." />
+	<meta property="og:url" content="https://www.forbes.hu/a-jo-elet/lg-tv-2026-magyarorszag/" />
+	<meta property="og:site_name" content="Forbes.hu" />
+	<meta property="article:publisher" content="https://www.facebook.com/ForbesMagyarorszag" />
+	<meta property="article:published_time" content="2026-05-31T03:03:00+00:00" />
+	<meta property="article:modified_time" content="2026-05-30T06:26:44+00:00" />
+	<meta property="og:image" content="https://cdn.forbes.hu/uploads/2026/05/LG-nyito2-scaled.webp?r=eyJ3IjoxMjAwLCJxIjo5MCwicyI6ImpwZyIsImgiOjYzMH0%3D" />
+	<meta property="og:image:width" content="2560" />
+	<meta property="og:image:height" content="1351" />
+	<meta property="og:image:type" content="image/jpeg" />
+	<meta name="author" content="Szalai Péter" />
+	<meta name="twitter:card" content="summary_large_image" />
+	<meta name="twitter:creator" content="@Forbes_HU" />
+	<meta name="twitter:site" content="@Forbes_HU" />
+	<meta name="twitter:label1" content="Written by" />
+	<meta name="twitter:data1" content="Szalai Péter" />
+	<meta name="twitter:label2" content="Est. reading time" />
+	<meta name="twitter:data2" content="6 perc" />
+	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"NewsArticle","@id":"https://www.forbes.hu/a-jo-elet/lg-tv-2026-magyarorszag/#article","isPartOf":{"@id":"https://www.forbes.hu/a-jo-elet/lg-tv-2026-magyarorszag/"},"author":{"name":"Szalai Péter","@id":"https://www.forbes.hu/#/schema/person/b06355d05783b27dfae138e8e0a39746"},"headline":"A nyári foci vb-ig Magyarországra is elhozza a világ legkülönlegesebb tévéjét az LG, mutatjuk mit tud","datePublished":"2026-05-31T03:03:00+00:00","dateModified":"2026-05-30T06:26:44+00:00","mainEntityOfPage":{"@id":"https://www.forbes.hu/a-jo-elet/lg-tv-2026-magyarorszag/"},"wordCount":1214,"publisher":{"@id":"https://www.forbes.hu/#organization"},"image":{"@id":"https://www.forbes.hu/a-jo-elet/lg-tv-2026-magyarorszag/#primaryimage"},"thumbnailUrl":"https://cdn.forbes.hu/uploads/2026/05/LG-nyito2-scaled.webp?r=eyJ3IjoyMDQ4LCJxIjo5MCwicyI6ImpwZyJ9","keywords":["Big tech","foci vébé 2026","Tech","televízió"],"articleSection":["A jó élet"],"inLanguage":"hu"},{"@type":"WebPage","@id":"https://www.forbes.hu/a-jo-elet/lg-tv-2026-magyarorszag/","url":"https://www.forbes.hu/a-jo-elet/lg-tv-2026-magyarorszag/","name":"A nyári foci vb-ig Magyarországra is elhozza a világ legkülönlegesebb tévéjét az LG, mutatjuk mit tud - Forbes.hu","isPartOf":{"@id":"https://www.forbes.hu/#website"},"primaryImageOfPage":{"@id":"https://www.forbes.hu/a-jo-elet/lg-tv-2026-magyarorszag/#primaryimage"},"image":{"@id":"https://www.forbes.hu/a-jo-elet/lg-tv-2026-magyarorszag/#primaryimage"},"thumbnailUrl":"https://cdn.forbes.hu/uploads/2026/05/LG-nyito2-scaled.webp?r=eyJ3IjoyMDQ4LCJxIjo5MCwicyI6ImpwZyJ9","datePublished":"2026-05-31T03:03:00+00:00","dateModified":"2026-05-30T06:26:44+00:00","description":"Megérkeztek Magyarországra az LG új televíziói. Köztük az egyedülálló posztertévével és egy szokatlan haditervvel a háttérben.","breadcrumb":{"@id":"https://www.forbes.hu/a-jo-elet/lg-tv-2026-magyarorszag/#breadcrumb"},"inLanguage":"hu","potentialAction":[{"@type":"ReadAction","target":["https://www.forbes.hu/a-jo-elet/lg-tv-2026-magyarorszag/"]}]},{"@type":"ImageObject","inLanguage":"hu","@id":"https://www.forbes.hu/a-jo-elet/lg-tv-2026-magyarorszag/#primaryimage","url":"https://cdn.forbes.hu/uploads/2026/05/LG-nyito2-scaled.webp?r=eyJ3IjoyMDQ4LCJxIjo5MCwicyI6ImpwZyJ9","contentUrl":"https://cdn.forbes.hu/uploads/2026/05/LG-nyito2-scaled.webp?r=eyJ3IjoyMDQ4LCJxIjo5MCwicyI6ImpwZyJ9","width":2560,"height":1351,"caption":"LG TV Magyarország"},{"@type":"BreadcrumbList","@id":"https://www.forbes.hu/a-jo-elet/lg-tv-2026-magyarorszag/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://forbes.hu/"},{"@type":"ListItem","position":2,"name":"A nyári foci vb-ig Magyarországra is elhozza a világ legkülönlegesebb tévéjét az LG, mutatjuk mit tud"}]},{"@type":"WebSite","@id":"https://www.forbes.hu/#website","url":"https://www.forbes.hu/","name":"Forbes.hu","description":"","publisher":{"@id":"https://www.forbes.hu/#organization"},"potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://www.forbes.hu/?s={search_term_string}"},"query-input":{"@type":"PropertyValueSpecification","valueRequired":true,"valueName":"search_term_string"}}],"inLanguage":"hu"},{"@type":"Organization","@id":"https://www.forbes.hu/#organization","name":"Forbes Magyarország","url":"https://www.forbes.hu/","logo":{"@type":"ImageObject","inLanguage":"hu","@id":"https://www.forbes.hu/#/schema/logo/image/","url":"https://cdn.forbes.hu/uploads/2022/04/logo-dark-1-1.svg","contentUrl":"https://cdn.forbes.hu/uploads/2022/04/logo-dark-1-1.svg","width":1,"height":1,"caption":"Forbes Magyarország"},"image":{"@id":"https://www.forbes.hu/#/schema/logo/image/"},"sameAs":["https://www.facebook.com/ForbesMagyarorszag","https://x.com/Forbes_HU"]},{"@type":"Person","@id":"https://www.forbes.hu/#/schema/person/b06355d05783b27dfae138e8e0a39746","name":"Szalai Péter","image":{"@type":"ImageObject","inLanguage":"hu","@id":"https://www.forbes.hu/#/schema/person/image/","url":"https://secure.gravatar.com/avatar/8a86fbb8db9e45328886da6a144ce211?s=96&d=retro&r=g","contentUrl":"https://secure.gravatar.com/avatar/8a86fbb8db9e45328886da6a144ce211?s=96&d=retro&r=g","caption":"Szalai Péter"},"url":"https://forbes.hu/szerzok/szalai_peter/"}]}</script>
+	<!-- / Yoast SEO plugin. -->
+
+
+<link rel='dns-prefetch' href='//forbes.hu' />
+<link rel='dns-prefetch' href='//securepubads.g.doubleclick.net' />
+<link rel='dns-prefetch' href='//forbes.cz' />
+<link rel='dns-prefetch' href='//cdn.forbes.hu' />
+<link rel="alternate" type="application/rss+xml" title="Forbes.hu &raquo; A nyári foci vb-ig Magyarországra is elhozza a világ legkülönlegesebb tévéjét az LG, mutatjuk mit tud hozzászólás hírcsatorna" href="https://forbes.hu/a-jo-elet/lg-tv-2026-magyarorszag/feed/" />
+<script type="text/javascript">
+/* <![CDATA[ */
+window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/15.0.3\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/15.0.3\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/forbes.hu\/wp-includes\/js\/wp-emoji-release.min.js?ver=6.6.2"}};
+/*! This file is auto-generated */
+!function(i,n){var o,s,e;function c(e){try{var t={supportTests:e,timestamp:(new Date).valueOf()};sessionStorage.setItem(o,JSON.stringify(t))}catch(e){}}function p(e,t,n){e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(t,0,0);var t=new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data),r=(e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(n,0,0),new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data));return t.every(function(e,t){return e===r[t]})}function u(e,t,n){switch(t){case"flag":return n(e,"\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f","\ud83c\udff3\ufe0f\u200b\u26a7\ufe0f")?!1:!n(e,"\ud83c\uddfa\ud83c\uddf3","\ud83c\uddfa\u200b\ud83c\uddf3")&&!n(e,"\ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc65\udb40\udc6e\udb40\udc67\udb40\udc7f","\ud83c\udff4\u200b\udb40\udc67\u200b\udb40\udc62\u200b\udb40\udc65\u200b\udb40\udc6e\u200b\udb40\udc67\u200b\udb40\udc7f");case"emoji":return!n(e,"\ud83d\udc26\u200d\u2b1b","\ud83d\udc26\u200b\u2b1b")}return!1}function f(e,t,n){var r="undefined"!=typeof WorkerGlobalScope&&self instanceof WorkerGlobalScope?new OffscreenCanvas(300,150):i.createElement("canvas"),a=r.getContext("2d",{willReadFrequently:!0}),o=(a.textBaseline="top",a.font="600 32px Arial",{});return e.forEach(function(e){o[e]=t(a,e,n)}),o}function t(e){var t=i.createElement("script");t.src=e,t.defer=!0,i.head.appendChild(t)}"undefined"!=typeof Promise&&(o="wpEmojiSettingsSupports",s=["flag","emoji"],n.supports={everything:!0,everythingExceptFlag:!0},e=new Promise(function(e){i.addEventListener("DOMContentLoaded",e,{once:!0})}),new Promise(function(t){var n=function(){try{var e=JSON.parse(sessionStorage.getItem(o));if("object"==typeof e&&"number"==typeof e.timestamp&&(new Date).valueOf()<e.timestamp+604800&&"object"==typeof e.supportTests)return e.supportTests}catch(e){}return null}();if(!n){if("undefined"!=typeof Worker&&"undefined"!=typeof OffscreenCanvas&&"undefined"!=typeof URL&&URL.createObjectURL&&"undefined"!=typeof Blob)try{var e="postMessage("+f.toString()+"("+[JSON.stringify(s),u.toString(),p.toString()].join(",")+"));",r=new Blob([e],{type:"text/javascript"}),a=new Worker(URL.createObjectURL(r),{name:"wpTestEmojiSupports"});return void(a.onmessage=function(e){c(n=e.data),a.terminate(),t(n)})}catch(e){}c(n=f(s,u,p))}t(n)}).then(function(e){for(var t in e)n.supports[t]=e[t],n.supports.everything=n.supports.everything&&n.supports[t],"flag"!==t&&(n.supports.everythingExceptFlag=n.supports.everythingExceptFlag&&n.supports[t]);n.supports.everythingExceptFlag=n.supports.everythingExceptFlag&&!n.supports.flag,n.DOMReady=!1,n.readyCallback=function(){n.DOMReady=!0}}).then(function(){return e}).then(function(){var e;n.supports.everything||(n.readyCallback(),(e=n.source||{}).concatemoji?t(e.concatemoji):e.wpemoji&&e.twemoji&&(t(e.twemoji),t(e.wpemoji)))}))}((window,document),window._wpemojiSettings);
+/* ]]> */
+</script>
+<style id='wp-emoji-styles-inline-css' type='text/css'>
+
+	img.wp-smiley, img.emoji {
+		display: inline !important;
+		border: none !important;
+		box-shadow: none !important;
+		height: 1em !important;
+		width: 1em !important;
+		margin: 0 0.07em !important;
+		vertical-align: -0.1em !important;
+		background: none !important;
+		padding: 0 !important;
+	}
+</style>
+<link rel='stylesheet' id='wp-block-library-css' href='https://forbes.hu/wp-includes/css/dist/block-library/style.min.css?ver=6.6.2' type='text/css' media='all' />
+<style id='global-styles-inline-css' type='text/css'>
+:root{--wp--preset--aspect-ratio--square: 1;--wp--preset--aspect-ratio--4-3: 4/3;--wp--preset--aspect-ratio--3-4: 3/4;--wp--preset--aspect-ratio--3-2: 3/2;--wp--preset--aspect-ratio--2-3: 2/3;--wp--preset--aspect-ratio--16-9: 16/9;--wp--preset--aspect-ratio--9-16: 9/16;--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--color--text-primary: var(--color-text-primary);--wp--preset--color--text-secondary: var(--color-text-secondary);--wp--preset--color--text-brand: var(--color-text-brand);--wp--preset--color--text-success: var(--color-text-success);--wp--preset--color--text-error: var(--color-text-error);--wp--preset--color--text-primary-invert: var(--color-text-primary-invert);--wp--preset--color--text-secondary-invert: var(--color-text-secondary-invert);--wp--preset--color--surface-primary: var(--color-surface-primary);--wp--preset--color--surface-primary-invert: var(--color-surface-primary-invert);--wp--preset--color--surface-secondary: var(--color-surface-secondary);--wp--preset--color--surface-secondary-invert: var(--color-surface-secondary-invert);--wp--preset--color--surface-tertiary: var(--color-surface-tertiary);--wp--preset--color--surface-tertiary-invert: var(--color-surface-tertiary-invert);--wp--preset--color--surface-invert: var(--color-surface-invert);--wp--preset--color--surface-icon: var(--color-surface-icon);--wp--preset--color--surface-program-premium: var(--color-surface-program-premium);--wp--preset--color--surface-program-standard: var(--color-surface-program-standard);--wp--preset--color--surface-brand-light: var(--color-surface-brand-light);--wp--preset--color--surface-brand-dark: var(--color-surface-brand-dark);--wp--preset--color--surface-accent-blue: var(--color-surface-accent-blue);--wp--preset--color--surface-accent-emerald: var(--color-surface-accent-emerald);--wp--preset--color--surface-accent-rose: var(--color-surface-accent-rose);--wp--preset--color--icon-primary: var(--color-icon-primary);--wp--preset--color--icon-primary-invert: var(--color-icon-primary-invert);--wp--preset--color--icon-secondary: var(--color-icon-secondary);--wp--preset--color--icon-secondary-invert: var(--color-icon-secondary-invert);--wp--preset--color--icon-on-light: var(--color-icon-onLight);--wp--preset--color--icon-on-light-invert: var(--color-icon-onLight-invert);--wp--preset--color--icon-on-dark: var(--color-icon-onDark);--wp--preset--color--icon-on-dark-invert: var(--color-icon-onDark-invert);--wp--preset--color--button-primary: var(--color-button-primary);--wp--preset--color--button-secondary: var(--color-button-secondary);--wp--preset--color--button-primary-pressed: var(--color-button-primary-pressed);--wp--preset--color--button-secondary-pressed: var(--color-button-secondary-pressed);--wp--preset--color--button-primary-disabled: var(--color-button-primary-disabled);--wp--preset--color--button-secondary-disabled: var(--color-button-secondary-disabled);--wp--preset--color--button-secondary-disabled-invert: var(--color-button-secondary-disabled-invert);--wp--preset--color--button-primary-invert: var(--color-button-primary-invert);--wp--preset--color--link-default: var(--color-link-default);--wp--preset--color--link-hover: var(--color-link-hover);--wp--preset--color--link-hover-invert: var(--color-link-hover-invert);--wp--preset--color--link-visited: var(--color-link-visited);--wp--preset--color--link-life-hover: var(--color-link-life-hover);--wp--preset--color--link-life-visisted: var(--color-link-life-visisted);--wp--preset--color--link-status-success-default: var(--color-link-status-success-default);--wp--preset--color--link-status-success-hover: var(--color-link-status-success-hover);--wp--preset--color--link-status-alert-default: var(--color-link-status-alert-default);--wp--preset--color--link-status-alert-hover: var(--color-link-status-alert-hover);--wp--preset--color--tag-default: var(--color-tag-default);--wp--preset--color--tag-default-invert: var(--color-tag-default-invert);--wp--preset--color--tag-hover: var(--color-tag-hover);--wp--preset--color--tag-life-default: var(--color-tag-life-default);--wp--preset--color--tag-life-hover: var(--color-tag-life-hover);--wp--preset--color--input-border-default: var(--color-input-border-default);--wp--preset--color--input-border-hover: var(--color-input-border-hover);--wp--preset--color--input-border-active: var(--color-input-border-active);--wp--preset--color--input-border-success: var(--color-input-border-success);--wp--preset--color--input-border-error: var(--color-input-border-error);--wp--preset--color--divider: var(--color-divider);--wp--preset--color--divider-invert: var(--color-divider-invert);--wp--preset--color--other-slate-foreground: var(--color-other-slate-foreground);--wp--preset--color--other-slate-background: var(--color-other-slate-background);--wp--preset--color--other-stone-foreground: var(--color-other-stone-foreground);--wp--preset--color--other-stone-background: var(--color-other-stone-background);--wp--preset--color--other-emerald-foreground: var(--color-other-emerald-foreground);--wp--preset--color--other-emerald-background: var(--color-other-emerald-background);--wp--preset--color--other-blue-foreground: var(--color-other-blue-foreground);--wp--preset--color--other-blue-background: var(--color-other-blue-background);--wp--preset--color--other-pink-foreground: var(--color-other-pink-foreground);--wp--preset--color--other-pink-background: var(--color-other-pink-background);--wp--preset--color--surface-secondary-opacity: var(--color-surface-secondary-opacity);--wp--preset--color--post-background: var(--color-post-background);--wp--preset--color--product-background: var(--color-product-background);--wp--preset--color--subscribe-bar-background: var(--color-subscribe-bar-background);--wp--preset--color--subscribe-bar-text: var(--color-subscribe-bar-text);--wp--preset--color--subscribe-bar-button: var(--color-subscribe-bar-button);--wp--preset--color--subscribe-bar-highlight: var(--color-subscribe-bar-highlight);--wp--preset--color--white-darkfixed: var(--color-white-darkfixed);--wp--preset--color--background-darkfixed: var(--color-background-darkfixed);--wp--preset--color--bodytext-darkfixed: var(--color-bodytext-darkfixed);--wp--preset--color--border-darkfixed: var(--color-border-darkfixed);--wp--preset--color--tag-default-darkfixed: var(--color-tag-default-darkfixed);--wp--preset--color--tag-hover-darkfixed: var(--color-tag-hover-darkfixed);--wp--preset--color--tag-life-default-darkfixed: var(--color-tag-life-default-darkfixed);--wp--preset--color--tag-life-hover-darkfixed: var(--color-tag-life-hover-darkfixed);--wp--preset--color--telekom-pink: var(--color-telekom-pink);--wp--preset--color--telekom-teal: var(--color-telekom-teal);--wp--preset--color--telekom-violet: var(--color-telekom-violet);--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--font-size--h-1: 5.2rem;--wp--preset--font-size--h-2: 4.6rem;--wp--preset--font-size--h-3: 3.8rem;--wp--preset--font-size--h-4: 2.8rem;--wp--preset--font-size--h-5: 2.2rem;--wp--preset--font-size--h-6: 1.8rem;--wp--preset--font-size--body: 1.8rem;--wp--preset--font-size--lead: 2rem;--wp--preset--font-size--basic-16: 1.6rem;--wp--preset--font-size--basic-14: 1.4rem;--wp--preset--font-size--tag-text: 1.2rem;--wp--preset--font-size--small-text: 1rem;--wp--preset--font-size--link-20: 2rem;--wp--preset--font-size--link-16: 1.6rem;--wp--preset--font-size--link-14: 1.4rem;--wp--preset--font-family--noto-serif: var(--font-noto-serif);--wp--preset--font-family--archivo: var(--font-archivo);--wp--preset--font-family--jetbrains-mono: var(--font-jetbrains-mono);--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgba(255, 255, 255, 1), 6px 6px rgba(0, 0, 0, 1);--wp--preset--shadow--crisp: 6px 6px 0px rgba(0, 0, 0, 1);--wp--preset--shadow--level-1: var(--box-shadow-level-1);--wp--preset--shadow--level-2: var(--box-shadow-level-2);--wp--preset--shadow--level-3: var(--box-shadow-level-3);--wp--preset--shadow--level-4: var(--box-shadow-level-4);--wp--preset--shadow--level-5: var(--box-shadow-level-5);--wp--preset--shadow--elevation-light-locker: var(--box-shadow-elevation-light-locker);--wp--preset--shadow--elevation-light-level-2: var(--box-shadow-elevation-light-level-2);--wp--preset--shadow--elevation-light-level-3: var(--box-shadow-elevation-light-level-3);--wp--preset--shadow--extra: var(--box-shadow-extra);}:root { --wp--style--global--content-size: 840px;--wp--style--global--wide-size: 1100px; }:where(body) { margin: 0; }.wp-site-blocks > .alignleft { float: left; margin-right: 2em; }.wp-site-blocks > .alignright { float: right; margin-left: 2em; }.wp-site-blocks > .aligncenter { justify-content: center; margin-left: auto; margin-right: auto; }:where(.is-layout-flex){gap: 0.5em;}:where(.is-layout-grid){gap: 0.5em;}.is-layout-flow > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}.is-layout-flow > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}.is-layout-flow > .aligncenter{margin-left: auto !important;margin-right: auto !important;}.is-layout-constrained > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}.is-layout-constrained > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}.is-layout-constrained > .aligncenter{margin-left: auto !important;margin-right: auto !important;}.is-layout-constrained > :where(:not(.alignleft):not(.alignright):not(.alignfull)){max-width: var(--wp--style--global--content-size);margin-left: auto !important;margin-right: auto !important;}.is-layout-constrained > .alignwide{max-width: var(--wp--style--global--wide-size);}body .is-layout-flex{display: flex;}.is-layout-flex{flex-wrap: wrap;align-items: center;}.is-layout-flex > :is(*, div){margin: 0;}body .is-layout-grid{display: grid;}.is-layout-grid > :is(*, div){margin: 0;}body{padding-top: 0px;padding-right: 0px;padding-bottom: 0px;padding-left: 0px;}a:where(:not(.wp-element-button)){text-decoration: underline;}:root :where(.wp-element-button, .wp-block-button__link){background-color: #32373c;border-width: 0;color: #fff;font-family: inherit;font-size: inherit;line-height: inherit;padding: calc(0.667em + 2px) calc(1.333em + 2px);text-decoration: none;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-text-primary-color{color: var(--wp--preset--color--text-primary) !important;}.has-text-secondary-color{color: var(--wp--preset--color--text-secondary) !important;}.has-text-brand-color{color: var(--wp--preset--color--text-brand) !important;}.has-text-success-color{color: var(--wp--preset--color--text-success) !important;}.has-text-error-color{color: var(--wp--preset--color--text-error) !important;}.has-text-primary-invert-color{color: var(--wp--preset--color--text-primary-invert) !important;}.has-text-secondary-invert-color{color: var(--wp--preset--color--text-secondary-invert) !important;}.has-surface-primary-color{color: var(--wp--preset--color--surface-primary) !important;}.has-surface-primary-invert-color{color: var(--wp--preset--color--surface-primary-invert) !important;}.has-surface-secondary-color{color: var(--wp--preset--color--surface-secondary) !important;}.has-surface-secondary-invert-color{color: var(--wp--preset--color--surface-secondary-invert) !important;}.has-surface-tertiary-color{color: var(--wp--preset--color--surface-tertiary) !important;}.has-surface-tertiary-invert-color{color: var(--wp--preset--color--surface-tertiary-invert) !important;}.has-surface-invert-color{color: var(--wp--preset--color--surface-invert) !important;}.has-surface-icon-color{color: var(--wp--preset--color--surface-icon) !important;}.has-surface-program-premium-color{color: var(--wp--preset--color--surface-program-premium) !important;}.has-surface-program-standard-color{color: var(--wp--preset--color--surface-program-standard) !important;}.has-surface-brand-light-color{color: var(--wp--preset--color--surface-brand-light) !important;}.has-surface-brand-dark-color{color: var(--wp--preset--color--surface-brand-dark) !important;}.has-surface-accent-blue-color{color: var(--wp--preset--color--surface-accent-blue) !important;}.has-surface-accent-emerald-color{color: var(--wp--preset--color--surface-accent-emerald) !important;}.has-surface-accent-rose-color{color: var(--wp--preset--color--surface-accent-rose) !important;}.has-icon-primary-color{color: var(--wp--preset--color--icon-primary) !important;}.has-icon-primary-invert-color{color: var(--wp--preset--color--icon-primary-invert) !important;}.has-icon-secondary-color{color: var(--wp--preset--color--icon-secondary) !important;}.has-icon-secondary-invert-color{color: var(--wp--preset--color--icon-secondary-invert) !important;}.has-icon-on-light-color{color: var(--wp--preset--color--icon-on-light) !important;}.has-icon-on-light-invert-color{color: var(--wp--preset--color--icon-on-light-invert) !important;}.has-icon-on-dark-color{color: var(--wp--preset--color--icon-on-dark) !important;}.has-icon-on-dark-invert-color{color: var(--wp--preset--color--icon-on-dark-invert) !important;}.has-button-primary-color{color: var(--wp--preset--color--button-primary) !important;}.has-button-secondary-color{color: var(--wp--preset--color--button-secondary) !important;}.has-button-primary-pressed-color{color: var(--wp--preset--color--button-primary-pressed) !important;}.has-button-secondary-pressed-color{color: var(--wp--preset--color--button-secondary-pressed) !important;}.has-button-primary-disabled-color{color: var(--wp--preset--color--button-primary-disabled) !important;}.has-button-secondary-disabled-color{color: var(--wp--preset--color--button-secondary-disabled) !important;}.has-button-secondary-disabled-invert-color{color: var(--wp--preset--color--button-secondary-disabled-invert) !important;}.has-button-primary-invert-color{color: var(--wp--preset--color--button-primary-invert) !important;}.has-link-default-color{color: var(--wp--preset--color--link-default) !important;}.has-link-hover-color{color: var(--wp--preset--color--link-hover) !important;}.has-link-hover-invert-color{color: var(--wp--preset--color--link-hover-invert) !important;}.has-link-visited-color{color: var(--wp--preset--color--link-visited) !important;}.has-link-life-hover-color{color: var(--wp--preset--color--link-life-hover) !important;}.has-link-life-visisted-color{color: var(--wp--preset--color--link-life-visisted) !important;}.has-link-status-success-default-color{color: var(--wp--preset--color--link-status-success-default) !important;}.has-link-status-success-hover-color{color: var(--wp--preset--color--link-status-success-hover) !important;}.has-link-status-alert-default-color{color: var(--wp--preset--color--link-status-alert-default) !important;}.has-link-status-alert-hover-color{color: var(--wp--preset--color--link-status-alert-hover) !important;}.has-tag-default-color{color: var(--wp--preset--color--tag-default) !important;}.has-tag-default-invert-color{color: var(--wp--preset--color--tag-default-invert) !important;}.has-tag-hover-color{color: var(--wp--preset--color--tag-hover) !important;}.has-tag-life-default-color{color: var(--wp--preset--color--tag-life-default) !important;}.has-tag-life-hover-color{color: var(--wp--preset--color--tag-life-hover) !important;}.has-input-border-default-color{color: var(--wp--preset--color--input-border-default) !important;}.has-input-border-hover-color{color: var(--wp--preset--color--input-border-hover) !important;}.has-input-border-active-color{color: var(--wp--preset--color--input-border-active) !important;}.has-input-border-success-color{color: var(--wp--preset--color--input-border-success) !important;}.has-input-border-error-color{color: var(--wp--preset--color--input-border-error) !important;}.has-divider-color{color: var(--wp--preset--color--divider) !important;}.has-divider-invert-color{color: var(--wp--preset--color--divider-invert) !important;}.has-other-slate-foreground-color{color: var(--wp--preset--color--other-slate-foreground) !important;}.has-other-slate-background-color{color: var(--wp--preset--color--other-slate-background) !important;}.has-other-stone-foreground-color{color: var(--wp--preset--color--other-stone-foreground) !important;}.has-other-stone-background-color{color: var(--wp--preset--color--other-stone-background) !important;}.has-other-emerald-foreground-color{color: var(--wp--preset--color--other-emerald-foreground) !important;}.has-other-emerald-background-color{color: var(--wp--preset--color--other-emerald-background) !important;}.has-other-blue-foreground-color{color: var(--wp--preset--color--other-blue-foreground) !important;}.has-other-blue-background-color{color: var(--wp--preset--color--other-blue-background) !important;}.has-other-pink-foreground-color{color: var(--wp--preset--color--other-pink-foreground) !important;}.has-other-pink-background-color{color: var(--wp--preset--color--other-pink-background) !important;}.has-surface-secondary-opacity-color{color: var(--wp--preset--color--surface-secondary-opacity) !important;}.has-post-background-color{color: var(--wp--preset--color--post-background) !important;}.has-product-background-color{color: var(--wp--preset--color--product-background) !important;}.has-subscribe-bar-background-color{color: var(--wp--preset--color--subscribe-bar-background) !important;}.has-subscribe-bar-text-color{color: var(--wp--preset--color--subscribe-bar-text) !important;}.has-subscribe-bar-button-color{color: var(--wp--preset--color--subscribe-bar-button) !important;}.has-subscribe-bar-highlight-color{color: var(--wp--preset--color--subscribe-bar-highlight) !important;}.has-white-darkfixed-color{color: var(--wp--preset--color--white-darkfixed) !important;}.has-background-darkfixed-color{color: var(--wp--preset--color--background-darkfixed) !important;}.has-bodytext-darkfixed-color{color: var(--wp--preset--color--bodytext-darkfixed) !important;}.has-border-darkfixed-color{color: var(--wp--preset--color--border-darkfixed) !important;}.has-tag-default-darkfixed-color{color: var(--wp--preset--color--tag-default-darkfixed) !important;}.has-tag-hover-darkfixed-color{color: var(--wp--preset--color--tag-hover-darkfixed) !important;}.has-tag-life-default-darkfixed-color{color: var(--wp--preset--color--tag-life-default-darkfixed) !important;}.has-tag-life-hover-darkfixed-color{color: var(--wp--preset--color--tag-life-hover-darkfixed) !important;}.has-telekom-pink-color{color: var(--wp--preset--color--telekom-pink) !important;}.has-telekom-teal-color{color: var(--wp--preset--color--telekom-teal) !important;}.has-telekom-violet-color{color: var(--wp--preset--color--telekom-violet) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-text-primary-background-color{background-color: var(--wp--preset--color--text-primary) !important;}.has-text-secondary-background-color{background-color: var(--wp--preset--color--text-secondary) !important;}.has-text-brand-background-color{background-color: var(--wp--preset--color--text-brand) !important;}.has-text-success-background-color{background-color: var(--wp--preset--color--text-success) !important;}.has-text-error-background-color{background-color: var(--wp--preset--color--text-error) !important;}.has-text-primary-invert-background-color{background-color: var(--wp--preset--color--text-primary-invert) !important;}.has-text-secondary-invert-background-color{background-color: var(--wp--preset--color--text-secondary-invert) !important;}.has-surface-primary-background-color{background-color: var(--wp--preset--color--surface-primary) !important;}.has-surface-primary-invert-background-color{background-color: var(--wp--preset--color--surface-primary-invert) !important;}.has-surface-secondary-background-color{background-color: var(--wp--preset--color--surface-secondary) !important;}.has-surface-secondary-invert-background-color{background-color: var(--wp--preset--color--surface-secondary-invert) !important;}.has-surface-tertiary-background-color{background-color: var(--wp--preset--color--surface-tertiary) !important;}.has-surface-tertiary-invert-background-color{background-color: var(--wp--preset--color--surface-tertiary-invert) !important;}.has-surface-invert-background-color{background-color: var(--wp--preset--color--surface-invert) !important;}.has-surface-icon-background-color{background-color: var(--wp--preset--color--surface-icon) !important;}.has-surface-program-premium-background-color{background-color: var(--wp--preset--color--surface-program-premium) !important;}.has-surface-program-standard-background-color{background-color: var(--wp--preset--color--surface-program-standard) !important;}.has-surface-brand-light-background-color{background-color: var(--wp--preset--color--surface-brand-light) !important;}.has-surface-brand-dark-background-color{background-color: var(--wp--preset--color--surface-brand-dark) !important;}.has-surface-accent-blue-background-color{background-color: var(--wp--preset--color--surface-accent-blue) !important;}.has-surface-accent-emerald-background-color{background-color: var(--wp--preset--color--surface-accent-emerald) !important;}.has-surface-accent-rose-background-color{background-color: var(--wp--preset--color--surface-accent-rose) !important;}.has-icon-primary-background-color{background-color: var(--wp--preset--color--icon-primary) !important;}.has-icon-primary-invert-background-color{background-color: var(--wp--preset--color--icon-primary-invert) !important;}.has-icon-secondary-background-color{background-color: var(--wp--preset--color--icon-secondary) !important;}.has-icon-secondary-invert-background-color{background-color: var(--wp--preset--color--icon-secondary-invert) !important;}.has-icon-on-light-background-color{background-color: var(--wp--preset--color--icon-on-light) !important;}.has-icon-on-light-invert-background-color{background-color: var(--wp--preset--color--icon-on-light-invert) !important;}.has-icon-on-dark-background-color{background-color: var(--wp--preset--color--icon-on-dark) !important;}.has-icon-on-dark-invert-background-color{background-color: var(--wp--preset--color--icon-on-dark-invert) !important;}.has-button-primary-background-color{background-color: var(--wp--preset--color--button-primary) !important;}.has-button-secondary-background-color{background-color: var(--wp--preset--color--button-secondary) !important;}.has-button-primary-pressed-background-color{background-color: var(--wp--preset--color--button-primary-pressed) !important;}.has-button-secondary-pressed-background-color{background-color: var(--wp--preset--color--button-secondary-pressed) !important;}.has-button-primary-disabled-background-color{background-color: var(--wp--preset--color--button-primary-disabled) !important;}.has-button-secondary-disabled-background-color{background-color: var(--wp--preset--color--button-secondary-disabled) !important;}.has-button-secondary-disabled-invert-background-color{background-color: var(--wp--preset--color--button-secondary-disabled-invert) !important;}.has-button-primary-invert-background-color{background-color: var(--wp--preset--color--button-primary-invert) !important;}.has-link-default-background-color{background-color: var(--wp--preset--color--link-default) !important;}.has-link-hover-background-color{background-color: var(--wp--preset--color--link-hover) !important;}.has-link-hover-invert-background-color{background-color: var(--wp--preset--color--link-hover-invert) !important;}.has-link-visited-background-color{background-color: var(--wp--preset--color--link-visited) !important;}.has-link-life-hover-background-color{background-color: var(--wp--preset--color--link-life-hover) !important;}.has-link-life-visisted-background-color{background-color: var(--wp--preset--color--link-life-visisted) !important;}.has-link-status-success-default-background-color{background-color: var(--wp--preset--color--link-status-success-default) !important;}.has-link-status-success-hover-background-color{background-color: var(--wp--preset--color--link-status-success-hover) !important;}.has-link-status-alert-default-background-color{background-color: var(--wp--preset--color--link-status-alert-default) !important;}.has-link-status-alert-hover-background-color{background-color: var(--wp--preset--color--link-status-alert-hover) !important;}.has-tag-default-background-color{background-color: var(--wp--preset--color--tag-default) !important;}.has-tag-default-invert-background-color{background-color: var(--wp--preset--color--tag-default-invert) !important;}.has-tag-hover-background-color{background-color: var(--wp--preset--color--tag-hover) !important;}.has-tag-life-default-background-color{background-color: var(--wp--preset--color--tag-life-default) !important;}.has-tag-life-hover-background-color{background-color: var(--wp--preset--color--tag-life-hover) !important;}.has-input-border-default-background-color{background-color: var(--wp--preset--color--input-border-default) !important;}.has-input-border-hover-background-color{background-color: var(--wp--preset--color--input-border-hover) !important;}.has-input-border-active-background-color{background-color: var(--wp--preset--color--input-border-active) !important;}.has-input-border-success-background-color{background-color: var(--wp--preset--color--input-border-success) !important;}.has-input-border-error-background-color{background-color: var(--wp--preset--color--input-border-error) !important;}.has-divider-background-color{background-color: var(--wp--preset--color--divider) !important;}.has-divider-invert-background-color{background-color: var(--wp--preset--color--divider-invert) !important;}.has-other-slate-foreground-background-color{background-color: var(--wp--preset--color--other-slate-foreground) !important;}.has-other-slate-background-background-color{background-color: var(--wp--preset--color--other-slate-background) !important;}.has-other-stone-foreground-background-color{background-color: var(--wp--preset--color--other-stone-foreground) !important;}.has-other-stone-background-background-color{background-color: var(--wp--preset--color--other-stone-background) !important;}.has-other-emerald-foreground-background-color{background-color: var(--wp--preset--color--other-emerald-foreground) !important;}.has-other-emerald-background-background-color{background-color: var(--wp--preset--color--other-emerald-background) !important;}.has-other-blue-foreground-background-color{background-color: var(--wp--preset--color--other-blue-foreground) !important;}.has-other-blue-background-background-color{background-color: var(--wp--preset--color--other-blue-background) !important;}.has-other-pink-foreground-background-color{background-color: var(--wp--preset--color--other-pink-foreground) !important;}.has-other-pink-background-background-color{background-color: var(--wp--preset--color--other-pink-background) !important;}.has-surface-secondary-opacity-background-color{background-color: var(--wp--preset--color--surface-secondary-opacity) !important;}.has-post-background-background-color{background-color: var(--wp--preset--color--post-background) !important;}.has-product-background-background-color{background-color: var(--wp--preset--color--product-background) !important;}.has-subscribe-bar-background-background-color{background-color: var(--wp--preset--color--subscribe-bar-background) !important;}.has-subscribe-bar-text-background-color{background-color: var(--wp--preset--color--subscribe-bar-text) !important;}.has-subscribe-bar-button-background-color{background-color: var(--wp--preset--color--subscribe-bar-button) !important;}.has-subscribe-bar-highlight-background-color{background-color: var(--wp--preset--color--subscribe-bar-highlight) !important;}.has-white-darkfixed-background-color{background-color: var(--wp--preset--color--white-darkfixed) !important;}.has-background-darkfixed-background-color{background-color: var(--wp--preset--color--background-darkfixed) !important;}.has-bodytext-darkfixed-background-color{background-color: var(--wp--preset--color--bodytext-darkfixed) !important;}.has-border-darkfixed-background-color{background-color: var(--wp--preset--color--border-darkfixed) !important;}.has-tag-default-darkfixed-background-color{background-color: var(--wp--preset--color--tag-default-darkfixed) !important;}.has-tag-hover-darkfixed-background-color{background-color: var(--wp--preset--color--tag-hover-darkfixed) !important;}.has-tag-life-default-darkfixed-background-color{background-color: var(--wp--preset--color--tag-life-default-darkfixed) !important;}.has-tag-life-hover-darkfixed-background-color{background-color: var(--wp--preset--color--tag-life-hover-darkfixed) !important;}.has-telekom-pink-background-color{background-color: var(--wp--preset--color--telekom-pink) !important;}.has-telekom-teal-background-color{background-color: var(--wp--preset--color--telekom-teal) !important;}.has-telekom-violet-background-color{background-color: var(--wp--preset--color--telekom-violet) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-text-primary-border-color{border-color: var(--wp--preset--color--text-primary) !important;}.has-text-secondary-border-color{border-color: var(--wp--preset--color--text-secondary) !important;}.has-text-brand-border-color{border-color: var(--wp--preset--color--text-brand) !important;}.has-text-success-border-color{border-color: var(--wp--preset--color--text-success) !important;}.has-text-error-border-color{border-color: var(--wp--preset--color--text-error) !important;}.has-text-primary-invert-border-color{border-color: var(--wp--preset--color--text-primary-invert) !important;}.has-text-secondary-invert-border-color{border-color: var(--wp--preset--color--text-secondary-invert) !important;}.has-surface-primary-border-color{border-color: var(--wp--preset--color--surface-primary) !important;}.has-surface-primary-invert-border-color{border-color: var(--wp--preset--color--surface-primary-invert) !important;}.has-surface-secondary-border-color{border-color: var(--wp--preset--color--surface-secondary) !important;}.has-surface-secondary-invert-border-color{border-color: var(--wp--preset--color--surface-secondary-invert) !important;}.has-surface-tertiary-border-color{border-color: var(--wp--preset--color--surface-tertiary) !important;}.has-surface-tertiary-invert-border-color{border-color: var(--wp--preset--color--surface-tertiary-invert) !important;}.has-surface-invert-border-color{border-color: var(--wp--preset--color--surface-invert) !important;}.has-surface-icon-border-color{border-color: var(--wp--preset--color--surface-icon) !important;}.has-surface-program-premium-border-color{border-color: var(--wp--preset--color--surface-program-premium) !important;}.has-surface-program-standard-border-color{border-color: var(--wp--preset--color--surface-program-standard) !important;}.has-surface-brand-light-border-color{border-color: var(--wp--preset--color--surface-brand-light) !important;}.has-surface-brand-dark-border-color{border-color: var(--wp--preset--color--surface-brand-dark) !important;}.has-surface-accent-blue-border-color{border-color: var(--wp--preset--color--surface-accent-blue) !important;}.has-surface-accent-emerald-border-color{border-color: var(--wp--preset--color--surface-accent-emerald) !important;}.has-surface-accent-rose-border-color{border-color: var(--wp--preset--color--surface-accent-rose) !important;}.has-icon-primary-border-color{border-color: var(--wp--preset--color--icon-primary) !important;}.has-icon-primary-invert-border-color{border-color: var(--wp--preset--color--icon-primary-invert) !important;}.has-icon-secondary-border-color{border-color: var(--wp--preset--color--icon-secondary) !important;}.has-icon-secondary-invert-border-color{border-color: var(--wp--preset--color--icon-secondary-invert) !important;}.has-icon-on-light-border-color{border-color: var(--wp--preset--color--icon-on-light) !important;}.has-icon-on-light-invert-border-color{border-color: var(--wp--preset--color--icon-on-light-invert) !important;}.has-icon-on-dark-border-color{border-color: var(--wp--preset--color--icon-on-dark) !important;}.has-icon-on-dark-invert-border-color{border-color: var(--wp--preset--color--icon-on-dark-invert) !important;}.has-button-primary-border-color{border-color: var(--wp--preset--color--button-primary) !important;}.has-button-secondary-border-color{border-color: var(--wp--preset--color--button-secondary) !important;}.has-button-primary-pressed-border-color{border-color: var(--wp--preset--color--button-primary-pressed) !important;}.has-button-secondary-pressed-border-color{border-color: var(--wp--preset--color--button-secondary-pressed) !important;}.has-button-primary-disabled-border-color{border-color: var(--wp--preset--color--button-primary-disabled) !important;}.has-button-secondary-disabled-border-color{border-color: var(--wp--preset--color--button-secondary-disabled) !important;}.has-button-secondary-disabled-invert-border-color{border-color: var(--wp--preset--color--button-secondary-disabled-invert) !important;}.has-button-primary-invert-border-color{border-color: var(--wp--preset--color--button-primary-invert) !important;}.has-link-default-border-color{border-color: var(--wp--preset--color--link-default) !important;}.has-link-hover-border-color{border-color: var(--wp--preset--color--link-hover) !important;}.has-link-hover-invert-border-color{border-color: var(--wp--preset--color--link-hover-invert) !important;}.has-link-visited-border-color{border-color: var(--wp--preset--color--link-visited) !important;}.has-link-life-hover-border-color{border-color: var(--wp--preset--color--link-life-hover) !important;}.has-link-life-visisted-border-color{border-color: var(--wp--preset--color--link-life-visisted) !important;}.has-link-status-success-default-border-color{border-color: var(--wp--preset--color--link-status-success-default) !important;}.has-link-status-success-hover-border-color{border-color: var(--wp--preset--color--link-status-success-hover) !important;}.has-link-status-alert-default-border-color{border-color: var(--wp--preset--color--link-status-alert-default) !important;}.has-link-status-alert-hover-border-color{border-color: var(--wp--preset--color--link-status-alert-hover) !important;}.has-tag-default-border-color{border-color: var(--wp--preset--color--tag-default) !important;}.has-tag-default-invert-border-color{border-color: var(--wp--preset--color--tag-default-invert) !important;}.has-tag-hover-border-color{border-color: var(--wp--preset--color--tag-hover) !important;}.has-tag-life-default-border-color{border-color: var(--wp--preset--color--tag-life-default) !important;}.has-tag-life-hover-border-color{border-color: var(--wp--preset--color--tag-life-hover) !important;}.has-input-border-default-border-color{border-color: var(--wp--preset--color--input-border-default) !important;}.has-input-border-hover-border-color{border-color: var(--wp--preset--color--input-border-hover) !important;}.has-input-border-active-border-color{border-color: var(--wp--preset--color--input-border-active) !important;}.has-input-border-success-border-color{border-color: var(--wp--preset--color--input-border-success) !important;}.has-input-border-error-border-color{border-color: var(--wp--preset--color--input-border-error) !important;}.has-divider-border-color{border-color: var(--wp--preset--color--divider) !important;}.has-divider-invert-border-color{border-color: var(--wp--preset--color--divider-invert) !important;}.has-other-slate-foreground-border-color{border-color: var(--wp--preset--color--other-slate-foreground) !important;}.has-other-slate-background-border-color{border-color: var(--wp--preset--color--other-slate-background) !important;}.has-other-stone-foreground-border-color{border-color: var(--wp--preset--color--other-stone-foreground) !important;}.has-other-stone-background-border-color{border-color: var(--wp--preset--color--other-stone-background) !important;}.has-other-emerald-foreground-border-color{border-color: var(--wp--preset--color--other-emerald-foreground) !important;}.has-other-emerald-background-border-color{border-color: var(--wp--preset--color--other-emerald-background) !important;}.has-other-blue-foreground-border-color{border-color: var(--wp--preset--color--other-blue-foreground) !important;}.has-other-blue-background-border-color{border-color: var(--wp--preset--color--other-blue-background) !important;}.has-other-pink-foreground-border-color{border-color: var(--wp--preset--color--other-pink-foreground) !important;}.has-other-pink-background-border-color{border-color: var(--wp--preset--color--other-pink-background) !important;}.has-surface-secondary-opacity-border-color{border-color: var(--wp--preset--color--surface-secondary-opacity) !important;}.has-post-background-border-color{border-color: var(--wp--preset--color--post-background) !important;}.has-product-background-border-color{border-color: var(--wp--preset--color--product-background) !important;}.has-subscribe-bar-background-border-color{border-color: var(--wp--preset--color--subscribe-bar-background) !important;}.has-subscribe-bar-text-border-color{border-color: var(--wp--preset--color--subscribe-bar-text) !important;}.has-subscribe-bar-button-border-color{border-color: var(--wp--preset--color--subscribe-bar-button) !important;}.has-subscribe-bar-highlight-border-color{border-color: var(--wp--preset--color--subscribe-bar-highlight) !important;}.has-white-darkfixed-border-color{border-color: var(--wp--preset--color--white-darkfixed) !important;}.has-background-darkfixed-border-color{border-color: var(--wp--preset--color--background-darkfixed) !important;}.has-bodytext-darkfixed-border-color{border-color: var(--wp--preset--color--bodytext-darkfixed) !important;}.has-border-darkfixed-border-color{border-color: var(--wp--preset--color--border-darkfixed) !important;}.has-tag-default-darkfixed-border-color{border-color: var(--wp--preset--color--tag-default-darkfixed) !important;}.has-tag-hover-darkfixed-border-color{border-color: var(--wp--preset--color--tag-hover-darkfixed) !important;}.has-tag-life-default-darkfixed-border-color{border-color: var(--wp--preset--color--tag-life-default-darkfixed) !important;}.has-tag-life-hover-darkfixed-border-color{border-color: var(--wp--preset--color--tag-life-hover-darkfixed) !important;}.has-telekom-pink-border-color{border-color: var(--wp--preset--color--telekom-pink) !important;}.has-telekom-teal-border-color{border-color: var(--wp--preset--color--telekom-teal) !important;}.has-telekom-violet-border-color{border-color: var(--wp--preset--color--telekom-violet) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}.has-h-1-font-size{font-size: var(--wp--preset--font-size--h-1) !important;}.has-h-2-font-size{font-size: var(--wp--preset--font-size--h-2) !important;}.has-h-3-font-size{font-size: var(--wp--preset--font-size--h-3) !important;}.has-h-4-font-size{font-size: var(--wp--preset--font-size--h-4) !important;}.has-h-5-font-size{font-size: var(--wp--preset--font-size--h-5) !important;}.has-h-6-font-size{font-size: var(--wp--preset--font-size--h-6) !important;}.has-body-font-size{font-size: var(--wp--preset--font-size--body) !important;}.has-lead-font-size{font-size: var(--wp--preset--font-size--lead) !important;}.has-basic-16-font-size{font-size: var(--wp--preset--font-size--basic-16) !important;}.has-basic-14-font-size{font-size: var(--wp--preset--font-size--basic-14) !important;}.has-tag-text-font-size{font-size: var(--wp--preset--font-size--tag-text) !important;}.has-small-text-font-size{font-size: var(--wp--preset--font-size--small-text) !important;}.has-link-20-font-size{font-size: var(--wp--preset--font-size--link-20) !important;}.has-link-16-font-size{font-size: var(--wp--preset--font-size--link-16) !important;}.has-link-14-font-size{font-size: var(--wp--preset--font-size--link-14) !important;}.has-noto-serif-font-family{font-family: var(--wp--preset--font-family--noto-serif) !important;}.has-archivo-font-family{font-family: var(--wp--preset--font-family--archivo) !important;}.has-jetbrains-mono-font-family{font-family: var(--wp--preset--font-family--jetbrains-mono) !important;}
+:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}
+:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}
+:root :where(.wp-block-pullquote){font-size: 1.5em;line-height: 1.6;}
+</style>
+<link rel='stylesheet' id='frontend-style-css' href='https://forbes.hu/wp-content/themes/frontend/style.css?ver=1780079213' async='async' type='text/css' media='all' />
+<link rel='stylesheet' id='tailwind-css' href='https://forbes.hu/wp-content/themes/frontend/tailwind.css?ver=1780079213' async='async' type='text/css' media='all' />
+<link rel='stylesheet' id='react-style-css' href='https://forbes.hu/wp-content/themes/frontend/react.css?ver=1780079213' async='async' type='text/css' media='all' />
+<link rel='stylesheet' id='frontend-style-non-critical-css' href='https://forbes.hu/wp-content/themes/frontend/style-non-critical.css?ver=1780079213' async='async' type='text/css' media='all' />
+<link rel='stylesheet' id='custom-blocks-styles-css' href='https://forbes.hu/wp-content/themes/frontend/blocks.css?ver=1780079213' async='async' type='text/css' media='all' />
+<link rel='stylesheet' id='splide-styles-css' href='https://forbes.hu/wp-content/themes/frontend/inc/libraries/splide/splide.css?ver=1780079213' async='async' type='text/css' media='all' />
+<link rel='stylesheet' id='my-account-styles-css' href='https://forbes.hu/wp-content/themes/frontend/my-account.css?ver=1780079213' async='async' type='text/css' media='all' />
+<link rel='stylesheet' id='single-styles-css' href='https://forbes.hu/wp-content/themes/frontend/single.css?ver=1780079213' async='async' type='text/css' media='all' />
+<link rel='stylesheet' id='custom-blocks-non-critical-styles-css' href='https://forbes.hu/wp-content/themes/frontend/blocks-non-critical.css?ver=1780079213' async='async' type='text/css' media='all' />
+<link rel='stylesheet' id='swipebox-style-css' href='https://forbes.cz/wp-content/themes/frontend/inc/libraries/swipebox/css/swipebox.min.css?ver=6.6.2' type='text/css' media='all' />
+<link rel='stylesheet' id='lity-styles-css' href='https://forbes.cz/wp-content/themes/frontend/inc/libraries/lity/lity.min.css?ver=6.6.2' type='text/css' media='all' />
+<link rel='stylesheet' id='dashicons-css' href='https://forbes.cz/wp-includes/css/dashicons.min.css' async='async' type='text/css' media='' />
+<link rel='stylesheet' id='dflip-style-css' href='https://forbes.hu/wp-content/plugins/dflip/assets/css/dflip.min.css?ver=2.3.58' type='text/css' media='all' />
+<script type="text/javascript" id="jquery-core-js-extra">
+/* <![CDATA[ */
+var rempBaseUrl = "https:\/\/elofizetes.forbes.hu";
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://forbes.hu/wp-includes/js/jquery/jquery.min.js?ver=3.7.1" id="jquery-core-js"></script>
+<script type="text/javascript" src="https://forbes.hu/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1" id="jquery-migrate-js"></script>
+<script type="text/javascript" src="https://securepubads.g.doubleclick.net/tag/js/gpt.js?ver=6.6.2&#039; async=&#039;async" id="googleads-js"></script>
+<script type="text/javascript" src="https://forbes.hu/wp-content/themes/frontend/minified-js/newsletter.min.js?ver=1780079213" id="newsletter-script-js"></script>
+<script type="text/javascript" src="https://forbes.hu/wp-content/themes/frontend/minified-js/google/HUN-ga-custom-tracking.min.js?ver=1780079213" id="ga-custom-tracking-script-js"></script>
+<script type="text/javascript" src="https://forbes.hu/wp-content/themes/frontend/minified-js/google/googleads_HU.min.js?ver=1780079213" id="google-ads-script-hu-js"></script>
+<link rel="https://api.w.org/" href="https://forbes.hu/wp-json/" /><link rel="alternate" title="JSON" type="application/json" href="https://forbes.hu/wp-json/wp/v2/posts/772007" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://forbes.hu/xmlrpc.php?rsd" />
+<meta name="generator" content="WordPress 6.6.2" />
+<link rel='shortlink' href='https://forbes.hu/?p=772007' />
+<link rel="alternate" title="oEmbed (JSON)" type="application/json+oembed" href="https://forbes.hu/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fforbes.hu%2Fa-jo-elet%2Flg-tv-2026-magyarorszag%2F" />
+<link rel="alternate" title="oEmbed (XML)" type="text/xml+oembed" href="https://forbes.hu/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fforbes.hu%2Fa-jo-elet%2Flg-tv-2026-magyarorszag%2F&#038;format=xml" />
+		<script type="text/javascript">
+				(function(c,l,a,r,i,t,y){
+					c[a]=c[a]||function(){(c[a].q=c[a].q||[]).push(arguments)};t=l.createElement(r);t.async=1;
+					t.src="https://www.clarity.ms/tag/"+i+"?ref=wordpress";y=l.getElementsByTagName(r)[0];y.parentNode.insertBefore(t,y);
+				})(window, document, "clarity", "script", "c9jeqmtkhu");
+		</script>
+				<style type="text/css" id="wp-custom-css">
+			.home-category-type-b__slider .splide__list {
+height: 100%;
+}
+
+.postid-588856 .list-item__detail-key {
+	display: none;
+}
+
+.single-list .googlead.googlead--roadblock:empty::before {
+  display: none;
+}
+
+.page-id-495441 a.wp-block-file__button {
+	transform: scale(2.5);
+	transform-origin: left;
+}
+
+.page-id-495441 a.wp-block-file__button:visited {
+	color: var(--color-link-default);
+}
+		</style>
+		
+	
+	<!-- Get all available public newsletter lists, authors, topics -->
+	<script type="text/javascript">window.NewsletterLists = {"status":"ok","statusCode":200,"lists":[{"id":4,"code":"espresso","image_url":"https:\/\/cdn.forbes.sk\/uploads\/2024\/09\/forbes-espresso-newsletter-cover-2024.jpeg","preview_url":null,"page_url":"","title":"Forbes Espresso","description":"Olvasd, amit mi olvasunk! Forbes Espresso hetente hatszor az e-mailjeid k\u00f6z\u00f6tt, az internet leg\u00e9rdekesebb cikkeivel, a szerkeszt\u0151s\u00e9g v\u00e1logat\u00e1s\u00e1ban. M\u00e9g j\u00f3, hogy feliratkozol!","mail_type_category_id":1,"default_variant_id":null,"locked":false,"is_multi_variant":false,"sorting":-3,"variants":[],"is_premium":false},{"id":7,"code":"authors","image_url":"","preview_url":"","page_url":"","title":"Follow autora","description":"","mail_type_category_id":3,"default_variant_id":null,"locked":false,"is_multi_variant":true,"sorting":1,"variants":[{"code":"28766","title":"\u00c1cs G\u00e1bor","id":87,"sorting":4},{"code":"28877","title":"Tornyos Kata","id":111,"sorting":115},{"code":"29029","title":"M\u00e9sz\u00e1ros Gerg\u0151","id":112,"sorting":215}],"is_premium":false},{"id":8,"code":"topics","image_url":"","preview_url":"","page_url":"","title":"Follow temy","description":"","mail_type_category_id":4,"default_variant_id":null,"locked":false,"is_multi_variant":true,"sorting":1,"variants":[],"is_premium":false}]};</script>
+	<!-- Print url of default user avatar to window -->
+	<script type="text/javascript">window.defaultUserAvatar = "https://forbes.hu/wp-content/themes/frontend/assets/images/forbes-default-user-avatar.svg";</script>
+	<!-- Print onboarding text data to window -->
+	<script type="text/javascript">window.onboardingFields = {"header_image":"https:\/\/cdn.forbes.hu\/uploads\/2025\/04\/img-account-light3x-1.webp","header_image_dark":"https:\/\/cdn.forbes.hu\/uploads\/2025\/04\/img-account-dark3x-1-2.webp","first_page":{"title":"options\/authentication - first page title","description":"<p>options\/authentication - first page description<\/p>\n"},"second_page":{"title":"options\/authentication - second page title","description":"<p>options\/authentication - second page description<\/p>\n"},"third_page":{"title":"options\/authentication - third page title","description":"<p>options\/authentication - third page description<\/p>\n","home_button_label":"go to home button","my_account_button_label":"go to my account label","my_account_button_link":667438}};</script>
+	<!-- Process AutoLogin -->
+	<script>
+		(() => {
+			var urlParams = new URLSearchParams(window.location.search);
+			var token = urlParams.get('autologin');
+			if (token) {
+        urlParams.delete('autologin');
+
+        const currentUrl = new URL(window.location.href);
+        currentUrl.search = urlParams.toString();
+
+        const backUrl = currentUrl.toString().replace(/\/(\?|#|$)/, '/$1').replace(/\?$/, '');
+
+        const baseUrl = 'https://elofizetes.forbes.hu/';
+        const loginUrl = `${baseUrl}/sign/processAutoLogin/${token}?back=${encodeURIComponent(backUrl)}`;
+
+				document.documentElement.classList.add('no-scroll');
+				window.location.href = loginUrl;
+			}
+		})();
+	</script>
+
+	<!-- Pass configuration to React -->
+	<script>
+		window.crmUrl = 'https://elofizetes.forbes.hu/';
+		window.country = 'hu';
+		window.baseUri = '/';
+	</script>
+
+	
+	
+	<style>
+		:root {
+			--googlead-text: "▴ Hirdetés";
+			--googlead-text-no-arrow: "Hirdetés";
+			--googlead-close-text: "X";
+		}
+	</style>
+
+	
+	<script>
+		const eventLog = (eventName, event) => {
+			if (!event?.slot) {
+				console.error('Invalid event or missing slot.');
+				return;
+			}
+			const {
+				slot,
+			} = event;
+			const slotElementId = slot.getSlotElementId();
+			const adUnitPath = slot.getAdUnitPath();
+			console.log(`${eventName} - ${slotElementId} - ${adUnitPath}`);
+		};
+		const slotRequested = (event) => {
+			eventLog('SlotRequestedEvent', event);
+		};
+		const slotOnLoad = (event) => {
+			eventLog('adSlotEventOnLoad', event);
+		};
+		const slotResponseReceived = (event) => {
+			const {
+				slot,
+			} = event;
+			const responseInfo = slot.getResponseInformation();
+			const slotElementId = slot.getSlotElementId();
+			if (!responseInfo) {
+				console.error('No response information available for slot', slotElementId);
+				return;
+			}
+			eventLog('adSlotEventResponseReceived', event);
+			const {
+				campaignId,
+				creativeId,
+				lineItemId,
+				sourceAgnosticCreativeId,
+				sourceAgnosticLineItemId,
+			} = responseInfo;
+			console.log(`
+				slot el. ID	=> ${slotElementId}
+				campaign ID => ${campaignId}
+				lineItem ID => ${lineItemId}
+				creative ID => ${creativeId}
+				SCA ID 		=> ${sourceAgnosticCreativeId} (source agnostic creative ID)
+				SCL ID 		=> ${sourceAgnosticLineItemId} (source agnostic lineItem ID)
+			`);
+		};
+		const handleSlotRenderEnded = (event, slot) => {
+			const {
+				isEmpty,
+				campaignId,
+				lineItemId,
+				creativeId,
+				sourceAgnosticCreativeId,
+				sourceAgnosticLineItemId,
+				size,
+				advertiserId,
+			} = event;
+			const slotId = event.slot.getSlotElementId();
+			const creativeSize = typeof size === 'string' ? size.split(',').map((s) => parseInt(s, 10)) :
+				size;
+			if (creativeSize === null) {
+				console.error(`Creative size is not defined for slot [${slotId}]`);
+				return;
+			}
+			console.log(`
+				Ad Slot name >> ${slot.configuration.slotName}
+				Ad server slot ID >> [${slotId}]
+				Ad slot Dom ID >> [${slot.idDOM}]
+				Ad Unit path >> [${slot.adUnitPath}]
+				Rendered sizes [${size}${creativeSize !== size ? ` -> ${creativeSize}` : ''}]
+				Campaign ID  >> [ ${campaignId} ]
+				LineItem ID  >> [ ${lineItemId} ]
+				Creative ID  >> [ ${creativeId} ]
+				Creative ID  >> [ ${sourceAgnosticCreativeId} ] - source agnostic
+				LineItem ID  >> [ ${sourceAgnosticLineItemId} ] - source agnostic
+				Advertiser ID > [ ${advertiserId} ]
+				advertiser >> [ ${slot?.renderEvent?.advertiserId} ]
+				isEmpty >> [ ${isEmpty} ]
+			`);
+		};
+		window.googletag = window.googletag || {
+			cmd: [],
+		};
+		const setGamEventListeners = () => {
+			const enableLogs = localStorage.getItem('enableGamLogs');
+			if (!enableLogs) {
+				return;
+			}
+			googletag.cmd.push(() => {
+				googletag.pubads().addEventListener('slotRequested', (event) => slotRequested(
+					event));
+				googletag.pubads().addEventListener('slotOnload', (event) => slotOnLoad(event));
+				googletag.pubads().addEventListener('slotResponseReceived', (event) =>
+					slotResponseReceived(event));
+				googletag.pubads().addEventListener('slotRenderEnded', (event) => {
+					const slot = event.slot;
+					if (!slot) {
+						console.error('slotRenderEnded: slot is null');
+						return;
+					}
+					handleSlotRenderEnded(event, slot);
+				});
+			});
+		};
+		setGamEventListeners();
+	</script>
+
+
+</head>
+
+<body
+	class="post-template-default single single-post postid-772007 single-format-standard"	data-hide-ads=""
+	data-show-ads=""
+>
+
+
+	
+
+<script type="text/javascript">
+	var pp_gemius_identifier = '.RCaAetGtwMU4f.XJ8G_.6eirjvUCgMIItJwuDNdxRj.a7';
+	var pp_gemius_browser_lib_loaded = window['pp_gemius_browser_lib_loaded'] || false;
+	var pp_gemius_init_timeout = 2500;
+	var pp_gemius_use_cmp = true;
+    var pp_gemius_cmp_timeout = 10000;
+
+    function gemius_pending(i) {
+      window[i] = window[i] || function () {
+        var x =
+          window[i + '_pdata'] = window[i + '_pdata'] || [];
+        x[x.length] = Array.prototype.slice.call(arguments, 0);
+      };
+    };
+
+    (function (cmds) {
+      var c;
+      while (c = cmds.pop()) gemius_pending(c)
+    })(['gemius_cmd',
+      'gemius_hit', 'gemius_event', 'gemius_init', 'pp_gemius_hit', 'pp_gemius_event',
+      'pp_gemius_init']);
+
+    window.pp_gemius_cmd = window.pp_gemius_cmd || window.gemius_cmd;
+
+    (function (d, t) {
+      try {
+        var gt = d.createElement(t), s = d.getElementsByTagName(t)[0], l =
+          'http' + ((location.protocol == 'https:') ? 's' : '');
+        gt.setAttribute('async', 'async');
+        gt.setAttribute('defer', 'defer');
+        gt.src = l + '://gahu.hit.gemius.pl/xgemius.js';
+        s.parentNode.insertBefore(gt, s);
+      } catch (e) {
+      }
+    })(document, 'script');
+</script>
+
+
+	<script>
+		const redirectUrl = '';
+		if (redirectUrl) {
+			window.location.href = redirectUrl;
+		}
+	</script>
+
+<noscript>
+	<div class="noscript">
+</noscript>
+
+<div class="view-mode">
+
+
+
+	
+	
+		<!-- Google Ad Manager Branding -->
+		<div class="gam-branding">
+
+			<div class="gam-branding__placeholder">
+				<div class="gam-branding__placeholder-inner"></div>
+			</div>
+
+			<div class="gam-branding__ad-container">
+
+				<a href="#"
+				   class="gam-branding__top gam-branding__top--a"
+				   target="_blank"
+				   aria-label="Forbes Branding Ad Top A"></a>
+				<a href="#"
+				   class="gam-branding__top gam-branding__top--b"
+				   target="_blank"
+				   aria-label="Forbes Branding Ad Top B"></a>
+				<a href="#"
+				   class="gam-branding__top gam-branding__top--c"
+				   target="_blank"
+				   aria-label="Forbes Branding Ad Top C"></a>
+				<a href="#" class="gam-branding__left" target="_blank"
+				   aria-label="Forbes Branding Ad Left"></a>
+				<a href="#" class="gam-branding__right"
+				   target="_blank"
+				   aria-label="Forbes Branding Ad Right"></a>
+
+			</div>
+
+		</div>
+
+	
+	
+<section  class="googlead-container googlead-container--leaderboard  top-ads-whitespace">
+
+	<div id="leaderboard-ad" class="googlead h-m--auto h-d--flex h-flex--column h-align-items--center"></div>
+
+</section>
+
+
+
+<div class="search-modal ">
+
+	<div class="search ">
+
+		<div class="container search__container">
+
+			<div class="search__header">
+
+        <a class="main-logo" href="/"><img class="main-logo__image h-object-fit--contain" src="https://forbes.hu/wp-content/themes/frontend/assets/logos/hu/main.svg" alt="Forbes"><img class="main-logo__image main-logo__image--dark h-object-fit--contain" src="https://forbes.hu/wp-content/themes/frontend/assets/logos/hu/main-white.svg" alt="Forbes"></a>
+				<button id="search-closer-btn" class="button-icon" aria-label="Close Search">
+
+					<i class="icon icon--cross"></i>
+
+				</button>
+
+			</div>
+
+			<div class="search__body">
+
+				<div class="row">
+
+					<div class="h-col--10 h-col--lg--12 h-offset--1 h-offset--lg--0 h-d--flex h-flex--column">
+
+						<div class="search__text-input-wrapper">
+
+							<input id="search-field" class="search__text-field lead" type="text" placeholder="Keresés" autocomplete="off">
+
+							<button id="search-button" class="search__submit-button button-icon" aria-label="Init Search">
+
+								<i class="icon icon--search"></i>
+
+							</button>
+
+						</div>
+
+					</div>
+
+				</div>
+
+				<div class="row">
+
+					<div class="h-col--10 h-col--lg--12 h-offset--1 h-offset--lg--0 h-d--flex h-flex--column">
+
+						<div id="search-categories-wrapper" class="search__result-categories-wrapper"></div>
+
+					</div>
+
+				</div>
+
+				<div class="row search__results-wrapper">
+
+					<div class="h-col--10 h-col--lg--12 h-offset--1 h-offset--lg--0 h-d--flex h-flex--column">
+
+						<div class="row">
+
+							<div class="h-col--8 h-col--xl--10 h-col--lg--12">
+
+								<div id="search-loading" class="search__loading-wrapper">
+
+									<h4 class="search__loading-text">Keresés…</h4>
+
+								</div>
+
+								<div id="posts-wrapper">
+
+									<div id="author-results" class="search__results"></div>
+									<div id="lists-results" class="search__results"></div>
+									<div id="search-results" class="search__results"></div>
+									<h4 class="search__no-result-text">Nincsen találat, kérem próbáljon meg egy másik kulcsszót!</h4>
+
+									<button id="load-more" class="search__load-more button button--medium button--primary" data-loading="Betöltés...">További cikkek betöltése…</button>
+
+								</div>
+
+							</div>
+
+							<div class="h-col--4 h-d--xl--none">
+
+								<div class="search__ad-container search__ad-container--desktop googlead-container">
+
+									<div id="search-ad-desktop" class="googlead"></div>
+
+								</div>
+
+							</div>
+
+						</div>
+
+					</div>
+
+				</div>
+
+				<div class="row">
+
+					<div class="h-col--10 h-col--lg--12 h-offset--1 h-offset--lg--0 h-d--flex h-flex--column">
+
+						<div id="before-search" class="search__before-search-wrapper">
+
+							<h4>
+
+								Vagy fedezze fel a következő témákat
+							</h4>
+
+							
+								<div class="search__featured-taxonomies">
+
+									
+										
+										
+											<a href="https://forbes.hu/rovat/uzlet/" class="search__featured-taxonomy link link--small">
+												Üzlet											</a>
+
+										
+									
+										
+										
+											<a href="https://forbes.hu/rovat/penz/" class="search__featured-taxonomy link link--small">
+												Pénz											</a>
+
+										
+									
+										
+										
+											<a href="https://forbes.hu/rovat/zold/" class="search__featured-taxonomy link link--small">
+												Zöld											</a>
+
+										
+									
+										
+										
+											<a href="https://forbes.hu/rovat/legyel-jobb/" class="search__featured-taxonomy link link--small">
+												Legyél jobb!											</a>
+
+										
+									
+								</div>
+
+							
+						</div>
+
+					</div>
+
+				</div>
+
+			</div>
+
+		</div>
+
+	</div>
+
+</div>
+
+<header class="navigation ">
+
+    <div class="navigation__background border-b"></div>
+
+	<div class="navigation-wrapper">
+
+		<div class="container">
+
+			
+<div class="navigation__top-row h-d--flex h-justify-content--between">
+
+  <a class="main-logo" href="/"><img class="main-logo__image h-object-fit--contain" src="https://forbes.hu/wp-content/themes/frontend/assets/logos/hu/main.svg" alt="Forbes"><img class="main-logo__image main-logo__image--dark h-object-fit--contain" src="https://forbes.hu/wp-content/themes/frontend/assets/logos/hu/main-white.svg" alt="Forbes"></a>
+	<div class="h-d--flex">
+
+		<div class="navigation__icons">
+
+			
+				<a  href="https://forbes.hu/elofizetes/" class="button button--medium button--primary navigation__subscription-button">Előfizetés</a>
+
+			
+			<div class="navigation__icons-wrapper">
+
+									<div class="navigation__dropdown-wrapper">
+
+						<button id="navigation__user-button-li" style="display:none;"
+								class="navigation__user-button navigation__user-button--no-display-name ">
+							<img id='menu-user-avatar' class="navigation__user-avatar" src='https://forbes.hu/wp-content/themes/frontend/assets/icons/ds2024/icon-user.svg'
+								alt="Felhasználó">
+						</button>
+
+						<a id="navigation__user-button-lo" style="display:none;" href="/belepes"
+						class="navigation__user-button navigation__user-button--logged-out"aria-label="Bejelentkezés">
+							<div id='menu-user-avatar' class="navigation__user-avatar"></div>
+						</a>
+
+						<script>
+							if (window.crm_user) {
+								const loggedInAvatar = document.querySelectorAll("#navigation__user-button-li");
+
+								if (loggedInAvatar) {
+									loggedInAvatar.forEach((avatar) => {
+										avatar.style.display = "block";
+									});
+								}
+							} else {
+								document.getElementById('navigation__user-button-lo').style.display = 'flex';
+							}
+						</script>
+
+						        <div class="account-dropdown">
+            <div class="account-dropdown__header">
+                
+<div class="navigation__top-row h-d--flex h-justify-content--between">
+
+  <a class="main-logo" href="/"><img class="main-logo__image h-object-fit--contain" src="https://forbes.hu/wp-content/themes/frontend/assets/logos/hu/main.svg" alt="Forbes"><img class="main-logo__image main-logo__image--dark h-object-fit--contain" src="https://forbes.hu/wp-content/themes/frontend/assets/logos/hu/main-white.svg" alt="Forbes"></a>
+	<div class="h-d--flex">
+
+		<div class="navigation__icons">
+
+			
+				<a  href="https://forbes.hu/elofizetes/" class="button button--medium button--primary navigation__subscription-button">Előfizetés</a>
+
+			
+			<div class="navigation__icons-wrapper">
+
+									<div class="navigation__dropdown-wrapper">
+
+						<button id="navigation__user-button-li" style="display:none;"
+								class="navigation__user-button navigation__user-button--no-display-name  navigation__user-button--closer ">
+							<img id='menu-user-avatar' class="navigation__user-avatar" src='https://forbes.hu/wp-content/themes/frontend/assets/icons/ds2024/icon-user.svg'
+								alt="Felhasználó">
+						</button>
+
+						<a id="navigation__user-button-lo" style="display:none;" href="/belepes"
+						class="navigation__user-button navigation__user-button--logged-out"aria-label="Bejelentkezés">
+							<div id='menu-user-avatar' class="navigation__user-avatar"></div>
+						</a>
+
+						<script>
+							if (window.crm_user) {
+								const loggedInAvatar = document.querySelectorAll("#navigation__user-button-li");
+
+								if (loggedInAvatar) {
+									loggedInAvatar.forEach((avatar) => {
+										avatar.style.display = "block";
+									});
+								}
+							} else {
+								document.getElementById('navigation__user-button-lo').style.display = 'flex';
+							}
+						</script>
+
+											</div>
+				
+				
+				<button id="handheld-opener-btn" class="navigation__hamburger-icon button-icon" aria-label="Menu">
+					<i class="icon icon--menu"></i>
+				</button>
+
+			</div>
+
+		</div>
+
+	</div>
+
+</div>
+            </div>
+            <div class="account-dropdown__body" id="reactAccountDropdownBody">
+
+            </div>
+        </div>
+        					</div>
+				
+									<button class="button-icon search-opener-btn" aria-label="Search">
+						<i class="icon icon--search"></i>
+					</button>
+				
+				<button id="handheld-opener-btn" class="navigation__hamburger-icon button-icon" aria-label="Menu">
+					<i class="icon icon--menu"></i>
+				</button>
+
+			</div>
+
+		</div>
+
+	</div>
+
+</div>
+
+			<div class="navigation__bottom-row splide separator-off" aria-label="Splide">
+				<div class="splide__arrows">
+					<button class="splide__arrow splide__arrow--prev">
+						<i class="icon icon--chevron-left"></i>
+					</button>
+					<button class="splide__arrow splide__arrow--next">
+						<i class="icon icon--chevron-right"></i>
+					</button>
+				</div>
+
+				<div class="navigation__bottom-row-wrapper splide__track">
+
+					<ul class="navigation__bottom-row-inner splide__list">
+
+						
+							
+								<li class="navigation__menu-item splide__slide" data-menu-id="666">
+
+									<a href="https://forbes.hu/rovat/uzlet/"
+									   class="navigation__menu-item-link basic-14 ">
+										Üzlet									</a>
+
+								</li>
+
+							
+						
+							
+								<li class="navigation__menu-item splide__slide" data-menu-id="668">
+
+									<a href="https://forbes.hu/rovat/penz/"
+									   class="navigation__menu-item-link basic-14 ">
+										Pénz									</a>
+
+								</li>
+
+							
+						
+							
+								<li class="navigation__menu-item splide__slide" data-menu-id="667">
+
+									<a href="https://forbes.hu/rovat/legyel-jobb/"
+									   class="navigation__menu-item-link basic-14 ">
+										Legyél jobb!									</a>
+
+								</li>
+
+							
+						
+							
+								<li class="navigation__menu-item splide__slide" data-menu-id="669">
+
+									<a href="https://forbes.hu/rovat/a-jo-elet/"
+									   class="navigation__menu-item-link basic-14 ">
+										A jó élet									</a>
+
+								</li>
+
+							
+						
+							
+								<li class="navigation__menu-item splide__slide" data-menu-id="694769">
+
+									<a href="https://forbes.hu/listak-es-extrak/"
+									   class="navigation__menu-item-link basic-14 ">
+										Listák									</a>
+
+								</li>
+
+							
+						
+							
+								<li class="navigation__menu-item splide__slide" data-menu-id="694768">
+
+									<a href="https://www.youtube.com/@forbesmagyarorszag"
+									   class="navigation__menu-item-link basic-14 ">
+										Videók									</a>
+
+								</li>
+
+							
+						
+							
+								<li class="navigation__menu-item splide__slide" data-menu-id="705130">
+
+									<a href="https://forbes.hu/hirlevel/"
+									   class="navigation__menu-item-link basic-14 ">
+										Hírlevelek									</a>
+
+								</li>
+
+							
+						
+							
+								<li class="navigation__menu-item splide__slide" data-menu-id="621643">
+
+									<a href="https://forbes.hu/rovat/forbes-sztori/"
+									   class="navigation__menu-item-link basic-14 ">
+										Forbes-sztori									</a>
+
+								</li>
+
+							
+						
+							
+								<li class="navigation__menu-item splide__slide" data-menu-id="679413">
+
+									<a href="https://forbes.hu/rovat/podcast/"
+									   class="navigation__menu-item-link basic-14 ">
+										Podcast									</a>
+
+								</li>
+
+							
+						
+							
+								<li class="navigation__menu-item splide__slide" data-menu-id="555446">
+
+									<a href="https://www.forbes.hu/esemenyek"
+									   class="navigation__menu-item-link basic-14 ">
+										Események									</a>
+
+								</li>
+
+							
+						
+							
+								<li class="navigation__menu-item splide__slide" data-menu-id="731271">
+
+									<a href="https://forbes.hu/a-nyomtatott-kiadasok-archivuma/#all"
+									   class="navigation__menu-item-link basic-14 ">
+										Magazin									</a>
+
+								</li>
+
+							
+						
+					</ul>
+
+				</div>
+
+			</div>
+
+		</div>
+
+		<div class="nav-hover-modals">
+			
+
+
+
+
+
+
+
+
+
+
+		</div>
+	</div>
+
+	<!-- Handheld menu -->
+	
+<script>
+	window.nightModeLabel = 'Éjszakai mód';
+</script>
+
+<div class="drawer-handheld-menu-wrapper">
+
+	<div class="drawer-handheld-menu">
+
+		<div class="main-menu h-d--flex h-flex--column h-justify-content--between">
+
+			<div class="drawer-handheld-menu__container drawer-handheld-menu__header">
+				<button class="drawer-handheld-menu-closer-btn button-icon" aria-label="Close Menu">
+					<i class="icon icon--cross"></i>
+				</button>
+
+			</div>
+
+			<div class="drawer-handheld-menu__container drawer-handheld-menu__main">
+
+				<section class="drawer-handheld-menu__menu">
+
+					    <a href="/belepes/#/mentett-cikkek" class="drawer-handheld-menu__user-wrapper" id="handheld-menu-li" style="display: none;">
+        <div class="drawer-handheld-menu__user-info">
+            <img id="drawer-menu-user-avatar" class="drawer-handheld-menu__user-avatar"
+                src="https://forbes.hu/wp-content/themes/frontend/assets/icons/icon-user-new.png" alt="">
+            <h5 id="drawer-menu-user-name" class="drawer-handheld-menu__user-name link link--large link--nodecoration"></h5>
+        </div>
+        <span id="drawer-menu-user-saved-articles" class="drawer-handheld-menu__user-saved-articles"></span>
+    </a>    <div class="drawer-handheld-menu__login-wrapper" id="handheld-menu-lo" style="display: none;">
+        <a rel="noopener" href="/belepes" class="drawer-handheld-menu__login link link--large link--nodecoration">
+            <div class="drawer-handheld-menu__login-icon-wrapper">
+                
+            </div>
+            Bejelentkezés / Regisztráció
+        </a>
+    </div>    <div class="drawer-handheld-menu__search-wrapper" id="handheld-menu-search">
+        <button class="button-icon search-opener-btn" aria-label="Search">
+            <i class="icon icon--search"></i>
+        </button>
+
+        <span class="drawer-handheld-menu__search-label link link--large link--nodecoration">Keresés a Forbes oldalán</span>
+    </div><script>
+    const handheldMeniLi = document.getElementById('handheld-menu-li');
+    const handheldMeniLo = document.getElementById('handheld-menu-lo');
+
+    if (window.crm_user) {
+        handheldMeniLi.style.display = 'flex';
+    } else {
+        handheldMeniLo.style.display = 'flex';
+    }
+</script>
+					<ul class="drawer-handheld-menu__menu-item-list drawer-handheld-menu__menu-item-list--simple">
+
+						
+															<li class="drawer-handheld-menu__menu-item">
+
+									<a href="#" id="456475" class="link link--large link--nodecoration submenu-opener" data-toggle="collapse" data-target="#submenu456475" aria-expanded="false" aria-controls="submenu456475">
+                    <div class="tw:flex tw:items-center tw:gap-x-2">
+                      Rovatok                                          </div>
+										<span class="submenu-indicator"></span>
+									</a>
+
+																			<ul class="submenu collapse" id="submenu456475">
+																							<li class="drawer-handheld-menu__menu-item">
+                          <a href="https://forbes.hu/rovat/uzlet/" class="link link--large link--nodecoration">
+                            <div class="tw:flex tw:items-center tw:gap-x-2">
+                              Üzlet                            </div>
+                          </a>
+												</li>
+																							<li class="drawer-handheld-menu__menu-item">
+                          <a href="https://forbes.hu/rovat/penz/" class="link link--large link--nodecoration">
+                            <div class="tw:flex tw:items-center tw:gap-x-2">
+                              Pénz                            </div>
+                          </a>
+												</li>
+																							<li class="drawer-handheld-menu__menu-item">
+                          <a href="https://forbes.hu/rovat/legyel-jobb/" class="link link--large link--nodecoration">
+                            <div class="tw:flex tw:items-center tw:gap-x-2">
+                              Legyél jobb!                            </div>
+                          </a>
+												</li>
+																							<li class="drawer-handheld-menu__menu-item">
+                          <a href="https://forbes.hu/rovat/a-jo-elet/" class="link link--large link--nodecoration">
+                            <div class="tw:flex tw:items-center tw:gap-x-2">
+                              A jó élet                            </div>
+                          </a>
+												</li>
+																							<li class="drawer-handheld-menu__menu-item">
+                          <a href="https://forbes.hu/rovat/women/" class="link link--large link--nodecoration">
+                            <div class="tw:flex tw:items-center tw:gap-x-2">
+                              Women                            </div>
+                          </a>
+												</li>
+																							<li class="drawer-handheld-menu__menu-item">
+                          <a href="https://www.youtube.com/@forbesmagyarorszag" class="link link--large link--nodecoration">
+                            <div class="tw:flex tw:items-center tw:gap-x-2">
+                              Videók                            </div>
+                          </a>
+												</li>
+																							<li class="drawer-handheld-menu__menu-item">
+                          <a href="https://forbes.hu/rovat/interju/" class="link link--large link--nodecoration">
+                            <div class="tw:flex tw:items-center tw:gap-x-2">
+                              Interjú                            </div>
+                          </a>
+												</li>
+																							<li class="drawer-handheld-menu__menu-item">
+                          <a href="https://forbes.hu/rovat/napi-cimlap/" class="link link--large link--nodecoration">
+                            <div class="tw:flex tw:items-center tw:gap-x-2">
+                              Napi címlap                            </div>
+                          </a>
+												</li>
+																							<li class="drawer-handheld-menu__menu-item">
+                          <a href="https://forbes.hu/rovat/forbes-sztori/" class="link link--large link--nodecoration">
+                            <div class="tw:flex tw:items-center tw:gap-x-2">
+                              Forbes-sztori                            </div>
+                          </a>
+												</li>
+																							<li class="drawer-handheld-menu__menu-item">
+                          <a href="https://forbes.hu/rovat/podcast/" class="link link--large link--nodecoration">
+                            <div class="tw:flex tw:items-center tw:gap-x-2">
+                              Podcast                            </div>
+                          </a>
+												</li>
+																					</ul>
+																	</li>
+							
+						
+															<li class="drawer-handheld-menu__menu-item">
+
+									<a href="https://forbes.hu/a-nyomtatott-kiadasok-archivuma/" id="682564" class="link link--large link--nodecoration" >
+                    <div class="tw:flex tw:items-center tw:gap-x-2">
+                      Magazin                                          </div>
+										<span class="submenu-indicator"></span>
+									</a>
+
+																	</li>
+							
+						
+															<li class="drawer-handheld-menu__menu-item">
+
+									<a href="https://www.forbes.hu/elofizetes" id="456492" class="link link--large link--nodecoration" >
+                    <div class="tw:flex tw:items-center tw:gap-x-2">
+                      Előfizetés                                          </div>
+										<span class="submenu-indicator"></span>
+									</a>
+
+																	</li>
+							
+						
+															<li class="drawer-handheld-menu__menu-item">
+
+									<a href="https://forbes.hu/konyvek" id="483759" class="link link--large link--nodecoration" >
+                    <div class="tw:flex tw:items-center tw:gap-x-2">
+                      Könyvek                                          </div>
+										<span class="submenu-indicator"></span>
+									</a>
+
+																	</li>
+							
+						
+															<li class="drawer-handheld-menu__menu-item">
+
+									<a href="https://forbes.hu/listak-es-extrak/" id="456487" class="link link--large link--nodecoration" >
+                    <div class="tw:flex tw:items-center tw:gap-x-2">
+                      Listák és Extrák                                          </div>
+										<span class="submenu-indicator"></span>
+									</a>
+
+																	</li>
+							
+						
+															<li class="drawer-handheld-menu__menu-item">
+
+									<a href="https://forbes.hu/rovat/tamogatoi-tartalom/" id="456494" class="link link--large link--nodecoration" >
+                    <div class="tw:flex tw:items-center tw:gap-x-2">
+                      Támogatói tartalom                                          </div>
+										<span class="submenu-indicator"></span>
+									</a>
+
+																	</li>
+							
+						
+															<li class="drawer-handheld-menu__menu-item">
+
+									<a href="https://www.forbes.hu/esemenyek" id="456491" class="link link--large link--nodecoration" >
+                    <div class="tw:flex tw:items-center tw:gap-x-2">
+                      Események                                          </div>
+										<span class="submenu-indicator"></span>
+									</a>
+
+																	</li>
+							
+						
+															<li class="drawer-handheld-menu__menu-item">
+
+									<a href="https://forbes.hu/hirlevel/" id="456495" class="link link--large link--nodecoration" >
+                    <div class="tw:flex tw:items-center tw:gap-x-2">
+                      Hírlevelek                                          </div>
+										<span class="submenu-indicator"></span>
+									</a>
+
+																	</li>
+							
+						
+															<li class="drawer-handheld-menu__menu-item">
+
+									<a href="https://elofizetes.forbes.hu/products/shop" id="690058" class="link link--large link--nodecoration" >
+                    <div class="tw:flex tw:items-center tw:gap-x-2">
+                      Webshop                                          </div>
+										<span class="submenu-indicator"></span>
+									</a>
+
+																	</li>
+							
+						
+															<li class="drawer-handheld-menu__menu-item">
+
+									<a href="https://forbes.hu/listak-es-extrak/" id="694770" class="link link--large link--nodecoration" >
+                    <div class="tw:flex tw:items-center tw:gap-x-2">
+                      Listák                                          </div>
+										<span class="submenu-indicator"></span>
+									</a>
+
+																	</li>
+							
+						
+					</ul>
+
+
+					<ul class="drawer-handheld-menu__menu-item-list drawer-handheld-menu__menu-item-list--middle">
+						
+							<li>
+								<div id="react-theme-switcher"></div>
+							</li>
+
+						
+						
+							
+						
+							
+						
+							
+						
+							
+						
+							
+						
+							
+						
+							
+						
+							
+						
+							
+						
+							
+						
+						
+					</ul>
+
+				
+				</section>
+
+			</div>
+
+			<div class="drawer-handheld-menu__container drawer-handheld-menu__footer">
+
+				<div class="magazine">
+
+					<a class="magazine__image-wrapper" href="">
+						<img src="https://cdn.forbes.hu/uploads/2026/04/2605Forbes_cimlap-RGB-2.webp?r=eyJ3Ijo0MjAsInEiOjkwLCJzIjoicG5nIiwiaCI6NTc3fQ%3D%3D"
+                             alt="Top Creators &#8211; A Pamkutya-sztori"
+                             srcset="https://cdn.forbes.hu/uploads/2026/04/2605Forbes_cimlap-RGB-2.webp?r=eyJ3Ijo4NDAsInEiOjkwLCJzIjoicG5nIiwiaCI6MTE1NH0%3D 2x"
+                             loading="lazy"
+                        >
+					</a>
+
+					<h4 class="magazine__title">
+						Top Creators &#8211; A Pamkutya-sztori					</h4>
+
+					<p class="magazine__label basic-16">
+											</p>
+
+					<div class="magazine__excerpt">
+
+						<p class="basic-18">
+							Social melléklet a közösségi média 60 legmeghatározóbb magyar listájával + Váradi József-exkluzív: Bajban a Wizz Air? Mi lesz a rendszerváltás után? Zsiday Viktor-interjú. A Forbes magazin 2026 májusi száma.						</p>
+
+
+					</div>
+
+					<div class="magazine__button-wrapper">
+						<button  class="button button--large button--primary after-icon after-icon--arrow button--full-width">Tudj meg többet</button>											</div>
+
+				</div>
+
+			</div>
+
+		</div>
+
+	</div>
+
+	<div class="handheld-overlay"></div>
+
+</div>
+
+</header>
+
+
+<script>
+	window.printPageLink = null;
+	window.subscriptionPageSlug = "elofizetes";
+	window.renewalPageSlug = "";
+	window.renewalPageLink = "";
+	window.activateSubPageSlug = "activation-page";
+	window.authenticationPageSlug = "belepes";
+	window.myAccountPageSlug = "fiokom";
+	window.printModalData = {"block_description":""};
+	window.premiumModalFields = null;
+</script>
+
+
+			<script>
+				window.postData = {
+					title: "A nyári foci vb-ig Magyarországra is elhozza a világ legkülönlegesebb tévéjét az LG, mutatjuk mit tud",
+					path: "/a-jo-elet/lg-tv-2026-magyarorszag/",
+					author: "Szalai Péter",
+					category: "a jó élet",
+					tags: "big tech, foci vébé 2026, tech, televízió",
+					publishDate: "2026-05-31",
+					daysSincePublished: "0",
+					weeksSincePublished: "0",
+					articleLength: "763",
+					event: "pv",
+				}
+			</script>
+		
+<script>
+	var postID = '772007';
+	var postCategory = '[32]';
+</script>
+
+<!-- Make the authors and terms available to the React application -->
+<script>
+	window.ArticleAuthors = [{"term_id":28761,"name":"Szalai P\u00e9ter","slug":"szalai-peter","term_group":0,"term_taxonomy_id":29089,"taxonomy":"coauthor","description":"","parent":0,"count":531,"filter":"raw","url":"https:\/\/forbes.hu\/autor\/szalai-peter","role":[],"image":"https:\/\/cdn.forbes.hu\/uploads\/2026\/05\/szalai-peter-kepe-scaled-e1778916290483.jpg","position":"","email":"peter.szalai@forbes.hu ","twitter":"","instagram":"","linkedin":"","comment_of_the_day":false}];
+	window.ArticleTerms = [{"term_id":32,"name":"A j\u00f3 \u00e9let","slug":"a-jo-elet","term_group":0,"term_taxonomy_id":32,"taxonomy":"category","description":"","parent":0,"count":2059,"filter":"raw","image":"https:\/\/forbes.hu\/wp-content\/themes\/frontend\/assets\/images\/forbes-topic-default.svg"}];
+	window.Magazines = [];
+	window.currentPostId = 772007;
+</script>
+
+
+<!-- This is used to block free users from accessing an article -->
+<script type="text/javascript">
+	window.lockedForFreeUsers = false;
+	window.isFreeArticlesFeatureEnabled = true;
+	window.isArticleWithoutAds = false;
+</script>
+
+<!-- This is used by the React application to fetch AI recommendations -->
+<script>
+	window.Article = {
+    "id": 772007,
+    "authors": [
+        {
+            "term_id": 28761,
+            "name": "Szalai Péter",
+            "slug": "szalai-peter",
+            "term_group": 0,
+            "term_taxonomy_id": 29089,
+            "taxonomy": "coauthor",
+            "description": "",
+            "parent": 0,
+            "count": 531,
+            "filter": "raw",
+            "url": "https:\/\/forbes.hu\/autor\/szalai-peter",
+            "role": [],
+            "image": "https:\/\/cdn.forbes.hu\/uploads\/2026\/05\/szalai-peter-kepe-scaled-e1778916290483.jpg",
+            "position": "",
+            "email": "peter.szalai@forbes.hu ",
+            "twitter": "",
+            "instagram": "",
+            "linkedin": ""
+        }
+    ],
+    "country": "hu",
+    "headline": "A nyári foci vb-ig Magyarországra is elhozza a világ legkülönlegesebb tévéjét az LG, mutatjuk mit tud",
+    "categoryId": 32,
+    "categoryName": "a-jo-elet",
+    "image": {
+        "medium": "https:\/\/cdn.forbes.hu\/uploads\/2026\/05\/LG-nyito2-scaled.webp?r=eyJ3Ijo3NTAsInEiOjkwLCJzIjoianBnIn0%3D",
+        "thumbnail": "https:\/\/cdn.forbes.hu\/uploads\/2026\/05\/LG-nyito2-scaled.webp?r=eyJ3IjoxNTAsInEiOjkwLCJzIjoianBnIn0%3D",
+        "thumbnail-square": "https:\/\/cdn.forbes.hu\/uploads\/2026\/05\/LG-nyito2-scaled.webp?r=eyJ3IjoxMjgsInEiOjkwLCJzIjoianBnIiwiaCI6MTI4fQ%3D%3D"
+    },
+    "newsletter": {
+        "title": "Example title",
+        "description": ""
+    },
+    "publishDate": "2026-05-31",
+    "publishDateTimestamp": 1780203780,
+    "readTime": "6 perc",
+    "tags": [
+        {
+            "term_id": 32,
+            "name": "A jó élet",
+            "slug": "a-jo-elet",
+            "term_group": 0,
+            "term_taxonomy_id": 32,
+            "taxonomy": "category",
+            "description": "",
+            "parent": 0,
+            "count": 2059,
+            "filter": "raw",
+            "image": "https:\/\/forbes.hu\/wp-content\/themes\/frontend\/assets\/images\/forbes-topic-default.svg"
+        }
+    ],
+    "tag": null,
+    "huTags": [
+        {
+            "term_id": 27927,
+            "name": "Big tech",
+            "slug": "big-tech",
+            "term_group": 0,
+            "term_taxonomy_id": 28255,
+            "taxonomy": "post_tag",
+            "description": "",
+            "parent": 0,
+            "count": 125,
+            "filter": "raw"
+        },
+        {
+            "term_id": 29088,
+            "name": "foci vébé 2026",
+            "slug": "foci-vebe-2026",
+            "term_group": 0,
+            "term_taxonomy_id": 29416,
+            "taxonomy": "post_tag",
+            "description": "",
+            "parent": 0,
+            "count": 4,
+            "filter": "raw"
+        },
+        {
+            "term_id": 26629,
+            "name": "Tech",
+            "slug": "tech",
+            "term_group": 0,
+            "term_taxonomy_id": 26955,
+            "taxonomy": "post_tag",
+            "description": "",
+            "parent": 0,
+            "count": 448,
+            "filter": "raw"
+        },
+        {
+            "term_id": 27123,
+            "name": "televízió",
+            "slug": "televizio",
+            "term_group": 0,
+            "term_taxonomy_id": 27451,
+            "taxonomy": "post_tag",
+            "description": "",
+            "parent": 0,
+            "count": 46,
+            "filter": "raw"
+        }
+    ],
+    "url": "https:\/\/forbes.hu\/a-jo-elet\/lg-tv-2026-magyarorszag\/",
+    "isLife": false
+}</script>
+
+
+<main data-article-slug="lg-tv-2026-magyarorszag" class="single single--cz" data-postid="772007">
+	
+		
+
+	
+	
+	<div class="container">
+
+		<div>
+
+			<div class="row">
+
+				<div class="col-12">
+
+					<div class="header">
+
+                        
+							<div>
+                                <div class="header__image-wrapper">
+
+
+                                    <img src="https://cdn.forbes.hu/uploads/2026/05/LG-nyito2-scaled.webp?r=eyJ3IjoxMTEwLCJxIjo5MCwicyI6ImpwZyIsImgiOjYyNH0%3D"
+                                         alt="A nyári foci vb-ig Magyarországra is elhozza a világ legkülönlegesebb tévéjét az LG, mutatjuk mit tud"
+                                         fetchpriority="high"
+                                         srcset="https://cdn.forbes.hu/uploads/2026/05/LG-nyito2-scaled.webp?r=eyJ3IjoyMjIwLCJxIjo5MCwicyI6ImpwZyIsImgiOjEyNDh9 2x"
+                                    >
+
+									
+        <div class="photo-credit">
+            <img class="photo-credit__icon" src="https://forbes.hu/wp-content/themes/frontend/atoms/photo-credit/icon-info.svg" alt="info">
+            <span class="photo-credit__label">Fotó: Szalai Péter // Forbes.hu</span>
+        </div>
+        
+									
+								</div>
+                                							</div>
+
+
+						
+                        <div class="header__content-wrapper  ">
+
+							<div class="header__content">
+
+                                <div class="header__category-date">
+									<a href="https://forbes.hu/cimke/tech/" class="tag-link"><div class="tag tag--icon tag--link"><div class="tag__icon" style="mask-image: url(https://forbes.hu/wp-content/themes/frontend/assets/icons/ds2024/icon-diamond-empty.svg);"></div><div class="tag__text">Tech</div></div></a>
+                                    								</div>
+
+								<h1 class="h3-noto heading">A nyári foci vb-ig Magyarországra is elhozza a világ legkülönlegesebb tévéjét az LG, mutatjuk mit tud</h1>
+
+
+                                
+							</div>
+
+						</div>
+
+					</div>
+
+				</div>
+
+			</div>
+
+            				<div class="row">
+
+                    <div class="col-12 col-lg-7 offset-lg-1">
+
+						<div class="header__author">
+							      <div id="reactAuthorBoxTop"></div>
+    						</div>
+
+						
+					</div>
+
+				</div>
+
+			
+		</div>
+
+		<!-- Article body starts -->
+		<div class="container-fluid single-post__wrapper" style="padding: 0">
+
+			<div class="row">
+
+				<!-- Article left column -->
+                <div class="col-12 col-lg-7 offset-lg-1">
+
+					
+                  <div class="body__content-wrapper" style="">
+
+					<!-- This script clones the meta data of the article between the first and second gutenberg block (except breaking news tag)-->
+                        						<script>
+							document.addEventListener("DOMContentLoaded", function() {
+								// Get the container element and the existing article-meta div
+								let container = document.querySelector('.gutenberg-content');
+								let existingMeta = document.querySelector('.reactArticleMeta');
+
+								// Check if the container and existingMeta are found
+								if (container && existingMeta) {
+									// Clone the article-meta div
+									let clonedMeta = existingMeta.cloneNode(true);
+
+									// Get the first child block inside the container
+									let firstBlock = container.children[0];
+
+									// Insert the cloned div right after the first block
+									if (firstBlock) {
+										container.insertBefore(clonedMeta, firstBlock);
+									}
+								}
+							});
+						</script>
+					
+                        
+
+                        													
+                        <div class="gutenberg-content  large-first-p bold-titles" data-readtime="6">
+
+							
+			
+<p><strong>Megérkeztek Magyarországra az LG új televíziói. Köztük az egyedülálló posztertévével és egy szokatlan haditervvel a háttérben.</strong></p>
+<div
+	class="react-audio-player"
+	data-audio-generating="false"
+	data-has-audio-access="false"
+	data-source="https://cdn.forbes.hu/uploads/2025/08/ElevenLabs_2025-08-22T11_43_58_Forbes-HU-Gunter_ivc_sp100_s50_sb75_v3-1.mp3"
+	data-suffix=""
+	data-thumbnail="https://cdn.forbes.hu/uploads/2026/05/LG-nyito2-scaled.webp?r=eyJ3IjoxMjgsInEiOjkwLCJzIjoianBnIiwiaCI6MTI4fQ%3D%3D"
+	data-class-name="tw:my-[40px] tw:max-w-[635px]"
+></div>
+
+
+
+
+<p>A <a href="https://www.forbes.hu/a-jo-elet/tcl-tv-kinalat-2026/">kínai riválisok</a> letaglózó, egykori <a href="https://www.forbes.hu/uzlet/sony-tv-gyartas-vege/">óriásokat elsöprő offenzívája</a> ide vagy oda, az<a href="https://www.forbes.hu/a-jo-elet/lg-b4-tv-teszt-bemutato/"> LG</a> a jelek szerint nem akarja feladni a televíziós piacot.  A vállalat ugyanis Magyarországra is elhozta friss televízióit, amelyek láttán nemcsak az derült ki, hogy továbbra sem csak az árháborúra költ, hanem az is, hogy stratégiáját teljesen másként építette fel, mint közvetlen riválisai.</p>
+
+
+
+<h2 class="wp-block-heading"><strong>Továbbra is az OLED a király</strong></h2>
+
+
+
+<p class="has-drop-cap">Hosszú időn át az LG volt az, ami egyedüliként bízott az <a href="https://www.forbes.hu/uzlet/oled-tv-ha">OLED</a>-technológiában, életben tartva azt minden nehézség ellenére. Mára megváltozott a helyzet, komoly a verseny itt is, hiszen húsznál is több márka kínálatában találhatók meg ezek a készülékek. Azonban a szektort továbbra is dominálja a dél-koreai cég, amely a <a href="https://www.lg.com/global/newsroom/lg-story/beyond-news/lg-electronics-continues-to-lead-the-global-oled-tv-market-marking-13-years-of-excellence/">piackutatók adatai</a> szerint 2025-ben közel 50 százalékos részesedéssel bírt.</p>
+
+
+
+<blockquote class="wp-block-quote is-layout-flow wp-block-quote-is-layout-flow">
+<p>Eddig is érezhetően saját felségterületének tekintette az OLED-szegmenst, és ezen az idei évben sem kíván változtatni.</p>
+</blockquote>
+
+
+
+<p>Mindenki másnál nagyobb hangsúlyt fektet rá, és versenytársaitól eltérően továbbra is ezt tartja a legjobbnak. Tehát nem hisz annyira az idén berobbanó szuperkvantumpontokban vagy az új „csodagyerekben”, az RGB LED-technológiában.</p>
+
+
+<figure class="wp-block-image size-full"><div class="photo-credit-wrapper"><img decoding="async" width="2560" height="1240" loading="lazy" src="https://cdn.forbes.hu/uploads/2026/05/wllpaplg-scaled.jpg" alt="LG Wallpaper TV" class="wp-image-772024" srcset="https://cdn.forbes.hu/uploads/2026/05/wllpaplg-scaled.jpg 2560w, https://cdn.forbes.hu/uploads/2026/05/wllpaplg-640x310.jpg 640w, https://cdn.forbes.hu/uploads/2026/05/wllpaplg-1100x533.jpg 1100w, https://cdn.forbes.hu/uploads/2026/05/wllpaplg-768x372.jpg 768w" sizes="(max-width: 2560px) 100vw, 2560px" />
+        <div class="photo-credit">
+            <img decoding="async" loading="lazy" class="photo-credit__icon" src="https://forbes.hu/wp-content/themes/frontend/atoms/photo-credit/icon-info.svg" alt="info"/>
+            <span class="photo-credit__label">Fotó: Szalai Péter // Forbes.hu</span>
+        </div>
+        </div><figcaption class="wp-element-caption">Az LG W6 Wallpaper posztertévé az idei év nagy újdonsága. Fotó: Szalai Péter // Forbes.hu</figcaption></figure>
+
+
+<p>Az idei topmodell az LG W6, amely a Wallpaper fantázianévre hallgat, nem véletlenül. Rettenetesen vékony készülékről van szó, amely alul sem „hasasodik ki”, köszönhetően annak, hogy minden elektronikát és csatlakozót egy külső dobozba száműztek. Szó szerint a falra simul, egyáltalán nem kelt feltűnést addig, amíg be nem kapcsolják.</p>
+
+
+<figure class="wp-block-image size-full"><div class="photo-credit-wrapper"><img decoding="async" width="2560" height="1134" loading="lazy" src="https://cdn.forbes.hu/uploads/2026/05/wallpaper-vekony-scaled.jpg" alt="LG Wallpaper tv" class="wp-image-772020" srcset="https://cdn.forbes.hu/uploads/2026/05/wallpaper-vekony-scaled.jpg 2560w, https://cdn.forbes.hu/uploads/2026/05/wallpaper-vekony-640x283.jpg 640w, https://cdn.forbes.hu/uploads/2026/05/wallpaper-vekony-1100x487.jpg 1100w, https://cdn.forbes.hu/uploads/2026/05/wallpaper-vekony-768x340.jpg 768w" sizes="(max-width: 2560px) 100vw, 2560px" />
+        <div class="photo-credit">
+            <img decoding="async" loading="lazy" class="photo-credit__icon" src="https://forbes.hu/wp-content/themes/frontend/atoms/photo-credit/icon-info.svg" alt="info"/>
+            <span class="photo-credit__label">Fotó: Szalai Péter // Forbes.hu</span>
+        </div>
+        </div><figcaption class="wp-element-caption">A 9 mm vékony modell a falra simul. Az elektronika és a csatlakozók egy külső dobozón kaptak helyet. Fotó: Szalai Péter // Forbes.hu</figcaption></figure>
+
+
+<p>A képminőség terén a világelitet képviseli: megkapta az LG valaha volt legfejlettebb, legnagyobb fényerejű, mesterséges intelligenciával vezérelt OLED-kijelzőjét. Az említett dobozról pedig egy szabadalmaztatott megoldás révén vezeték nélkül is átjuthatnak a képernyőre az ultranagy felbontású, kiemelkedő dinamikatartományú, többcsatornás hanggal megtámogatott tartalmak. A Wallpaper ráadásul egy teljesen egyedi készülék, ami a cég irányába terelgetheti az überexkluzív prémium termékekre vágyókat.</p>
+
+
+
+<div class="post-content-soft-paywall" style="display:none">
+
+
+
+<p>Ezenkívül még három teljesen új OLED-családot dob piacra idén 42-től 83 hüvelykig terjedő méretekben. Így idén elérhetők lesznek az arany középutat képviselő, illetve belépő szintűnek nevezett, tehát viszonylag kedvező árú termékek is. Ez azt is jelenti, hogy a korábbi évekhez hasonlóan idén is az LG kínálja az egész világon messze a legnagyobb, legszélesebb OLED-tévéválasztékot.</p>
+
+
+
+<h2 class="wp-block-heading"><strong>LCD: nincs elfelejtve</strong></h2>
+
+
+
+<p class="has-drop-cap">Az OLED melletti markáns kiállás nem jelenti azt, hogy a cég teljesen elengedte volna az LCD-technológiát. Sőt, a trendeket követve idén belép az RGB LED televíziók piacára is. Itt azonban a konkurensekkel ellentétben inkább a hatalmas képátlójú, 85 hüvelyk feletti kategóriában lát fantáziát a technológiában, mert ilyen nagy méretben jóval kedvezőbb áron tudnak nagy fényerejű, markáns színeket produkáló televíziókat kínálni.</p>
+
+
+<figure class="wp-block-image size-full"><div class="photo-credit-wrapper"><img decoding="async" width="2560" height="1240" loading="lazy" src="https://cdn.forbes.hu/uploads/2026/05/micro-rgg23-scaled.jpg" alt="LG RGB TV" class="wp-image-772021" srcset="https://cdn.forbes.hu/uploads/2026/05/micro-rgg23-scaled.jpg 2560w, https://cdn.forbes.hu/uploads/2026/05/micro-rgg23-640x310.jpg 640w, https://cdn.forbes.hu/uploads/2026/05/micro-rgg23-1100x533.jpg 1100w, https://cdn.forbes.hu/uploads/2026/05/micro-rgg23-768x372.jpg 768w" sizes="(max-width: 2560px) 100vw, 2560px" />
+        <div class="photo-credit">
+            <img decoding="async" loading="lazy" class="photo-credit__icon" src="https://forbes.hu/wp-content/themes/frontend/atoms/photo-credit/icon-info.svg" alt="info"/>
+            <span class="photo-credit__label">Fotó: Szalai Péter // Forbes.hu</span>
+        </div>
+        </div><figcaption class="wp-element-caption">Igazodva a trendekhez, az LG is piacra dobja az RGB TV készülékeket. Fotó: Szalai Péter // Forbes.hu</figcaption></figure>
+
+
+<p>De azért egy OLED-modell közelében látványosan kijön itt is, hogy a kép fátyolosabb, a kontúrok nem annyira erőteljesek, és oldalról nézve a képernyőn megfigyelhető némi holdudvar az objektumok körül. Ez nem a cég hibája, hanem az alkalmazott LCD-eljárás sajátja: még más gyártónál sem láttam olyan készülékeket, ahol ezeket az anomáliákat teljesen orvosolni tudták volna.</p>
+
+
+
+<p>A közép- és alsó kategóriában az LG megtartja az évekkel ezelőtt bevezetett QNED termékvonalat. Ezek szintén LCD-modellek, amelyekben korszerűtlenebb, ám kedvezőbb árú képalkotási eljárásokat használnak. Így 2026-ban ezekkel, illetve a teljesen hagyományos LED TV-készülékekkel tud megjelenni a vállalat az alsóbb, akár nagyon megfizethető kategóriákban.</p>
+
+
+
+<h2 class="wp-block-heading"><strong>Okos funkciók: saját kézben</strong></h2>
+
+
+
+<p class="has-drop-cap">Az LG 2026-ra sem  engedte ki a kezéből okostévé-rendszerének fejlesztését. Ennek biztosan vannak extra költségei, de ennek köszönhetően nem függ külső szereplőtől, ellentétben néhány nagy ellenfelével. Például biztosra tudja ígérni, hogy az eladott készülékek fél évtizeden keresztül garantáltan kapnak egy nagy szoftverfrissítést minden évben, így nem avulnak el akkor sem, ha berobban valamilyen forradalmian új szolgáltatás.</p>
+
+
+<figure class="wp-block-image size-full"><div class="photo-credit-wrapper"><img decoding="async" width="2560" height="1245" loading="lazy" src="https://cdn.forbes.hu/uploads/2026/05/okosteve-scaled.jpg" alt="LG Okosteve" class="wp-image-772022" srcset="https://cdn.forbes.hu/uploads/2026/05/okosteve-scaled.jpg 2560w, https://cdn.forbes.hu/uploads/2026/05/okosteve-640x311.jpg 640w, https://cdn.forbes.hu/uploads/2026/05/okosteve-1100x535.jpg 1100w, https://cdn.forbes.hu/uploads/2026/05/okosteve-768x373.jpg 768w" sizes="(max-width: 2560px) 100vw, 2560px" />
+        <div class="photo-credit">
+            <img decoding="async" loading="lazy" class="photo-credit__icon" src="https://forbes.hu/wp-content/themes/frontend/atoms/photo-credit/icon-info.svg" alt="info"/>
+            <span class="photo-credit__label">Fotó: Szalai Péter // Forbes.hu</span>
+        </div>
+        </div><figcaption class="wp-element-caption">Az LG továbbra is kitart a saját okostévé rendszer, a webOS mellett. Remek döntés! Fotó: Szalai Péter // Forbes.hu</figcaption></figure>
+
+
+<p>A 2026-os verzió esetében az alapokat megtartották, csak némi ráncfelvarrás történt, és érkezett egy-két új kényelmi funkció. A készülékek megkapják az LG Shield nevű kiberbiztonsági csomagot is, amely garantálja, hogy kívülről senki ne férhessen hozzá a felhasználók adataihoz. Ez nem egyedi, van már más gyártó is, amely ebbe az irányba mozdult, de ettől függetlenül remek, hogy erre is odafigyelnek.</p>
+
+
+
+<p>A konkrét árakkal kapcsolatban egyelőre még nem tudtak pontos információkkal szolgálni a vállalat munkatársai. Azt azonban megtudtuk, hogy elvileg a nyári futball-világbajnokság kezdetéig a legtöbb idei modell a boltokba kerül, és nyilván akciókkal is támogatják majd a bevezetést.</p>
+
+
+
+<blockquote class="wp-block-quote is-layout-flow wp-block-quote-is-layout-flow">
+<p>A látottak alapján kijelenthető, hogy a kínai cégek nyomulása ide vagy oda, az LG továbbra is komoly fantáziát lát a televíziós iparágban.</p>
+</blockquote>
+
+
+
+<p> Hajlandó erőforrásokat áldozni a fejlesztésre és az értékesítésre egyaránt. Szóval a jelek szerint attól egyelőre nem kell tartani, hogy a küzdelmet idén feladó japán cégek sorsára jutna.</p>
+</div>
+<div id="remp_lock_anchor"></div>
+<div class="premium-blocker premium-blocker--hu" id='remp_cta' data-needed='authenticated' data-current='["free"]'>
+
+	
+	<script>
+		const optionalLinkLabel = "";
+		const optionalLinkUrl = "";
+
+		window.premiumOptionalLink = {
+			premiumOptionalLinkLabel: optionalLinkLabel,
+			premiumOptionalLinkUrl: optionalLinkUrl
+		};
+	</script>
+
+	<div id="reactPremiumBlockerButton" data-needed="authenticated"></div>
+
+</div>
+
+		<!-- No email blocks found -->
+						</div>
+
+						
+						
+						
+							<div class="below-article">
+
+                
+								<div class="reactArticleMeta" data-authors="[{&quot;term_id&quot;:28761,&quot;name&quot;:&quot;Szalai P\u00e9ter&quot;,&quot;slug&quot;:&quot;szalai-peter&quot;,&quot;term_group&quot;:0,&quot;term_taxonomy_id&quot;:29089,&quot;taxonomy&quot;:&quot;coauthor&quot;,&quot;description&quot;:&quot;&quot;,&quot;parent&quot;:0,&quot;count&quot;:531,&quot;filter&quot;:&quot;raw&quot;,&quot;url&quot;:&quot;https:\/\/forbes.hu\/autor\/szalai-peter&quot;,&quot;role&quot;:[],&quot;image&quot;:&quot;https:\/\/cdn.forbes.hu\/uploads\/2026\/05\/szalai-peter-kepe-scaled-e1778916290483.jpg&quot;,&quot;position&quot;:&quot;&quot;,&quot;email&quot;:&quot;peter.szalai@forbes.hu &quot;,&quot;twitter&quot;:&quot;&quot;,&quot;instagram&quot;:&quot;&quot;,&quot;linkedin&quot;:&quot;&quot;}]" data-article="{&quot;title&quot;:&quot;A ny\u00e1ri foci vb-ig Magyarorsz\u00e1gra is elhozza a vil\u00e1g legk\u00fcl\u00f6nlegesebb t\u00e9v\u00e9j\u00e9t az LG, mutatjuk mit tud&quot;,&quot;url&quot;:&quot;https:\/\/forbes.hu\/a-jo-elet\/lg-tv-2026-magyarorszag\/&quot;,&quot;description&quot;:&quot;&quot;,&quot;image&quot;:&quot;https:\/\/cdn.forbes.hu\/uploads\/2026\/05\/LG-nyito2-scaled.webp?r=eyJ3Ijo3NTAsInEiOjkwLCJzIjoianBnIn0%3D&quot;,&quot;thumbnail&quot;:&quot;https:\/\/cdn.forbes.hu\/uploads\/2026\/05\/LG-nyito2-scaled.webp?r=eyJ3IjoxNTAsInEiOjkwLCJzIjoianBnIn0%3D&quot;,&quot;thumbnailSquare&quot;:&quot;https:\/\/cdn.forbes.hu\/uploads\/2026\/05\/LG-nyito2-scaled.webp?r=eyJ3IjoxMjgsInEiOjkwLCJzIjoianBnIiwiaCI6MTI4fQ%3D%3D&quot;,&quot;readTime&quot;:&quot;6 perc&quot;,&quot;publishDate&quot;:&quot;2026. 5. 31.&quot;,&quot;id&quot;:772007,&quot;category&quot;:{&quot;label&quot;:&quot;Tech&quot;,&quot;icon&quot;:&quot;https:\/\/forbes.hu\/wp-content\/themes\/frontend\/assets\/icons\/ds2024\/icon-diamond-empty.svg&quot;,&quot;link&quot;:&quot;https:\/\/forbes.hu\/cimke\/tech\/&quot;},&quot;isPremium&quot;:true}"></div>
+
+                <div class="below-article__terms">
+									<div id="reactArticleTermsBox"></div>
+								</div>
+
+                <div id="reactAuthorBoxBottom"> </div>
+              </div>
+
+						
+					</div>
+
+				</div>
+
+				<!-- Article right column for ads -->
+				<div class="col-hidden col-lg-4">
+
+					
+						<div id="article-sticky-ad" class="googlead justDesktop"></div>
+						<div id="article-sticky-ad--secondary" class="googlead justDesktop"></div>
+
+					
+				</div>
+
+			</div>
+
+		</div>
+	</div>
+
+	<div class="related-posts-wrapper">
+
+					<div class="container">
+				
+<div
+	id="reactAIRecommendation"
+	data-strategies=[{&quot;identifier&quot;:&quot;default&quot;,&quot;weight&quot;:100,&quot;perPage&quot;:14,&quot;infinityScrollEnabled&quot;:true}]	data-debug="[]"
+></div>
+			</div>
+		
+	</div>
+</main>
+
+<div id="react-article-unlocked"></div>
+
+			<script>
+		let body = document.querySelector('body');
+		body.setAttribute("data-locale", "hu");
+	</script>
+<script>window.rempClientRequestsLog = [{"url":"newsletters\/lists","method":"GET","timestamp":1780204461.271598,"cache_hit":true,"error":null,"duration":0.002382993698120117}];</script>	<script>
+		(function(win, doc) {
+			function mock(fn) {
+				return function() {
+					this._.push([fn, arguments])
+				}
+			}
+			function load(url) {
+				var script = doc.createElement("script");
+				script.type = "text/javascript";
+				script.async = true;
+				script.src = url;
+				doc.getElementsByTagName("head")[0].appendChild(script);
+			}
+			win.remplib = win.remplib || {};
+			var mockFuncs = {
+				campaign: "init",
+				tracker: "init trackEvent trackPageview trackCommerce trackTimespent",
+				iota: "init"
+			};
+
+			Object.keys(mockFuncs).forEach(function (key) {
+				if (!win.remplib[key]) {
+					var fn, i, funcs = mockFuncs[key].split(" ");
+					win.remplib[key] = {_: []};
+
+					for (i = 0; i < funcs.length; i++) {
+						fn = funcs[i];
+						win.remplib[key][fn] = mock(fn);
+					}
+				}
+			});
+
+			// change URL to location of BEAM remplib.js
+			load("https://beam.forbes.hu/assets/lib/js/remplib.js");
+			load("https://campaign.forbes.hu/assets/lib/js/remplib.js");
+		})(window, document);
+
+		function getCookie(name) {
+		  const value = `; ${document.cookie}`;
+		  const parts = value.split(`; ${name}=`);
+		  if (parts.length === 2) return parts.pop().split(';').shift();
+		}
+
+		// configuration
+		var rempConfig = {
+			// UUIDv4 based REMP BEAM token of appropriate property
+			// (see BEAM Admin -> Properties)
+			token: "b8cc136f-bccf-4758-be17-13078b1bfe2b",
+
+			// optional, identification of logged user
+			// userId: String,
+
+			// optional, flag whether user is currently subscribed to the displayed content
+			userSubscribed: false,
+
+			// optional, IDs of currently active subscriptions granting user access
+			//subscriptionIds: [String, String, String],
+
+			// optional, this is by default generated by remplib.js library and you don't need to override it
+			// browserId: String,
+
+			// optional, controls where cookies (UTM parameters of visit) are stored
+			cookieDomain: ".www.forbes.hu",
+
+			// optional, controls which type of storage should be used by default (`local_storage` or `cookie`)
+			// default is `local_storage`
+			storage: "local_storage",
+
+			// optional, specifies how long to store specific keys in storage (in minutes)
+			storageExpiration: {
+				// default value (in minutes) for all storage keys if not overriden in `keys`
+				"default": 15,
+				// specific pairs of key name and life length in minutes
+				"keys": {
+					"browser_id": 1051200, // 2 years in minutes
+					"campaigns": 1051200
+				}
+			},
+
+			// optional, article details if pageview is on the article
+			// article: {
+			// 	id: String, // required, ID of article in your CMS
+			// 	author_id: String, // optional, name of the author
+			// 	category: String, // optional, category/section of the article
+			// 	locked: Boolean, // optional, flag whether content was locked at the time of visit for this pageview
+			// 	contentType: String, // optional, type of the content, 'article' if not specified or 'feed'
+			// 	tags: [String, String, String], // optional, any tags associated with the article
+			// 	elementFn: Function // callback returning DOM element containing article content
+			// },
+
+			campaign: {
+				url: "https://campaign.forbes.hu",
+				showtimeExperiment: true,
+				variables: {
+					email: {
+						value: function() {
+							return window.crm_user?.user?.email || null
+						}
+					},
+					token: {
+						value: function() {
+							return getCookie('n_token') || null
+						}
+					}
+				}
+			},
+
+			// required, Tracker API specific options
+			tracker: {
+				// required, URL location of BEAM Tracker
+				url: "https://tracker.forbes.hu",
+
+				// optional time spent measuring (disabled by default)
+				// if enabled, tracks time spent on current page
+				timeSpent: {
+					enabled: true, // if enabled, tracks time spent on the webpage
+					interval: 5, // optional, frequency of sending tracked progress in seconds (default value 5; interval is progressive and gets prolonged in time)
+				},
+
+				// optional, achieved scroll depth tracking (disabled by default)
+				readingProgress: {
+					enabled: true, // if enabled, tracks achieved scroll depth
+					interval: 5 // optional, frequency of sending tracked progress in seconds (default value 5)
+				},
+
+				// optional, allows to specify custom referer medium
+				// this value overrides implicit referer medium computed from Referer header by tracker
+				//refererMedium: "push_notification"
+			}
+		};
+
+		if(window.crm_user) {
+			rempConfig.userId = String(window.crm_user.user.id)
+			rempConfig.subscriptionIds = window.crm_user.subscriptions
+				.filter(subcription => subcription.id)
+				.map(subscription => String(subscription.id))
+			rempConfig.userSubscribed = !window.crm_user.access.includes('free')
+		}
+
+		const Article= window.Article
+		if(typeof Article !== 'undefined') {
+			const tags = Article.tags.map(({ name }) => name)
+			rempConfig.article = {
+				id: String(Article.id), // required, ID of article in your CMS
+				author_id: Article.author ? Article.author[0]?.name : null, // optional, name of the author
+				category: Article.tag, // optional, category/section of the article
+				locked: tags.includes('Premium') && !rempConfig.userSubscribed, // optional, flag whether content was locked at the time of visit for this pageview
+				contentType: 'article', // optional, type of the content, 'article' if not specified or 'feed'
+				tags: tags, // optional, any tags associated with the article
+				elementFn: function(){
+					return document.querySelector("div.body__content-wrapper")
+				} // callback returning DOM element containing article content
+			}
+		}
+
+		remplib.tracker.init(rempConfig);
+		remplib.campaign.init(rempConfig);
+	</script>
+	<style>
+		.serif {
+			font-family: serif;
+		}
+
+		.sans-serif {
+			font-family: sans-serif;
+		}
+
+		/* transitions */
+
+		.remp-banner #preview-close.hidden {
+			display: none;
+		}
+
+		.remp-banner .fade-enter-active, .fade-leave-active {
+			transition: opacity .5s
+		}
+		.remp-banner .fade-enter,
+		.remp-banner .fade-leave-to /* .fade-leave-active in <2.1.8 */ {
+			opacity: 0
+		}
+
+		.remp-banner .bounce-enter-active {
+			animation: bounce linear 0.5s;
+			animation-iteration-count: 1;
+			transform-origin: 50% 50%;
+		}
+		@keyframes bounce{
+			0% { transform: translate(0px,0px) }
+			15% { transform: translate(0px,-25px) }
+			30% { transform: translate(0px,0px) }
+			45% { transform: translate(0px,-15px) }
+			60% { transform: translate(0px,0px) }
+			75% {  transform: translate(0px,-5px) }
+			100% { transform: translate(0px,0px)  }
+		}
+
+		.remp-banner .shake-enter-active{
+			animation: shake linear 0.5s;
+			animation-iteration-count: 1;
+			transform-origin: 50% 50%;
+		}
+		@keyframes shake{
+			0% { transform: translate(0px,0px) }
+			10% { transform: translate(-10px,0px) }
+			20% { transform: translate(10px,0px) }
+			30% { transform: translate(-10px,0px) }
+			40% { transform: translate(10px,0px) }
+			50% { transform: translate(-10px,0px) }
+			60% { transform: translate(10px,0px) }
+			70% { transform: translate(-10px,0px) }
+			80% { transform: translate(10px,0px) }
+			90% { transform: translate(-10px,0px) }
+			100% { transform: translate(0px,0px) }
+		}
+
+		.remp-banner .fade-in-down-enter-active {
+			animation: fadeInDown ease 0.5s;
+			animation-iteration-count: 1;
+			transform-origin: 50% 50%;
+			animation-fill-mode:forwards; /*when the spec is finished*/
+		}
+
+		@keyframes fadeInDown{
+			0% { opacity: 0;  transform: translate(0px,-25px) }
+			100% { opacity: 1; transform: translate(0px,0px) }
+		}
+
+		.remp-banner-text-input {
+			/* Different fonts display accent characters in different ways,
+			 * e.g. putting 'ACUTE ACCENT' unicode char as a accent character on the following letter, therefore treating it as a normal letter accent.
+			 *
+			 * However, we want to show this to user in text inputs (while designing banner), so he/she is aware this might cause problems in some browsers.
+			 * Helvetica font displays 'ACUTE ACCENT' unicode character separately from the following letter.
+			 */
+			font-family: "Helvetica Neue", Helvetica, Arial, sans-serif
+		}
+	</style><script type="text/javascript" id="common-script-js-extra">
+/* <![CDATA[ */
+var ajaxUrlObject = {"url":"https:\/\/forbes.hu\/wp-admin\/admin-ajax.php"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://forbes.hu/wp-content/themes/frontend/minified-js/common.min.js?ver=1780079213" id="common-script-js"></script>
+<script type="text/javascript" src="https://forbes.hu/wp-content/themes/frontend/minified-js/premium-lock/premium-lock.min.js?ver=1780079213" id="remp-premium-lock-js"></script>
+<script type="text/javascript" src="https://forbes.hu/wp-content/themes/frontend/minified-js/remp-api-client.min.js?ver=1780079213" id="remp-api-client-script-js"></script>
+<script type="text/javascript" src="https://forbes.hu/wp-content/themes/frontend/inc/libraries/splide/splide.min.js?ver=/var/app/current/wp-content/themes/frontend/inc/libraries/splide/splide.min.js" id="splide-script-js"></script>
+<script type="text/javascript" src="https://forbes.hu/wp-content/themes/frontend/inc/libraries/splide/splide-extension-intersection.min.js?ver=/var/app/current/wp-content/themes/frontend/inc/libraries/splide/splide-extension-intersection.min.js" id="splide-extension-script-js"></script>
+<script type="text/javascript" id="thank-you-script-js-extra">
+/* <![CDATA[ */
+var configHelpers = {"DN_REMP_CRM_HOST":"https:\/\/elofizetes.forbes.hu\/"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://forbes.hu/wp-content/themes/frontend/minified-js/thank-you.min.js?ver=1780079213" id="thank-you-script-js"></script>
+<script type="text/javascript" src="https://forbes.hu/wp-content/themes/frontend/minified-js/remp-banner.min.js?ver=/var/app/current/wp-content/themes/frontend/minified-js/remp-banner.min.js" id="remp-banner-script-js"></script>
+<script type="text/javascript" src="https://forbes.hu/wp-content/themes/frontend/assets/js/rtm-injector.js?ver=1780079213" id="rtm-injector-js"></script>
+<script type="text/javascript" src="https://forbes.hu/wp-content/themes/frontend/minified-js/notifications/scripts.min.js?ver=1780079213" id="notifications-script-js"></script>
+<script type="text/javascript" id="auth-script-js-extra">
+/* <![CDATA[ */
+var vars = {"translations":{"emailError":"K\u00e9rj\u00fck, adjon meg egy \u00e9rv\u00e9nyes e-mail c\u00edmet.","passwordError":"K\u00e9rj\u00fck, adjon meg egy \u00e9rv\u00e9nyes jelsz\u00f3t."},"myAccountPageLink":"https:\/\/forbes.hu\/fiokom\/"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://forbes.hu/wp-content/themes/frontend/minified-js/authentication/scripts.min.js?ver=1780079213" id="auth-script-js"></script>
+<script type="text/javascript" src="https://forbes.hu/wp-content/themes/frontend/inc/libraries/lity/lity.min.js?ver=1780079213" id="lity-script-js"></script>
+<script type="text/javascript" src="https://forbes.hu/wp-content/themes/frontend/inc/libraries/macy/macy.min.js?ver=1780079213" id="macy-script-js"></script>
+<script type="text/javascript" src="https://forbes.hu/wp-content/themes/frontend/minified-js/gutenberg/gallery-script.min.js?ver=1780079213" id="gallery-script-js"></script>
+<script type="text/javascript" src="https://forbes.hu/wp-content/themes/frontend/minified-js/pages/single-page.min.js?ver=1780079213" id="single-page-script-js"></script>
+<script type="text/javascript" src="https://forbes.hu/wp-content/themes/frontend/minified-js/iframe-resize.min.js?ver=1780079213" id="iframe-resize-js"></script>
+<script type="text/javascript" src="https://forbes.hu/wp-content/themes/frontend/inc/libraries/swipebox/js/jquery.swipebox.js?ver=1780079213" id="swipebox-script-js"></script>
+<script type="text/javascript" src="https://forbes.hu/wp-content/themes/frontend/minified-js/my-account/account-dropdown/script.min.js?ver=1780079213" id="account-dropwdown-script-js"></script>
+<script type="text/javascript" src="https://forbes.hu/wp-content/themes/frontend/minified-js/navigation/script.min.js?ver=1780079213" id="navigation-script-js"></script>
+<script type="text/javascript" src="https://forbes.hu/wp-content/themes/frontend/minified-js/footer/script.min.js?ver=1780079213" id="footer-script-js"></script>
+<script type="text/javascript" src="https://forbes.hu/wp-content/themes/frontend/minified-js/search/script.min.js?ver=1780079213" id="search-form-scripts-js"></script>
+<script type="text/javascript" src="https://forbes.hu/wp-content/themes/frontend/minified-js/social-icons/scripts.min.js?ver=1780079213" id="social-icons-scripts-js"></script>
+<script type="text/javascript" src="https://forbes.hu/wp-content/themes/frontend/minified-js/onepage-theme-switcher/scripts.min.js?ver=1780079213" id="theme-switcher-script-js"></script>
+<script type="text/javascript" id="HUN-googleanalytics-script-js-extra">
+/* <![CDATA[ */
+var pageParams = {"category":"A j\u00f3 \u00e9let"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://forbes.hu/wp-content/themes/frontend/minified-js/google/HUN-googleanalytics-script.min.js?ver=1780079213" id="HUN-googleanalytics-script-js"></script>
+<script type="text/javascript" src="https://forbes.hu/wp-content/themes/frontend/react-app/static/js/main.js?ver=031d8215" id="react-app-js"></script>
+<script type="text/javascript" src="https://forbes.hu/wp-content/themes/frontend/assets/js/social-login-detection.js?ver=1.0.1" id="social-login-detection-js"></script>
+<script type="text/javascript" id="react-data-js-extra">
+/* <![CDATA[ */
+var wpVars = {"isSingle":"1","postId":"772007","postType":"post","postUrl":"https:\/\/forbes.hu\/a-jo-elet\/lg-tv-2026-magyarorszag\/","ignoreLastVisited":null,"forbes_my_account_subscription":{"emptyPosts":[{"post_title":"","post_image":false,"post_link":""},{"post_title":"","post_image":false,"post_link":""},{"post_title":"","post_image":false,"post_link":""}],"emptyButtonText":"El\u0151fizet\u00e9s a Forbes Magazinra","emptyButtonLink":"https:\/\/forbes.hu\/elofizetes\/","cancelSubscriptionModalContent":"<p>M\u00f3dos\u00edtania kell a sz\u00e1ll\u00edt\u00e1si vagy szem\u00e9lyes adatait? \u00cdrjon nek\u00fcnk az <a href=\"mailto:elofizetes@forbes.hu\">elofizetes@forbes.hu<\/a> c\u00edmre.<\/p>\n"},"forbes_subscription_activation":{"errorDescription":"<p>Az el\u0151fizet\u00e9s\u00e9t nem siker\u00fclt aktiv\u00e1lni. K\u00e9rj\u00fck, pr\u00f3b\u00e1lja \u00fajra.<\/p>\n<p>Ha a probl\u00e9ma tov\u00e1bbra is fenn\u00e1ll, k\u00fcldj\u00f6n e-mailt a elofizetes@forbes.hu c\u00edmre.<\/p>\n","digitalSuccessDescription":"<p>A magazin mellett, amelyet minden h\u00f3napban a postal\u00e1d\u00e1j\u00e1ba k\u00e9zbes\u00edtenek, a magazin online v\u00e1ltozat\u00e1t is megkapja. Ezt a Forbes.hu fi\u00f3kj\u00e1ban az El\u0151fizet\u00e9sek men\u00fcpontban vagy az oldal men\u00fcj\u00e9ben tal\u00e1lja.<\/p>\n","printSuccessDescription":"<p>M\u00e1r most sok inspir\u00e1l\u00f3 olvasm\u00e1nyra sz\u00e1m\u00edthat.<\/p>\n"},"forbes_my_account_payments":{"unavailableInvoiceDescription":"<p>Ha sz\u00e1ml\u00e1ra van sz\u00fcks\u00e9ged, k\u00e9rlek, \u00edrj nek\u00fcnk a <a href=\"mailto:penzugy@forbes.hu\">penzugy@forbes.hu<\/a> c\u00edmre.<\/p>\n","retryPaymentDescription":"<p>Lehet, hogy helytelen\u00fcl adtad meg az adatokat, lehet, hogy szolg\u00e1ltat\u00e1skimarad\u00e1s t\u00f6rt\u00e9nt, vagy hiba t\u00f6rt\u00e9nt a Forbes r\u00e9sz\u00e9r\u0151l. K\u00e9rlek, pr\u00f3b\u00e1ld meg \u00fajra.<\/p>\n","otherHelpDescription":"<p>Ha a probl\u00e9ma tov\u00e1bbra is fenn\u00e1ll, k\u00e9rlek, \u00edrj nek\u00fcnk az elofizetes@forbes.hu c\u00edmre. K\u00e9rlek, a gyorsabb azonos\u00edt\u00e1s \u00e9rdek\u00e9ben add meg a rendel\u00e9s sz\u00e1m\u00e1t.<\/p>\n"},"forbes_authentication":{"privacyText":"<p>A regisztr\u00e1ci\u00f3val \u00d6n elfogadja a <a href=\"https:\/\/cdn.forbes.hu\/uploads\/2024\/07\/rev_Altalanos_adatkezelesi_tajekoztato_honlapra_Forbes_240715.pdf\">szem\u00e9lyes adatok kezel\u00e9s\u00e9nek felt\u00e9teleit \u00e9s elveit.<\/a><\/p>\n"}};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://forbes.hu/wp-content/themes/frontend/assets/js/react-data.js?ver=6.6.2" id="react-data-js"></script>
+<script type="text/javascript" src="https://forbes.hu/wp-content/plugins/dflip/assets/js/dflip.min.js?ver=2.3.58" id="dflip-script-js"></script>
+<script type="text/javascript" src="https://forbes.hu/wp-content/themes/frontend/minified-js/bootstrap/bootstrap.min.js?ver=/var/app/current/wp-content/themes/frontend/minified-js/bootstrap/bootstrap.min.js" id="bootstrap-script-js"></script>
+<script type="text/javascript" src="https://forbes.hu/wp-content/themes/frontend/minified-js/bootstrap/popper.min.js?ver=/var/app/current/wp-content/themes/frontend/minified-js/bootstrap/popper.min.js" id="popper-script-js"></script>
+<script data-cfasync="false"> var dFlipLocation = "https://forbes.hu/wp-content/plugins/dflip/assets/"; var dFlipWPGlobal = {"text":{"toggleSound":"Turn on\/off Sound","toggleThumbnails":"Toggle Thumbnails","thumbTitle":"Thumbnails","outlineTitle":"Table of Contents","searchTitle":"Search","searchPlaceHolder":"Search","toggleOutline":"Toggle Outline\/Bookmark","previousPage":"Previous Page","nextPage":"Next Page","toggleFullscreen":"Toggle Fullscreen","zoomIn":"Zoom In","zoomOut":"Zoom Out","toggleHelp":"Toggle Help","singlePageMode":"Single Page Mode","doublePageMode":"Double Page Mode","downloadPDFFile":"Download PDF File","gotoFirstPage":"Goto First Page","gotoLastPage":"Goto Last Page","share":"Share","search":"Search","print":"Print","mailSubject":"I wanted you to see this FlipBook","mailBody":"Check out this site {{url}}","loading":"Loading"},"viewerType":"flipbook","mobileViewerType":"reader","moreControls":"pageMode,sound,fullscreen,search","hideControls":"download,share,startPage,endPage","leftControls":"outline,thumbnail","rightControls":"fullScreen,share,download,more","hideShareControls":"","scrollWheel":"false","backgroundColor":"transparent","backgroundImage":"","height":"auto","paddingTop":"20","paddingBottom":"20","paddingLeft":"20","paddingRight":"20","controlsPosition":"bottom","controlsFloating":true,"direction":"1","duration":"800","soundEnable":"false","showDownloadControl":"false","showSearchControl":"true","showPrintControl":"false","enableAnalytics":"true","webgl":"true","hard":"none","autoEnableOutline":"false","autoEnableThumbnail":"false","pageScale":"fit","maxTextureSize":"3200","rangeChunkSize":"524288","disableRange":false,"zoomRatio":"1.5","fakeZoom":"3","flexibility":"1","pageMode":"0","singlePageMode":"0","pageSize":"0","autoPlay":"false","autoPlayDuration":"5000","autoPlayStart":"false","linkTarget":"2","sharePrefix":"flipbook-","pdfVersion":"default","thumbLayout":"book-title-hover","targetWindow":"_popup","buttonClass":"","hasSpiral":false,"spiralColor":"#eee","cover3DType":"none","color3DCover":"#aaaaaa","color3DSheets":"#fff","flipbook3DTiltAngleUp":"0","flipbook3DTiltAngleLeft":"0","autoPDFLinktoViewer":false,"sideMenuOverlay":true,"displayLightboxPlayIcon":false,"popupBackGroundColor":"#eee","shelfImage":"","enableAutoLinks":true};</script><style>.df-sheet .df-page:before { opacity: 0.5;}section.linkAnnotation a, a.linkAnnotation, .buttonWidgetAnnotation a, a.customLinkAnnotation, .customHtmlAnnotation, .customVideoAnnotation, a.df-autolink{background-color: #ff0; opacity: 0.2;}
+        section.linkAnnotation a:hover, a.linkAnnotation:hover, .buttonWidgetAnnotation a:hover, a.customLinkAnnotation:hover, .customHtmlAnnotation:hover, .customVideoAnnotation:hover, a.df-autolink:hover{background-color: #2196F3; opacity: 0.5;}.df-container.df-transparent.df-fullscreen{background-color: #eee;}  </style>
+	<script>
+		if (window.crm_user) {
+			document.body.classList.add('crm-user-exists', `crm-user-${window.crm_user.user.id}`);
+		}
+	</script>
+
+
+		<!-- Seznam ad zone -->
+
+		<div id="seznamAdZone" style="width: 100%; max-width: 100%"></div>
+
+        <script>
+	// Function to detect device type based on screen width
+	function isDesktop() {
+		return window.innerWidth >= 992;
+	}
+
+	let adCreated = false;  // Flag to track if the ad div has been created
+	let adsLoaded = false; // Global flag to ensure ads load only once
+
+	// Function to create an ad div inside the #seznamAdZone div
+	function createAdDiv(id) {
+		if (adCreated) return;  // Exit if the ad has already been created
+
+		const div = document.createElement('div');
+		div.id = id;
+		div.style.margin = '8rem auto 4rem auto';
+		div.style.maxWidth = '100%';
+
+		const adZone = document.getElementById('seznamAdZone');
+		if (adZone) {
+			adZone.appendChild(div);
+			adCreated = true;  // Mark that the ad has been created
+		} else {
+			console.error('Element with id "seznamAdZone" not found.');
+		}
+	}
+
+	// Function to reset the session cookie
+	function resetSessionCookie() {
+		if (typeof sssp !== 'undefined' && sssp.setSessionCookie) {
+			sssp.setSessionCookie();
+		} else {
+			console.error('sssp or sssp.setSessionCookie is not defined.');
+		}
+	}
+
+    // Function to handle ad loading after cookie reset
+    function loadAds() {
+        // Determine which ad zone to display based on device type
+        if (isDesktop()) {
+            createAdDiv('ssp-zone-350260'); // Create desktop ad div
+            // Fetch and display Seznam ads for desktop
+            sssp.getAds([
+                {
+                    "zoneId": 350260, // unique identifier of the advertising zone
+                    "id": "ssp-zone-350260", // ID of the element where the ad is displayed
+                    "width": 970 // maximum width of the ad in the zone
+                }
+            ]);
+        } else {
+            createAdDiv('ssp-zone-350263'); // Create mobile ad div
+            // Fetch and display Seznam ads for mobile
+            sssp.getAds([
+                {
+                    "zoneId": 350263, // unique identifier of the advertising zone
+                    "id": "ssp-zone-350263", // ID of the element where the ad is displayed
+                    "width": 480 // maximum width of the ad in the zone
+                }
+            ]);
+        }
+    }
+
+	(function initAdLoading() {
+		function checkConsentAndLoadAds() {
+			// Exit early if ads are already loaded
+			if (adsLoaded) return;
+
+			if (window.Cookiebot && window.Cookiebot.consent) {
+				// Check if the user has given consent for marketing cookies
+				if (window.Cookiebot.consent.marketing) {
+					// Check if the visitor comes from a Seznam session
+					if (typeof sssp !== 'undefined' && sssp.displaySeznamAds()) {
+						loadAds();
+						adsLoaded = true; // Stop further checks after ads have been loaded
+					}
+				}
+			}
+
+			// Continue checking every 500ms only if ads haven't been loaded
+			if (!adsLoaded) {
+				setTimeout(checkConsentAndLoadAds, 500);
+			}
+		}
+
+		// Event handler for when consent is initially determined
+		function onConsentReady() {
+			checkConsentAndLoadAds();
+		}
+
+		// Event handler for any consent change
+		function onConsentChange() {
+			checkConsentAndLoadAds();
+		}
+
+		// Add the event listeners
+		window.addEventListener('CookiebotOnConsentReady', onConsentReady);
+		window.addEventListener('CookieConsent', onConsentChange);
+
+		// Start the consent check loop
+		checkConsentAndLoadAds();
+	})();
+</script>
+
+		
+<script>
+	document.addEventListener('DOMContentLoaded', (event) => {
+		var currentUrl = window.location.href;
+		var footerLinks = document.querySelectorAll('.footer__link');
+
+		footerLinks.forEach(function(link) {
+			if (link.href === currentUrl) {
+				link.classList.add('active');
+			}
+		});
+	});
+</script>
+
+<footer class="footer">
+
+	<div class="container">
+
+		<div class="footer__wrapper">
+
+			<div class="row">
+
+				<div class="col-lg-2 col-md-3 col-12">
+
+					<div class="footer__logo-wrapper">
+
+            <a class="main-logo" href="/"><img class="main-logo__image h-object-fit--contain" src="https://forbes.hu/wp-content/themes/frontend/assets/logos/hu/main.svg" alt="Forbes"><img class="main-logo__image main-logo__image--dark h-object-fit--contain" src="https://forbes.hu/wp-content/themes/frontend/assets/logos/hu/main-white.svg" alt="Forbes"></a>
+					</div>
+
+				</div>
+
+				<div class="col-lg-5 col-md-6 col-12">
+
+					<div class="footer__links-wrapper">
+
+						<div class="footer__section">
+
+							
+								<h4 class="h4-noto heading">Rovatok</h4>
+
+									<ul class="footer__links-list footer__links-list--first">
+
+										
+											
+												
+												<li class="footer__link-wrapper">
+
+													<a class="footer__link basic-14" href="https://forbes.hu/rovat/podcast/">
+
+														Podcast
+													</a>
+
+												</li>
+
+											
+										
+											
+												
+												<li class="footer__link-wrapper">
+
+													<a class="footer__link basic-14" href="https://forbes.hu/rovat/uzlet/">
+
+														Üzlet
+													</a>
+
+												</li>
+
+											
+										
+											
+												
+												<li class="footer__link-wrapper">
+
+													<a class="footer__link basic-14" href="https://forbes.hu/rovat/penz/">
+
+														Pénz
+													</a>
+
+												</li>
+
+											
+										
+											
+												
+												<li class="footer__link-wrapper">
+
+													<a class="footer__link basic-14" href="https://forbes.hu/rovat/legyel-jobb/">
+
+														Legyél jobb
+													</a>
+
+												</li>
+
+											
+										
+											
+												
+												<li class="footer__link-wrapper">
+
+													<a class="footer__link basic-14" href="https://forbes.hu/rovat/a-jo-elet/">
+
+														A jó élet
+													</a>
+
+												</li>
+
+											
+										
+											
+												
+												<li class="footer__link-wrapper">
+
+													<a class="footer__link basic-14" href="https://forbes.hu/cimke/women/">
+
+														Women
+													</a>
+
+												</li>
+
+											
+										
+											
+												
+												<li class="footer__link-wrapper">
+
+													<a class="footer__link basic-14" href="https://forbes.hu/rovat/napi-cimlap/">
+
+														Napi címlap
+													</a>
+
+												</li>
+
+											
+										
+									</ul>
+
+								
+						</div>
+
+					</div>
+
+				</div>
+
+				<div class="col-lg-3 col-md-3 col-6">
+
+					<div class="footer__links-wrapper">
+
+						<div class="footer__section">
+
+							
+								<h4 class="h4-noto heading">Oldalak</h4>
+
+									<ul class="footer__links-list footer__links-list--second">
+
+										
+											
+												
+												<li class="footer__link-wrapper">
+
+													<a class="footer__link basic-14" href="https://forbes.hu/a-nyomtatott-kiadasok-archivuma/#all">
+
+														A magazin
+													</a>
+
+												</li>
+
+											
+										
+											
+												
+												<li class="footer__link-wrapper">
+
+													<a class="footer__link basic-14" href="https://forbes.hu/elofizetes">
+
+														Előfizetés
+													</a>
+
+												</li>
+
+											
+										
+											
+												
+												<li class="footer__link-wrapper">
+
+													<a class="footer__link basic-14" href="https://forbes.hu/esemenyek/">
+
+														Esemény
+													</a>
+
+												</li>
+
+											
+										
+											
+												
+												<li class="footer__link-wrapper">
+
+													<a class="footer__link basic-14" href="https://forbes.hu/kapcsolat">
+
+														Kapcsolat
+													</a>
+
+												</li>
+
+											
+										
+											
+												
+												<li class="footer__link-wrapper">
+
+													<a class="footer__link basic-14" href="https://forbes.hu/konyvek">
+
+														Könyvek a Forbes ajánlásával
+													</a>
+
+												</li>
+
+											
+										
+											
+												
+												<li class="footer__link-wrapper">
+
+													<a class="footer__link basic-14" href="https://forbes.hu/impresszum/">
+
+														Impresszum
+													</a>
+
+												</li>
+
+											
+										
+											
+												
+												<li class="footer__link-wrapper">
+
+													<a class="footer__link basic-14" href="https://forbes.hu/igy-dolgozunk/">
+
+														Így dolgozunk
+													</a>
+
+												</li>
+
+											
+										
+									</ul>
+
+								
+						</div>
+
+					</div>
+
+				</div>
+
+				<div class="col-lg-2 col-md-9 col-6">
+
+					<div class="footer__links-wrapper">
+
+						<div class="footer__section">
+
+							
+								<h4 class="h4-noto heading">&nbsp;</h4>
+
+									<ul class="footer__links-list footer__links-list--third">
+
+										
+											
+												
+												<li class="footer__link-wrapper">
+
+													<a class="footer__link basic-14" href="https://forbes.hu/mediaajanlat/">
+
+														Médiaajanlat
+													</a>
+
+												</li>
+
+											
+										
+											
+												
+												<li class="footer__link-wrapper">
+
+													<a class="footer__link basic-14" href="https://forbes.hu/documents/mediarey-elofizetoi-aszf.pdf">
+
+														Előfizetői ÁSZF
+													</a>
+
+												</li>
+
+											
+										
+											
+												
+												<li class="footer__link-wrapper">
+
+													<a class="footer__link basic-14" href="https://forbes.hu/documents/forbes-aszf-melleklet.pdf">
+
+														ÁSZF Melléklet
+													</a>
+
+												</li>
+
+											
+										
+											
+												
+												<li class="footer__link-wrapper">
+
+													<a class="footer__link basic-14" href="https://cdn.forbes.hu/uploads/2022/04/ASZFonlineprint-2.pdf">
+
+														Hirdetési ÁSZF
+													</a>
+
+												</li>
+
+											
+										
+											
+												
+												<li class="footer__link-wrapper">
+
+													<a class="footer__link basic-14" href="https://cdn.forbes.hu/uploads/2025/05/Rendezveny_aszf.pdf">
+
+														Rendezveny ÁSZF
+													</a>
+
+												</li>
+
+											
+										
+											
+												
+												<li class="footer__link-wrapper">
+
+													<a class="footer__link basic-14" href="https://forbes.hu/rovat/tamogatoi-tartalom/">
+
+														Támogatói tartalom
+													</a>
+
+												</li>
+
+											
+										
+									</ul>
+
+								
+						</div>
+
+					</div>
+
+				</div>
+
+			</div>
+
+                            <div class="footer__data-handling-wrapper" style="margin-top: 3.2rem;">
+
+                    <a href="https://cdn.forbes.hu/uploads/2022/04/Fizetesi_tajekoztato-2.pdf" class="footer__image-wrapper" style="margin-bottom: 2.4rem; display: block;
+                    width: 36rem; height: auto;">
+                        <img width="0" src="https://cdn.forbes.hu/uploads/2022/04/simple-removebg-preview-1.webp?r=eyJ3Ijo1MDAsInEiOjk1LCJzIjoicG5nIn0%3D"
+                             class="footer__simple-pay-image" alt="Simple Pay" decoding="async" style="width: 100%;"> </a>
+
+                    <div class="footer__data-content-wrapper" style="display: flex; flex-direction: column;">
+
+						<a href="https://cdn.forbes.hu/uploads/2025/07/2025.07.25._Adatkezelesi_Forbes_altalanos_javitott.pdf"
+                           class="footer__data-handling cta-link-tag">
+							Adatvédelmi és adatkezelési tájékoztató (aktuális) </a>
+
+						<a href="https://cdn.forbes.hu/uploads/2025/07/altalanos_adatkezelesi_tajekoztato_Forbeshu_2022-1.pdf"
+						   class="footer__data-handling cta-link-tag">
+							Adatvédelmi és adatkezelési tájékoztató (2019-2025) </a>
+
+						<a href="https://cdn.forbes.hu/uploads/2025/11/2025.10.21_sajtoadatkezeles-tajekozato_Mediarey_Forbes.pdf"
+						   class="footer__data-handling cta-link-tag">
+							Médiatartalom-szolgáltatói tevékenységre vonatkozó adatkezelési tájékoztató (aktuális) </a>
+
+						<a href="https://cdn.forbes.hu/uploads/2025/07/AK_02_2025.07.22_sajtoadatkezeles-tajekozato-mediatartalom.pdf"
+						   class="footer__data-handling cta-link-tag">
+							Médiatartalom-szolgáltatói tevékenységre vonatkozó adatkezelési tájékoztató (érvényes 2025. októberig) </a>
+
+						<span class="footer__data-registration-number cta-link-tag">Adatkezelési nyilvántartási szám: NAIH-78438/2014</span>
+
+                    </div>
+
+                </div>
+            
+		</div>
+
+	</div>
+
+	<div class="footer__bottom">
+		<div class="container">
+
+			<div class="footer__bottom-wrapper">
+				
+                                    <p class="footer__copyright-text basic-14">Copyright © Mediarey Hungary Services Zrt. </p>
+                
+				
+					<div class="footer__social-media-wrapper">
+
+						
+							<a href="https://www.facebook.com/ForbesMagyarorszag" target="_blank" rel="noopener nofollow" class="footer__social-media basic-14">Facebook</a>
+
+						
+							<a href="https://www.linkedin.com/company/forbes-magyarorsz%C3%A1g/?originalSubdomain=ie" target="_blank" rel="noopener nofollow" class="footer__social-media basic-14">LinkedIn</a>
+
+						
+							<a href="https://www.instagram.com/forbeshungary/" target="_blank" rel="noopener nofollow" class="footer__social-media basic-14">Instagram</a>
+
+						
+					</div>
+
+							</div>
+
+		</div>
+	</div>
+
+</footer>
+
+        			<div class="googlead--mobile-popup-wrapper googlead-container">
+				<div class="mobile-popup-close">
+				</div>
+				<div id="mobile-popup-ad" class="googlead--mobile-popup-ad googlead"></div>
+			</div>
+		
+		<div id="remp-banner-newsletter" class="remp-banner remp-banner__newsletter banner-placeholder">
+		</div>
+		<div id="remp-banner-full-width" class="remp-banner remp-banner__full-width banner-placeholder">
+		</div>
+		<div id="remp-banner-snackbar" class="remp-banner remp-banner__snackbar banner-placeholder">
+		</div>
+		<div id="remp-banner-overlay-1" class="remp-banner remp-banner__overlay-1 banner-placeholder">
+		</div>
+		<div id="remp-banner-overlay-2" class="remp-banner remp-banner__overlay-2 banner-placeholder">
+		</div>
+
+
+		</div>
+
+		<div class="notifications">
+	<!-- Notification snackbars are rendered here dynamically from JS script -->
+</div>
+
+		
+
+		
+
+<script>
+	window.dataLayer = window.dataLayer || [];
+	window.dataLayer.push({
+		'PageTitle': 'A nyári foci vb-ig Magyarországra is elhozza a világ legkülönlegesebb tévéjét az LG, mutatjuk mit tud',
+		'PageType': 'article',
+	});
+
+
+
+	function containsObject(arr, obj) {
+		for (let i = 0; i < arr.length; i++) {
+			if (JSON.stringify(arr[i]) === JSON.stringify(obj)) {
+				return true;
+			}
+		}
+		return false;
+	}
+
+	window.postData = window.postData || {};
+	if (!containsObject(window.dataLayer, window.postData)) {
+		window.dataLayer.push(window.postData);
+	}
+</script>
+<!-- BrandVoice and Advoice Modal -->
+    
+		<div id="react-login-modal" class=""></div>
+	</body>
+</html>
