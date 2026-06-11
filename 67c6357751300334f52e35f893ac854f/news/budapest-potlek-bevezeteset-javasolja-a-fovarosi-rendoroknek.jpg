@@ -1,0 +1,814 @@
+<!DOCTYPE html>
+<html lang="hu">
+<head>
+	<meta charset="UTF-8" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<link rel="pingback" href="https://sopronitamas.hu/xmlrpc.php" />
+
+	<script type="text/javascript">
+		document.documentElement.className = 'js';
+	</script>
+
+	<script>var et_site_url='https://sopronitamas.hu';var et_post_id='510';function et_core_page_resource_fallback(a,b){"undefined"===typeof b&&(b=a.sheet.cssRules&&0===a.sheet.cssRules.length);b&&(a.onerror=null,a.onload=null,a.href?a.href=et_site_url+"/?et_core_page_resource="+a.id+et_post_id:a.src&&(a.src=et_site_url+"/?et_core_page_resource="+a.id+et_post_id))}
+</script><title>Főoldal - Soproni Tamás</title>
+<meta name='robots' content='max-image-preview:large' />
+
+<!-- This site is optimized with the Yoast SEO plugin v11.6 - https://yoast.com/wordpress/plugins/seo/ -->
+<link rel="canonical" href="https://sopronitamas.hu/" />
+<meta property="og:locale" content="hu_HU" />
+<meta property="og:type" content="website" />
+<meta property="og:title" content="Főoldal - Soproni Tamás" />
+<meta property="og:url" content="https://sopronitamas.hu/" />
+<meta property="og:site_name" content="Soproni Tamás" />
+<meta property="og:image" content="https://sopronitamas.hu/wp-content/uploads/2024/03/soproni-tamas.jpg" />
+<meta property="og:image:secure_url" content="https://sopronitamas.hu/wp-content/uploads/2024/03/soproni-tamas.jpg" />
+<meta property="og:image:width" content="1200" />
+<meta property="og:image:height" content="628" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:title" content="Főoldal - Soproni Tamás" />
+<meta name="twitter:image" content="https://sopronitamas.hu/wp-content/uploads/2024/03/soproni-tamas.jpg" />
+<script type='application/ld+json' class='yoast-schema-graph yoast-schema-graph--main'>{"@context":"https://schema.org","@graph":[{"@type":"WebSite","@id":"https://sopronitamas.hu/#website","url":"https://sopronitamas.hu/","name":"Soproni Tam\u00e1s","potentialAction":{"@type":"SearchAction","target":"https://sopronitamas.hu/?s={search_term_string}","query-input":"required name=search_term_string"}},{"@type":"ImageObject","@id":"https://sopronitamas.hu/#primaryimage","url":"https://sopronitamas.hu/wp-content/uploads/2024/03/soproni-tamas.jpg","width":1200,"height":628},{"@type":"WebPage","@id":"https://sopronitamas.hu/#webpage","url":"https://sopronitamas.hu/","inLanguage":"hu","name":"F\u0151oldal - Soproni Tam\u00e1s","isPartOf":{"@id":"https://sopronitamas.hu/#website"},"primaryImageOfPage":{"@id":"https://sopronitamas.hu/#primaryimage"},"datePublished":"2024-03-19T10:42:13+01:00","dateModified":"2025-11-17T09:02:20+01:00"}]}</script>
+<!-- / Yoast SEO plugin. -->
+
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel="alternate" type="application/rss+xml" title="Soproni Tamás &raquo; hírcsatorna" href="https://sopronitamas.hu/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Soproni Tamás &raquo; hozzászólás hírcsatorna" href="https://sopronitamas.hu/comments/feed/" />
+<script type="text/javascript">
+/* <![CDATA[ */
+window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/14.0.0\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/14.0.0\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/sopronitamas.hu\/wp-includes\/js\/wp-emoji-release.min.js?ver=6.4.8"}};
+/*! This file is auto-generated */
+!function(i,n){var o,s,e;function c(e){try{var t={supportTests:e,timestamp:(new Date).valueOf()};sessionStorage.setItem(o,JSON.stringify(t))}catch(e){}}function p(e,t,n){e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(t,0,0);var t=new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data),r=(e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(n,0,0),new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data));return t.every(function(e,t){return e===r[t]})}function u(e,t,n){switch(t){case"flag":return n(e,"\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f","\ud83c\udff3\ufe0f\u200b\u26a7\ufe0f")?!1:!n(e,"\ud83c\uddfa\ud83c\uddf3","\ud83c\uddfa\u200b\ud83c\uddf3")&&!n(e,"\ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc65\udb40\udc6e\udb40\udc67\udb40\udc7f","\ud83c\udff4\u200b\udb40\udc67\u200b\udb40\udc62\u200b\udb40\udc65\u200b\udb40\udc6e\u200b\udb40\udc67\u200b\udb40\udc7f");case"emoji":return!n(e,"\ud83e\udef1\ud83c\udffb\u200d\ud83e\udef2\ud83c\udfff","\ud83e\udef1\ud83c\udffb\u200b\ud83e\udef2\ud83c\udfff")}return!1}function f(e,t,n){var r="undefined"!=typeof WorkerGlobalScope&&self instanceof WorkerGlobalScope?new OffscreenCanvas(300,150):i.createElement("canvas"),a=r.getContext("2d",{willReadFrequently:!0}),o=(a.textBaseline="top",a.font="600 32px Arial",{});return e.forEach(function(e){o[e]=t(a,e,n)}),o}function t(e){var t=i.createElement("script");t.src=e,t.defer=!0,i.head.appendChild(t)}"undefined"!=typeof Promise&&(o="wpEmojiSettingsSupports",s=["flag","emoji"],n.supports={everything:!0,everythingExceptFlag:!0},e=new Promise(function(e){i.addEventListener("DOMContentLoaded",e,{once:!0})}),new Promise(function(t){var n=function(){try{var e=JSON.parse(sessionStorage.getItem(o));if("object"==typeof e&&"number"==typeof e.timestamp&&(new Date).valueOf()<e.timestamp+604800&&"object"==typeof e.supportTests)return e.supportTests}catch(e){}return null}();if(!n){if("undefined"!=typeof Worker&&"undefined"!=typeof OffscreenCanvas&&"undefined"!=typeof URL&&URL.createObjectURL&&"undefined"!=typeof Blob)try{var e="postMessage("+f.toString()+"("+[JSON.stringify(s),u.toString(),p.toString()].join(",")+"));",r=new Blob([e],{type:"text/javascript"}),a=new Worker(URL.createObjectURL(r),{name:"wpTestEmojiSupports"});return void(a.onmessage=function(e){c(n=e.data),a.terminate(),t(n)})}catch(e){}c(n=f(s,u,p))}t(n)}).then(function(e){for(var t in e)n.supports[t]=e[t],n.supports.everything=n.supports.everything&&n.supports[t],"flag"!==t&&(n.supports.everythingExceptFlag=n.supports.everythingExceptFlag&&n.supports[t]);n.supports.everythingExceptFlag=n.supports.everythingExceptFlag&&!n.supports.flag,n.DOMReady=!1,n.readyCallback=function(){n.DOMReady=!0}}).then(function(){return e}).then(function(){var e;n.supports.everything||(n.readyCallback(),(e=n.source||{}).concatemoji?t(e.concatemoji):e.wpemoji&&e.twemoji&&(t(e.twemoji),t(e.wpemoji)))}))}((window,document),window._wpemojiSettings);
+/* ]]> */
+</script>
+<meta content="Divi v.3.25.4" name="generator"/><link rel='stylesheet' id='ags-divi-icons-css' href='https://sopronitamas.hu/wp-content/plugins/ds-icon-expansion-pack/css/icons.css?ver=1.0.0' type='text/css' media='all' />
+<style id='wp-emoji-styles-inline-css' type='text/css'>
+
+	img.wp-smiley, img.emoji {
+		display: inline !important;
+		border: none !important;
+		box-shadow: none !important;
+		height: 1em !important;
+		width: 1em !important;
+		margin: 0 0.07em !important;
+		vertical-align: -0.1em !important;
+		background: none !important;
+		padding: 0 !important;
+	}
+</style>
+<style id='classic-theme-styles-inline-css' type='text/css'>
+/*! This file is auto-generated */
+.wp-block-button__link{color:#fff;background-color:#32373c;border-radius:9999px;box-shadow:none;text-decoration:none;padding:calc(.667em + 2px) calc(1.333em + 2px);font-size:1.125em}.wp-block-file__button{background:#32373c;color:#fff;text-decoration:none}
+</style>
+<style id='global-styles-inline-css' type='text/css'>
+body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgba(255, 255, 255, 1), 6px 6px rgba(0, 0, 0, 1);--wp--preset--shadow--crisp: 6px 6px 0px rgba(0, 0, 0, 1);}:where(.is-layout-flex){gap: 0.5em;}:where(.is-layout-grid){gap: 0.5em;}body .is-layout-flow > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-flow > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-flow > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-constrained > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-constrained > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > :where(:not(.alignleft):not(.alignright):not(.alignfull)){max-width: var(--wp--style--global--content-size);margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignwide{max-width: var(--wp--style--global--wide-size);}body .is-layout-flex{display: flex;}body .is-layout-flex{flex-wrap: wrap;align-items: center;}body .is-layout-flex > *{margin: 0;}body .is-layout-grid{display: grid;}body .is-layout-grid > *{margin: 0;}:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+.wp-block-navigation a:where(:not(.wp-element-button)){color: inherit;}
+:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}
+:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}
+.wp-block-pullquote{font-size: 1.5em;line-height: 1.6;}
+</style>
+<link rel='stylesheet' id='css-divi-popup-css' href='https://sopronitamas.hu/wp-content/plugins/popups-for-divi/css/front.css?ver=1.6.3' type='text/css' media='all' />
+<style id='css-divi-popup-inline-css' type='text/css'>
+.et_pb_section.popup{display:none}
+</style>
+<link rel='stylesheet' id='divi-style-css' href='https://sopronitamas.hu/wp-content/themes/Divi/style.css?ver=3.25.4' type='text/css' media='all' />
+<link rel='stylesheet' id='et-builder-googlefonts-cached-css' href='https://fonts.googleapis.com/css?family=Raleway%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2Cregular%2Citalic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CMontserrat%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2Cregular%2Citalic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&#038;ver=6.4.8#038;subset=latin,latin-ext' type='text/css' media='all' />
+<link rel='stylesheet' id='wpforms-choicesjs-css' href='https://sopronitamas.hu/wp-content/plugins/wpforms-lite/assets/css/integrations/divi/choices.min.css?ver=9.0.1' type='text/css' media='all' />
+<link rel='stylesheet' id='dashicons-css' href='https://sopronitamas.hu/wp-includes/css/dashicons.min.css?ver=6.4.8' type='text/css' media='all' />
+<script>if (document.location.protocol != "https:") {document.location = document.URL.replace(/^http:/i, "https:");}</script><script type="text/javascript" src="https://sopronitamas.hu/wp-includes/js/jquery/jquery.min.js?ver=3.7.1" id="jquery-core-js"></script>
+<script type="text/javascript" src="https://sopronitamas.hu/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1" id="jquery-migrate-js"></script>
+<script type="text/javascript" id="ags-divi-icons-js-extra">
+/* <![CDATA[ */
+var ags_divi_icons_config = {"pluginDirUrl":"https:\/\/sopronitamas.hu\/wp-content\/plugins\/ds-icon-expansion-pack"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://sopronitamas.hu/wp-content/plugins/ds-icon-expansion-pack/js/icons.js?ver=1.0.0" id="ags-divi-icons-js"></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://sopronitamas.hu/xmlrpc.php?rsd" />
+<meta name="generator" content="WordPress 6.4.8" />
+<link rel='shortlink' href='https://sopronitamas.hu/' />
+<link rel="alternate" type="application/json+oembed" href="https://sopronitamas.hu/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fsopronitamas.hu%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://sopronitamas.hu/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fsopronitamas.hu%2F&#038;format=xml" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" /><script type="text/javascript" src="//script.crazyegg.com/pages/scripts/0084/9202.js" async="async"></script><meta name="google-site-verification" content="no9bmryyUEgu6nvrW4503_drvQXTIkFYcF5vkcRQe7Y"><link rel="icon" href="https://sopronitamas.hu/wp-content/uploads/2019/07/cropped-Momentum_thumbpic4-32x32.jpg" sizes="32x32" />
+<link rel="icon" href="https://sopronitamas.hu/wp-content/uploads/2019/07/cropped-Momentum_thumbpic4-192x192.jpg" sizes="192x192" />
+<link rel="apple-touch-icon" href="https://sopronitamas.hu/wp-content/uploads/2019/07/cropped-Momentum_thumbpic4-180x180.jpg" />
+<meta name="msapplication-TileImage" content="https://sopronitamas.hu/wp-content/uploads/2019/07/cropped-Momentum_thumbpic4-270x270.jpg" />
+		<!-- Facebook Pixel Code -->
+		<script>
+						!function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+				n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;
+				n.push=n;n.loaded=!0;n.version='2.0';n.agent='dvpixelcaffeinewordpress';n.queue=[];t=b.createElement(e);t.async=!0;
+				t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,
+				document,'script','https://connect.facebook.net/en_US/fbevents.js');
+			
+			var aepc_pixel = {"pixel_id":"2427254804187205","user":[],"enable_advanced_events":"yes","fire_delay":"0"},
+				aepc_pixel_args = [],
+				aepc_extend_args = function( args ) {
+					if ( typeof args === 'undefined' ) {
+						args = {};
+					}
+
+					for(var key in aepc_pixel_args)
+						args[key] = aepc_pixel_args[key];
+
+					return args;
+				};
+
+			// Extend args
+			if ( 'yes' === aepc_pixel.enable_advanced_events ) {
+				aepc_pixel_args.userAgent = navigator.userAgent;
+				aepc_pixel_args.language = navigator.language;
+
+				if ( document.referrer.indexOf( document.domain ) < 0 ) {
+					aepc_pixel_args.referrer = document.referrer;
+				}
+			}
+
+			fbq('init', aepc_pixel.pixel_id, aepc_pixel.user);
+
+						setTimeout( function() {
+				fbq('track', "PageView", aepc_pixel_args);
+			}, aepc_pixel.fire_delay * 1000 );
+		</script>
+				<noscript><img height="1" width="1" style="display:none"
+		               src="https://www.facebook.com/tr?id=2427254804187205&ev=PageView&noscript=1"
+			/></noscript>
+				<!-- End Facebook Pixel Code -->
+		<link rel="stylesheet" id="et-core-unified-cached-inline-styles" href="https://sopronitamas.hu/wp-content/cache/et/510/et-core-unified-1781094039537.min.css" onerror="et_core_page_resource_fallback(this, true)" onload="et_core_page_resource_fallback(this)" /><style id="wpforms-css-vars-root">
+				:root {
+					--wpforms-field-border-radius: 3px;
+--wpforms-field-background-color: #ffffff;
+--wpforms-field-border-color: rgba( 0, 0, 0, 0.25 );
+--wpforms-field-text-color: rgba( 0, 0, 0, 0.7 );
+--wpforms-label-color: rgba( 0, 0, 0, 0.85 );
+--wpforms-label-sublabel-color: rgba( 0, 0, 0, 0.55 );
+--wpforms-label-error-color: #d63637;
+--wpforms-button-border-radius: 3px;
+--wpforms-button-background-color: #066aab;
+--wpforms-button-text-color: #ffffff;
+--wpforms-page-break-color: #066aab;
+--wpforms-field-size-input-height: 43px;
+--wpforms-field-size-input-spacing: 15px;
+--wpforms-field-size-font-size: 16px;
+--wpforms-field-size-line-height: 19px;
+--wpforms-field-size-padding-h: 14px;
+--wpforms-field-size-checkbox-size: 16px;
+--wpforms-field-size-sublabel-spacing: 5px;
+--wpforms-field-size-icon-size: 1;
+--wpforms-label-size-font-size: 16px;
+--wpforms-label-size-line-height: 19px;
+--wpforms-label-size-sublabel-font-size: 14px;
+--wpforms-label-size-sublabel-line-height: 17px;
+--wpforms-button-size-font-size: 17px;
+--wpforms-button-size-height: 41px;
+--wpforms-button-size-padding-h: 15px;
+--wpforms-button-size-margin-top: 10px;
+
+				}
+			</style></head>
+<body data-rsssl=1 class="home page-template-default page page-id-510 et_bloom et_pb_button_helper_class et_non_fixed_nav et_show_nav et_cover_background et_pb_gutter windows et_pb_gutters3 et_primary_nav_dropdown_animation_fade et_secondary_nav_dropdown_animation_fade et_pb_footer_columns4 et_header_style_left et_pb_pagebuilder_layout et_right_sidebar et_divi_theme et-db et_minified_js et_minified_css">
+	<div id="page-container">
+
+	
+	
+			<header id="main-header" data-height-onload="66">
+			<div class="container clearfix et_menu_container">
+							<div class="logo_container">
+					<span class="logo_helper"></span>
+					<a href="https://sopronitamas.hu/">
+						<img src="https://sopronitamas.hu/wp-content/themes/Divi/images/logo.png" alt="Soproni Tamás" id="logo" data-height-percentage="54" />
+					</a>
+				</div>
+							<div id="et-top-navigation" data-height="66" data-fixed-height="40">
+											<nav id="top-menu-nav">
+													<ul id="top-menu" class="nav">
+																	<li ><a href="https://sopronitamas.hu/">Kezdőlap</a></li>
+								
+								<li class="page_item page-item-510 current_page_item"><a href="https://sopronitamas.hu/" aria-current="page">Főoldal</a></li>
+<li class="page_item page-item-496"><a href="https://sopronitamas.hu/koszonolap/">soproni2019</a></li>
+<li class="page_item page-item-8"><a href="https://sopronitamas.hu/soproni2019/">soproni2019BKP</a></li>
+									<li class="cat-item cat-item-1"><a href="https://sopronitamas.hu/category/uncategorized/">Uncategorized</a>
+</li>
+							</ul>
+												</nav>
+					
+					
+					
+					
+					<div id="et_mobile_nav_menu">
+				<div class="mobile_nav closed">
+					<span class="select_page">Oldal kiválasztása</span>
+					<span class="mobile_menu_bar mobile_menu_bar_toggle"></span>
+				</div>
+			</div>				</div> <!-- #et-top-navigation -->
+			</div> <!-- .container -->
+			<div class="et_search_outer">
+				<div class="container et_search_form_container">
+					<form role="search" method="get" class="et-search-form" action="https://sopronitamas.hu/">
+					<input type="search" class="et-search-field" placeholder="Keresés &hellip;" value="" name="s" title="Keresés erre:" />					</form>
+					<span class="et_close_search_field"></span>
+				</div>
+			</div>
+		</header> <!-- #main-header -->
+			<div id="et-main-area">
+	
+<div id="main-content">
+
+
+			
+				<article id="post-510" class="post-510 page type-page status-publish has-post-thumbnail hentry">
+
+				
+					<div class="entry-content">
+					<div id="et-boc" class="et-boc">
+			
+			<div class="et_builder_inner_content et_pb_gutters3">
+				<div class="et_pb_section et_pb_section_0 et_pb_with_background et_section_regular">
+				
+				
+				
+				
+					<div class="et_pb_row et_pb_row_0 et_pb_gutters1">
+				<div class="et_pb_column et_pb_column_1_5 et_pb_column_0  et_pb_css_mix_blend_mode_passthrough">
+				
+				
+				<div class="et_pb_module et_pb_image et_pb_image_0">
+				
+				
+				<span class="et_pb_image_wrap "><img decoding="async" src="https://sopronitamas.hu/wp-content/uploads/2024/03/Momentum-logo2_feher.png" alt="" title="Momentum-logo2_feher" /></span>
+			</div>
+			</div> <!-- .et_pb_column --><div class="et_pb_column et_pb_column_1_5 et_pb_column_1  et_pb_css_mix_blend_mode_passthrough">
+				
+				
+				<div class="et_pb_module et_pb_image et_pb_image_1">
+				
+				
+				<span class="et_pb_image_wrap "><img decoding="async" src="https://sopronitamas.hu/wp-content/uploads/2024/03/terezvaros.png" alt="" title="terezvaros" /></span>
+			</div>
+			</div> <!-- .et_pb_column --><div class="et_pb_column et_pb_column_3_5 et_pb_column_2  et_pb_css_mix_blend_mode_passthrough">
+				
+				
+				<div class="et_pb_module et_pb_text et_pb_text_0 et_pb_bg_layout_light  et_pb_text_align_right et_pb_text_align_center-phone">
+				
+				
+				<div class="et_pb_text_inner">
+					<a href="#bemutatkozas">Bemutatkozás</a> <a href="#ugyeim">Sikereink</a>
+				</div>
+			</div> <!-- .et_pb_text -->
+			</div> <!-- .et_pb_column -->
+				
+				
+			</div> <!-- .et_pb_row --><div class="et_pb_row et_pb_row_1 et_pb_gutters1">
+				<div class="et_pb_column et_pb_column_3_5 et_pb_column_3  et_pb_css_mix_blend_mode_passthrough">
+				
+				
+				<div class="et_pb_module et_pb_text et_pb_text_1 et_pb_bg_layout_light  et_pb_text_align_left">
+				
+				
+				<div class="et_pb_text_inner">
+					<h1>Soproni Tamás</h1>
+<h2>Terézváros polgármestere<s></s></h2>
+				</div>
+			</div> <!-- .et_pb_text --><div class="et_pb_module et_pb_text et_pb_text_2 et_pb_bg_layout_light  et_pb_text_align_left">
+				
+				
+				<div class="et_pb_text_inner">
+					<h4>Elérhetőségek:</h4>
+<p>Telefon: +36 1 351 7967<br />
+E-mail: polgarmester@terezvaros.hu
+				</div>
+			</div> <!-- .et_pb_text -->
+			</div> <!-- .et_pb_column --><div class="et_pb_column et_pb_column_2_5 et_pb_column_4  et_pb_css_mix_blend_mode_passthrough">
+				
+				
+				<div class="et_pb_module et_pb_image et_pb_image_2">
+				
+				
+				<span class="et_pb_image_wrap "><img decoding="async" src="https://sopronitamas.hu/wp-content/uploads/2024/03/soproni-tamas.png" alt="Soproni Tamás" title="Soproni Tamás" /></span>
+			</div>
+			</div> <!-- .et_pb_column -->
+				
+				
+			</div> <!-- .et_pb_row -->
+				
+				
+			</div> <!-- .et_pb_section --><div class="et_pb_section et_pb_section_1 et_pb_with_background et_section_regular">
+				
+				
+				
+				
+					<div class="et_pb_row et_pb_row_2">
+				<div class="et_pb_column et_pb_column_4_4 et_pb_column_5  et_pb_css_mix_blend_mode_passthrough et-last-child">
+				
+				
+				<div class="et_pb_module et_pb_text et_pb_text_3 et_pb_bg_layout_light  et_pb_text_align_center">
+				
+				
+				<div class="et_pb_text_inner">
+					<p>Fák. Rend. Soproni.</p>
+				</div>
+			</div> <!-- .et_pb_text -->
+			</div> <!-- .et_pb_column -->
+				
+				
+			</div> <!-- .et_pb_row -->
+				
+				
+			</div> <!-- .et_pb_section --><div class="et_pb_section et_pb_section_2 et_pb_with_background et_section_regular">
+				
+				
+				
+				
+					<div class="et_pb_row et_pb_row_3">
+				<div class="et_pb_column et_pb_column_4_4 et_pb_column_6  et_pb_css_mix_blend_mode_passthrough et-last-child">
+				
+				
+				<div id="bemutatkozas" class="et_pb_module et_pb_text et_pb_text_4 et_pb_bg_layout_light  et_pb_text_align_left">
+				
+				
+				<div class="et_pb_text_inner">
+					<h2>Bemutatkozás</h2>
+				</div>
+			</div> <!-- .et_pb_text -->
+			</div> <!-- .et_pb_column -->
+				
+				
+			</div> <!-- .et_pb_row --><div class="et_pb_row et_pb_row_4">
+				<div class="et_pb_column et_pb_column_2_5 et_pb_column_7  et_pb_css_mix_blend_mode_passthrough">
+				
+				
+				<div class="et_pb_module et_pb_image et_pb_image_3">
+				
+				
+				<span class="et_pb_image_wrap has-box-shadow-overlay"><div class="box-shadow-overlay"></div><img decoding="async" src="https://sopronitamas.hu/wp-content/uploads/2024/03/Mala-1-43-scaled.jpg" alt="Havasi Gábor" title="Mala-1-43" /></span>
+			</div>
+			</div> <!-- .et_pb_column --><div class="et_pb_column et_pb_column_3_5 et_pb_column_8  et_pb_css_mix_blend_mode_passthrough">
+				
+				
+				<div class="et_pb_module et_pb_text et_pb_text_5 et_pb_bg_layout_light  et_pb_text_align_left">
+				
+				
+				<div class="et_pb_text_inner">
+					<p>Budapest legfiatalabb polgármestereként 2019-ben optimistán, boldogan és büszkén vágtam bele életem eddigi legnagyobb és legszebb feladatába: hogy szebbé, jobbá tegyem Terézvárost. Tősgyökeres terézvárosiként aligha kívánhattam szebb feladatot, mint hogy azért a helyért dolgozzam, ahol gyerekként rúgtam a labdát, ahol iskolába jártam, ahol minden egyes utcához, térhez fűz valami személyes kötelék.</p>
+<p>Eltelt több, mint öt év, és én sosem zártam úgy a napot, hogy már ne a másnapi feladatokon, újabb ötleteken, terveken járt volna az eszem. Az idő múlásával semmit sem veszítettem tenniakarásomból. Sőt, a megszerzett tapasztalattal, a gyarapodó tudással, a mellettem álló szövetségeseimmel a korábbinál is motiváltabb vagyok abban, hogy ez a kerület méltó legyen régi, nagy híréhez, ugyanakkor működésében egy modern kerület legyen, ahol jó élni, jó vállalkozni, jó családot alapítani.</p>
+<p>Ahogy eddig, úgy a továbbiakban is kérem ehhez a munkához a támogatásotokat. Szeretném veletek közösen tovább építeni ezt a kerületet, és Terézváros polgármestereként diktálni a tempót egész Budapestnek fejlesztésekben, újításokban, a közös otthonunk építésében.</p>
+				</div>
+			</div> <!-- .et_pb_text -->
+			</div> <!-- .et_pb_column -->
+				
+				
+			</div> <!-- .et_pb_row --><div class="et_pb_row et_pb_row_5 et_pb_gutters1">
+				<div class="et_pb_column et_pb_column_3_5 et_pb_column_9  et_pb_css_mix_blend_mode_passthrough">
+				
+				
+				<div class="et_pb_module et_pb_text et_pb_text_6 et_pb_bg_layout_light  et_pb_text_align_left">
+				
+				
+				<div class="et_pb_text_inner">
+					<h2>Kövess engem!</h2>
+				</div>
+			</div> <!-- .et_pb_text -->
+			</div> <!-- .et_pb_column --><div class="et_pb_column et_pb_column_1_5 et_pb_column_10  et_pb_css_mix_blend_mode_passthrough">
+				
+				
+				<div class="et_pb_module et_pb_image et_pb_image_4">
+				
+				
+				<a href="https://hu.wikipedia.org/wiki/Soproni_Tam%C3%A1s" target="_blank"><span class="et_pb_image_wrap "><img decoding="async" src="https://sopronitamas.hu/wp-content/uploads/2024/03/icons8-wikipedia-100.png" alt="Wikipédia logó" title="Wikipédia logó" /></span></a>
+			</div>
+			</div> <!-- .et_pb_column --><div class="et_pb_column et_pb_column_1_5 et_pb_column_11  et_pb_css_mix_blend_mode_passthrough">
+				
+				
+				<ul class="et_pb_module et_pb_social_media_follow et_pb_social_media_follow_0 clearfix et_pb_bg_layout_light  et_pb_text_align_center-phone">
+				
+				
+				<li
+            class='et_pb_social_media_follow_network_0 et_pb_social_icon et_pb_social_network_link  et-social-facebook et_pb_social_media_follow_network_0'><a
+              href='https://www.facebook.com/sopronitamas.momentum'
+              class='icon et_pb_with_border'
+              title='Kövesse a (z) Facebook elemet'
+               target="_blank"><span
+                class='et_pb_social_media_follow_network_name'
+                aria-hidden='true'
+                >Követés</span></a></li><li
+            class='et_pb_social_media_follow_network_1 et_pb_social_icon et_pb_social_network_link  et-social-instagram et_pb_social_media_follow_network_1'><a
+              href='https://www.instagram.com/tamas_soproni/'
+              class='icon et_pb_with_border'
+              title='Kövesse a (z) Instagram elemet'
+               target="_blank"><span
+                class='et_pb_social_media_follow_network_name'
+                aria-hidden='true'
+                >Követés</span></a></li>
+			</ul> <!-- .et_pb_counters -->
+			</div> <!-- .et_pb_column -->
+				
+				
+			</div> <!-- .et_pb_row -->
+				
+				
+			</div> <!-- .et_pb_section --><div class="et_pb_section et_pb_section_3 ugyeim et_pb_with_background et_section_regular">
+				
+				
+				
+				
+					<div class="et_pb_row et_pb_row_6">
+				<div class="et_pb_column et_pb_column_4_4 et_pb_column_12  et_pb_css_mix_blend_mode_passthrough et-last-child">
+				
+				
+				<div id="ugyeim" class="et_pb_module et_pb_text et_pb_text_7 et_pb_bg_layout_light  et_pb_text_align_left">
+				
+				
+				<div class="et_pb_text_inner">
+					<h2>Sikereink</h2>
+				</div>
+			</div> <!-- .et_pb_text -->
+			</div> <!-- .et_pb_column -->
+				
+				
+			</div> <!-- .et_pb_row --><div class="et_pb_row et_pb_row_7">
+				<div class="et_pb_column et_pb_column_4_4 et_pb_column_13  et_pb_css_mix_blend_mode_passthrough et-last-child">
+				
+				
+				<div class="et_pb_module et_pb_toggle et_pb_toggle_0 et_pb_toggle_item  et_pb_toggle_open">
+				
+				
+				<h5 class="et_pb_toggle_title">1. Terézváros 2030</h5>
+				<div class="et_pb_toggle_content clearfix">
+					<p><strong>Az elmúlt 30 év legnagyobb közterület-megújítási programja.</strong></p>
+<p>A Terézváros 2030 program fő célja, hogy hosszú évtizedek után végre megújuljanak a kerület közterületei. A korábbinál nagyobb teret kap a gyalogosközlekedés, a járdák mindenhol jól használhatók, szélesek lesznek. A program hangsúlyos eleme a ,,zöldítés” mellett a forgalomcsillapítás.A program keretében már a ciklus elején elkészült, a Bajza-Bulcsú aluljáró, a Jókai tér, a Lázár utca, a Paulay Ede utca vége.</p>
+<p>2023-ban felsorakozott a Dessewffy egy szakasza és a Székely Mihály utca. 20 fával, faltól falig újítjuk meg épp a Csengeryt, zöldítjük az Andrássyt és előkészítve a Szondi, Szinyei, Eötvös, Kármán, Bajcsy, Révay, Szófia utca átalakítása. Az alábbi linken az összes projektet megtalálod.</p>
+<p>További részletek:<strong><a href="https://terezvaros.hu/terezvaros-2030"> Terézváros 2030</a></strong></p>
+				</div> <!-- .et_pb_toggle_content -->
+			</div> <!-- .et_pb_toggle --><div class="et_pb_module et_pb_toggle et_pb_toggle_1 et_pb_toggle_item  et_pb_toggle_close">
+				
+				
+				<h5 class="et_pb_toggle_title">2. Homlokzatfelújítási program</h5>
+				<div class="et_pb_toggle_content clearfix">
+					<p><strong>Mert nem elég, ha az utca szép, az is fontos, mit látunk, ha felnézünk.</strong></p>
+<p>Az elmúlt években Magyarország legbőkezűbb társasházi támogatási rendszerét építettük ki, amelyben a megújuló homlokzatokra 80%-os támogatást nyújtunk. A támogatás felét ráadásul vissza nem térítendő támogatásként kapják a házak, a fennmaradó részt pedig kamatmentesen törleszthetik a korábbi 5 év helyett 10 év alatt. Egy ház akár 200 millió forintot is igényelhet, és az önkormányzat a műszaki ellenőrzési költségének 80 százalékát is megtéríti, ami szintén példa nélküli Budapesten.</p>
+				</div> <!-- .et_pb_toggle_content -->
+			</div> <!-- .et_pb_toggle --><div class="et_pb_module et_pb_toggle et_pb_toggle_2 et_pb_toggle_item  et_pb_toggle_close">
+				
+				
+				<h5 class="et_pb_toggle_title">3. Terézváros melléd áll</h5>
+				<div class="et_pb_toggle_content clearfix">
+					<p><strong>Miénk a legerősebb szociális háló Magyarországon.</strong></p>
+<p>Nemcsak Budapest, de egész Magyarország legszélesebb és legsűrűbb szövésű szociális hálóját alakítottuk ki Terézvárosban. A mi kerületünkben a legmagasabbak a támogatási összegek és a jövedelmi határok, így a lehető legtöbben férnek hozzá a támogatásokhoz. És persze új támogatásokat is bevezettünk, például a fogyatékosoknak járó támogatást, a nőknek biztosított intimcsomagot, a fiataloknak járó biciklivásárlási támogatást és ingyenes BKK-bérletet vagy a szépkorúaknak nyújtott Időstaxi szolgáltatásunkat.</p>
+				</div> <!-- .et_pb_toggle_content -->
+			</div> <!-- .et_pb_toggle --><div class="et_pb_module et_pb_toggle et_pb_toggle_3 et_pb_toggle_item  et_pb_toggle_close">
+				
+				
+				<h5 class="et_pb_toggle_title">4. Szemét helyett rend</h5>
+				<div class="et_pb_toggle_content clearfix">
+					<p><strong>A legkeményebb terepen is helytállunk.</strong></p>
+<p>Diktáljuk a tempót a köztisztaság területén is a belvárosi kerületeknek. Csaknem megdupláztuk a hulladékgyűjtő edények számát a kerületben, jelentős béremelést hajtottunk végre az ezen a nehéz területen dolgozók körében. A fővárosi területeken is takarítunk, ha szükséges, új eszközöket szereztünk be, létrehoztuk a köztisztasági forródrótot, átalakítottuk a munkarendet, hogy a hétvégi nagyobb terhelés alatt se roppanjon össze a kerület köztisztasága, és a mocskos telefonfülkékkel és az illegális szemétlerakással szemben is felvettük a harcot. Több évtizedes adósságot törlesztettünk a lakók felé azzal, hogy egy növényzettel befuttatott, zárt konténertárolót alakítottunk ki a Podmaniczky utcában, megszüntetve ezzel a rendszerváltás óta meglévő illegális szemétlerakót az Eötvös utcánál.</p>
+				</div> <!-- .et_pb_toggle_content -->
+			</div> <!-- .et_pb_toggle --><div class="et_pb_module et_pb_toggle et_pb_toggle_4 et_pb_toggle_item  et_pb_toggle_close">
+				
+				
+				<h5 class="et_pb_toggle_title">5. Együtt, biztonságban</h5>
+				<div class="et_pb_toggle_content clearfix">
+					<p><strong>140 vadonatúj térfigyelő kamera és kiemelt támogatás a rendőrségnek</strong></p>
+<p><span style="font-weight: 400;">Mivel a kerület térfigyelő rendszerének a 2000-es években történő kiépítését követően komolyabb fejlesztés nem történt, a terézvárosiak és az épített örökségünk megóvása érdekében 140 vadonatúj térfigyelő kamerát telepítettünk. Ennek eredményeként a fővárosban messze nálunk a legmagasabb az egy négyzetméterre eső kamerák száma. Nemcsak ezekkel segítjük a rendvédelmisek munkáját: ötven kiváló rendőrt jutalmazunk évente kétszer, havi 150 ezer forintos albérlettámogatást nyújtunk az azt igénylő rendőröknek és tűzoltóknak, és a BRFK munkáját segítendő telepítünk trafiboxot többek között az Andrássy útra és a Podmaniczkyre.</span></p>
+				</div> <!-- .et_pb_toggle_content -->
+			</div> <!-- .et_pb_toggle --><div class="et_pb_module et_pb_toggle et_pb_toggle_5 et_pb_toggle_item  et_pb_toggle_close">
+				
+				
+				<h5 class="et_pb_toggle_title">6. parkolás - okosabban</h5>
+				<div class="et_pb_toggle_content clearfix">
+					<p><strong>Kizárólagos lakossági parkolóhelyek, kedvezmények parkolóházi bérletek</strong></p>
+<p><span style="font-weight: 400;">Bár az előző városvezetést azt mondta, lehetetlen, bevezettük a kizárólagos lakossági parkolóhelyeket, és az ígéretünknek megfelelően az idei nyárra a kerületi parkolóhelyek harmada a lakosságnak lesz kijelölve. Méghozzá nemcsak táblával, más kerületekkel ellentétben ezeket felfestéssel is jelezzük. Mindeközben parkolóházakban 50-60%-os kedvezménnyel közel 150 bérletet biztosítunk a helyieknek. Kitoltuk a parkolási üzemidőt, és megemeltük a más kerületekből érkező autósokra vonatkozó parkolási díjat, ezzel könnyítve a helyiek parkolóhely-keresését. Megszüntettük Budapest legmenőbb helyen lévő P+R-parkolóját: az Andrássy út külső szakasza, az Oktogontól a Hősök teréig is fizetős lett úgy, hogy a helyiek ingyen használhatják továbbra is.</span></p>
+				</div> <!-- .et_pb_toggle_content -->
+			</div> <!-- .et_pb_toggle -->
+			</div> <!-- .et_pb_column -->
+				
+				
+			</div> <!-- .et_pb_row -->
+				
+				
+			</div> <!-- .et_pb_section --><div class="et_pb_section et_pb_section_4 et_pb_with_background et_section_regular">
+				
+				
+				
+				
+					<div class="et_pb_row et_pb_row_8">
+				<div class="et_pb_column et_pb_column_4_4 et_pb_column_14  et_pb_css_mix_blend_mode_passthrough et-last-child">
+				
+				
+				<div class="et_pb_module et_pb_text et_pb_text_8 et_pb_bg_layout_light  et_pb_text_align_center">
+				
+				
+				<div class="et_pb_text_inner">
+					<p>Fák. Rend. Soproni.</p>
+				</div>
+			</div> <!-- .et_pb_text -->
+			</div> <!-- .et_pb_column -->
+				
+				
+			</div> <!-- .et_pb_row -->
+				
+				
+			</div> <!-- .et_pb_section --><div class="et_pb_section et_pb_section_5 et_pb_with_background et_section_regular">
+				
+				
+				
+				
+					<div class="et_pb_row et_pb_row_9">
+				<div class="et_pb_column et_pb_column_4_4 et_pb_column_15  et_pb_css_mix_blend_mode_passthrough et-last-child">
+				
+				
+				<div class="et_pb_module et_pb_text et_pb_text_9 et_pb_bg_layout_light  et_pb_text_align_left">
+				
+				
+				<div class="et_pb_text_inner">
+					<h2>Videók</h2>
+				</div>
+			</div> <!-- .et_pb_text -->
+			</div> <!-- .et_pb_column -->
+				
+				
+			</div> <!-- .et_pb_row --><div class="et_pb_row et_pb_row_10">
+				<div class="et_pb_column et_pb_column_1_3 et_pb_column_16  et_pb_css_mix_blend_mode_passthrough">
+				
+				
+				<div class="et_pb_module et_pb_video et_pb_video_0">
+				
+				
+				<div class="et_pb_video_box">
+					<iframe title="Nyílt levél Soproninak: Az Airbnb-szabályok miatt tiltakoznak a terézvárosi lakástulajdonosok" width="1080" height="608" src="https://www.youtube.com/embed/N6m_Ho-mBvs?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+				</div>
+				
+			</div><div class="et_pb_module et_pb_text et_pb_text_10 et_pb_bg_layout_light  et_pb_text_align_left">
+				
+				
+				<div class="et_pb_text_inner">
+					<h3 class="style-scope ytd-watch-metadata"><yt-formatted-string force-default-style="" class="style-scope ytd-watch-metadata">Nyílt levél Soproninak: Az Airbnb-szabályok miatt tiltakoznak a terézvárosi lakástulajdonosok</yt-formatted-string></h3>
+<h4><span>2025.07.25.</span></h4>
+				</div>
+			</div> <!-- .et_pb_text -->
+			</div> <!-- .et_pb_column --><div class="et_pb_column et_pb_column_1_3 et_pb_column_17  et_pb_css_mix_blend_mode_passthrough">
+				
+				
+				<div class="et_pb_module et_pb_video et_pb_video_1">
+				
+				
+				<div class="et_pb_video_box">
+					<iframe title="Egyéniben a Tiszára kell szavazni, listán több opció van" width="1080" height="608" src="https://www.youtube.com/embed/YZWT2F6iv6o?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+				</div>
+				
+			</div><div class="et_pb_module et_pb_text et_pb_text_11 et_pb_bg_layout_light  et_pb_text_align_left">
+				
+				
+				<div class="et_pb_text_inner">
+					<h3 class="style-scope ytd-watch-metadata"><yt-formatted-string force-default-style="" class="style-scope ytd-watch-metadata">Egyéniben a Tiszára kell szavazni, listán több opció van<br />
+</yt-formatted-string></h3>
+<h4><span>2025.07.02.</span></h4>
+				</div>
+			</div> <!-- .et_pb_text -->
+			</div> <!-- .et_pb_column --><div class="et_pb_column et_pb_column_1_3 et_pb_column_18  et_pb_css_mix_blend_mode_passthrough et_pb_column_empty">
+				
+				
+				
+			</div> <!-- .et_pb_column -->
+				
+				
+			</div> <!-- .et_pb_row --><div class="et_pb_row et_pb_row_11">
+				<div class="et_pb_column et_pb_column_1_3 et_pb_column_19  et_pb_css_mix_blend_mode_passthrough">
+				
+				
+				<div class="et_pb_module et_pb_video et_pb_video_2">
+				
+				
+				<div class="et_pb_video_box">
+					<iframe title="Hogyan élheti túl Budapest a klímaváltozást és a jövő kihívásait? | Soproni Tamás x Lánszki Regő" width="1080" height="608" src="https://www.youtube.com/embed/tiTci0thib0?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+				</div>
+				
+			</div><div class="et_pb_module et_pb_text et_pb_text_12 et_pb_bg_layout_light  et_pb_text_align_left">
+				
+				
+				<div class="et_pb_text_inner">
+					<h3 class="style-scope ytd-watch-metadata"><yt-formatted-string force-default-style="" class="style-scope ytd-watch-metadata">Hogyan élheti túl Budapest a klímaváltozást és a jövő kihívásait? | Soproni Tamás x Lánszki Regő</yt-formatted-string></h3>
+<h4><span>2023.12.22.</span></h4>
+				</div>
+			</div> <!-- .et_pb_text -->
+			</div> <!-- .et_pb_column --><div class="et_pb_column et_pb_column_1_3 et_pb_column_20  et_pb_css_mix_blend_mode_passthrough">
+				
+				
+				<div class="et_pb_module et_pb_video et_pb_video_3">
+				
+				
+				<div class="et_pb_video_box">
+					<iframe loading="lazy" title="Városvezetés ellenszélben - Soproni Tamás | Amiről Anya nem beszélt #10" width="1080" height="608" src="https://www.youtube.com/embed/-2mgJ8MwE0Q?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+				</div>
+				
+			</div><div class="et_pb_module et_pb_text et_pb_text_13 et_pb_bg_layout_light  et_pb_text_align_left">
+				
+				
+				<div class="et_pb_text_inner">
+					<h3 class="style-scope ytd-watch-metadata"><yt-formatted-string force-default-style="" class="style-scope ytd-watch-metadata">Városvezetés ellenszélben &#8211; Soproni Tamás | Amiről Anya nem beszélt #10</yt-formatted-string></h3>
+<h4><span>2023.09.08.</span></h4>
+				</div>
+			</div> <!-- .et_pb_text -->
+			</div> <!-- .et_pb_column --><div class="et_pb_column et_pb_column_1_3 et_pb_column_21  et_pb_css_mix_blend_mode_passthrough">
+				
+				
+				<div class="et_pb_module et_pb_video et_pb_video_4">
+				
+				
+				<div class="et_pb_video_box">
+					<iframe loading="lazy" title="Ceglédi kérdezi - Soproni Tamás - 2022.02.03." width="1080" height="608" src="https://www.youtube.com/embed/Z7EzuiCxMqU?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+				</div>
+				
+			</div><div class="et_pb_module et_pb_text et_pb_text_14 et_pb_bg_layout_light  et_pb_text_align_left">
+				
+				
+				<div class="et_pb_text_inner">
+					<h3 class="style-scope ytd-watch-metadata"><yt-formatted-string force-default-style="" class="style-scope ytd-watch-metadata">Ceglédi kérdezi &#8211; Soproni Tamás<br /></yt-formatted-string></h3>
+<h4><span>2022.02.03.</span></h4>
+				</div>
+			</div> <!-- .et_pb_text -->
+			</div> <!-- .et_pb_column -->
+				
+				
+			</div> <!-- .et_pb_row --><div class="et_pb_row et_pb_row_12">
+				<div class="et_pb_column et_pb_column_1_3 et_pb_column_22  et_pb_css_mix_blend_mode_passthrough">
+				
+				
+				<div class="et_pb_module et_pb_video et_pb_video_5">
+				
+				
+				<div class="et_pb_video_box">
+					<iframe loading="lazy" title="Egy év mérlege" width="1080" height="608" src="https://www.youtube.com/embed/FRshYxgCXpU?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+				</div>
+				
+			</div><div class="et_pb_module et_pb_text et_pb_text_15 et_pb_bg_layout_light  et_pb_text_align_left">
+				
+				
+				<div class="et_pb_text_inner">
+					<h3>Egy év mérlege</h3>
+<h4><span>2020.10.14.</span></h4>
+				</div>
+			</div> <!-- .et_pb_text -->
+			</div> <!-- .et_pb_column --><div class="et_pb_column et_pb_column_1_3 et_pb_column_23  et_pb_css_mix_blend_mode_passthrough">
+				
+				
+				<div class="et_pb_module et_pb_video et_pb_video_6">
+				
+				
+				<div class="et_pb_video_box">
+					<iframe loading="lazy" title="&quot;Rengeteg korrupt ügyet felszámoltunk&quot; | Baranyi Krisztina és Soproni Tamás egy év után" width="1080" height="608" src="https://www.youtube.com/embed/ZBz0Nn8oPoA?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+				</div>
+				
+			</div><div class="et_pb_module et_pb_text et_pb_text_16 et_pb_bg_layout_light  et_pb_text_align_left">
+				
+				
+				<div class="et_pb_text_inner">
+					<h3>Rengeteg korrupt ügyet felszámoltunk</h3>
+<h4><span>2020.10.13.</span></h4>
+				</div>
+			</div> <!-- .et_pb_text -->
+			</div> <!-- .et_pb_column --><div class="et_pb_column et_pb_column_1_3 et_pb_column_24  et_pb_css_mix_blend_mode_passthrough">
+				
+				
+				<div class="et_pb_module et_pb_video et_pb_video_7">
+				
+				
+				<div class="et_pb_video_box">
+					<iframe loading="lazy" title="Soproni Tamás, VI. kerületi polgármester videóüzenete a 25. Budapest Pride-ra, 2020 #budapestpride25" width="1080" height="608" src="https://www.youtube.com/embed/G2bUHxTle98?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+				</div>
+				
+			</div><div class="et_pb_module et_pb_text et_pb_text_17 et_pb_bg_layout_light  et_pb_text_align_left">
+				
+				
+				<div class="et_pb_text_inner">
+					<h3>Soproni Tamás, VI. kerületi polgármester videóüzenete a 25. Budapest Pride-ra, 2020</h3>
+<h4><span>2020.08.22.</span></h4>
+				</div>
+			</div> <!-- .et_pb_text -->
+			</div> <!-- .et_pb_column -->
+				
+				
+			</div> <!-- .et_pb_row -->
+				
+				
+			</div> <!-- .et_pb_section --><div class="et_pb_section et_pb_section_6 et_pb_with_background et_section_regular section_has_divider et_pb_top_divider">
+				<div class="et_pb_top_inside_divider et-no-transition"></div>
+				
+				
+				
+					<div class="et_pb_row et_pb_row_13">
+				<div class="et_pb_column et_pb_column_4_4 et_pb_column_25  et_pb_css_mix_blend_mode_passthrough et-last-child">
+				
+				
+				<div class="et_pb_module et_pb_image et_pb_image_5">
+				
+				
+				<span class="et_pb_image_wrap "><img decoding="async" src="https://sopronitamas.hu/wp-content/uploads/2025/11/soproni-tamas-alairas-2025.png" alt="Soproni Tamás aláírás" title="Soproni Tamás aláírás" /></span>
+			</div><div class="et_pb_module et_pb_text et_pb_text_18 et_pb_bg_layout_dark  et_pb_text_align_center">
+				
+				
+				<div class="et_pb_text_inner">
+					<p>Soproni Tamás<br />Terézváros polgármestere</p>
+				</div>
+			</div> <!-- .et_pb_text -->
+			</div> <!-- .et_pb_column -->
+				
+				
+			</div> <!-- .et_pb_row -->
+				
+				
+			</div> <!-- .et_pb_section -->			</div>
+			
+		</div>					</div> <!-- .entry-content -->
+
+				
+				</article> <!-- .et_pb_post -->
+
+			
+
+</div> <!-- #main-content -->
+
+
+			<footer id="main-footer">
+				
+
+		
+				<div id="footer-bottom">
+					<div class="container clearfix">
+				<ul class="et-social-icons">
+
+	<li class="et-social-icon et-social-facebook">
+		<a href="#" class="icon">
+			<span>Facebook</span>
+		</a>
+	</li>
+	<li class="et-social-icon et-social-twitter">
+		<a href="#" class="icon">
+			<span>Twitter</span>
+		</a>
+	</li>
+	<li class="et-social-icon et-social-google-plus">
+		<a href="#" class="icon">
+			<span>Google</span>
+		</a>
+	</li>
+	<li class="et-social-icon et-social-instagram">
+		<a href="#" class="icon">
+			<span>Instagram</span>
+		</a>
+	</li>
+	<li class="et-social-icon et-social-rss">
+		<a href="https://sopronitamas.hu/feed/" class="icon">
+			<span>RSS</span>
+		</a>
+	</li>
+
+</ul><p id="footer-info">Dizájn: <a href="http://www.elegantthemes.com" title="Premium WordPress Themes">Elegant Themes</a> | Motor: <a href="http://www.wordpress.org">WordPress</a></p>					</div>	<!-- .container -->
+				</div>
+			</footer> <!-- #main-footer -->
+		</div> <!-- #et-main-area -->
+
+
+	</div> <!-- #page-container -->
+
+		<script type="text/javascript">
+			</script>
+	<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-143440690-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-143440690-1');
+</script>
+<script>
+window.setTimeout(function(){ 
+    DiviPopup.openPopup('#thankyou') 
+}, 300); 
+</script>
+
+
+<link rel='stylesheet' id='et-gf-open-sans-css' href='https://fonts.googleapis.com/css?family=Open+Sans:400,700' type='text/css' media='all' />
+<script type="text/javascript" id="js-divi-popup-js-extra">
+/* <![CDATA[ */
+var DiviPopupData = {"zIndex":"100000","animateSpeed":"400","triggerClassPrefix":"show-popup-","idAttrib":"data-popup","modalIndicatorClass":"is-modal","defaultShowCloseButton":"1","withCloseClass":"with-close","noCloseClass":"no-close","triggerCloseClass":"close","singletonClass":"single","darkModeClass":"dark","noShadowClass":"no-shadow","altCloseClass":"close-alt","popupSelector":".et_pb_section.popup","initializeOnEvent":"et_pb_after_init_modules","popupWrapperClass":"popup_outer_wrap","fullWidthClass":"popup_full_width","fullHeightClass":"popup_full_height","openPopupClass":"evr_popup_open","overlayClass":"evr_fb_popup_modal","exitIndicatorClass":"on-exit","onExitDelay":"2000","notMobileClass":"not-mobile","notTabletClass":"not-tablet","notDesktopClass":"not-desktop","baseContext":"body","activePopupClass":"is-open","closeButtonClass":"evr-close","debug":""};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://sopronitamas.hu/wp-content/plugins/popups-for-divi/js/front.js?ver=1.6.3" id="js-divi-popup-js"></script>
+<script type="text/javascript" id="divi-custom-script-js-extra">
+/* <![CDATA[ */
+var DIVI = {"item_count":"%d Item","items_count":"%d Items"};
+var et_shortcodes_strings = {"previous":"El\u0151z\u0151","next":"K\u00f6vetkez\u0151"};
+var et_pb_custom = {"ajaxurl":"https:\/\/sopronitamas.hu\/wp-admin\/admin-ajax.php","images_uri":"https:\/\/sopronitamas.hu\/wp-content\/themes\/Divi\/images","builder_images_uri":"https:\/\/sopronitamas.hu\/wp-content\/themes\/Divi\/includes\/builder\/images","et_frontend_nonce":"abdb642d58","subscription_failed":"K\u00e9rj\u00fck, ellen\u0151rizze az al\u00e1bbi mez\u0151ket, hogy helyes adatokat adott meg.","et_ab_log_nonce":"f4ba151f4a","fill_message":"K\u00e9rj\u00fck, t\u00f6ltse ki az al\u00e1bbi mez\u0151ket:","contact_error_message":"K\u00e9rem jav\u00edtsa ki a k\u00f6vetkez\u0151 hib\u00e1kat:","invalid":"\u00c9rv\u00e9nytelen email c\u00edm","captcha":"Captcha","prev":"El\u0151z\u0151","previous":"El\u0151z\u0151","next":"K\u00f6vetkez\u0151","wrong_captcha":"Rossz sz\u00e1mot \u00edrt az ellen\u0151rz\u0151 k\u00f3dhoz.","ignore_waypoints":"no","is_divi_theme_used":"1","widget_search_selector":".widget_search","is_ab_testing_active":"","page_id":"510","unique_test_id":"","ab_bounce_rate":"5","is_cache_plugin_active":"no","is_shortcode_tracking":"","tinymce_uri":""};
+var et_pb_box_shadow_elements = [];
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://sopronitamas.hu/wp-content/themes/Divi/js/custom.min.js?ver=3.25.4" id="divi-custom-script-js"></script>
+<script type="text/javascript" src="https://sopronitamas.hu/wp-content/themes/Divi/core/admin/js/common.js?ver=3.25.4" id="et-core-common-js"></script>
+<script type="text/javascript" id="aepc-pixel-events-js-extra">
+/* <![CDATA[ */
+var aepc_pixel_events = {"custom_events":{"AdvancedEvents":[{"params":{"login_status":"not_logged_in","post_type":"page","object_id":"510","object_type":"home"},"delay":0}]}};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://sopronitamas.hu/wp-content/plugins/pixel-caffeine/build/frontend.js?ver=2.0.8" id="aepc-pixel-events-js"></script>
+</body>
+</html>
