@@ -1,0 +1,1174 @@
+<!DOCTYPE html>
+
+<!-- Dedsec https://goo.gl/aFRx9J -->
+
+<html lang="hu">
+<head>
+	
+	<title>Győr lett az ország e-sport-fővárosa</title>
+
+	<meta name="description" content="A Széchenyi István Egyetem rangos szakmai díjat kapott." />
+	<meta name="keywords" content="" />
+	
+
+	<base href="https://www.gsplus.hu/">
+                <link rel="canonical" href="https://www.gsplus.hu/esport/gyor-lett-az-orszag-esportfovarosa-383576.html" />
+    
+	<meta charset="utf-8" />
+	<!--<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=5.0, user-scalable=yes" />-->
+	<meta name="viewport" content="initial-scale=1.0, maximum-scale=5.0, user-scalable=yes" />
+	<meta name="apple-mobile-web-app-capable" content="yes" />
+
+	<link rel="preload" href="/site/fonts/KFOlCnqEu92Fr1MmSU5fChc4EsA.woff2" as="font" type="font/woff2" crossorigin>
+	<link rel="preload" href="/site/fonts/KFOlCnqEu92Fr1MmSU5fBBc4.woff2" as="font" type="font/woff2" crossorigin>
+	<link rel="preload" href="/site/fonts/KFOmCnqEu92Fr1Mu7GxKOzY.woff2" as="font" type="font/woff2" crossorigin>
+	<link rel="preload" href="/site/fonts/KFOmCnqEu92Fr1Mu4mxK.woff2" as="font" type="font/woff2" crossorigin>
+	<link rel="preload" href="/site/fonts/KFOlCnqEu92Fr1MmEU9fChc4EsA.woff2" as="font" type="font/woff2" crossorigin>
+	<link rel="preload" href="/site/fonts/KFOlCnqEu92Fr1MmEU9fBBc4.woff2" as="font" type="font/woff2" crossorigin>
+	<link rel="preload" href="/site/fonts/KFOlCnqEu92Fr1MmWUlfChc4EsA.woff2" as="font" type="font/woff2" crossorigin>
+	<link rel="preload" href="/site/fonts/KFOlCnqEu92Fr1MmWUlfBBc4.woff2" as="font" type="font/woff2" crossorigin>
+
+    <style>
+    /* latin-ext */
+    @font-face {
+      font-family: 'Roboto';
+      font-style: normal;
+      font-weight: 300;
+	  font-display: swap;
+      src: local('Roboto Light'), local('Roboto-Light'), url(/site/fonts/KFOlCnqEu92Fr1MmSU5fChc4EsA.woff2) format('woff2');
+      unicode-range: U+0100-024F, U+0259, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
+    }
+    /* latin */
+    @font-face {
+      font-family: 'Roboto';
+      font-style: normal;
+      font-weight: 300;
+	  font-display: swap;
+      src: local('Roboto Light'), local('Roboto-Light'), url(/site/fonts/KFOlCnqEu92Fr1MmSU5fBBc4.woff2) format('woff2');
+      unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+    }
+    /* latin-ext */
+    @font-face {
+      font-family: 'Roboto';
+      font-style: normal;
+      font-weight: 400;
+	  font-display: swap;
+      src: local('Roboto'), local('Roboto-Regular'), url(/site/fonts/KFOmCnqEu92Fr1Mu7GxKOzY.woff2) format('woff2');
+      unicode-range: U+0100-024F, U+0259, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
+    }
+    /* latin */
+    @font-face {
+      font-family: 'Roboto';
+      font-style: normal;
+      font-weight: 400;
+	  font-display: swap;
+      src: local('Roboto'), local('Roboto-Regular'), url(/site/fonts/KFOmCnqEu92Fr1Mu4mxK.woff2) format('woff2');
+      unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+    }
+    /* latin-ext */
+    @font-face {
+      font-family: 'Roboto';
+      font-style: normal;
+      font-weight: 500;
+	  font-display: swap;
+      src: local('Roboto Medium'), local('Roboto-Medium'), url(/site/fonts/KFOlCnqEu92Fr1MmEU9fChc4EsA.woff2) format('woff2');
+      unicode-range: U+0100-024F, U+0259, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
+    }
+    /* latin */
+    @font-face {
+      font-family: 'Roboto';
+      font-style: normal;
+      font-weight: 500;
+	  font-display: swap;
+      src: local('Roboto Medium'), local('Roboto-Medium'), url(/site/fonts/KFOlCnqEu92Fr1MmEU9fBBc4.woff2) format('woff2');
+      unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+    }
+    /* latin-ext */
+    @font-face {
+      font-family: 'Roboto';
+      font-style: normal;
+      font-weight: 700;
+	  font-display: swap;
+      src: local('Roboto Bold'), local('Roboto-Bold'), url(/site/fonts/KFOlCnqEu92Fr1MmWUlfChc4EsA.woff2) format('woff2');
+      unicode-range: U+0100-024F, U+0259, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
+    }
+    /* latin */
+    @font-face {
+      font-family: 'Roboto';
+      font-style: normal;
+      font-weight: 700;
+	  font-display: swap;
+      src: local('Roboto Bold'), local('Roboto-Bold'), url(/site/fonts/KFOlCnqEu92Fr1MmWUlfBBc4.woff2) format('woff2');
+      unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+    }
+    </style>
+    
+	<link rel="apple-touch-icon" sizes="60x60" href="https://www.gsplus.hu/site/images/icons/apple-touch-icon-60x60.png">
+	<link rel="apple-touch-icon" sizes="72x72" href="https://www.gsplus.hu/site/images/icons/apple-touch-icon-72x72.png">
+	<link rel="apple-touch-icon" sizes="76x76" href="https://www.gsplus.hu/site/images/icons/apple-touch-icon-76x76.png">
+	<link rel="apple-touch-icon" sizes="114x114" href="https://www.gsplus.hu/site/images/icons/apple-touch-icon-114x114.png">
+	<link rel="apple-touch-icon" sizes="120x120" href="https://www.gsplus.hu/site/images/icons/apple-touch-icon-120x120.png">
+	<link rel="apple-touch-icon" sizes="144x144" href="https://www.gsplus.hu/site/images/icons/apple-touch-icon-144x144.png">
+	<link rel="apple-touch-icon" sizes="152x152" href="https://www.gsplus.hu/site/images/icons/apple-touch-icon-152x152.png">
+	<link rel="apple-touch-icon" sizes="180x180" href="https://www.gsplus.hu/site/images/icons/apple-touch-icon-180x180.png">
+	<link rel="icon" type="image/png" href="https://www.gsplus.hu/site/images/icons/favicon-32x32.png" sizes="32x32">
+	<link rel="icon" type="image/png" href="https://www.gsplus.hu/site/images/icons/android-chrome-192x192.png" sizes="192x192">
+	<link rel="icon" type="image/png" href="https://www.gsplus.hu/site/images/icons/favicon-96x96.png" sizes="96x96">
+	<link rel="icon" type="image/png" href="https://www.gsplus.hu/site/images/icons/favicon-16x16.png" sizes="16x16">
+	<link rel="manifest" href="https://www.gsplus.hu/site/images/icons/manifest.json">
+	<link rel="mask-icon" href="https://www.gsplus.hu/site/images/icons/safari-pinned-tab.svg">
+	<link rel="shortcut icon" href="https://www.gsplus.hu/site/images/icons/favicon.ico">
+	<meta name="msapplication-TileColor" content="#2d89ef">
+	<meta name="msapplication-TileImage" content="https://www.gsplus.hu/site/images/icons/mstile-144x144.png">
+	<meta name="msapplication-config" content="https://www.gsplus.hu/site/images/icons/browserconfig.xml">
+	<meta name="theme-color" content="#ffffff">
+
+	
+	<meta property="fb:app_id" content="732786153791581" />
+	<meta property="fb:admins" content="1332166759" />
+	<meta property="fb:pages" content="74499138804" />
+	<meta property="og:locale" content="hu_HU" />
+	<meta property="og:type" content="website" />
+	<meta property="og:site_name" content="GSPlus.hu" />
+	<meta property="og:url" content="https://www.gsplus.hu/esport/gyor-lett-az-orszag-esportfovarosa-383576.html" />
+	<meta property="article:publisher" content="https://www.facebook.com/gamestarhu" />
+
+		<meta property="og:title" content="Győr lett az ország e-sport-fővárosa" />
+	<meta property="og:description" content="A Széchenyi István Egyetem rangos szakmai díjat kapott." />
+	<meta property="og:image" content="https://i.cdn29.hu/apix_collect_c/ngg_images/2606/12/szechenyi_istvan_egyetem_092527_1_original_760x425_cover.jpg" />
+	
+	<meta name="twitter:card" content="summary"/>
+	<meta name="twitter:domain" content="GSPlus.hu"/>
+		<meta name="twitter:title" content="Győr lett az ország e-sport-fővárosa"/>
+	<meta name="twitter:image:src" content="https://i.cdn29.hu/apix_collect_c/ngg_images/2606/12/szechenyi_istvan_egyetem_092527_1_original_760x425_cover.jpg"/>
+	<meta name="twitter:description" content="A Széchenyi István Egyetem rangos szakmai díjat kapott."/>
+	
+	
+	                	
+    
+    
+    
+    
+	
+		<link rel="stylesheet" href="/core/css/photoswipe.css" media="screen" />
+	<link rel="stylesheet" href="/core/css/default-skin.css" media="screen" />
+
+	<link rel="stylesheet" href="/site/css/jssocials/jssocials.css" media="screen" />
+	<link rel="stylesheet" href="/site/css/jssocials/jssocials-theme-flat.css" media="screen" />
+		<link rel="stylesheet" href="/site/css/style.css?d=20260612_3" media="screen,print" />
+	<link rel="stylesheet" href="/site/css/gsplus.css?d=20260612_3" media="screen,print" />
+    
+    
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/video.js/8.23.4/video-js.min.css" integrity="sha512-7wMpNCbZmQmUPa3OOvqZo2TbK4n4xy4hdSWvxXKaJH8tR/9+7YFS0qyiKK3FV3tE6ANeSAdd3xfFQbf71P5Dfw==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/videojs-contrib-ads/7.5.2/videojs.ads.min.css" integrity="sha512-rfA0tZG5LZx/c0FkJ94W/FI3PBY3Ttjm3oMcwHJ0mkWk52y8o25iN3G0TUI0tLyRUahFkWEd6C59qzrD5OBxZg==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/videojs-ima/2.4.0/videojs.ima.min.css" integrity="sha512-hw6cZAVUjqC0sNVfGtFdnmgTsNLElCJIL4Ek0QPfEQUSMTuOhVkBjEW4nrN++PFeZVh3j1b2oenyoG3b8VQaag==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+    
+
+	<link rel="preconnect" href="//i.cdn29.hu">
+	<link rel="preconnect" href="//hu.hit.gemius.pl">
+	<link rel="preconnect" href="//www.google-analytics.com">
+	<link rel="preconnect" href="//pagead2.googlesyndication.com">
+	<link rel="preconnect" href="//www.googletagmanager.com">
+
+	<link rel="dns-prefetch" href="//embed.project029.com">
+	<link rel="dns-prefetch" href="//account.project029.com">
+	<link rel="dns-prefetch" href="//www.puliwood.hu">
+	<link rel="dns-prefetch" href="//graph.facebook.com">
+	<link rel="dns-prefetch" href="//www.youtube.com">
+	<link rel="dns-prefetch" href="//s.ytimg.com">
+	<link rel="dns-prefetch" href="//adservice.google.hu">
+	<link rel="dns-prefetch" href="//adservice.google.com">
+	<link rel="dns-prefetch" href="//googleads.g.doubleclick.net">
+	<link rel="dns-prefetch" href="//publish.responsiveads.com">
+	<link rel="dns-prefetch" href="//video.responsiveads.com">
+	<link rel="dns-prefetch" href="//publish.responsiveads.com">
+	<link rel="dns-prefetch" href="//googlecm.hit.gemius.pl">
+	<link rel="dns-prefetch" href="//ag.innovid.com">
+	<link rel="dns-prefetch" href="//ajax.googleapis.com">
+	<link rel="dns-prefetch" href="//www.gstatic.com">
+	<link rel="dns-prefetch" href="//fonts.googleapis.com">
+	<link rel="dns-prefetch" href="//d.agkn.com">
+
+	<script>
+            window.adsDoNotServeAds = false;
+    
+	window.vapid = {
+		public_key: 'BOXJUXEELLT9w_FfsDhFliWu8tNKfNC3eBc-RqweFSpnylAScRa2UcSOQj_0aUbKoGdEjdJNqffWCH_JWSd36T8',
+		private_key: null
+	}
+
+	var _onload_scripts = [];
+
+	//_onload_scripts.push('/site/js/jssocials/jssocials.min.js');
+
+	_onload_scripts.push('/core/js/ads.js');
+	_onload_scripts.push('/site/js/site.js?d=20260612_1');
+	_onload_scripts.push('/site/js/push_subscription.js?v6');
+			_onload_scripts.push('https://embed.project029.com/js/embed2.js?v2');
+	_onload_scripts.push('/site/js/article.js?d=20260612_1');
+    var _prevent_more_article = false;
+	var _article_id = 383576;
+    
+	
+		</script>
+
+    
+    <script>
+    
+    //var _ga_measurement_id_1 = 'UA-3903484-4';
+    //var _ga_measurement_id_2 = 'UA-3903484-76';
+    //var _ga_measurement_id_3 = 'G-GSY6C15WDX';
+    //var _ga_measurement_id_4 = 'G-SRWLJV5WXJ'; GSPlus ellenorzokod
+    var _ga_measurement_ids = [
+        //'UA-3903484-4',
+        //'UA-3903484-76',
+        'G-GSY6C15WDX',
+        'G-SRWLJV5WXJ',
+    ];
+    (function(document) {
+        let downloadGoogleAnalyticsScript = function() {
+            console.log('google_analytics - 1');
+            setTimeout(function(){
+                console.log('google_analytics - 2');
+                let script = document.createElement('script');
+                script.src = "https://www.googletagmanager.com/gtag/js?id=G-GSY6C15WDX";
+                document.body.append(script);
+            }, 3000);
+
+            window.dataLayer = window.dataLayer || [];
+            window.gtag = function(){dataLayer.push(arguments);}
+            gtag('js', new Date());
+
+            //gtag('config', 'UA-3903484-4', { 'anonymize_ip': true });
+            //gtag('config', 'UA-3903484-76', { 'anonymize_ip': true });
+            gtag('config', 'G-GSY6C15WDX', { 'anonymize_ip': true });
+            gtag('config', 'G-SRWLJV5WXJ', { 'anonymize_ip': true });
+        };
+        if (window.addEventListener) {
+            window.addEventListener('load', downloadGoogleAnalyticsScript, false);
+        } else if (window.attachEvent) {
+            window.attachEvent("onload", downloadGoogleAnalyticsScript);
+        } else {
+            window.onload = downloadGoogleAnalyticsScript;
+        }
+    })(document);
+    
+    </script>
+
+    
+
+<!-- Atmedia start -->
+	
+            
+        <script src="https://cdn.atmedia.hu/gsplus.hu.js?v=20260612" async></script>
+        
+    <!--
+    <script type="text/javascript">
+    var g_today = new Date();
+    var g_dd = g_today.getDate();
+    var g_mm = g_today.getMonth() + 1;
+    var g_yyyy = g_today.getFullYear();
+    if (g_dd < 10) {
+       g_dd = '0' + g_dd;
+    }
+    if (g_mm < 10) {
+       g_mm = '0' + g_mm;
+    }
+    g_today = g_yyyy + g_mm + g_dd;
+    document.write('<scr' + 'ipt src="https://cdn.atmedia.hu/gamestar.hu.js?v=' + g_today + '" type="text/javascript"></scr' + 'ipt>');
+    </script>
+
+	Atmedia end -->
+
+<!--
+<link rel="stylesheet" type="text/css" href="https://www.gamestar.hu/site/js/cookieconsent/cookieconsent.min.css" />
+<script async defer src="https://www.gamestar.hu/site/js/cookieconsent/cookieconsent.min.js"></script>
+
+
+<script>
+window.addEventListener("load", function(){
+window.cookieconsent.initialise({
+  container: document.getElementById("cookie-policy-content"),
+  palette: {
+    popup: {
+      background: "#000"
+    },
+    button: {
+      background: "#f1d600"
+    }
+  },
+  revokable: true,
+  content: {
+    message: 'A weboldalon cookie-kat használunk annak érdekében, hogy a lehető legjobb felhasználói élményt nyújtsuk. Amennyiben folytatod a böngészést nálunk, úgy tekintjük, hogy nincs kifogásod a cookie-k fogadása ellen. A részletekért',
+    allow: "Elfogadom",
+    link: "kattints ide",
+    href: "https://www.project029.com/adatvedelem"
+  },
+  elements: {
+    message: '<span id="cookieconsent:desc" class="cc-message">{{message}}</span>',
+    messagelink: '<span id="cookieconsent:desc" class="cc-message">{{message}} <a aria-label="learn more about cookies" tabindex="0" class="cc-link" href="{{href}}" target="_blank" rel="noopener">{{link}}</a>!</span>',
+    allow: '<a aria-label="allow cookies" tabindex="0" class="cc-btn cc-allow">{{allow}}</a>',
+    link: '<a aria-label="learn more about cookies" tabindex="0" class="cc-link" href="{{href}}" target="_blank">{{link}}!</a>'
+  },
+  compliance: {
+    'info': '<div class="cc-compliance">{{allow}}</div>',
+    'opt-in': '<div class="cc-compliance cc-highlight">{{allow}}</div>'
+  },
+  type: 'info',
+})});
+</script>
+<style>
+.cc-window {
+    z-index: 9999999 !important;
+}
+</style>
+
+-->
+
+
+	<!-- Meta Pixel Code -->
+	<script>
+		!function(f,b,e,v,n,t,s)
+		{if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+		n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+		if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+		n.queue=[];t=b.createElement(e);t.async=!0;
+		t.src=v;s=b.getElementsByTagName(e)[0];
+		s.parentNode.insertBefore(t,s)}(window, document,'script',
+		'https://connect.facebook.net/en_US/fbevents.js');
+		fbq('init', '197528252998306');
+		fbq('track', 'PageView');
+	</script>
+	<noscript><img height="1" width="1" style="display:none"
+	src="https://www.facebook.com/tr?id=197528252998306&ev=PageView&noscript=1"
+	/></noscript>
+	<!-- End Meta Pixel Code -->
+
+
+</head>
+
+<body class="">
+
+    <div id="cookie-policy-content"></div>
+
+<header class="full-header">
+	<div class="container">
+		<div class="row">
+			<div class="mobile-search-icon" id="icon-search-mobile">
+				<svg class="icon searchtrigger" style="width:36px;height:36px" viewBox="0 0 24 24">
+					<path fill="#ffffff" d="M9.5,3A6.5,6.5 0 0,1 16,9.5C16,11.11 15.41,12.59 14.44,13.73L14.71,14H15.5L20.5,19L19,20.5L14,15.5V14.71L13.73,14.44C12.59,15.41 11.11,16 9.5,16A6.5,6.5 0 0,1 3,9.5A6.5,6.5 0 0,1 9.5,3M9.5,5C7,5 5,7 5,9.5C5,12 7,14 9.5,14C12,14 14,12 14,9.5C14,7 12,5 9.5,5Z"></path>
+				</svg>
+			</div>
+			<div class="logo">
+				<a href="/">
+					<img src="/site/images/logo-gsplus.png" alt="GSPlus logó" title="GSPlus.hu" class="img-responsive" />
+				</a>
+			</div>
+			<nav class="navigation">
+				<ul class="menu">
+					<li><a href="/hirek">Hírek</a></li>
+					
+					<li><a href="/elozetesek">Előzetesek</a></li>
+					<li><a href="/tesztek">Tesztek</a></li>
+															<li><a href="/elet">[Élet]</a></li>
+										<li><a href="/esport">#esport</a></li>
+										<li><a href="/kritika">Kritika</a></li>
+										<li><a href="/masvilag">Másvilág</a></li>
+										<li><a href="/gstv">Videó</a></li>
+															<li><a href="/plus">GS+</a></li>
+
+					<li class="accessibility-button">
+						<svg class="icon" xmlns="http://www.w3.org/2000/svg" width="22" height="20" viewBox="0 0 22 20">
+							<path fill="#fff" d="M2.6 1.3c2.7-2.3 7.7-.2 7.2 3.6.4 3.4-3.8 5.6-6.5 4C.5 7.5 0 3.1 2.6 1.3zM14.1 1.1c2.7-1.9 7.2.2 7 3.6.2 3.4-3.9 5.9-6.8 4.1-2.8-1.4-2.9-6.2-.2-7.7zM8.6 10.7c2.4-1.3 6.2-.4 6.8 2.6 1.2 3.5-2.9 7.1-6.2 5.4-3.3-1.1-3.7-6.4-.6-8z"/>
+						</svg>
+						
+					</li>
+
+					<li id="icon-rss">
+						<a href="https://www.gsplus.hu/site/rss/rss.xml" target="_blank" aria-label="GSPlus.hu RSS">
+                            <svg class="icon" style="width:16px;height:24px" viewBox="0 0 430.1 430.1">
+                                <path d="M97.5 332.5c10.4 10.4 16.8 24.5 16.8 40.2 0 15.7-6.4 29.8-16.8 40.2l0 0c-10.4 10.4-24.6 16.7-40.4 16.7 -15.8 0-29.9-6.3-40.3-16.7C6.4 402.5 0 388.4 0 372.7c0-15.7 6.4-29.9 16.8-40.3v0c10.4-10.4 24.6-16.7 40.3-16.7C72.9 315.7 87.1 322.1 97.5 332.5zM97.5 332.5v0c0 0 0 0 0 0L97.5 332.5zM16.8 412.9c0 0 0 0 0 0 0 0 0 0 0 0L16.8 412.9zM0 146.3v82.1c53.6 0 104.3 21.1 142.3 59.1 37.9 37.9 58.9 88.7 59 142.5h0v0.1h82.5c-0.1-78.2-31.9-149.1-83.3-200.5C149.1 178.1 78.3 146.3 0 146.3zM0.2 0v82.1c191.7 0.1 347.5 156.2 347.6 348h82.3c-0.1-118.6-48.2-226-126.1-303.9C226.1 48.3 118.7 0.1 0.2 0z"/>
+                            </svg>
+                        </a>
+					</li>
+										<li id="icon-user">
+						<a href="/belepes" aria-label="GSPlus.hu Profil">
+							<svg class="icon" style="width:24px;height:24px" viewBox="0 0 24 24">
+								<path d="M12,4A4,4 0 0,1 16,8A4,4 0 0,1 12,12A4,4 0 0,1 8,8A4,4 0 0,1 12,4M12,14C16.42,14 20,15.79 20,18V20H4V18C4,15.79 7.58,14 12,14Z" />
+							</svg>
+						</a>
+					</li>
+										<li id="icon-search">
+						<svg class="icon searchtrigger" style="width:24px;height:24px" viewBox="0 0 24 24">
+							<path d="M9.5,3A6.5,6.5 0 0,1 16,9.5C16,11.11 15.41,12.59 14.44,13.73L14.71,14H15.5L20.5,19L19,20.5L14,15.5V14.71L13.73,14.44C12.59,15.41 11.11,16 9.5,16A6.5,6.5 0 0,1 3,9.5A6.5,6.5 0 0,1 9.5,3M9.5,5C7,5 5,7 5,9.5C5,12 7,14 9.5,14C12,14 14,12 14,9.5C14,7 12,5 9.5,5Z"></path>
+						</svg>
+					</li>
+				</ul>
+			</nav>
+			<div class="search-wrapper">
+				<form action="/kereses" method="get" class="searchform">
+					<input type="text" name="q" placeholder="Keresés..." class="search" aria-label="Keresett kifejezés" />
+					<button type="submit" class="search-submit">Keress</button>
+				</form>
+			</div>
+			
+			<nav class="mobile-navigation">
+				<div class="menu-trigger">
+					<svg style="width:36px;height:36px" viewBox="0 0 24 24">
+						<path fill="#ffffff" d="M3,6H21V8H3V6M3,11H21V13H3V11M3,16H21V18H3V16Z" />
+					</svg>
+				</div>
+				<div class="mobile-menu">
+					<ul class="mobile-menu-list">
+						<li><a href="/hirek">Hírek</a></li>
+						
+						<li><a href="/elozetesek">Előzetesek</a></li>
+						<li><a href="/tesztek">Tesztek</a></li>
+																		<li><a href="/elet">[Élet]</a></li>
+												<li><a href="/esport">#esport</a></li>
+												<li><a href="/kritika">Kritika</a></li>
+												<li><a href="/masvilag">Másvilág</a></li>
+												<li><a href="/gstv">Videó</a></li>
+																		<li><a href="/plus">GS+</a></li>
+
+						<li class="accessibility-button">
+							<svg class="icon" xmlns="http://www.w3.org/2000/svg" width="22" height="20" viewBox="0 0 22 20">
+								<path fill="#fff" d="M2.6 1.3c2.7-2.3 7.7-.2 7.2 3.6.4 3.4-3.8 5.6-6.5 4C.5 7.5 0 3.1 2.6 1.3zM14.1 1.1c2.7-1.9 7.2.2 7 3.6.2 3.4-3.9 5.9-6.8 4.1-2.8-1.4-2.9-6.2-.2-7.7zM8.6 10.7c2.4-1.3 6.2-.4 6.8 2.6 1.2 3.5-2.9 7.1-6.2 5.4-3.3-1.1-3.7-6.4-.6-8z"/>
+							</svg>
+							
+						</li>
+
+					</ul>
+					<div class="mobile-menu-login-menu">
+												<div class="login-button-mobile button blue">
+							<a href="/belepes">
+								<svg class="icon" style="width:24px;height:24px" viewBox="0 0 24 24">
+									<path d="M12,4A4,4 0 0,1 16,8A4,4 0 0,1 12,12A4,4 0 0,1 8,8A4,4 0 0,1 12,4M12,14C16.42,14 20,15.79 20,18V20H4V18C4,15.79 7.58,14 12,14Z" />
+								</svg>
+								Bejelentkezés
+							</a>
+						</div>
+											</div>
+				</div>
+			</nav>
+		</div>
+	</div>
+</header>
+<div class="clearfix"></div>
+
+
+
+<div class="container main single-article">
+
+        <div class="ad ad-content-top">
+        <div class="cls gamestar_cikk_fekvo_1">
+<!-- Atmedia Desktop Cikk Fekvo 1 -->
+<div id="gamestar_cikk_fekvo_1"><!--<script type="text/javascript">activateBanner('gamestar_cikk_fekvo_1');</script>--></div></div>
+        <span>Hirdetés</span>
+    </div>
+    
+        <div class="section-wrapper">
+        				<div class="section section-2-3">
+						<div class="image hidden-xs">
+                                    <picture>
+                        <source type="image/webp" srcset="https://i.cdn29.hu/apix_collect_c/ngg_images/2606/12/szechenyi_istvan_egyetem_092527_1_original_760x425_cover.webp">
+                        <source type="image/jpeg" srcset="https://i.cdn29.hu/apix_collect_c/ngg_images/2606/12/szechenyi_istvan_egyetem_092527_1_original_760x425_cover.jpg">
+                        <img src="https://i.cdn29.hu/apix_collect_c/ngg_images/2606/12/szechenyi_istvan_egyetem_092527_1_original_760x425_cover.jpg" alt="Győr lett az ország e-sport-fővárosa bevezetőkép" class="img-responsive" loading="lazy">
+                    </picture>
+                			</div>
+						
+						<article data-article-id="383576" data-article-link="/esport/gyor-lett-az-orszag-esportfovarosa-383576.html">
+				<header>
+					<h1 class="title">Győr lett az ország e-sport-fővárosa</h1>
+					
+					<div class="meta">
+						<div class="info">
+							<address rel="author" class="author">Csirke</address> | <time pubdate="2026-06-12 17:36:37" itemprop="datePublished">2026 június 12. 17:36</time>
+						</div>
+						
+					</div>
+				</header>
+				<p class="lead">A Széchenyi István Egyetem rangos szakmai díjat kapott.</p>
+
+                				  
+																		                    			    								<div class="ad ad-article-under-lead">
+    									<!-- Atmedia Cikk Roadblock 1 -->
+<!--<div id="gamestar_cikk_roadblock_1"><script type="text/javascript">activateBanner('gamestar_cikk_roadblock_1');</script></div>-->
+
+<!-- Videó hirdetés -->
+<video class="video-js vjs-default-skin advertisementvideo" controls muted playsinline></video>
+    									<span>Hirdetés</span>
+    								</div>
+                    																									                                    <div class="content article-textbody ">
+    					                        
+                                                    <p>
+                            
+                            
+                            
+
+						                            <p>A győri Széchenyi István Egyetem nyerte el az Év e-sport-egyeteme címet a Telekom Év E-sportolója Gálán, amelyet a Magyar E-sport Szövetség és az Egymillióan a Magyar E-sportért Egyesület szervezett. Az elismerést azok az intézmények kaphatják meg, amelyek kiemelkedő munkát végeznek a hazai digitális sportok fejlesztésében, a versenyközösségek építésében és az e-sport szakmai hátterének erősítésében.</p>
+
+                            
+                            
+                            
+
+						                            <p>A díj jól jelzi, hogy az e-sport ma már nem egyszerűen kollégiumi szabadidős programként vagy hétvégi online játékként jelenik meg az egyetemi közegben. Egyre inkább olyan területként kezelik, amelyben komoly szerepe van a stratégiai gondolkodásnak, a csapatmunkának, a gyors döntéshozatalnak, a koncentrációnak és a technológiai felkészültségnek. A Széchenyi István Egyetem az elmúlt években pontosan erre építve alakította ki saját e-sportos jelenlétét.</p>
+
+<div class="ad ad-article-inside"><!-- Atmedia Cikk Roadblock 2 -->
+<!--<div id="gamestar_cikk_roadblock_2"><script type="text/javascript">activateBanner('gamestar_cikk_roadblock_2');</script></div>-->
+
+<!-- Atmedia Cikk Roadblock 1 -->
+<div id="gamestar_cikk_roadblock_1"><script type="text/javascript">activateBanner('gamestar_cikk_roadblock_1');</script></div><span>Hirdetés</span></div>
+
+
+                            
+                            
+                            
+
+						                            <p>Az intézmény nemcsak csapatokat és versenyzőket támogat, hanem olyan közösséget is épít, amelyben a hallgatók különböző szinten találhatják meg a saját kihívásaikat. A cél nem kizárólag az, hogy minél több dobogós eredmény szülessen, hanem az is, hogy az e-sport kapcsolódjon az egyetem technológiai és innovációs szemléletéhez, és valódi fejlődési lehetőséget adjon azoknak, akik komolyabban foglalkoznának vele.</p>
+
+                            
+                            
+                            
+
+						                            <p>Kocsis Máté, a Széchenyi-egyetem e-sport-szakosztályának szakmai vezetője szerint a győri játékosokat és csapatokat már hazai és nemzetközi szinten is egyre többen ismerik. Úgy fogalmazott, kevés olyan egyesület van, különösen egyetemi közegben, amely ilyen erős szakmai háttérrel, támogatással és versenyzői bázissal dolgozik. Szerinte egyre inkább híre megy annak a munkának, amely Győrben zajlik.</p>
+
+<div class="ew4" data-ew4='{"module":"advertisementproducts", "id":"0", "params":{}, "width":500, "height":400}'></div>
+
+                            
+                            
+                            
+
+						                            <p>A következő időszakban az egyetem továbbra is a nemzetközi szereplésre, a csapatépítésre és a dobogós eredményekre koncentrálna. A szakosztály célja, hogy hosszú távon is hozzájáruljon a hazai e-sport magasabb színvonalához, és olyan környezetet biztosítson, amelyben a versenyzők fejlődni, tanulni és rendszeresen bizonyítani tudnak.</p>
+
+                            
+                            
+                            
+
+						                            <p>A Széchenyi István Egyetem e-sportos munkájának egyik látványos példája a szimulátoros versenyzés területe. Külön elismerésként említették, hogy egyik versenyzőjük, Tóth Dávid hamarosan Formula-4-es, valódi versenykörnyezetben is lehetőséget kaphat, ami jól mutatja, hogy a digitális versenyzés és a hagyományos sport között ma már sokkal szorosabb lehet az átjárás, mint néhány éve gondoltuk volna.</p>
+
+                            
+                            
+                            
+
+						                            <p><em>Nyitókép: Kocsis Máté, a Széchenyi István Egyetem e-sport-szakosztályának szakmai vezetője és Nagy Zsolt, a szimulátor szakág vezetője az Év e-sport-egyeteme díjjal. (Fotó: Adorján András/Széchenyi István Egyetem)</em></p>
+                            
+                            
+                            
+
+						
+						
+						
+
+    					    				</div>
+                                
+
+
+    
+
+
+                                <div class="ad ad-boost">
+                    <a href="https://gemadhu.hit.gemius.pl/hitredir?id=1wOV7__ELZitOeXHL.v_1bPWfZt_fC8GgrCG2Rvy0m3.k7&stparam=ubqqhsgonq&fastid=cejxxivkrjwxmednkigurlqmxamo&nc=0&url=AQAAGnicBcFRCsAgCADQE1mMfmK3cStmaBlmdP29R-5z3TGec8K3puwVaMdpb2OOhCLqjq4MHQ0QnoovgVtTU4HlhqOYTsGnIPQ2Sh3cRmVIOV05BfIuP1xoJOZoouuGdrmtT6fRP41i7QAsyM8mMPQgXWSbUxukkb3Y8zw2j-zvKCodStCCVKWNIlbMyYSLr43Mrl3Q4pmjgZO6"><span>Hallottatok már a BEACH TRIO-ról? – Strandröplabda mindenkinek! (X)</span>Új, kezdőbarát kategóriával vár a Smash by Meló-Diák Strandröplabda Bajnokság.</a>
+<img src="https://gemadhu.hit.gemius.pl/redot.gif?id=1wOV7__ELZitOeXHL.v_1bPWfZt_fC8GgrCG2Rvy0m3.k7&stparam=xajkevmjdv&fastid=apmomyjgnjrrngcpjrhgfxdabukp&nc=0" border="0" height="0" width="0"></img>
+                </div>
+                
+                
+								<div><div class="ew4" data-ew4='{"module":"poll", "id":"0", "params":{"id":0, "subtype":"featured"}, "width":3200, "height":0}'></div></div>
+				
+				<footer>
+										<div class="tags">
+						<span class="tags-title">Címkék:</span>
+												<span class="tag"><a href="/kereses?q=sz%C3%A9chenyi%20istv%C3%A1n%20egyetem">#széchenyi istván egyetem</a></span>
+												<span class="tag"><a href="/kereses?q=%C3%89v%20e-sport-egyeteme%20d%C3%ADj">#Év e-sport-egyeteme díj</a></span>
+											</div>
+														</footer>
+				
+																					<div class="ad ad-article-end">
+							<!-- Atmedia Cikk Roadblock 3 -->
+<!--<div id="gamestar_cikk_roadblock_3"><script type="text/javascript">activateBanner('gamestar_cikk_roadblock_3');</script></div>-->
+
+<!-- Atmedia Cikk Roadblock 2 -->
+<div id="gamestar_cikk_roadblock_2"><script type="text/javascript">activateBanner('gamestar_cikk_roadblock_2');</script></div>
+							<span>Hirdetés</span>
+						</div>
+															<!-- Strossle -->
+				<section class="share-article">
+					<iframe src="https://www.facebook.com/plugins/like.php?href=https://www.gsplus.hu/esport/gyor-lett-az-orszag-esportfovarosa-383576.html&width=450&layout=standard&action=like&size=small&show_faces=false&share=false&height=35&appId=124819634275080" width="450" height="35" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media" aria-label="Tetszik a cikk"></iframe>
+				</section>
+
+                
+                                    <div class="active-article"></div>
+                    <!-- Nativhirdetes code -->
+                    <!--
+                    <script async src="//related.hu/js/v2/widget.js"></script>
+                    <div class="rltdwidget" data-widget-id="7108906"></div>-->
+                												<section class="article-comments">
+					<div class="disqus-comments" id="kommentek">
+						<div class="button-wrapper">
+							<button class="load-more-button button blue gae-comment-click-open comments-toggle">Hozzászólások</button>
+						</div>
+						<div class="content" id="disqus_thread"></div>
+						<script>
+						var disqus_shortname = 'gamestarhu'; // required: replace example with your forum shortname
+						</script>
+						<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript" rel="nofollow">comments powered by Disqus.</a></noscript>
+					</div>
+				</section>
+								
+							</article>
+
+            
+                                                
+                    
+                            
+			
+
+		</div>
+		<aside class="section section-1-3">
+							<div class="section-wrapper field_global_rightside">
+						<div class="section depth_1 section-3-3 desktop" id="s_1456070198">
+				
+	
+
+	<div class="section-wrapper field_global_rightside">
+						<div class="section depth_2 section-3-3 " id="s_1468268869">
+				
+	
+
+	<div class="section-wrapper field_global_rightside">
+	</div>
+	
+	<div class="box-wrapper field_global_rightside">
+									<div class="box  box-html">
+			<div class="element">
+								<a href="http://facebook.com/gsplusesport"><img src="apix_collect/ngg_images/2309/20/lenovo_esport_110007_1_original.jpg" align="center" alt="esport logo"/></a>
+<p style="font-size: 16px;
+color: #404040;">Többmillió néző, magas összdíjazás, vidámság és dráma – az e-sportok világa hatalmas és egyre növekszik. A GS #esport rovatában beszámolunk a videojátékos bajnokságok legfontosabb eseményeiről, a legérdekesebb hírekről, a legszebb pillanatokról.</p>
+			</div>
+		</div>
+
+	
+			</div>
+</div>
+			</div>
+	
+	<div class="box-wrapper field_global_rightside">
+									<div class="box  ad">
+			<div class="cls gamestar_cikk_jobb_1">
+<!-- Atmedia Desktop Cikk Jobb 1 -->
+<div id="gamestar_cikk_jobb_1"><!--<script type="text/javascript">activateBanner('gamestar_cikk_jobb_1');</script>--></div></div>
+			<span>Hirdetés</span>
+		</div>
+	
+								<div class="box  box-html">
+			<div class="element">
+								<div class="title-box-wrapper">
+					<h3 class="box-title">Legfrissebb PCW</h3>
+				</div>
+								<div class="text-center">
+<a href="https://pcwplus.hu/csomag" target="_blank"><img src="https://i.cdn29.hu/apix_collect/ngg_images/2606/06/pcw_202606_cimlap_130656_1_original.jpg" alt="" class="img-responsive"></a>
+</div>
+			</div>
+		</div>
+
+	
+								<div class="box  box-html">
+			<div class="element">
+								<div class="title-box-wrapper">
+					<h3 class="box-title">Hirdetés</h3>
+				</div>
+								
+			</div>
+		</div>
+
+	
+								<div class="box  box-extranews">
+			<div class="element">
+								<div class="items-wrap">
+					<div class="first-on-list">
+						<div class="image">
+							<a href="/prcikk/windows-11-pro-es-office-2024-joval-olcsobban-mint-gondolnad-382774.html"  aria-label="Windows 11 Pro és Office 2024 jóval olcsóbban, mint gondolnád kép">
+								                                                                    
+                                                                            <picture>
+                                            <source type="image/webp" srcset="https://i.cdn29.hu/apix_collect_c/ngg_images/2606/01/keysfan_074521_1_original_383x216_cover.webp">
+                                            <source type="image/jpeg" srcset="https://i.cdn29.hu/apix_collect_c/ngg_images/2606/01/keysfan_074521_1_original_383x216_cover.jpg">
+                                            <img src="https://i.cdn29.hu/apix_collect_c/ngg_images/2606/01/keysfan_074521_1_original_383x216_cover.jpg" alt="Windows 11 Pro és Office 2024 jóval olcsóbban, mint gondolnád kép" class="img-responsive" loading="lazy">
+                                        </picture>
+                                                                    
+							</a>
+							
+						</div>
+						<h3 class="title"><a href="/prcikk/windows-11-pro-es-office-2024-joval-olcsobban-mint-gondolnad-382774.html" >Windows 11 Pro és Office 2024 jóval olcsóbban, mint gondolnád</a></h3>
+						
+						<div class="meta">
+												<a href="/prcikk">PR</a> |
+												2026.06.01 09:00</div>
+					</div>
+									</div>
+			</div>
+		</div>
+
+	
+								<div class="box  box-html">
+			<div class="element">
+								<div class="title-box-wrapper">
+					<h3 class="box-title">Legfrissebb videónk</h3>
+				</div>
+								
+			</div>
+		</div>
+
+	
+								<div class="box  box-extranews">
+			<div class="element">
+								<div class="items-wrap">
+					<div class="first-on-list">
+						<div class="image">
+							<a href="/gstv/007-first-light-io-interactive-teszt-gstv-383603.html"  aria-label="Megvan a tökéletes James Bond, az Amazon MGM nyugodtan lefújhatja a keresést kép">
+								                                                                    
+                                                                            <picture>
+                                            <source type="image/webp" srcset="https://i.cdn29.hu/apix_collect_c/ngg_images/2606/12/gstv_170435_1_original_383x216_cover.webp">
+                                            <source type="image/jpeg" srcset="https://i.cdn29.hu/apix_collect_c/ngg_images/2606/12/gstv_170435_1_original_383x216_cover.jpg">
+                                            <img src="https://i.cdn29.hu/apix_collect_c/ngg_images/2606/12/gstv_170435_1_original_383x216_cover.jpg" alt="Megvan a tökéletes James Bond, az Amazon MGM nyugodtan lefújhatja a keresést kép" class="img-responsive" loading="lazy">
+                                        </picture>
+                                                                    
+							</a>
+							
+						</div>
+						<h3 class="title"><a href="/gstv/007-first-light-io-interactive-teszt-gstv-383603.html" >Megvan a tökéletes James Bond, az Amazon MGM nyugodtan lefújhatja a keresést</a></h3>
+						
+						<div class="meta">
+												<a href="/gstv">Videó</a> |
+												ma 17:05</div>
+					</div>
+									</div>
+			</div>
+		</div>
+
+	
+								<div class="box  ad">
+			<!-- Atmedia Desktop Cikk Jobb 2 -->
+<div id="gamestar_cikk_jobb_2"><!--<script type="text/javascript">activateBanner('gamestar_cikk_jobb_2');</script>--></div>
+
+<!-- Goa3 beépítés: GSO_desktop_jobb2, 3134971 -->
+<!-- <div id="zone3134971" class="goAdverticum"></div> -->
+			<span>Hirdetés</span>
+		</div>
+	
+								<div class="box  box-news-list">
+						<div class="title-box-wrapper">
+								<h3 class="box-title platform-">Legolvasottabbak</h3>
+			</div>
+									<div class="element">
+                <a href="/ingyen-jatekok/steam-ingyenes-jatekok-67-minutes-in-heaven-nexus-legacy-goalkeeper-journey-eterspire-383459.html"  aria-label="Négy játékot is teljesen ingyen zsákolhatsz be most Steamen kép">
+                    <div class="image">
+                                                                            
+                                                            <picture>
+                                    <source type="image/webp" srcset="https://i.cdn29.hu/apix_collect_c/ngg_images/2603/23/steam_logo_133730_1_original_240x135_cover.webp">
+                                    <source type="image/jpeg" srcset="https://i.cdn29.hu/apix_collect_c/ngg_images/2603/23/steam_logo_133730_1_original_240x135_cover.jpg">
+                                    <img src="https://i.cdn29.hu/apix_collect_c/ngg_images/2603/23/steam_logo_133730_1_original_240x135_cover.jpg" alt="Négy játékot is teljesen ingyen zsákolhatsz be most Steamen kép" class="img-responsive" loading="lazy">
+                                </picture>
+                                                                            
+                    </div>
+                    <h2 class="title">
+                        Négy játékot is teljesen ingyen zsákolhatsz be most Steamen
+                    </h2>
+					
+				</a>
+			</div>
+						<div class="element">
+                <a href="/masvilag/arnold-schwarzenegger-conan-a-barbar-visszateres-bucsu-383545.html"  aria-label="Arnold Schwarzenegger amolyan búcsúnak is szánja az új Conan, a barbárt kép">
+                    <div class="image">
+                                                                            
+                                                            <picture>
+                                    <source type="image/webp" srcset="https://i.cdn29.hu/apix_collect_c/ngg_images/2606/12/conan_090055_1_original_240x135_cover.webp">
+                                    <source type="image/jpeg" srcset="https://i.cdn29.hu/apix_collect_c/ngg_images/2606/12/conan_090055_1_original_240x135_cover.jpg">
+                                    <img src="https://i.cdn29.hu/apix_collect_c/ngg_images/2606/12/conan_090055_1_original_240x135_cover.jpg" alt="Arnold Schwarzenegger amolyan búcsúnak is szánja az új Conan, a barbárt kép" class="img-responsive" loading="lazy">
+                                </picture>
+                                                                            
+                    </div>
+                    <h2 class="title">
+                        Arnold Schwarzenegger amolyan búcsúnak is szánja az új Conan, a barbárt
+                    </h2>
+					
+				</a>
+			</div>
+						<div class="element">
+                <a href="/extralife/ennek-a-ferfinek-egy-lego-star-warsgyujtemeny-segitett-abba-hogy-ujra-hasznalni-tudja-a-kezet-383312.html"  aria-label="Ennek a férfinek egy LEGO Star Wars-gyűjtemény segített abban, hogy újra használni tudja a kezét kép">
+                    <div class="image">
+                                                                            
+                                                            <picture>
+                                    <source type="image/webp" srcset="https://i.cdn29.hu/apix_collect_c/ngg_images/2606/07/fredrick_oliver_112121_1_original_240x135_cover.webp">
+                                    <source type="image/jpeg" srcset="https://i.cdn29.hu/apix_collect_c/ngg_images/2606/07/fredrick_oliver_112121_1_original_240x135_cover.jpg">
+                                    <img src="https://i.cdn29.hu/apix_collect_c/ngg_images/2606/07/fredrick_oliver_112121_1_original_240x135_cover.jpg" alt="Ennek a férfinek egy LEGO Star Wars-gyűjtemény segített abban, hogy újra használni tudja a kezét kép" class="img-responsive" loading="lazy">
+                                </picture>
+                                                                            
+                    </div>
+                    <h2 class="title">
+                        Ennek a férfinek egy LEGO Star Wars-gyűjtemény segített abban, hogy újra használni tudja a kezét
+                    </h2>
+					
+				</a>
+			</div>
+						<div class="element">
+                <a href="/masvilag/a-marvel-legerosebb-uj-hose-belepett-a-bosszuallok-koze-383513.html"  aria-label="A Marvel legerősebb új hőse belépett a Bosszúállók közé kép">
+                    <div class="image">
+                                                                            
+                                                            <picture>
+                                    <source type="image/webp" srcset="https://i.cdn29.hu/apix_collect_c/ngg_images/2606/10/david_colton_230755_4_original_240x135_cover.webp">
+                                    <source type="image/jpeg" srcset="https://i.cdn29.hu/apix_collect_c/ngg_images/2606/10/david_colton_230755_4_original_240x135_cover.jpg">
+                                    <img src="https://i.cdn29.hu/apix_collect_c/ngg_images/2606/10/david_colton_230755_4_original_240x135_cover.jpg" alt="A Marvel legerősebb új hőse belépett a Bosszúállók közé kép" class="img-responsive" loading="lazy">
+                                </picture>
+                                                                            
+                    </div>
+                    <h2 class="title">
+                        A Marvel legerősebb új hőse belépett a Bosszúállók közé
+                    </h2>
+					
+				</a>
+			</div>
+						<div class="element">
+                <a href="/ingyen-jatekok/akciok-es-ingyenes-jatekok-broc-and-co-carlos-the-taco-brave-little-cloud-383475.html"  aria-label="Egy teljes játéktrilógia lehet most ingyen a tiétek kép">
+                    <div class="image">
+                                                                            
+                                                            <picture>
+                                    <source type="image/webp" srcset="https://i.cdn29.hu/apix_collect_c/ngg_images/2606/10/akciok_es_ingyenes_jatekok_135245_1_original_240x135_cover.webp">
+                                    <source type="image/jpeg" srcset="https://i.cdn29.hu/apix_collect_c/ngg_images/2606/10/akciok_es_ingyenes_jatekok_135245_1_original_240x135_cover.jpg">
+                                    <img src="https://i.cdn29.hu/apix_collect_c/ngg_images/2606/10/akciok_es_ingyenes_jatekok_135245_1_original_240x135_cover.jpg" alt="Egy teljes játéktrilógia lehet most ingyen a tiétek kép" class="img-responsive" loading="lazy">
+                                </picture>
+                                                                            
+                    </div>
+                    <h2 class="title">
+                        Egy teljes játéktrilógia lehet most ingyen a tiétek
+                    </h2>
+					
+				</a>
+			</div>
+						<div class="element">
+                <a href="/masvilag/star-wars-zsivany-egyes-10-eves-szuletesnap-jyn-erso-kepregeny-383369.html"  aria-label="Nem rossz az új Zsivány Egyes sztori, de azért a világot nem váltja meg (és nem is akarja) kép">
+                    <div class="image">
+                                                                            
+                                                            <picture>
+                                    <source type="image/webp" srcset="https://i.cdn29.hu/apix_collect_c/ngg_images/2305/09/rogue_one_star_wars_160348_1_original_240x135_cover.webp">
+                                    <source type="image/jpeg" srcset="https://i.cdn29.hu/apix_collect_c/ngg_images/2305/09/rogue_one_star_wars_160348_1_original_240x135_cover.jpg">
+                                    <img src="https://i.cdn29.hu/apix_collect_c/ngg_images/2305/09/rogue_one_star_wars_160348_1_original_240x135_cover.jpg" alt="Nem rossz az új Zsivány Egyes sztori, de azért a világot nem váltja meg (és nem is akarja) kép" class="img-responsive" loading="lazy">
+                                </picture>
+                                                                            
+                    </div>
+                    <h2 class="title">
+                        Nem rossz az új Zsivány Egyes sztori, de azért a világot nem váltja meg (és nem is akarja)
+                    </h2>
+					
+				</a>
+			</div>
+					</div>
+
+	
+								<div class="box  box-news-list">
+						<div class="title-box-wrapper" style="background-color:#8B0000;">
+								<div class="box-title-image">
+					<img src="https://www.pcwplus.hu/site/rss/rss.xml" alt="" loading="lazy" />
+				</div>
+								<h3 class="box-title platform-" style="border-left-color:#8B0000;">PCW hírek</h3>
+			</div>
+									<div class="element">
+				<div class="image">
+					<a href="https://www.pcwplus.hu/pcwlite/musk-onvezeto-alma-meg-mindig-nagyon-messze-van-383593.html" rel="noopener" aria-label="Musk önvezető álma még mindig nagyon messze van kép">
+                        
+                                                    <picture>
+                                <source type="image/webp" srcset="https://i.cdn29.hu/apix_collect_c/ngg_images/2411/24/tesla_093348_1_original_390x220_cover.webp">
+                                <source type="image/jpeg" srcset="https://i.cdn29.hu/apix_collect_c/ngg_images/2411/24/tesla_093348_1_original_390x220_cover.jpg">
+                                <img src="https://i.cdn29.hu/apix_collect_c/ngg_images/2411/24/tesla_093348_1_original_390x220_cover.jpg" alt="Musk önvezető álma még mindig nagyon messze van kép" class="img-responsive" loading="lazy">
+                            </picture>
+                        					</a>
+				</div>
+				<h2 class="title"><a href="https://www.pcwplus.hu/pcwlite/musk-onvezeto-alma-meg-mindig-nagyon-messze-van-383593.html">Musk önvezető álma még mindig nagyon messze van</a></h2>
+			</div>
+						<div class="element">
+				<div class="image">
+					<a href="https://www.pcwplus.hu/pcwlite/az-apple-szerint-siri-nem-lesz-senki-aibaratnoje-383591.html" rel="noopener" aria-label="Az Apple szerint Siri nem lesz senki AI-barátnője kép">
+                        
+                                                    <picture>
+                                <source type="image/webp" srcset="https://i.cdn29.hu/apix_collect_c/ngg_images/2606/12/ai_girlfriend_120441_1_original_390x220_cover.webp">
+                                <source type="image/jpeg" srcset="https://i.cdn29.hu/apix_collect_c/ngg_images/2606/12/ai_girlfriend_120441_1_original_390x220_cover.jpg">
+                                <img src="https://i.cdn29.hu/apix_collect_c/ngg_images/2606/12/ai_girlfriend_120441_1_original_390x220_cover.jpg" alt="Az Apple szerint Siri nem lesz senki AI-barátnője kép" class="img-responsive" loading="lazy">
+                            </picture>
+                        					</a>
+				</div>
+				<h2 class="title"><a href="https://www.pcwplus.hu/pcwlite/az-apple-szerint-siri-nem-lesz-senki-aibaratnoje-383591.html">Az Apple szerint Siri nem lesz senki AI-barátnője</a></h2>
+			</div>
+						<div class="element">
+				<div class="image">
+					<a href="https://www.pcwplus.hu/pcwmaster/met-facebook-instagram-threads-downdetector-leallas-383601.html" rel="noopener" aria-label="[Frissítve] Világszerte leállt a Facebook, a Meta több szolgáltatása is problémákkal küzd kép">
+                        
+                                                    <picture>
+                                <source type="image/webp" srcset="https://i.cdn29.hu/apix_collect_c/ngg_images/2305/18/facebook_dr_evil_152850_1_original_390x220_cover.webp">
+                                <source type="image/jpeg" srcset="https://i.cdn29.hu/apix_collect_c/ngg_images/2305/18/facebook_dr_evil_152850_1_original_390x220_cover.jpg">
+                                <img src="https://i.cdn29.hu/apix_collect_c/ngg_images/2305/18/facebook_dr_evil_152850_1_original_390x220_cover.jpg" alt="[Frissítve] Világszerte leállt a Facebook, a Meta több szolgáltatása is problémákkal küzd kép" class="img-responsive" loading="lazy">
+                            </picture>
+                        					</a>
+				</div>
+				<h2 class="title"><a href="https://www.pcwplus.hu/pcwmaster/met-facebook-instagram-threads-downdetector-leallas-383601.html">[Frissítve] Világszerte leállt a Facebook, a Meta több szolgáltatása is problémákkal küzd</a></h2>
+			</div>
+						<div class="element">
+				<div class="image">
+					<a href="https://www.pcwplus.hu/pcwlite/visszaternek-a-privat-uzenetek-a-youtubera-383590.html" rel="noopener" aria-label="Visszatérnek a privát üzenetek a YouTube-ra kép">
+                        
+                                                    <picture>
+                                <source type="image/webp" srcset="https://i.cdn29.hu/apix_collect_c/ngg_images/2511/02/youtube_111445_1_original_390x220_cover.webp">
+                                <source type="image/jpeg" srcset="https://i.cdn29.hu/apix_collect_c/ngg_images/2511/02/youtube_111445_1_original_390x220_cover.jpg">
+                                <img src="https://i.cdn29.hu/apix_collect_c/ngg_images/2511/02/youtube_111445_1_original_390x220_cover.jpg" alt="Visszatérnek a privát üzenetek a YouTube-ra kép" class="img-responsive" loading="lazy">
+                            </picture>
+                        					</a>
+				</div>
+				<h2 class="title"><a href="https://www.pcwplus.hu/pcwlite/visszaternek-a-privat-uzenetek-a-youtubera-383590.html">Visszatérnek a privát üzenetek a YouTube-ra</a></h2>
+			</div>
+						<div class="element">
+				<div class="image">
+					<a href="https://www.pcwplus.hu/pcwlite/par-perc-alatt-elbukhat-a-tiktok-nem-erdekel-gombja-383589.html" rel="noopener" aria-label="Pár perc alatt elbukhat a TikTok „Nem érdekel” gombja kép">
+                        
+                                                    <picture>
+                                <source type="image/webp" srcset="https://i.cdn29.hu/apix_collect_c/ngg_images/2210/27/tiktok_bytedance_064514_1_original_390x220_cover.webp">
+                                <source type="image/jpeg" srcset="https://i.cdn29.hu/apix_collect_c/ngg_images/2210/27/tiktok_bytedance_064514_1_original_390x220_cover.jpg">
+                                <img src="https://i.cdn29.hu/apix_collect_c/ngg_images/2210/27/tiktok_bytedance_064514_1_original_390x220_cover.jpg" alt="Pár perc alatt elbukhat a TikTok „Nem érdekel” gombja kép" class="img-responsive" loading="lazy">
+                            </picture>
+                        					</a>
+				</div>
+				<h2 class="title"><a href="https://www.pcwplus.hu/pcwlite/par-perc-alatt-elbukhat-a-tiktok-nem-erdekel-gombja-383589.html">Pár perc alatt elbukhat a TikTok „Nem érdekel” gombja</a></h2>
+			</div>
+						
+		</div>
+
+	
+								<div class="box  ad">
+			<!-- Goa3 beépítés: GSO_desktop_jobb4, 5158537 -->
+<div id="zone5158537" class="goAdverticum"></div>
+			<span>Hirdetés</span>
+		</div>
+	
+								<div class="box  ad">
+			<a href="http://www.eset.hu/?utm_source=Gamestar&utm_medium=Logo%20banner&utm_campaign=%C3%81lland%C3%B3%20megjelen%C3%A9s">
+  <img src="apix_collect/ngg_images/2207/13/eset_204933_1_original.jpg" alt="Eset GS Banner" style="max-width: 100%;height: auto;margin: 0 auto;display: block;" width="300" height="267">
+</a><span style="font-size:10px;display: block;color: #919191;text-align:center;margin-top:-0.25rem;">Hirdetés</span>
+			<span>Hirdetés</span>
+		</div>
+	
+			</div>
+</div>
+			</div>
+
+	<div class="box-wrapper field_global_rightside">
+	</div>
+
+
+		</aside>
+	</div>
+</div>
+
+
+<div id="back_top">
+	<a href="#wrap" aria-label="Vissza a lap tetejére">
+		<svg style="width:24px;height:24px" viewBox="0 0 24 24">
+			<path fill="#ffffff" d="M7.41,15.41L12,10.83L16.59,15.41L18,14L12,8L6,14L7.41,15.41Z" />
+		</svg>
+	</a>
+</div>
+<footer class="footer">
+	<div class="partners-footer">
+		<div class="container">
+			<a href="https://www.computertrends.hu/" title="ComputerTrends" rel="noopener">ComputerTrends.hu</a> | 
+			<a href="https://www.gsplus.hu/" title="GS">GSPlus.hu</a> | 
+			<a href="https://www.pcwplus.hu/" title="PCW" rel="noopener">PCWPlus.hu</a> | 
+			<a href="https://www.puliwood.hu/" title="Puliwood" rel="noopener">Puliwood.hu</a> | 
+			<a href="https://www.zoldpalya.hu/" title="Zöldpálya" rel="noopener">Zoldpalya.hu</a>
+		</div>
+	</div>
+	<div class="author-footer">
+		<div class="container">
+			<p>
+			    <b>Kiadó:</b> BDPST Business Kft.<br>
+			    <a rel="noopener" href="https://www.project029.com/impresszum#gamestar" target="_blank">Impresszum</a> - 
+			    
+			    <a rel="noopener" href="https://www.project029.com/adatvedelem" target="_blank">Adatvédelmi elveink</a> - 
+			    <a rel="noopener" href="https://www.project029.com/downloads/szabalyzat-jogellenes-hozzaszolasok-kezelese.pdf" target="_blank">Hozzászólások kezelése</a>
+			 </p>
+		</div>
+	</div>
+</footer>
+
+    <!-- Atmedia Skin -->
+    <div id="gamestar_skin"><script type="text/javascript">activateBanner('gamestar_skin');</script></div>
+
+<script type="application/ld+json">
+  {"@context":"https://schema.org","@type":"NewsArticle","inLanguage":"hu","headline":"Gy\u0151r lett az orsz\u00e1g e-sport-f\u0151v\u00e1rosa","description":"A Sz\u00e9chenyi Istv\u00e1n Egyetem rangos szakmai d\u00edjat kapott.","author":{"@type":"Person","name":"Csirke"},"publisher":{"@type":"Organization","name":"GS","url":"https://www.gsplus.hu","logo":{"@type":"ImageObject","url":"https://www.gsplus.hu/site/images/gamestar_logo_schema.png","width":"245","height":"60"}},"datePublished":"2026-06-12 17:36:37","dateModified":"2026-06-12 17:28:38","mainEntityOfPage":"https://www.gsplus.hu/esport/gyor-lett-az-orszag-esportfovarosa-383576.html","image":["https://i.cdn29.hu/apix_collect_c/ngg_images/2606/12/szechenyi_istvan_egyetem_092527_1_original_760x425_cover.jpg","https://i.cdn29.hu/apix_collect_c/ngg_images/2606/12/szechenyi_istvan_egyetem_092527_1_original_1150x645_cover.jpg","https://i.cdn29.hu/apix_collect_c/ngg_images/2606/12/szechenyi_istvan_egyetem_092527_1_original_560x313_cover.jpg","https://i.cdn29.hu/apix_collect_c/ngg_images/2606/12/szechenyi_istvan_egyetem_092527_1_original_560x313_cover.jpg"]}
+</script>
+
+
+<script type="application/ld+json">
+{
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "url": "https://www.gsplus.hu/",
+    "name": "GSPlus.hu",
+    "sameAs": "https://www.facebook.com/gamestarhu/",
+    "logo": "https://www.gsplus.hu/site/images/gamestar_logo_schema.png"
+}
+</script>
+<script type="application/ld+json">
+{
+    "@context": "https://schema.org",
+    "@type": "WebSite",
+    "url": "https://www.gsplus.hu/",
+    "name": "GSPlus.hu",
+    "description": "[gsplus.hu - A geek életmódmagazin]",
+    "potentialAction": {
+    	"@type": "SearchAction",
+        "target": {
+            "@type": "EntryPoint",
+            "urlTemplate": "https://www.gsplus.hu/kereses?q={search_term_string}"
+        },
+        "query-input": {
+            "@type": "PropertyValueSpecification",
+            "valueRequired": "http://schema.org/True",
+            "valueName": "search_term_string"
+        }
+    }
+}
+</script>
+
+
+
+
+<div class="ad ad-optionless_bottom optionless_bottom_box" data-ad-interval-day="1.0000" data-ad-timeout-sec="0">
+	<span class="optionless_bottom-time"><span class="counter">0</span> mp. múlva automatikusan bezár</span>
+	<span class="optionless_bottom-close">Tovább az oldalra &#187;</span>
+	<!-- Adform publisher tag -->
+<!-- Tag for HUN_IDG_Gamestar.hu - Gamestar_Footer_1920x1200 placement -->
+
+<script data-adfscript="adx.adform.net/adx/?mid=719513&rnd=<random_number>"></script>
+<script src="//s1.adform.net/banners/scripts/adx.js" async defer></script></div>
+
+
+
+
+<div class="adblocker">
+	<div class="info">
+		<div class="smiley"></div>
+		<p>Úgy tűnik, AdBlockert használsz, amivel megakadályozod a reklámok megjelenítését. Amennyiben szeretnéd támogatni a munkánkat, kérjük add hozzá az oldalt a kivételek listájához, vagy támogass minket közvetlenül! <a href="/adblock">További információért kattints!</a></p>
+		<span class="close">
+			<svg style="width:24px;height:24px" viewBox="0 0 24 24">
+				<path fill="#000000" d="M12,2C17.53,2 22,6.47 22,12C22,17.53 17.53,22 12,22C6.47,22 2,17.53 2,12C2,6.47 6.47,2 12,2M15.59,7L12,10.59L8.41,7L7,8.41L10.59,12L7,15.59L8.41,17L12,13.41L15.59,17L17,15.59L13.41,12L17,8.41L15.59,7Z" />
+			</svg>
+		</span>
+	</div>
+	<div class="mask"></div>
+</div>
+
+
+<div id="web-push-popup">
+	<div class="web-push-popup-container">
+		<div class="web-push-popup-text clearfix">
+			<p>
+				Ne maradj le a legfontosabb hírekről! Engedélyezd az értesítéseket, cserébe elsőként tudod meg, ha bejelentik a Half-Life 3-at! (Nem spamelünk, becsszó!)
+			</p>
+		</div>
+		<div class="web-push-popup-footer">
+			<a href="#" id="web-push-popup-close-btn" class="btn btn-default">Nem, köszi!</a>
+			<a href="#" id="web-push-popup-enable-btn" class="btn btn-primary">Hogyne, akarom!</a>
+		</div>
+	</div>
+</div>
+
+<script>
+function downloadJSAtOnload() {
+	var element = document.createElement("script");
+	element.src = '/core/js/onload.js?v2';
+	document.body.appendChild(element);
+}
+if (window.addEventListener) window.addEventListener("load", downloadJSAtOnload, false);
+else if (window.attachEvent) window.attachEvent("onload", downloadJSAtOnload);
+else window.onload = downloadJSAtOnload;
+</script>
+
+
+<script>
+//
+//(function(document) {
+//    let downloadAdverticumScript = function() {
+//        console.log('adverticum - 1');
+//        setTimeout(function(){
+//            console.log('adverticum - 2');
+//            let script = document.createElement('script');
+//            script.src = "//ad.adverticum.net/g3.js";
+//            document.body.append(script);
+//        }, 1);
+//    };
+//    if (window.addEventListener) {
+//        window.addEventListener('load', downloadAdverticumScript, false);
+//    } else if (window.attachEvent) {
+//        window.attachEvent('onload', downloadAdverticumScript);
+//    } else {
+//        window.onload = downloadAdverticumScript;
+//    }
+//})(document);
+//
+</script>
+
+
+
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+function go_gemius_hit() {
+  window.pp_gemius_use_cmp = 'true';
+  window.pp_gemius_cmp_timeout = Infinity;
+  window.pp_gemius_identifier = 'bJrrCxyRQBOg_bD1jfR7TschTGSYEMPGCIlhlw3VyAL.I7';
+  function gemius_pending(i) { window[i] = window[i] || function() {var x = window[i+'_pdata'] = window[i+'_pdata'] || []; x[x.length]=arguments;};}; gemius_pending('gemius_hit'); gemius_pending('gemius_event'); gemius_pending('gemius_init'); gemius_pending('pp_gemius_hit'); gemius_pending('pp_gemius_event'); gemius_pending('pp_gemius_init'); (function(d,t) {try {var gt=d.createElement(t),s=d.getElementsByTagName(t)[0],l='http'+((location.protocol=='https:')?'s':''); gt.setAttribute('async','async'); gt.setAttribute('defer','defer'); gt.src=l+'://hu.hit.gemius.pl/xgemius.js'; s.parentNode.insertBefore(gt,s);} catch (e) {}})(document,'script');
+}
+function check_tcfapi_for_gemius() { if (typeof __tcfapi !== 'undefined') { go_gemius_hit(); } else { setTimeout(check_tcfapi_for_gemius, 500); } }
+check_tcfapi_for_gemius();
+//--><!]]>
+</script>
+
+
+
+
+
+
+
+<iframe src="/web4sso" style="width:1px;height:1px;display:none;" aria-label="Belépés figyelés"></iframe>
+
+<!-- Generated at: 2026-06-12 18:41:50 -->
+
+
+
+<style>
+    .p029note{display: none;background-color: #a00000;color: #fff;text-align: center;position: fixed;left: 0;right: 0;bottom: 0;z-index: 1000;font-size: 1rem;padding: 10px;}
+    .p029note a{color: #fff;font-weight: bold;display: inline-block;margin-right: 5px;}
+    .p029note svg{width:14px;height: 14px;}
+    .p029note svg path{fill:#fff;}
+    .p029note-close{position: relative;/*display: none;*/}
+    .p029note-close a{position: absolute;right: 10px;top: -20px;color: #fff;text-decoration: underline;font-weight: normal;}
+    
+    @media (max-width:767.98px){
+        .p029note-close a{display: block;position: relative;top: auto;right: auto;margin-top:10px;}
+    }
+</style>
+
+
+
+
+
+
+
+
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/video.js/8.23.4/video.min.js" integrity="sha512-frQAbRblLAB27W72seJtP+PijHuCtSfQ+k+LS7M4v27gjKb5doigt4khTLCwILnWz8sd+MPu3Qzkaduq4dwitA==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/videojs-contrib-ads/7.5.2/videojs-contrib-ads.min.js" integrity="sha512-484uKlYlD17zE0Xn4OYF76B2WY+3nCrlF7qj3T+0QJQy3cvGE/03ys3lFqShaRWylb2rbvhUD/9sGsNRA67yPg==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+    <script src="https://imasdk.googleapis.com/js/sdkloader/ima3.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/videojs-ima/2.4.0/videojs.ima.min.js" integrity="sha512-lnkRBairLOzQOiGoSnD9Ab5sTstRLJIWkICAIHFlFAuunzYmCzVFg+Ka+TiCUph2WH18a9vA96KO7IuWarte2g==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+
+</body>
+
+</html>
+
+
