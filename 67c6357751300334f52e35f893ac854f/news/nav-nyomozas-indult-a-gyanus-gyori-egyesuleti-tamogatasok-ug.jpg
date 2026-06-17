@@ -1,0 +1,829 @@
+<!DOCTYPE html><html lang="hu"><head>
+    <meta charset="utf-8">
+    
+    
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <meta name="n3/config/environment" content="%7B%22modulePrefix%22%3A%22n3%22%2C%22environment%22%3A%22production%22%2C%22rootURL%22%3A%22%2F%22%2C%22locationType%22%3A%22history%22%2C%22EmberENV%22%3A%7B%22EXTEND_PROTOTYPES%22%3Afalse%2C%22FEATURES%22%3A%7B%7D%2C%22_APPLICATION_TEMPLATE_WRAPPER%22%3Afalse%2C%22_DEFAULT_ASYNC_OBSERVERS%22%3Atrue%2C%22_JQUERY_INTEGRATION%22%3Afalse%2C%22_NO_IMPLICIT_ROUTE_MODEL%22%3Atrue%2C%22_TEMPLATE_ONLY_GLIMMER_COMPONENTS%22%3Atrue%2C%22_USE_EMBER_MODULES%22%3Atrue%7D%2C%22APP%22%3A%7B%22name%22%3A%22n3%22%2C%22version%22%3A%220.0.0%2B6dbde59b%22%7D%2C%22fastboot%22%3A%7B%22hostWhitelist%22%3A%5B%22localhost%3A3000%22%2C%220.0.0.0%3A3000%22%2C%22444.hu%22%5D%7D%2C%22metricsAdapters%22%3A%5B%7B%22name%22%3A%22GoogleTagManager%22%2C%22environments%22%3A%5B%22production%22%5D%2C%22config%22%3A%7B%22id%22%3A%22GTM-KZVBKWD%22%7D%7D%2C%7B%22name%22%3A%22Remp%22%2C%22environments%22%3A%5B%22production%22%5D%2C%22config%22%3A%7B%22scriptUrl%22%3A%22https%3A%2F%2Fcdn.pmd.444.hu%2Fassets%2Flib%2Fjs%2Fheartbeat.js%22%2C%22host%22%3A%22https%3A%2F%2Fheartbeat.pmd.444.hu%22%2C%22token%22%3A%2258501271-8451-48bf-821e-10821a06f364%22%2C%22cookieDomain%22%3A%22.444.hu%22%7D%7D%5D%2C%22emberRollbarClient%22%3A%7B%22enabled%22%3Atrue%2C%22accessToken%22%3A%224c0fcee6de3b4ca9a8c6e629555ab07e%22%2C%22verbose%22%3Atrue%2C%22captureUncaught%22%3Atrue%2C%22captureUnhandledRejections%22%3Atrue%2C%22payload%22%3A%7B%22environment%22%3A%22production%22%2C%22client%22%3A%7B%22javascript%22%3A%7B%22source_map_enabled%22%3Atrue%2C%22code_version%22%3A%220.0.0%2B6dbde59%22%2C%22guess_uncaught_frames%22%3Atrue%7D%7D%7D%2C%22hostSafeList%22%3A%5B%22444.hu%22%5D%7D%2C%22ENGINES%22%3A%5B%7B%22name%22%3A%22valasztas--election%22%2C%22type%22%3A%22election%22%2C%22config%22%3A%7B%22buckets%22%3A%5B%22444%22%5D%7D%7D%2C%7B%22name%22%3A%22author--author%22%2C%22type%22%3A%22author%22%2C%22config%22%3A%7B%22buckets%22%3A%5B%22444%22%2C%22insight-hungary%22%2C%22partizan%22%5D%7D%7D%2C%7B%22name%22%3A%22kereses--search%22%2C%22type%22%3A%22search%22%2C%22config%22%3A%7B%22buckets%22%3A%5B%22444%22%2C%22insight-hungary%22%2C%22partizan%22%5D%7D%7D%2C%7B%22name%22%3A%22foci%2Fbajnoksag--championship%22%2C%22type%22%3A%22championship%22%2C%22config%22%3A%7B%22buckets%22%3A%5B%22444%22%5D%7D%7D%2C%7B%22name%22%3A%22partizan--reader%22%2C%22type%22%3A%22reader%22%2C%22config%22%3A%7B%22buckets%22%3A%5B%22partizan%22%5D%7D%7D%2C%7B%22name%22%3A%22--reader%22%2C%22type%22%3A%22reader%22%2C%22config%22%3A%7B%22buckets%22%3A%5B%22444%22%5D%7D%7D%5D%7D">
+<!-- EMBER_CLI_FASTBOOT_TITLE -->      <meta name="ember-head-start" content>
+      
+      <meta name="author" content="Bódog Bálint">
+
+        <meta name="keywords" content="belföld,NAV,HD Sport Egyesület,Fiatalok Külügyi és Kultúr Egyesülete,nka,hivatali visszaélés,Polgári Sport Kör Egyesület,nyomozás,nemzeti adó- és vámhivatal,költségvetési csalás,feketekassza,nemzeti kulturális alap,hűtlen kezelés,Kósa Roland,győr,NKA-botrány,Fiatalok Sport és Kultúr Egyesülete,juhász balázs,fidelitas">
+        <meta name="news_keywords" content="belföld,NAV,HD Sport Egyesület,Fiatalok Külügyi és Kultúr Egyesülete,nka,hivatali visszaélés,Polgári Sport Kör Egyesület,nyomozás,nemzeti adó- és vámhivatal,költségvetési csalás,feketekassza,nemzeti kulturális alap,hűtlen kezelés,Kósa Roland,győr,NKA-botrány,Fiatalok Sport és Kultúr Egyesülete,juhász balázs,fidelitas">
+        <meta itemprop="keywords" content="belföld,NAV,HD Sport Egyesület,Fiatalok Külügyi és Kultúr Egyesülete,nka,hivatali visszaélés,Polgári Sport Kör Egyesület,nyomozás,nemzeti adó- és vámhivatal,költségvetési csalás,feketekassza,nemzeti kulturális alap,hűtlen kezelés,Kósa Roland,győr,NKA-botrány,Fiatalok Sport és Kultúr Egyesülete,juhász balázs,fidelitas">
+
+    <meta name="twitter:card" content="summary_large_image">
+
+        <link rel="canonical" href="https://444.hu/2026/06/16/ugyanazon-a-napon-inditottak-el-negy-egyesuletet-gyorben-es-kornyeken-ezek-osszesen-105-millio-forint-tamogatast-kaptak-az-nka-feketekasszajabol-a-nav-nyomozast-rendelt-el">
+        <meta property="og:url" content="https://444.hu/2026/06/16/ugyanazon-a-napon-inditottak-el-negy-egyesuletet-gyorben-es-kornyeken-ezek-osszesen-105-millio-forint-tamogatast-kaptak-az-nka-feketekasszajabol-a-nav-nyomozast-rendelt-el">
+        <meta property="twitter:url" content="https://444.hu/2026/06/16/ugyanazon-a-napon-inditottak-el-negy-egyesuletet-gyorben-es-kornyeken-ezek-osszesen-105-millio-forint-tamogatast-kaptak-az-nka-feketekasszajabol-a-nav-nyomozast-rendelt-el">
+
+      <meta property="og:site_name" content="444">
+
+    <meta property="og:type" content="article">
+    <meta property="og:locale" content="hu">
+
+        <title>Ugyanazon a napon indítottak el négy egyesületet Győrben és környékén, ezek összesen 105 millió forint támogatást kaptak az NKA feketekasszájából, a NAV nyomozást rendelt el</title>
+        <meta name="title" content="Ugyanazon a napon indítottak el négy egyesületet Győrben és környékén, ezek összesen 105 millió forint támogatást kaptak az NKA feketekasszájából, a NAV nyomozást rendelt el">
+        <meta property="og:title" content="Ugyanazon a napon indítottak el négy egyesületet Győrben és környékén, ezek összesen 105 millió forint támogatást kaptak az NKA feketekasszájából, a NAV nyomozást rendelt el">
+        <meta name="twitter:title" content="Ugyanazon a napon indítottak el négy egyesületet Győrben és környékén, ezek összesen 105 millió forint támogatást kaptak az NKA feketekasszájából, a NAV nyomozást rendelt el">
+
+        <meta name="description" content="Mindegyikben képviseleti jogosultsága van Juhász Balázsnak, a bécsi Fidelitas alapító elnökének.">
+        <meta property="og:description" content="Mindegyikben képviseleti jogosultsága van Juhász Balázsnak, a bécsi Fidelitas alapító elnökének.">
+        <meta name="twitter:description" content="Mindegyikben képviseleti jogosultsága van Juhász Balázsnak, a bécsi Fidelitas alapító elnökének.">
+
+        <meta property="og:image" content="https://assets.4cdn.hu/kraken/8LXpAFHACOE9mOWHs-lg.jpeg">
+        <meta name="twitter:image" content="https://assets.4cdn.hu/kraken/8LXpAFHACOE9mOWHs-lg.jpeg">
+
+      <meta name="robots" content="max-image-preview:large">
+
+      <script type="application/ld+json">[{"@context":"https://schema.org","@type":"NewsArticle","mainEntityOfPage":"https://444.hu/2026/06/16/ugyanazon-a-napon-inditottak-el-negy-egyesuletet-gyorben-es-kornyeken-ezek-osszesen-105-millio-forint-tamogatast-kaptak-az-nka-feketekasszajabol-a-nav-nyomozast-rendelt-el","headline":"Ugyanazon a napon indítottak el négy egyesületet Győrben és környékén, ezek összesen 105 millió forint támogatást kaptak az NKA feketekasszájából, a NAV nyomozást rendelt el","description":"Mindegyikben képviseleti jogosultsága van Juhász Balázsnak, a bécsi Fidelitas alapító elnökének.","datePublished":"2026-06-16T10:43:40+02:00","dateModified":"2026-06-16T10:57:44+02:00","author":[{"@type":"Person","name":"Bódog Bálint","image":"https://assets.4cdn.hu/kraken/7hwxGLtdChDIOwGWs-xxs.jpeg?width=96&amp;height=96&amp;fit=crop"}],"image":"https://assets.4cdn.hu/kraken/8LXpAFHACOE9mOWHs.jpeg","publisher":{"@type":"Organization","name":"444","logo":"https://cdn.444r.cloud/assets/appicon-180.f28fd1db6b2192fcd860.png"}},{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"444","item":"https://444.hu"},{"@type":"ListItem","position":2,"name":"belföld","item":"https://444.hu/category/belfold"},{"@type":"ListItem","position":3,"name":"Ugyanazon a napon indítottak el négy egyesületet Győrben és környékén, ezek összesen 105 millió forint támogatást kaptak az NKA feketekasszájából, a NAV nyomozást rendelt el"}]}]</script>
+
+      <meta property="article:published_time" content="2026-06-16T10:43:36+02:00">
+
+<!---->
+<!---->
+<!---->
+      <link rel="icon" href="https://cdn.444r.cloud/assets/favicon.59a582e6612fdac3b572.svg" type="image/svg+xml">
+
+      <link rel="apple-touch-icon" href="https://cdn.444r.cloud/assets/appicon-180.f28fd1db6b2192fcd860.png">
+
+      <link rel="manifest" href="/manifest.e46292aedadf78a83e06.webmanifest" crossorigin="use-credentials">
+  
+      <meta name="ember-head-end" content>
+
+<meta name="author/config/environment" content="%7B%22modulePrefix%22%3A%22author%22%2C%22environment%22%3A%22production%22%7D">
+<meta name="championship/config/environment" content="%7B%22modulePrefix%22%3A%22championship%22%2C%22environment%22%3A%22production%22%7D">
+<meta name="election/config/environment" content="%7B%22modulePrefix%22%3A%22election%22%2C%22environment%22%3A%22production%22%7D">
+<link rel="preconnect" href="https://www.googletagmanager.com">
+<meta name="reader/config/environment" content="%7B%22modulePrefix%22%3A%22reader%22%2C%22environment%22%3A%22production%22%7D">
+<meta name="search/config/environment" content="%7B%22modulePrefix%22%3A%22search%22%2C%22environment%22%3A%22production%22%7D">
+
+    
+    
+
+
+    <meta name="n3/config/asset-manifest" content="%GENERATED_ASSET_MANIFEST%">
+  
+<link href="https://cdn.444r.cloud/assets/chunk.e60cc4cc9b8227a2f52e.css" rel="stylesheet">
+<link href="https://cdn.444r.cloud/assets/chunk.dcf1d2279e5526181564.css" rel="stylesheet"></head>
+  <body class="_1bucvez1 jtivel0 xrg4ok0 _1pjxevg0 _4n4slr0 xsgiua0 _1g4l6550 i0wrnc0 srf2jf0 _15jjbzu0 _8da7wc0 ovyd8u0 _1nentwd0 epzvfx0 ana7u81 _8b6bxc9 _1dy6oyqid">
+    <script type="x/boundary" id="fastboot-body-start"></script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    <div>
+      
+  
+  
+
+  
+
+    
+    
+    
+    
+    
+    
+
+    
+    
+    
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  <!---->
+
+<!----><!---->
+  
+      
+      
+<!---->
+  
+  <div class="p03hpr0 _1chu0ywg p4kpu33i p4kpu38d">
+    
+    
+    <div id="ap-site-header-top" class="_13ou49a0 "></div>
+  
+
+    <header class="v9sb5o0 _1chu0ywu _1chu0ywz _1chu0ywm _1chu0ywg _1chu0yw14 ta3a4c1ig ta3a4c106 ta3a4c1aa p4kpu38y">
+<!---->
+      
+    <a href="https://444.hu" class="uwwrama ta3a4c0 ta3a4cdf ta3a4c4h ta3a4c8y _1chu0ywh _1chu0yw12 ta3a4c1fc ta3a4c14n p4kpu30 _1chu0yw17" rel="noopener">
+        <svg xmlns="http://www.w3.org/2000/svg" style="height: 38px; width: 119px;">
+          <use href="/assets/logo-444.svg#logo" fill="currentColor"></use>
+        </svg>
+      </a>
+  
+
+<!---->    </header>
+  
+
+      
+    <div id="ap-site-header-bottom" class="_13ou49a0 "></div>
+  
+      
+    <div id="ap-featured" class="_13ou49a0 "></div>
+  
+
+    
+<!---->
+      
+    <div id="ap-top" class="_13ou49a0  slotHeader"></div>
+  
+
+    
+  <div class="_2r9i95 _1chu0ywh p4kpu3e _1chu0ywh p4kpu3hp p4kpu3i5">
+    
+      
+<!---->
+
+      <div class="_1j8zfzf3 ta3a4cz ta3a4c1f ta3a4c5g ta3a4c5w _1chu0yw9 _2r9i9g">
+        
+      <h1 class="_19gjvagj _1dy6oyq4l _19gjvagm _19gjvagk _19gjvags _19gjvagq
+          
+          ">
+        <span>
+<!---->          <span class="_1dy6oyq5g _1dy6oyq5s">Ugyanazon a napon indítottak el négy egyesületet Győrben és környékén, ezek összesen 105 millió forint támogatást kaptak az NKA feketekasszájából, a NAV nyomozást rendelt el</span>
+        </span>
+      </h1>
+  
+      </div>
+
+      
+  <div class="_1rlsxp0 p4kpu3dm p4kpu3i3 _1chu0yw9 _1chu0ywh _1chu0yw9 _2r9i9h _2r9i9l">
+    
+        
+  <div class="_2r9i95 _1chu0ywh p4kpu3e _1chu0yw9 _1rlsxpe _1rlsxpf _1rlsxps _1rlsxp15 _1rlsxp1i _1rlsxp1v _1rlsxp2f _1rlsxp2l _1rlsxp2y _1rlsxp3b _1rlsxp3o _1rlsxp41
+            _1chu0ywh p4kpu3hp p4kpu3i5
+            slotDoubleColumn">
+    
+          
+    <div class="_1chu0ywg p4kpu34h p4kpu34c p4kpu3cn p4kpu3hp _1chu0yw9 _2r9i9d">
+      
+    <div class="p4kpu3c9 p4kpu3gq _1chu0ywg _1dy6oyq2r _1dy6oyqb5 p4kpu31k ta3a4c106 ta3a4czu p4kpu35g">
+        <div class="_1chu0ywg p4kpu3c2">
+            <div class="_1wsp8zg4 _1chu0ywu _1chu0ywz _1chu0ywk _8b6bx51 _1dy6oyqb5 _1chu0ywt _1chu0ywy _1wsp8zg2" style="--_1wsp8zg0:40">
+    <img class="ta3a4c106 ta3a4c1fc _1chu0ywo" src="https://assets.4cdn.hu/kraken/7hwxGLtdChDIOwGWs-xxs.jpeg?width=96&amp;height=96&amp;fit=crop" alt loading="lazy">
+</div>
+        </div>
+
+      <div class="_1chu0ywh p4kpu31k">
+        <div>
+                <a href="/author/bodogb" class="_1dy6oyq5o">Bódog Bálint</a><!---->
+        </div>
+
+        <div class="_1chu0ywg p4kpu3c2">
+            <span class="_1dy6oyq4k">
+                <a href="/category/belfold" class="_1dy6oyq5o">belföld</a>            </span>
+
+            <span class="_2eey3i9 _1dy6oyq4b"></span>
+
+            <time class="_2eey3i8" datetime="2026-06-16T10:43:36+02:00">
+2026. június 16. 10:43            </time>
+        </div>
+      </div>
+    </div>
+  
+
+      
+    <div class="_1n6u2803 _1chu0ywe">
+  
+  
+      <div class="_1n6u2804 _1chu0ywk">
+          <button class="_1oiqrbrt p4kpu3c9 p4kpu3gq _1chu0yw6 _1chu0ywl ta3a4c1i2 p4kpu377 p4kpu31k p4kpu37z _1dy6oyq4x uwwrama _1dy6oyq1s _1chu0ywt _1chu0ywy _1oiqrbr0 uwwram3 uwwramj _18ssces1 _18ssces5 _18ssces15 _18ssces7n _18sscesh3 _1dy6oyq5v _1dy6oyqam _1dy6oyqk2 diq4x0 _1oiqrbr6 _7oso933 _1chu0yw14 ta3a4css ta3a4cxn" type="button">
+      <span class="_15pnudm3 _1chu0ywj _1dy6oyq4j _1dy6oyq4x" style="--_15pnudm0:18;--_15pnudm2:0" data-icon="share">
+</span>
+
+    
+          Megosztás
+        
+  </button>
+
+      </div>
+      <!---->
+    
+  <div class="_1n6u2805 _1chu0yw13 _1n6u2806 _1n6u2808 _1n6u280a" popover="auto">
+    
+      <!---->
+      <div class="_25g4rm3 ta3a4cj2 ta3a4cnj _1chu0ywh p4kpu37l _1chu0ywu _8b6bx65 diq4xa _1chu0ywt _1chu0ywy _25g4rm1">
+  
+            <button class="_25g4rm9 _25g4rm4 ta3a4csl ta3a4cx2 _1chu0ywh p4kpu35n p4kpu377 ta3a4c1ig p4kpu31k uwwrama _1dy6oyq1s _1dy6oyqal _1dy6oyqk2 _25g4rm5 _7oso933 _1chu0yw14 uwwram3 uwwramj _25g4rmb" role="button">
+      <span class="_15pnudm3 _1chu0ywj _1dy6oyq4j _1dy6oyq4x ta3a4cf6 _1dy6oyqb5" style="--_15pnudm0:24;--_15pnudm2:0" data-icon="content_copy" role="presentation">
+</span>
+
+    <span class="_25g4rmf _1chu0ywu _1dy6oyq4x">
+      
+            Link másolása
+          
+    </span>
+
+<!---->  </button>
+
+            <button class="_25g4rm9 _25g4rm4 ta3a4csl ta3a4cx2 _1chu0ywh p4kpu35n p4kpu377 ta3a4c1ig p4kpu31k uwwrama _1dy6oyq1s _1dy6oyqal _1dy6oyqk2 _25g4rm5 _7oso933 _1chu0yw14 uwwram3 uwwramj _25g4rmb" role="button">
+      <span class="_15pnudm3 _1chu0ywj _1dy6oyq4j _1dy6oyq4x ta3a4cf6 _1dy6oyqb5" style="--_15pnudm0:24;--_15pnudm2:0" data-icon="logo_facebook" role="presentation">
+</span>
+
+    <span class="_25g4rmf _1chu0ywu _1dy6oyq4x">
+      
+            Facebook
+          
+    </span>
+
+<!---->  </button>
+
+            <button class="_25g4rm9 _25g4rm4 ta3a4csl ta3a4cx2 _1chu0ywh p4kpu35n p4kpu377 ta3a4c1ig p4kpu31k uwwrama _1dy6oyq1s _1dy6oyqal _1dy6oyqk2 _25g4rm5 _7oso933 _1chu0yw14 uwwram3 uwwramj _25g4rmb" role="button">
+      <span class="_15pnudm3 _1chu0ywj _1dy6oyq4j _1dy6oyq4x ta3a4cf6 _1dy6oyqb5" style="--_15pnudm0:24;--_15pnudm2:0" data-icon="logo_x" role="presentation">
+</span>
+
+    <span class="_25g4rmf _1chu0ywu _1dy6oyq4x">
+      
+            X (Twitter)
+          
+    </span>
+
+<!---->  </button>
+
+            <button class="_25g4rm9 _25g4rm4 ta3a4csl ta3a4cx2 _1chu0ywh p4kpu35n p4kpu377 ta3a4c1ig p4kpu31k uwwrama _1dy6oyq1s _1dy6oyqal _1dy6oyqk2 _25g4rm5 _7oso933 _1chu0yw14 uwwram3 uwwramj _25g4rmb" role="button">
+      <span class="_15pnudm3 _1chu0ywj _1dy6oyq4j _1dy6oyq4x ta3a4cf6 _1dy6oyqb5" style="--_15pnudm0:24;--_15pnudm2:0" data-icon="logo_tumblr" role="presentation">
+</span>
+
+    <span class="_25g4rmf _1chu0ywu _1dy6oyq4x">
+      
+            Tumblr
+          
+    </span>
+
+<!---->  </button>
+
+            <button class="_25g4rm9 _25g4rm4 ta3a4csl ta3a4cx2 _1chu0ywh p4kpu35n p4kpu377 ta3a4c1ig p4kpu31k uwwrama _1dy6oyq1s _1dy6oyqal _1dy6oyqk2 _25g4rm5 _7oso933 _1chu0yw14 uwwram3 uwwramj _25g4rmb" role="button">
+      <span class="_15pnudm3 _1chu0ywj _1dy6oyq4j _1dy6oyq4x ta3a4cf6 _1dy6oyqb5" style="--_15pnudm0:24;--_15pnudm2:0" data-icon="logo_linkedin" role="presentation">
+</span>
+
+    <span class="_25g4rmf _1chu0ywu _1dy6oyq4x">
+      
+            LinkedIn
+          
+    </span>
+
+<!---->  </button>
+
+      
+</div>
+    
+  </div>
+
+</div>
+
+
+<!---->    </div>
+  
+
+          
+    <div id="ap-article-top-001" class="_13ou49a0 "></div>
+  
+
+          
+  <div class="fkng932 _1chu0yw9 _2r9i9h _2r9i9i slotArticle">
+    
+            
+      
+  <p class>
+    Nyomozást rendelt el a NAV a győri és Győr környéki furcsa NKA-támogatások ügyében, Kósa Roland alpolgármester feljelentése után – <a href="https://www.facebook.com/kosarolandgyor/posts/pfbid02fq9jCwy78dHQkj1XfJVaC6NbVAbqR8BZucdJpDzjoMkZpvmEQRfqwSTjCcykgNkrl" target="_blank" >írja</a> a politikus a közösségi médiában. Kósáék négy, ugyanazon a napon indított egyesületet találtak, amelyek összesen 105 millió forint állami támogatást kaptak az NKA feketekasszájából, és amelyek mindegyikében képviseleti jogosultsággal rendelkezik Juhász Balázs abdai fideszes önkormányzati képviselő, a bécsi Fidelitas alapító elnöke.
+  </p>
+
+      
+  <p class>
+    Az alpolgármester szerint azután kezdtek vizsgálódni, hogy kiderült, a Nemzeti Kulturális Alap (NKA) a választások előtt egy ideiglenes kollégiumán keresztül 17 milliárd forintot osztott ki sokszor helyi és nem helyi fideszesekhez köthető szervezeteknek. Az ügyben költségvetési csalás és hűtlen kezelés gyanúja miatt <a href="https://444.hu/2026/05/22/nka-tamogatasok-koltsegvetesi-csalas-es-hutlen-kezeles-gyanuja-miatt-nyomoz-a-nav" target="_blank" >nyomoz</a> a Nemzeti Adó- és Vámhivatal (NAV) – Kósa Roland szerint a győri esetet is egy, az NKA-ügyben már folyamatban lévő büntetőeljárással vonták össze.
+  </p>
+
+      
+    <figure class="he2knv0 _1chu0ywu _1chu0ywz ta3a4c8y ta3a4cdf _1chu0yw6 ta3a4c1aa _1dy6oyq4e ">
+      
+    <a href="https://assets.4cdn.hu/kraken/8LXpAFHACOE9mOWHs.jpeg" class="uwwrama _1chu0ywg _8b6bx65" rel="nofollow">
+        
+        
+  <img loading="lazy" src="https://assets.4cdn.hu/kraken/8LXpAFHACOE9mOWHs.jpeg" srcset="https://assets.4cdn.hu/kraken/8LXpAFHACOE9mOWHs-xxs.jpeg 96w, https://assets.4cdn.hu/kraken/8LXpAFHACOE9mOWHs-xs.jpeg 360w, https://assets.4cdn.hu/kraken/8LXpAFHACOE9mOWHs-sm.jpeg 640w, https://assets.4cdn.hu/kraken/8LXpAFHACOE9mOWHs-md.jpeg 768w, https://assets.4cdn.hu/kraken/8LXpAFHACOE9mOWHs-lg.jpeg 1366w, https://assets.4cdn.hu/kraken/8LXpAFHACOE9mOWHs-xl.jpeg 1920w, https://assets.4cdn.hu/kraken/8LXpAFHACOE9mOWHs-xxl.jpeg 2560w" sizes="auto" class="_672m2jd _1chu0ywo ta3a4c1ey ta3a4c1aa he2knv4 ta3a4c1ey ta3a4czs" style="--_672m2j6:1.50;--_672m2j5:2560px 1708px" alt>
+
+  
+      </a>
+  
+
+        <figcaption class="he2knv6 ta3a4c1d _1dy6oyqb5">
+            <div class="_1dy6oyq2k">
+              Hankó Balázs
+            </div>
+            <div class="he2knv8 _1dy6oyq2r">
+              Fotó:
+                Németh Dániel/444
+            </div>
+        </figcaption>
+    </figure>
+
+      
+  <p class>
+    Kósa szerint négy egyesület, a Fiatalok Külügyi és Kultúr Egyesülete, a Fiatalok Sport és Kultúr Egyesülete, a Polgári Sport Kör Egyesület és a HD Sport Egyesület összesen 105 millió forintot kapott 2025. november 19. és 2026. január 22. között.
+  </p>
+
+      
+  <p class>
+    „Mindegyik egyesület bejegyzési eljárását ugyanazon a napon indították, mindegyik egyesület alapszabályát ugyanazon a napon fogadták el” – írja Kósa. Az egyesületek előző évekre vonatkozó beszámolói tavaly júliusban ugyanabban 11 másodpercben érkeztek be, ráadásul két egyesület adószáma felcserélve jelent meg a beszámolókon. Ezek alapján 2022-ben, 2023-ban és 2024-ben 0 forint bevételük és kiadásuk volt, „magyarán szólva nem csináltak semmi értelmezhetőt”.
+  </p>
+
+      
+  <p class>
+    „Dühítő, hogy üres egyesületekhez folyik a közpénz, miközben értékteremtő helyi szervezetek anyagi nehézségekkel küzdenek” – írta Kósa, aki költségvetési csalás és hivatali visszaélés miatt tett feljelentés, amire reagálva a NAV nyomozást indított.
+  </p>
+
+
+          
+  </div>
+
+
+            
+    <div id="ap-article-bottom-001" class="_13ou49a0 "></div>
+  
+            
+    <div id="ap-article-bottom-002" class="_13ou49a0 "></div>
+  
+            
+    <div id="ap-article-bottom-003" class="_13ou49a0 "></div>
+  
+
+          
+    <div class="_1chu0ywg p4kpu34h p4kpu3c9 p4kpu3hb _1chu0yw9 _2r9i9d">
+<!---->
+            <a class="_189c837e _189c8375 _1chu0yw6 _1chu0ywl ta3a4c1ho p4kpu377 p4kpu3c9 p4kpu31k _1dy6oyq4x uwwrama _1dy6oyq1s _1chu0ywt _1chu0ywy _189c8370 uwwram3 uwwramj _189c8373 _7oso933 _1chu0yw14 _189c837g _189c837i _189c837k _189c837m ta3a4cx9 _189c8378 diq4x0 _18ssces1 _18ssces5 _18ssces2 _18ssces15 _18ssces7n _18ssces7k _18sscesh3 _189c8379 _1dy6oyqam _1dy6oyqk2 ta3a4css _1go36eq2 _1dy6oyq4k" data-group href="https://444.hu/category/belfold" role="button">
+    
+
+<!---->
+    <span class="_1chu0ywu _1chu0ywz _1dy6oyq4g">
+      
+    
+    belföld
+  
+  
+    </span>
+
+<!---->  </a>
+
+
+
+            <a class="_189c837e _189c8375 _1chu0yw6 _1chu0ywl ta3a4c1ho p4kpu377 p4kpu3c9 p4kpu31k _1dy6oyq4x uwwrama _1dy6oyq1s _1chu0ywt _1chu0ywy _189c8370 uwwram3 uwwramj _189c8373 _7oso933 _1chu0yw14 _189c837g _189c837i _189c837k _189c837m ta3a4cx9 _189c8378 diq4x0 _18ssces1 _18ssces5 _18ssces2 _18ssces15 _18ssces7n _18ssces7k _18sscesh3 _189c8379 _1dy6oyqam _1dy6oyqk2 ta3a4css _1dy6oyq4k" data-group href="https://444.hu/tag/nav" role="button">
+    
+
+<!---->
+    <span class="_1chu0ywu _1chu0ywz _1dy6oyq4g">
+      
+    
+    NAV
+  
+  
+    </span>
+
+<!---->  </a>
+
+
+            <a class="_189c837e _189c8375 _1chu0yw6 _1chu0ywl ta3a4c1ho p4kpu377 p4kpu3c9 p4kpu31k _1dy6oyq4x uwwrama _1dy6oyq1s _1chu0ywt _1chu0ywy _189c8370 uwwram3 uwwramj _189c8373 _7oso933 _1chu0yw14 _189c837g _189c837i _189c837k _189c837m ta3a4cx9 _189c8378 diq4x0 _18ssces1 _18ssces5 _18ssces2 _18ssces15 _18ssces7n _18ssces7k _18sscesh3 _189c8379 _1dy6oyqam _1dy6oyqk2 ta3a4css _1dy6oyq4k" data-group href="https://444.hu/tag/hd-sport-egyesulet" role="button">
+    
+
+<!---->
+    <span class="_1chu0ywu _1chu0ywz _1dy6oyq4g">
+      
+    
+    HD Sport Egyesület
+  
+  
+    </span>
+
+<!---->  </a>
+
+
+            <a class="_189c837e _189c8375 _1chu0yw6 _1chu0ywl ta3a4c1ho p4kpu377 p4kpu3c9 p4kpu31k _1dy6oyq4x uwwrama _1dy6oyq1s _1chu0ywt _1chu0ywy _189c8370 uwwram3 uwwramj _189c8373 _7oso933 _1chu0yw14 _189c837g _189c837i _189c837k _189c837m ta3a4cx9 _189c8378 diq4x0 _18ssces1 _18ssces5 _18ssces2 _18ssces15 _18ssces7n _18ssces7k _18sscesh3 _189c8379 _1dy6oyqam _1dy6oyqk2 ta3a4css _1dy6oyq4k" data-group href="https://444.hu/tag/fiatalok-kulugyi-es-kultur-egyesulete" role="button">
+    
+
+<!---->
+    <span class="_1chu0ywu _1chu0ywz _1dy6oyq4g">
+      
+    
+    Fiatalok Külügyi és Kultúr Egyesülete
+  
+  
+    </span>
+
+<!---->  </a>
+
+
+            <a class="_189c837e _189c8375 _1chu0yw6 _1chu0ywl ta3a4c1ho p4kpu377 p4kpu3c9 p4kpu31k _1dy6oyq4x uwwrama _1dy6oyq1s _1chu0ywt _1chu0ywy _189c8370 uwwram3 uwwramj _189c8373 _7oso933 _1chu0yw14 _189c837g _189c837i _189c837k _189c837m ta3a4cx9 _189c8378 diq4x0 _18ssces1 _18ssces5 _18ssces2 _18ssces15 _18ssces7n _18ssces7k _18sscesh3 _189c8379 _1dy6oyqam _1dy6oyqk2 ta3a4css _1dy6oyq4k" data-group href="https://444.hu/tag/nka" role="button">
+    
+
+<!---->
+    <span class="_1chu0ywu _1chu0ywz _1dy6oyq4g">
+      
+    
+    nka
+  
+  
+    </span>
+
+<!---->  </a>
+
+
+            <a class="_189c837e _189c8375 _1chu0yw6 _1chu0ywl ta3a4c1ho p4kpu377 p4kpu3c9 p4kpu31k _1dy6oyq4x uwwrama _1dy6oyq1s _1chu0ywt _1chu0ywy _189c8370 uwwram3 uwwramj _189c8373 _7oso933 _1chu0yw14 _189c837g _189c837i _189c837k _189c837m ta3a4cx9 _189c8378 diq4x0 _18ssces1 _18ssces5 _18ssces2 _18ssces15 _18ssces7n _18ssces7k _18sscesh3 _189c8379 _1dy6oyqam _1dy6oyqk2 ta3a4css _1dy6oyq4k" data-group href="https://444.hu/tag/hivatali-visszaeles" role="button">
+    
+
+<!---->
+    <span class="_1chu0ywu _1chu0ywz _1dy6oyq4g">
+      
+    
+    hivatali visszaélés
+  
+  
+    </span>
+
+<!---->  </a>
+
+
+            <a class="_189c837e _189c8375 _1chu0yw6 _1chu0ywl ta3a4c1ho p4kpu377 p4kpu3c9 p4kpu31k _1dy6oyq4x uwwrama _1dy6oyq1s _1chu0ywt _1chu0ywy _189c8370 uwwram3 uwwramj _189c8373 _7oso933 _1chu0yw14 _189c837g _189c837i _189c837k _189c837m ta3a4cx9 _189c8378 diq4x0 _18ssces1 _18ssces5 _18ssces2 _18ssces15 _18ssces7n _18ssces7k _18sscesh3 _189c8379 _1dy6oyqam _1dy6oyqk2 ta3a4css _1dy6oyq4k" data-group href="https://444.hu/tag/polgari-sport-kor-egyesulet" role="button">
+    
+
+<!---->
+    <span class="_1chu0ywu _1chu0ywz _1dy6oyq4g">
+      
+    
+    Polgári Sport Kör Egyesület
+  
+  
+    </span>
+
+<!---->  </a>
+
+
+            <a class="_189c837e _189c8375 _1chu0yw6 _1chu0ywl ta3a4c1ho p4kpu377 p4kpu3c9 p4kpu31k _1dy6oyq4x uwwrama _1dy6oyq1s _1chu0ywt _1chu0ywy _189c8370 uwwram3 uwwramj _189c8373 _7oso933 _1chu0yw14 _189c837g _189c837i _189c837k _189c837m ta3a4cx9 _189c8378 diq4x0 _18ssces1 _18ssces5 _18ssces2 _18ssces15 _18ssces7n _18ssces7k _18sscesh3 _189c8379 _1dy6oyqam _1dy6oyqk2 ta3a4css _1dy6oyq4k" data-group href="https://444.hu/tag/nyomozas" role="button">
+    
+
+<!---->
+    <span class="_1chu0ywu _1chu0ywz _1dy6oyq4g">
+      
+    
+    nyomozás
+  
+  
+    </span>
+
+<!---->  </a>
+
+
+            <a class="_189c837e _189c8375 _1chu0yw6 _1chu0ywl ta3a4c1ho p4kpu377 p4kpu3c9 p4kpu31k _1dy6oyq4x uwwrama _1dy6oyq1s _1chu0ywt _1chu0ywy _189c8370 uwwram3 uwwramj _189c8373 _7oso933 _1chu0yw14 _189c837g _189c837i _189c837k _189c837m ta3a4cx9 _189c8378 diq4x0 _18ssces1 _18ssces5 _18ssces2 _18ssces15 _18ssces7n _18ssces7k _18sscesh3 _189c8379 _1dy6oyqam _1dy6oyqk2 ta3a4css _1dy6oyq4k" data-group href="https://444.hu/tag/nemzeti-ado-es-vamhivatal" role="button">
+    
+
+<!---->
+    <span class="_1chu0ywu _1chu0ywz _1dy6oyq4g">
+      
+    
+    nemzeti adó- és vámhivatal
+  
+  
+    </span>
+
+<!---->  </a>
+
+
+            <a class="_189c837e _189c8375 _1chu0yw6 _1chu0ywl ta3a4c1ho p4kpu377 p4kpu3c9 p4kpu31k _1dy6oyq4x uwwrama _1dy6oyq1s _1chu0ywt _1chu0ywy _189c8370 uwwram3 uwwramj _189c8373 _7oso933 _1chu0yw14 _189c837g _189c837i _189c837k _189c837m ta3a4cx9 _189c8378 diq4x0 _18ssces1 _18ssces5 _18ssces2 _18ssces15 _18ssces7n _18ssces7k _18sscesh3 _189c8379 _1dy6oyqam _1dy6oyqk2 ta3a4css _1dy6oyq4k" data-group href="https://444.hu/tag/koltsegvetesi-csalas" role="button">
+    
+
+<!---->
+    <span class="_1chu0ywu _1chu0ywz _1dy6oyq4g">
+      
+    
+    költségvetési csalás
+  
+  
+    </span>
+
+<!---->  </a>
+
+
+            <a class="_189c837e _189c8375 _1chu0yw6 _1chu0ywl ta3a4c1ho p4kpu377 p4kpu3c9 p4kpu31k _1dy6oyq4x uwwrama _1dy6oyq1s _1chu0ywt _1chu0ywy _189c8370 uwwram3 uwwramj _189c8373 _7oso933 _1chu0yw14 _189c837g _189c837i _189c837k _189c837m ta3a4cx9 _189c8378 diq4x0 _18ssces1 _18ssces5 _18ssces2 _18ssces15 _18ssces7n _18ssces7k _18sscesh3 _189c8379 _1dy6oyqam _1dy6oyqk2 ta3a4css _1dy6oyq4k" data-group href="https://444.hu/tag/feketekassza" role="button">
+    
+
+<!---->
+    <span class="_1chu0ywu _1chu0ywz _1dy6oyq4g">
+      
+    
+    feketekassza
+  
+  
+    </span>
+
+<!---->  </a>
+
+
+            <a class="_189c837e _189c8375 _1chu0yw6 _1chu0ywl ta3a4c1ho p4kpu377 p4kpu3c9 p4kpu31k _1dy6oyq4x uwwrama _1dy6oyq1s _1chu0ywt _1chu0ywy _189c8370 uwwram3 uwwramj _189c8373 _7oso933 _1chu0yw14 _189c837g _189c837i _189c837k _189c837m ta3a4cx9 _189c8378 diq4x0 _18ssces1 _18ssces5 _18ssces2 _18ssces15 _18ssces7n _18ssces7k _18sscesh3 _189c8379 _1dy6oyqam _1dy6oyqk2 ta3a4css _1dy6oyq4k" data-group href="https://444.hu/tag/nemzeti-kulturalis-alap" role="button">
+    
+
+<!---->
+    <span class="_1chu0ywu _1chu0ywz _1dy6oyq4g">
+      
+    
+    nemzeti kulturális alap
+  
+  
+    </span>
+
+<!---->  </a>
+
+
+            <a class="_189c837e _189c8375 _1chu0yw6 _1chu0ywl ta3a4c1ho p4kpu377 p4kpu3c9 p4kpu31k _1dy6oyq4x uwwrama _1dy6oyq1s _1chu0ywt _1chu0ywy _189c8370 uwwram3 uwwramj _189c8373 _7oso933 _1chu0yw14 _189c837g _189c837i _189c837k _189c837m ta3a4cx9 _189c8378 diq4x0 _18ssces1 _18ssces5 _18ssces2 _18ssces15 _18ssces7n _18ssces7k _18sscesh3 _189c8379 _1dy6oyqam _1dy6oyqk2 ta3a4css _1dy6oyq4k" data-group href="https://444.hu/tag/hutlen-kezeles" role="button">
+    
+
+<!---->
+    <span class="_1chu0ywu _1chu0ywz _1dy6oyq4g">
+      
+    
+    hűtlen kezelés
+  
+  
+    </span>
+
+<!---->  </a>
+
+
+            <a class="_189c837e _189c8375 _1chu0yw6 _1chu0ywl ta3a4c1ho p4kpu377 p4kpu3c9 p4kpu31k _1dy6oyq4x uwwrama _1dy6oyq1s _1chu0ywt _1chu0ywy _189c8370 uwwram3 uwwramj _189c8373 _7oso933 _1chu0yw14 _189c837g _189c837i _189c837k _189c837m ta3a4cx9 _189c8378 diq4x0 _18ssces1 _18ssces5 _18ssces2 _18ssces15 _18ssces7n _18ssces7k _18sscesh3 _189c8379 _1dy6oyqam _1dy6oyqk2 ta3a4css _1dy6oyq4k" data-group href="https://444.hu/tag/kosa-roland" role="button">
+    
+
+<!---->
+    <span class="_1chu0ywu _1chu0ywz _1dy6oyq4g">
+      
+    
+    Kósa Roland
+  
+  
+    </span>
+
+<!---->  </a>
+
+
+            <a class="_189c837e _189c8375 _1chu0yw6 _1chu0ywl ta3a4c1ho p4kpu377 p4kpu3c9 p4kpu31k _1dy6oyq4x uwwrama _1dy6oyq1s _1chu0ywt _1chu0ywy _189c8370 uwwram3 uwwramj _189c8373 _7oso933 _1chu0yw14 _189c837g _189c837i _189c837k _189c837m ta3a4cx9 _189c8378 diq4x0 _18ssces1 _18ssces5 _18ssces2 _18ssces15 _18ssces7n _18ssces7k _18sscesh3 _189c8379 _1dy6oyqam _1dy6oyqk2 ta3a4css _1dy6oyq4k" data-group href="https://444.hu/tag/gyor" role="button">
+    
+
+<!---->
+    <span class="_1chu0ywu _1chu0ywz _1dy6oyq4g">
+      
+    
+    győr
+  
+  
+    </span>
+
+<!---->  </a>
+
+
+            <a class="_189c837e _189c8375 _1chu0yw6 _1chu0ywl ta3a4c1ho p4kpu377 p4kpu3c9 p4kpu31k _1dy6oyq4x uwwrama _1dy6oyq1s _1chu0ywt _1chu0ywy _189c8370 uwwram3 uwwramj _189c8373 _7oso933 _1chu0yw14 _189c837g _189c837i _189c837k _189c837m ta3a4cx9 _189c8378 diq4x0 _18ssces1 _18ssces5 _18ssces2 _18ssces15 _18ssces7n _18ssces7k _18sscesh3 _189c8379 _1dy6oyqam _1dy6oyqk2 ta3a4css _1dy6oyq4k" data-group href="https://444.hu/tag/nka-botrany" role="button">
+    
+
+<!---->
+    <span class="_1chu0ywu _1chu0ywz _1dy6oyq4g">
+      
+    
+    NKA-botrány
+  
+  
+    </span>
+
+<!---->  </a>
+
+
+            <a class="_189c837e _189c8375 _1chu0yw6 _1chu0ywl ta3a4c1ho p4kpu377 p4kpu3c9 p4kpu31k _1dy6oyq4x uwwrama _1dy6oyq1s _1chu0ywt _1chu0ywy _189c8370 uwwram3 uwwramj _189c8373 _7oso933 _1chu0yw14 _189c837g _189c837i _189c837k _189c837m ta3a4cx9 _189c8378 diq4x0 _18ssces1 _18ssces5 _18ssces2 _18ssces15 _18ssces7n _18ssces7k _18sscesh3 _189c8379 _1dy6oyqam _1dy6oyqk2 ta3a4css _1dy6oyq4k" data-group href="https://444.hu/tag/fiatalok-sport-es-kultur-egyesulete" role="button">
+    
+
+<!---->
+    <span class="_1chu0ywu _1chu0ywz _1dy6oyq4g">
+      
+    
+    Fiatalok Sport és Kultúr Egyesülete
+  
+  
+    </span>
+
+<!---->  </a>
+
+
+            <a class="_189c837e _189c8375 _1chu0yw6 _1chu0ywl ta3a4c1ho p4kpu377 p4kpu3c9 p4kpu31k _1dy6oyq4x uwwrama _1dy6oyq1s _1chu0ywt _1chu0ywy _189c8370 uwwram3 uwwramj _189c8373 _7oso933 _1chu0yw14 _189c837g _189c837i _189c837k _189c837m ta3a4cx9 _189c8378 diq4x0 _18ssces1 _18ssces5 _18ssces2 _18ssces15 _18ssces7n _18ssces7k _18sscesh3 _189c8379 _1dy6oyqam _1dy6oyqk2 ta3a4css _1dy6oyq4k" data-group href="https://444.hu/tag/juhasz-balazs" role="button">
+    
+
+<!---->
+    <span class="_1chu0ywu _1chu0ywz _1dy6oyq4g">
+      
+    
+    juhász balázs
+  
+  
+    </span>
+
+<!---->  </a>
+
+
+            <a class="_189c837e _189c8375 _1chu0yw6 _1chu0ywl ta3a4c1ho p4kpu377 p4kpu3c9 p4kpu31k _1dy6oyq4x uwwrama _1dy6oyq1s _1chu0ywt _1chu0ywy _189c8370 uwwram3 uwwramj _189c8373 _7oso933 _1chu0yw14 _189c837g _189c837i _189c837k _189c837m ta3a4cx9 _189c8378 diq4x0 _18ssces1 _18ssces5 _18ssces2 _18ssces15 _18ssces7n _18ssces7k _18sscesh3 _189c8379 _1dy6oyqam _1dy6oyqk2 ta3a4css _1dy6oyq4k" data-group href="https://444.hu/tag/fidelitas" role="button">
+    
+
+<!---->
+    <span class="_1chu0ywu _1chu0ywz _1dy6oyq4g">
+      
+    
+    fidelitas
+  
+  
+    </span>
+
+<!---->  </a>
+
+
+    </div>
+  
+
+            
+  <div class="_1chu0ywm slotVideoPlayer _1chu0yw9 _2r9i9d"></div>
+
+
+          
+    <section class="_1chu0yw9 _2r9i9d">
+      
+  <div class="_1myqn4p0 _1chu0ywg p4kpu31k ta3a4c1h3 _1dy6oyq4x _1dy6oyq35 ta3a4c6f">
+        Kapcsolódó cikkek
+      <span class="ta3a4c1fq _8b6bx8d p4kpu35g" aria-hidden="true"></span>
+<!---->  </div>
+
+      <div class="_1chu0ywg p4kpu33i p4kpu3hb p4kpu3i5">
+          
+        <a href="/2026/05/22/nka-tamogatasok-koltsegvetesi-csalas-es-hutlen-kezeles-gyanuja-miatt-nyomoz-a-nav" title="NKA-támogatások: költségvetési csalás és hűtlen kezelés gyanúja miatt nyomoz a NAV" class="c3zuuge _1chu0yw9 _1chu0yw14 _1chu0ywh p4kpu3cn p4kpu31y p4kpu3e c3zuug0 c3zuugi c3zuugl p4kpu3cn c3zuug8 c3zuug7" data-group>
+            
+        
+  <img loading="lazy" src="https://assets.4cdn.hu/kraken/8IIg9udWMIvCOSGHs.jpeg" srcset="https://assets.4cdn.hu/kraken/8IIg9udWMIvCOSGHs-xxs.jpeg 96w, https://assets.4cdn.hu/kraken/8IIg9udWMIvCOSGHs-xs.jpeg 360w, https://assets.4cdn.hu/kraken/8IIg9udWMIvCOSGHs-sm.jpeg 640w, https://assets.4cdn.hu/kraken/8IIg9udWMIvCOSGHs-md.jpeg 768w, https://assets.4cdn.hu/kraken/8IIg9udWMIvCOSGHs-lg.jpeg 1366w, https://assets.4cdn.hu/kraken/8IIg9udWMIvCOSGHs-xl.jpeg 1920w, https://assets.4cdn.hu/kraken/8IIg9udWMIvCOSGHs-xxl.jpeg 2560w" sizes="auto" class="_672m2jd _1chu0ywo ta3a4c1ey ta3a4c1aa c3zuugz ta3a4c106 c3zuugc" style="--_672m2j6:1.50;--_672m2j5:1516px 1009px" alt>
+
+  
+
+          <div class="c3zuug10 _1chu0yw9 c3zuugd _1chu0ywh ta3a4c1fc">
+            
+      <h1 class="_19gjvagj _1dy6oyq4l _19gjvagm _19gjvagk _19gjvagr _19gjvago
+          
+          ">
+        <span>
+<!---->          <span class="_1dy6oyq5g _1dy6oyq5s">NKA-támogatások: költségvetési csalás és hűtlen kezelés gyanúja miatt nyomoz a NAV</span>
+        </span>
+      </h1>
+  
+          </div>
+
+            <div class="c3zuug1c c3zuug1b c3zuug10 _1chu0yw9 ta3a4c16">
+              <p class="c3zuug1d">
+                A Telexnek írták ezt arra a kérdésre, hogy indult-e nyomozás az NKA-támogatásokkal összefüggésben, amelyek az elmúlt években „az egyik közismert hegedűművészhez” jutottak el.
+              </p>
+            </div>
+
+            
+    <div class="p4kpu3c9 p4kpu3gq _1chu0ywg _1dy6oyq2r _1dy6oyqb5 p4kpu31k c3zuug1e c3zuug1b ta3a4c1r">
+        <div class="_1chu0ywg p4kpu3c2">
+            <div class="_1wsp8zg4 _1chu0ywu _1chu0ywz _1chu0ywk _8b6bx51 _1dy6oyqb5 _1chu0ywt _1chu0ywy _1wsp8zg2" style="--_1wsp8zg0:40">
+    <img class="ta3a4c106 ta3a4c1fc _1chu0ywo" src="https://assets.4cdn.hu/kraken/7fD6yLt3URxyKeDls-xxs.jpeg?width=96&amp;height=96&amp;fit=crop" alt loading="lazy">
+</div>
+        </div>
+
+      <div class="_1chu0ywh p4kpu31k">
+        <div>
+Gazda Albert<!---->
+        </div>
+
+        <div class="_1chu0ywg p4kpu3c2">
+            <span class="_1dy6oyq4k">
+POLITIKA            </span>
+
+            <span class="_2eey3i9 _1dy6oyq4b"></span>
+
+            <time class="_2eey3i8" datetime="2026-05-22T16:42:28+02:00">
+május 22. 16:42            </time>
+        </div>
+      </div>
+    </div>
+  
+        </a>
+        <!---->
+  
+      </div>
+    </section>
+
+        
+  </div>
+
+
+<!---->      
+  </div>
+
+    
+  </div>
+
+  
+
+    <div class="ta3a4c1mq"></div>
+    
+  <footer class="sun34x0 ta3a4ckm ta3a4cp3 _1chu0ywh p4kpu3hp _1dy6oyq1s ta3a4c0">
+    <div class="ta3a4csw ta3a4ctl ta3a4cxd ta3a4cy2 _1chu0ywg p4kpu31k p4kpu37z p4kpu34h">
+      <a href="/gyik" class="ta3a4cj9 ta3a4cnq _1dy6oyq5o uwwrama _1dy6oyq4x">
+        GYIK
+      </a>
+      <span class="sun34x3 ta3a4cz ta3a4c5g ta3a4cab ta3a4ces _1dy6oyq4b"></span>
+      <a href="mailto:elakadtam@444.hu" class="ta3a4cj9 ta3a4cnq _1dy6oyq5o uwwrama _1dy6oyq4x">
+        Hibát jelentek
+      </a>
+      <span class="sun34x3 ta3a4cz ta3a4c5g ta3a4cab ta3a4ces _1dy6oyq4b"></span>
+      <a href="/impresszum" class="ta3a4cj9 ta3a4cnq _1dy6oyq5o uwwrama _1dy6oyq4x">
+        Impresszum
+      </a>
+      <span class="sun34x3 ta3a4cz ta3a4c5g ta3a4cab ta3a4ces _1dy6oyq4b"></span>
+      <a href="/helyreigazitasok-javitasok" class="ta3a4cj9 ta3a4cnq _1dy6oyq5o uwwrama _1dy6oyq4x">
+        Javítások kezelése
+      </a>
+      <span class="sun34x3 ta3a4cz ta3a4c5g ta3a4cab ta3a4ces _1dy6oyq4b"></span>
+      
+    <a href="https://444.hu/jogi-dokumentumok" class="uwwrama ta3a4cj9 ta3a4cnq _1dy6oyq5o uwwrama _1dy6oyq4x" rel="noopener">
+        Jogi dokumentumok
+      </a>
+  
+      <span class="sun34x3 ta3a4cz ta3a4c5g ta3a4cab ta3a4ces _1dy6oyq4b"></span>
+      
+    <a href="https://444.hu/mediaajanlat" class="uwwrama ta3a4cj9 ta3a4cnq _1dy6oyq5o uwwrama _1dy6oyq4x" rel="noopener">
+        Médiaajánlat
+      </a>
+  
+      <span class="sun34x3 ta3a4cz ta3a4c5g ta3a4cab ta3a4ces _1dy6oyq4b"></span>
+      <a href="/feed" class="ta3a4cj9 ta3a4cnq _1dy6oyq5o uwwrama _1dy6oyq4x">
+        RSS
+      </a>
+      <span class="sun34x3 ta3a4cz ta3a4c5g ta3a4cab ta3a4ces _1dy6oyq4b"></span>
+      <span class="ta3a4cj9 ta3a4cnq _1dy6oyq5o uwwrama _1dy6oyq4x" role="button">
+        Sütibeállítások
+      </span>
+    </div>
+    <div class="ta3a4csw ta3a4ctl ta3a4cxd ta3a4cy2 _1chu0ywg p4kpu31k p4kpu37z p4kpu34h">
+      <span>
+        ©
+        2026
+        Magyar Jeti Zrt.
+      </span>
+    </div>
+    <div class="sun34x4 _1chu0ywh p4kpu31k p4kpu3cu">
+      
+  <hr class="_18wajyd1 _1chu0ywf _8b6bx8d sun34x5">
+
+      Vége
+      
+  <hr class="_18wajyd1 _1chu0ywf _8b6bx8d sun34x5">
+
+    </div>
+  </footer>
+
+  </div>
+
+
+
+
+
+
+  
+<!---->  
+
+
+    </div>
+  
+
+
+<!---->  <script type="fastboot/shoebox" id="shoebox-apollo-cache">{"cache":{"Bucket:70b47701-2c71-55dc-95b1-7ac5be6b8a21":{"__typename":"Bucket","id":"70b47701-2c71-55dc-95b1-7ac5be6b8a21","slug":"444","name":"444"},"MediaItem:004bae00-176c-567f-b599-81087fec603c":{"__typename":"Image","caption":"","author":"Németh Dániel/444","url":"https://assets.4cdn.hu/kraken/8LXpAFHACOE9mOWHs.jpeg","creditType":"Fotó","sourceLink":null,"bucket":{"__ref":"Bucket:70b47701-2c71-55dc-95b1-7ac5be6b8a21"},"id":"004bae00-176c-567f-b599-81087fec603c","width":3000,"height":2001,"variations":[{"__typename":"ImageVariation","url":"https://assets.4cdn.hu/kraken/8LXpAFHACOE9mOWHs-xxs.jpeg","size":"xxs","width":96,"height":64},{"__typename":"ImageVariation","url":"https://assets.4cdn.hu/kraken/8LXpAFHACOE9mOWHs-xs.jpeg","size":"xs","width":360,"height":240},{"__typename":"ImageVariation","url":"https://assets.4cdn.hu/kraken/8LXpAFHACOE9mOWHs-sm.jpeg","size":"sm","width":640,"height":427},{"__typename":"ImageVariation","url":"https://assets.4cdn.hu/kraken/8LXpAFHACOE9mOWHs-md.jpeg","size":"md","width":768,"height":512},{"__typename":"ImageVariation","url":"https://assets.4cdn.hu/kraken/8LXpAFHACOE9mOWHs-lg.jpeg","size":"lg","width":1366,"height":911},{"__typename":"ImageVariation","url":"https://assets.4cdn.hu/kraken/8LXpAFHACOE9mOWHs-xl.jpeg","size":"xl","width":1920,"height":1281},{"__typename":"ImageVariation","url":"https://assets.4cdn.hu/kraken/8LXpAFHACOE9mOWHs-xxl.jpeg","size":"xxl","width":2560,"height":1708}]},"Author:6cba2d25-9994-43cc-b220-239068a003f0":{"__typename":"Author","id":"6cba2d25-9994-43cc-b220-239068a003f0","name":"Bódog Bálint","avatar":"https://assets.4cdn.hu/kraken/7hwxGLtdChDIOwGWs.jpeg?width=96\u0026height=96\u0026fit=crop","slug":"bodogb"},"Category:b722e920-44ed-4c26-bca0-2ac8fc0cd644":{"__typename":"Category","id":"b722e920-44ed-4c26-bca0-2ac8fc0cd644","slug":"belfold","name":"belföld","description":"","url":"https://444.hu/category/belfold"},"Tag:0764a5cb-403b-4164-9a99-afd99f72cc29":{"__typename":"Tag","id":"0764a5cb-403b-4164-9a99-afd99f72cc29","slug":"nav","name":"NAV","description":"","url":"https://444.hu/tag/nav"},"Tag:2564f809-ba77-4396-a557-4c298689b395":{"__typename":"Tag","id":"2564f809-ba77-4396-a557-4c298689b395","slug":"hd-sport-egyesulet","name":"HD Sport Egyesület","description":"","url":"https://444.hu/tag/hd-sport-egyesulet"},"Tag:27535d03-4fd7-432c-951e-62d6e1da9750":{"__typename":"Tag","id":"27535d03-4fd7-432c-951e-62d6e1da9750","slug":"fiatalok-kulugyi-es-kultur-egyesulete","name":"Fiatalok Külügyi és Kultúr Egyesülete","description":"","url":"https://444.hu/tag/fiatalok-kulugyi-es-kultur-egyesulete"},"Tag:2edfd9e3-b418-40e0-ad4d-3a56ba4c7c85":{"__typename":"Tag","id":"2edfd9e3-b418-40e0-ad4d-3a56ba4c7c85","slug":"nka","name":"nka","description":"","url":"https://444.hu/tag/nka"},"Tag:3a80bb30-cc5a-4117-a846-800dc3aa0fbf":{"__typename":"Tag","id":"3a80bb30-cc5a-4117-a846-800dc3aa0fbf","slug":"hivatali-visszaeles","name":"hivatali visszaélés","description":"","url":"https://444.hu/tag/hivatali-visszaeles"},"Tag:50323bb4-9d89-45ad-ac05-1aa7f75e9293":{"__typename":"Tag","id":"50323bb4-9d89-45ad-ac05-1aa7f75e9293","slug":"polgari-sport-kor-egyesulet","name":"Polgári Sport Kör Egyesület","description":"","url":"https://444.hu/tag/polgari-sport-kor-egyesulet"},"Tag:6c7a61f0-db57-4322-80c4-a5b1e484b760":{"__typename":"Tag","id":"6c7a61f0-db57-4322-80c4-a5b1e484b760","slug":"nyomozas","name":"nyomozás","description":"","url":"https://444.hu/tag/nyomozas"},"Tag:7a6feea7-3845-40eb-b1c6-a9e90f7786c4":{"__typename":"Tag","id":"7a6feea7-3845-40eb-b1c6-a9e90f7786c4","slug":"nemzeti-ado-es-vamhivatal","name":"nemzeti adó- és vámhivatal","description":"","url":"https://444.hu/tag/nemzeti-ado-es-vamhivatal"},"Tag:8f023910-03af-489c-b4d5-58bd097f0e17":{"__typename":"Tag","id":"8f023910-03af-489c-b4d5-58bd097f0e17","slug":"koltsegvetesi-csalas","name":"költségvetési csalás","description":"","url":"https://444.hu/tag/koltsegvetesi-csalas"},"Tag:a957f431-9687-4193-a650-75d6086ae638":{"__typename":"Tag","id":"a957f431-9687-4193-a650-75d6086ae638","slug":"feketekassza","name":"feketekassza","description":"","url":"https://444.hu/tag/feketekassza"},"Tag:ad172a86-3064-4a80-aea3-7e64e5553be3":{"__typename":"Tag","id":"ad172a86-3064-4a80-aea3-7e64e5553be3","slug":"nemzeti-kulturalis-alap","name":"nemzeti kulturális alap","description":"","url":"https://444.hu/tag/nemzeti-kulturalis-alap"},"Tag:dc4acf42-c8e6-4e81-94a8-1e42c1c25fe9":{"__typename":"Tag","id":"dc4acf42-c8e6-4e81-94a8-1e42c1c25fe9","slug":"hutlen-kezeles","name":"hűtlen kezelés","description":"","url":"https://444.hu/tag/hutlen-kezeles"},"Tag:e2104d1a-a18d-4698-8cc4-577f51529ea1":{"__typename":"Tag","id":"e2104d1a-a18d-4698-8cc4-577f51529ea1","slug":"kosa-roland","name":"Kósa Roland","description":"","url":"https://444.hu/tag/kosa-roland"},"Tag:e4935e38-7efc-4049-830f-97c3de831186":{"__typename":"Tag","id":"e4935e38-7efc-4049-830f-97c3de831186","slug":"gyor","name":"győr","description":"","url":"https://444.hu/tag/gyor"},"Tag:e5c24ae0-9517-4e32-be83-360839c15460":{"__typename":"Tag","id":"e5c24ae0-9517-4e32-be83-360839c15460","slug":"nka-botrany","name":"NKA-botrány","description":"","url":"https://444.hu/tag/nka-botrany"},"Tag:ecb0881f-3133-42bd-96b7-19987833f513":{"__typename":"Tag","id":"ecb0881f-3133-42bd-96b7-19987833f513","slug":"fiatalok-sport-es-kultur-egyesulete","name":"Fiatalok Sport és Kultúr Egyesülete","description":"","url":"https://444.hu/tag/fiatalok-sport-es-kultur-egyesulete"},"Tag:f063be3c-394a-5548-a71e-5308e3b2440f":{"__typename":"Tag","id":"f063be3c-394a-5548-a71e-5308e3b2440f","slug":"juhasz-balazs","name":"juhász balázs","description":null,"url":"https://444.hu/tag/juhasz-balazs"},"Tag:feed4e31-b29f-4c9f-8001-e8918b15fd2e":{"__typename":"Tag","id":"feed4e31-b29f-4c9f-8001-e8918b15fd2e","slug":"fidelitas","name":"fidelitas","description":"","url":"https://444.hu/tag/fidelitas"},"Format:7a6036e1-c587-11f0-9297-525400d76232":{"__typename":"Format","id":"7a6036e1-c587-11f0-9297-525400d76232","slug":"cikk","name":"Cikk","description":null,"url":"https://444.hu/format/cikk","mateType":"DEFAULT"},"MediaItem:c5c83a62-f43e-5778-8ab6-c8d9d338025a":{"__typename":"Image","caption":"Mága Zoltán Orbán Viktor szüleinek húzza a nótát Székesfehérváron","author":"Mága Zoltán/Facebook","url":"https://assets.4cdn.hu/kraken/8IIg9udWMIvCOSGHs.jpeg","creditType":"Fotó","sourceLink":"https://www.facebook.com/MagaZoltanHegedumuvesz/posts/pfbid0WytbbR8oPzDh6BqWh5Tsb1MnXPHZ5B6jMQ4jvKPCSBFKv9KmVFpREPyUqvug28Z2l","bucket":{"__ref":"Bucket:70b47701-2c71-55dc-95b1-7ac5be6b8a21"},"id":"c5c83a62-f43e-5778-8ab6-c8d9d338025a","width":1516,"height":1009,"variations":[{"__typename":"ImageVariation","url":"https://assets.4cdn.hu/kraken/8IIg9udWMIvCOSGHs-xxs.jpeg","size":"xxs","width":96,"height":64},{"__typename":"ImageVariation","url":"https://assets.4cdn.hu/kraken/8IIg9udWMIvCOSGHs-xs.jpeg","size":"xs","width":360,"height":240},{"__typename":"ImageVariation","url":"https://assets.4cdn.hu/kraken/8IIg9udWMIvCOSGHs-sm.jpeg","size":"sm","width":640,"height":426},{"__typename":"ImageVariation","url":"https://assets.4cdn.hu/kraken/8IIg9udWMIvCOSGHs-md.jpeg","size":"md","width":768,"height":511},{"__typename":"ImageVariation","url":"https://assets.4cdn.hu/kraken/8IIg9udWMIvCOSGHs-lg.jpeg","size":"lg","width":1366,"height":909},{"__typename":"ImageVariation","url":"https://assets.4cdn.hu/kraken/8IIg9udWMIvCOSGHs-xl.jpeg","size":"xl","width":1920,"height":1278},{"__typename":"ImageVariation","url":"https://assets.4cdn.hu/kraken/8IIg9udWMIvCOSGHs-xxl.jpeg","size":"xxl","width":2560,"height":1704}]},"Author:45441a7e-c193-4302-8763-0782e8267764":{"__typename":"Author","id":"45441a7e-c193-4302-8763-0782e8267764","name":"Gazda Albert","avatar":"https://assets.4cdn.hu/kraken/7fD6yLt3URxyKeDls.jpeg?width=96\u0026height=96\u0026fit=crop","slug":"gazdaa"},"Category:492b6bf0-019a-4f4a-a596-fec37b6676b1":{"__typename":"Category","id":"492b6bf0-019a-4f4a-a596-fec37b6676b1","slug":"politika","name":"POLITIKA","description":"","url":"https://444.hu/category/politika"},"Article:3789562f-e3d2-5d2d-b336-d728f89a13c4":{"__typename":"Article","id":"3789562f-e3d2-5d2d-b336-d728f89a13c4","title":"NKA-támogatások: költségvetési csalás és hűtlen kezelés gyanúja miatt nyomoz a NAV","slug":"nka-tamogatasok-koltsegvetesi-csalas-es-hutlen-kezeles-gyanuja-miatt-nyomoz-a-nav","featuredImage":{"__ref":"MediaItem:c5c83a62-f43e-5778-8ab6-c8d9d338025a"},"excerpt":"A Telexnek írták ezt arra a kérdésre, hogy indult-e nyomozás az NKA-támogatásokkal összefüggésben, amelyek az elmúlt években „az egyik közismert hegedűművészhez” jutottak el.","publishedAt":"2026-05-22T16:42:28+02:00","createdAt":"2026-05-22T16:42:30+02:00","authors":[{"__ref":"Author:45441a7e-c193-4302-8763-0782e8267764"}],"categories":[{"__ref":"Category:492b6bf0-019a-4f4a-a596-fec37b6676b1"}],"collections":[],"bucket":{"__ref":"Bucket:70b47701-2c71-55dc-95b1-7ac5be6b8a21"},"options":[{"__typename":"Option","key":"template","value":""},{"__typename":"Option","key":"language","value":"hu"},{"__typename":"Option","key":"color_scheme","value":""},{"__typename":"Option","key":"is_anonym","value":false},{"__typename":"Option","key":"background_shadow","value":false},{"__typename":"Option","key":"title_inner","value":false},{"__typename":"Option","key":"lead_av","value":""},{"__typename":"Option","key":"jumbotron","value":""},{"__typename":"Option","key":"external_url","value":""},{"__typename":"Option","key":"title_alignment","value":""},{"__typename":"Option","key":"comments_enabled","value":true},{"__typename":"Option","key":"stream","value":true}],"format":{"__ref":"Format:7a6036e1-c587-11f0-9297-525400d76232"},"partners":[],"url":"https://444.hu/2026/05/22/nka-tamogatasok-koltsegvetesi-csalas-es-hutlen-kezeles-gyanuja-miatt-nyomoz-a-nav"},"Article:e8c18ab4-e054-5b57-b85c-5bcf574e2836":{"__typename":"Article","id":"e8c18ab4-e054-5b57-b85c-5bcf574e2836","featuredImage":{"__ref":"MediaItem:004bae00-176c-567f-b599-81087fec603c"},"title":"Ugyanazon a napon indítottak el négy egyesületet Győrben és környékén, ezek összesen 105 millió forint támogatást kaptak az NKA feketekasszájából, a NAV nyomozást rendelt el","body":[[{"type":"core/paragraph","params":{},"content":"Nyomozást rendelt el a NAV a győri és Győr környéki furcsa NKA-támogatások ügyében, Kósa Roland alpolgármester feljelentése után – \u003ca href=\"https://www.facebook.com/kosarolandgyor/posts/pfbid02fq9jCwy78dHQkj1XfJVaC6NbVAbqR8BZucdJpDzjoMkZpvmEQRfqwSTjCcykgNkrl\" target=\"_blank\" \u003eírja\u003c/a\u003e a politikus a közösségi médiában. Kósáék négy, ugyanazon a napon indított egyesületet találtak, amelyek összesen 105 millió forint állami támogatást kaptak az NKA feketekasszájából, és amelyek mindegyikében képviseleti jogosultsággal rendelkezik Juhász Balázs abdai fideszes önkormányzati képviselő, a bécsi Fidelitas alapító elnöke."},{"type":"core/paragraph","params":{},"content":"Az alpolgármester szerint azután kezdtek vizsgálódni, hogy kiderült, a Nemzeti Kulturális Alap (NKA) a választások előtt egy ideiglenes kollégiumán keresztül 17 milliárd forintot osztott ki sokszor helyi és nem helyi fideszesekhez köthető szervezeteknek. Az ügyben költségvetési csalás és hűtlen kezelés gyanúja miatt \u003ca href=\"https://444.hu/2026/05/22/nka-tamogatasok-koltsegvetesi-csalas-es-hutlen-kezeles-gyanuja-miatt-nyomoz-a-nav\" target=\"_blank\" \u003enyomoz\u003c/a\u003e a Nemzeti Adó- és Vámhivatal (NAV) – Kósa Roland szerint a győri esetet is egy, az NKA-ügyben már folyamatban lévő büntetőeljárással vonták össze."},{"type":"image","params":{"src":"https://4cdn.hu/kraken/image/upload/s--JaoNhK2D--/c_limit,w_760/8LXpAFHACOE9mOWHs.jpeg","id":"004bae00-176c-567f-b599-81087fec603c","showauthor":"true","alt":"","link":"","mediaItem":{"caption":"","author":"Németh Dániel/444","url":"https://assets.4cdn.hu/kraken/8LXpAFHACOE9mOWHs.jpeg","creditType":"Fotó","sourceLink":null,"bucket":{"id":"70b47701-2c71-55dc-95b1-7ac5be6b8a21","slug":"444","name":"444","__typename":"Bucket"},"__typename":"Image","id":"004bae00-176c-567f-b599-81087fec603c","width":3000,"height":2001,"variations":[{"url":"https://assets.4cdn.hu/kraken/8LXpAFHACOE9mOWHs-xxs.jpeg","size":"xxs","width":96,"height":64,"__typename":"ImageVariation"},{"url":"https://assets.4cdn.hu/kraken/8LXpAFHACOE9mOWHs-xs.jpeg","size":"xs","width":360,"height":240,"__typename":"ImageVariation"},{"url":"https://assets.4cdn.hu/kraken/8LXpAFHACOE9mOWHs-sm.jpeg","size":"sm","width":640,"height":427,"__typename":"ImageVariation"},{"url":"https://assets.4cdn.hu/kraken/8LXpAFHACOE9mOWHs-md.jpeg","size":"md","width":768,"height":512,"__typename":"ImageVariation"},{"url":"https://assets.4cdn.hu/kraken/8LXpAFHACOE9mOWHs-lg.jpeg","size":"lg","width":1366,"height":911,"__typename":"ImageVariation"},{"url":"https://assets.4cdn.hu/kraken/8LXpAFHACOE9mOWHs-xl.jpeg","size":"xl","width":1920,"height":1281,"__typename":"ImageVariation"},{"url":"https://assets.4cdn.hu/kraken/8LXpAFHACOE9mOWHs-xxl.jpeg","size":"xxl","width":2560,"height":1708,"__typename":"ImageVariation"}]}},"content":"Hankó Balázs"},{"type":"core/paragraph","params":{},"content":"Kósa szerint négy egyesület, a Fiatalok Külügyi és Kultúr Egyesülete, a Fiatalok Sport és Kultúr Egyesülete, a Polgári Sport Kör Egyesület és a HD Sport Egyesület összesen 105 millió forintot kapott 2025. november 19. és 2026. január 22. között."},{"type":"core/paragraph","params":{},"content":"„Mindegyik egyesület bejegyzési eljárását ugyanazon a napon indították, mindegyik egyesület alapszabályát ugyanazon a napon fogadták el” – írja Kósa. Az egyesületek előző évekre vonatkozó beszámolói tavaly júliusban ugyanabban 11 másodpercben érkeztek be, ráadásul két egyesület adószáma felcserélve jelent meg a beszámolókon. Ezek alapján 2022-ben, 2023-ban és 2024-ben 0 forint bevételük és kiadásuk volt, „magyarán szólva nem csináltak semmi értelmezhetőt”."},{"type":"core/paragraph","params":{},"content":"„Dühítő, hogy üres egyesületekhez folyik a közpénz, miközben értékteremtő helyi szervezetek anyagi nehézségekkel küzdenek” – írta Kósa, aki költségvetési csalás és hivatali visszaélés miatt tett feljelentés, amire reagálva a NAV nyomozást indított."}]],"slug":"ugyanazon-a-napon-inditottak-el-negy-egyesuletet-gyorben-es-kornyeken-ezek-osszesen-105-millio-forint-tamogatast-kaptak-az-nka-feketekasszajabol-a-nav-nyomozast-rendelt-el","publishedAt":"2026-06-16T10:43:36+02:00","bucket":{"__ref":"Bucket:70b47701-2c71-55dc-95b1-7ac5be6b8a21"},"excerpt":"Mindegyikben képviseleti jogosultsága van Juhász Balázsnak, a bécsi Fidelitas alapító elnökének.","createdAt":"2026-06-16T10:43:40+02:00","updatedAt":"2026-06-16T10:57:44+02:00","authors":[{"__ref":"Author:6cba2d25-9994-43cc-b220-239068a003f0"}],"categories":[{"__ref":"Category:b722e920-44ed-4c26-bca0-2ac8fc0cd644"}],"tags":[{"__ref":"Tag:0764a5cb-403b-4164-9a99-afd99f72cc29"},{"__ref":"Tag:2564f809-ba77-4396-a557-4c298689b395"},{"__ref":"Tag:27535d03-4fd7-432c-951e-62d6e1da9750"},{"__ref":"Tag:2edfd9e3-b418-40e0-ad4d-3a56ba4c7c85"},{"__ref":"Tag:3a80bb30-cc5a-4117-a846-800dc3aa0fbf"},{"__ref":"Tag:50323bb4-9d89-45ad-ac05-1aa7f75e9293"},{"__ref":"Tag:6c7a61f0-db57-4322-80c4-a5b1e484b760"},{"__ref":"Tag:7a6feea7-3845-40eb-b1c6-a9e90f7786c4"},{"__ref":"Tag:8f023910-03af-489c-b4d5-58bd097f0e17"},{"__ref":"Tag:a957f431-9687-4193-a650-75d6086ae638"},{"__ref":"Tag:ad172a86-3064-4a80-aea3-7e64e5553be3"},{"__ref":"Tag:dc4acf42-c8e6-4e81-94a8-1e42c1c25fe9"},{"__ref":"Tag:e2104d1a-a18d-4698-8cc4-577f51529ea1"},{"__ref":"Tag:e4935e38-7efc-4049-830f-97c3de831186"},{"__ref":"Tag:e5c24ae0-9517-4e32-be83-360839c15460"},{"__ref":"Tag:ecb0881f-3133-42bd-96b7-19987833f513"},{"__ref":"Tag:f063be3c-394a-5548-a71e-5308e3b2440f"},{"__ref":"Tag:feed4e31-b29f-4c9f-8001-e8918b15fd2e"}],"collections":[],"meta":[{"__typename":"Meta","key":"description","value":""},{"__typename":"Meta","key":"excerpt","value":"Mindegyikben képviseleti jogosultsága van Juhász Balázsnak, a bécsi Fidelitas alapító elnökének."},{"__typename":"Meta","key":"featuredImage","value":"004bae00-176c-567f-b599-81087fec603c"},{"__typename":"Meta","key":"og:description","value":""},{"__typename":"Meta","key":"og:image","value":""},{"__typename":"Meta","key":"og:title","value":""},{"__typename":"Meta","key":"title","value":""}],"options":[{"__typename":"Option","key":"template","value":""},{"__typename":"Option","key":"language","value":"hu"},{"__typename":"Option","key":"color_scheme","value":""},{"__typename":"Option","key":"is_anonym","value":false},{"__typename":"Option","key":"background_shadow","value":false},{"__typename":"Option","key":"title_inner","value":false},{"__typename":"Option","key":"lead_av","value":""},{"__typename":"Option","key":"jumbotron","value":""},{"__typename":"Option","key":"external_url","value":""},{"__typename":"Option","key":"title_alignment","value":""},{"__typename":"Option","key":"comments_enabled","value":true},{"__typename":"Option","key":"stream","value":true}],"url":"https://444.hu/2026/06/16/ugyanazon-a-napon-inditottak-el-negy-egyesuletet-gyorben-es-kornyeken-ezek-osszesen-105-millio-forint-tamogatast-kaptak-az-nka-feketekasszajabol-a-nav-nyomozast-rendelt-el","format":{"__ref":"Format:7a6036e1-c587-11f0-9297-525400d76232"},"partners":[],"relatedArticles":[{"__ref":"Article:3789562f-e3d2-5d2d-b336-d728f89a13c4"}],"userHasAccess":true},"ROOT_QUERY":{"__typename":"Query","content({\"fromBucket\":{\"column\":\"SLUG\",\"operator\":\"IN\",\"value\":[\"444\"]},\"publishedAt\":\"2026-06-16\",\"slug\":\"ugyanazon-a-napon-inditottak-el-negy-egyesuletet-gyorben-es-kornyeken-ezek-osszesen-105-millio-forint-tamogatast-kaptak-az-nka-feketekasszajabol-a-nav-nyomozast-rendelt-el\"})":{"__ref":"Article:e8c18ab4-e054-5b57-b85c-5bcf574e2836"}}}}</script><script type="fastboot/shoebox" id="shoebox-abgroup">"5"</script><script type="x/boundary" id="fastboot-body-end"></script>
+
+    
+<script src="https://cdn.444r.cloud/assets/vendor.a695b4593df413ede9de682fe5ad5e29.js"></script>
+
+
+
+<link href="https://cdn.444r.cloud/assets/chunk.af042777c09e472b921f.css" rel="stylesheet">
+<script src="https://cdn.444r.cloud/assets/chunk.e60cc4cc9b8227a2f52e.js"></script>
+<script src="https://cdn.444r.cloud/assets/chunk.dcf1d2279e5526181564.js"></script>
+</body></html>
