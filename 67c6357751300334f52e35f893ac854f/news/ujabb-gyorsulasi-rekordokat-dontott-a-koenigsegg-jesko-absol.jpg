@@ -1,0 +1,540 @@
+
+<!DOCTYPE html>
+<html lang="hu-HU">
+<head>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,400;0,500;0,600;0,700;0,900;1,400;1,500;1,600;1,700;1,900&display=swap" rel="stylesheet"><meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<meta name="theme-color" content="#000000" />
+<link rel="dns-prefetch" href="//cms.static.marquardmedia.hu">
+<link rel="preconnect" href="https://cms.static.marquardmedia.hu" crossorigin><link rel="dns-prefetch" href="//securepubads.g.doubleclick.net">
+<link rel="preconnect" href="https://securepubads.g.doubleclick.net" crossorigin><link rel="dns-prefetch" href="//cdn.pabidding.io">
+<link rel="preconnect" href="https://cdn.pabidding.io" crossorigin><link rel="dns-prefetch" href="//pagead2.googlesyndication.com">
+<link rel="preconnect" href="https://pagead2.googlesyndication.com" crossorigin><link
+ rel="preconnect"
+ href="https://fonts.googleapis.com"
+>
+<link
+ rel="preconnect"
+ href="https://fonts.gstatic.com"
+ crossorigin
+>
+<link
+ href="https://fonts.googleapis.com/css2?family=Fira+Sans:wght@400;600&display=swap"
+ rel="stylesheet"
+><link rel="icon" href="/images/InstylemenHu/favicons/favicon.ico" />
+<link rel="apple-touch-icon" sizes="57x57" href="/images/InstylemenHu/favicons/apple-icon-57x57.png" />
+<link rel="apple-touch-icon" sizes="60x60" href="/images/InstylemenHu/favicons/apple-icon-60x60.png" />
+<link rel="apple-touch-icon" sizes="72x72" href="/images/InstylemenHu/favicons/apple-icon-72x72.png" />
+<link rel="apple-touch-icon" sizes="76x76" href="/images/InstylemenHu/favicons/apple-icon-76x76.png" />
+<link rel="apple-touch-icon" sizes="114x114" href="/images/InstylemenHu/favicons/apple-icon-114x114.png" />
+<link rel="apple-touch-icon" sizes="120x120" href="/images/InstylemenHu/favicons/apple-icon-120x120.png" />
+<link rel="apple-touch-icon" sizes="144x144" href="/images/InstylemenHu/favicons/apple-icon-144x144.png" />
+<link rel="apple-touch-icon" sizes="152x152" href="/images/InstylemenHu/favicons/apple-icon-152x152.png" />
+<link rel="apple-touch-icon" sizes="180x180" href="/images/InstylemenHu/favicons/apple-icon-180x180.png" />
+<link rel="icon" type="image/png" sizes="192x192" href="/images/InstylemenHu/favicons/android-icon-192x192.png" />
+<link rel="icon" type="image/png" sizes="32x32" href="/images/InstylemenHu/favicons/favicon-32x32.png" />
+<link rel="icon" type="image/png" sizes="96x96" href="/images/InstylemenHu/favicons/favicon-96x96.png" />
+<link rel="icon" type="image/png" sizes="16x16" href="/images/InstylemenHu/favicons/favicon-16x16.png" />
+<link rel="manifest" href="/images/InstylemenHu/favicons/manifest.json" />
+<script>
+window.pageType = 'article';
+</script><script type="text/javascript">
+window.DFPAdZones = [];
+window.device = (window.innerWidth < 768 ? 'mobile' : 'desktop');
+window.layout = '';
+
+window.googletag = window.googletag || {};
+window.googletag.cmd = window.googletag.cmd || [];
+
+window.googletag.cmd.push(function() {
+ const dfpNetworkId = 46633415;
+ const zones = window.dfpAdZoneDefinitions[device];
+
+ zones.forEach(zone => {
+ if ('page' in zone && zone.page !== window.pageType) {
+ return;
+ }
+ if ('layout' in zone && zone.layout !== window.layout) {
+ return;
+ }
+
+ if (window.layout === 'customColumnist/greenstiletto' && !('layout' in zone)) {
+ return;
+ }
+
+ const adUnitPath = '/' + dfpNetworkId + '/' + zone.id;
+ 
+ let slot;
+ if ('size' in zone) {
+ slot = window.googletag.defineSlot(adUnitPath, zone.size, zone.domId);
+ }
+ else {
+ slot = window.googletag.defineSlot(adUnitPath, [ [0, 0], [1, 1] ], zone.domId);
+ }
+
+ slot
+ .setTargeting('category', ["jarmu"]) .setTargeting('18plus', ["false"]) .setTargeting('pId', ["195969"]) .addService(googletag.pubads());
+
+ window.DFPAdZones[zone.id] = slot;
+ zone.defined = true;
+
+ console.log('Zone defined: ' + adUnitPath);
+ });
+
+ googletag.pubads().enableSingleRequest();
+ googletag.pubads().collapseEmptyDivs(true);
+ googletag.enableServices();
+
+ if (typeof slotRenderEnded !== 'undefined') {
+ googletag.pubads().addEventListener('slotRenderEnded', slotRenderEnded);
+ }
+});
+</script>
+<link href="https://cms.static.marquardmedia.hu/data/assets.min/ba0a6d7756340ef4b7a7762022462713e74831c4.css" rel="stylesheet"><link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet"><link href="https://cms.static.marquardmedia.hu/data/assets.min/347cf024ffc7011b7cde33ec04de3b14ef7eb8a5.css" rel="stylesheet"><script src="https://cms.static.marquardmedia.hu/data/assets.min/9cf4f367058835ab38b93bdcdbf575c80b40e847.js" data-cookieconsent="ignore"></script><script src="https://pahtuz.tech/c/instylemen.hu.js" async></script><script src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4698415399775671" async></script><meta name="csrf-param" content="_csrf">
+<meta name="csrf-token" content="B3lrDWQe2igoCDpRQstciHdd_qazAFMxv5tOwqbo9dRrHVJqHlCoUBhgAzIO-zTeGjSI_8QyA0GI8Dj1x7mdvw==">
+<title>Két újabb sebességrekordot döntött meg a Koenigsegg Jesko</title><meta name="title" content="Két újabb sebességrekordot döntött meg a Koenigsegg Jesko" /><meta name="robots" content="all, max-image-preview: large" /><meta name="keywords" content="videó,youtube,gyorsulás,szupersportautó,sebességrekord,Koenigsegg Jesko,negyed mérföld" /><meta name="exclusiontags" content="jármű,videó,youtube,gyorsulás,szupersportautó,sebességrekord,koenigsegg jesko,negyed mérföld" /><meta name="description" content="A Jesko már hatodik éve van gyártásban, de még mindig képesek vele újabb magaslatokat elérni." /><meta name="author" content="Lendvai Zsolt" /><meta name="image_url" content="https://cms.static.marquardmedia.hu/data/cikk/390/390856.1200x630.jpg" /><meta name="medium" content="news" /><link rel="canonical" href="https://www.instylemen.hu/koenigsegg-jesko-negyed-merfold-rekord-195969" /><link rel="image_src" href="https://cms.static.marquardmedia.hu/data/cikk/390/390856.1200x630.jpg" /><link rel="amphtml" href="https://www.instylemen.hu/koenigsegg-jesko-negyed-merfold-rekord-195969/amp" /><meta property="og:type" content="article" /><meta property="og:url" content="https://www.instylemen.hu/koenigsegg-jesko-negyed-merfold-rekord-195969" /><meta property="og:title" content="Két újabb sebességrekordot döntött meg a Koenigsegg Jesko" /><meta property="og:description" content="A Jesko már hatodik éve van gyártásban, de még mindig képesek vele újabb magaslatokat elérni." /><meta property="og:image" content="https://www.joy.hu/imageproxy.php?url=https%3A%2F%2Fcms.static.marquardmedia.hu%2Fdata%2Fcikk%2F390%2F390856.1200x630.jpg" /><meta property="og:site_name" content="Instylemen" /><meta property="fb:pages" content="169401183091011" /><meta property="article:editor" content="Lendvai Zsolt" /><meta property="og:image:width" content="1200" /><meta property="og:image:height" content="630" /></head><body class="layout-main page-article">
+<div id="div-gpt-ad-1706349028042-0" class="theAd advert-wp"></div>
+<div id="container"><header id="header" class="bg-black ease"><div class="header-mobil-close-button"><i class="fa fa-times"></i></div><div class="centerPart header-main flexBox flex-alignEnd flex-spaceBetween bg-black"><a href="/" class="logo"><img src="/images/InstylemenHu/ISMEN_logo.svg" alt="InStyleMen logo" width="200" height="150" /></a><div class="header-menu"><a href="/szorakozas" class="menuItem ease" id="menu-szorakozas">Szórakozás</a><a href="/eletmod" class="menuItem ease" id="menu-eletmod">Életmód</a><a href="/stilus" class="menuItem ease" id="menu-stilus">Stílus</a><a href="/jarmu" class="menuItem ease" id="menu-jarmu">Jármű</a><a href="/uzlet" class="menuItem ease" id="menu-uzlet">Üzlet</a><a href="/vilag" class="menuItem ease" id="menu-vilag">Világ</a><a href="/utazas" class="menuItem ease" id="menu-utazas">Utazás</a><a href="/sport" class="menuItem ease" id="menu-sport">Sport</a> <a href="/promocio" class="menuItem ease">Promóciók</a></div><div class="header-right"><div class="header-search textAlignRight"><div class="header-search-box" data-open="0"><div class="header-search-button ease"><i class="fa fa-search ease"></i></div></div></div><div class="desktop-hamburger"><div class="icon"><span></span><span></span><span></span></div><div class="desktop-hamburger-menu"><a href="/promocio" class="ease">Promóciók</a></div></div></div></div><div class="header-mobil-social-icons"><a href="https://www.facebook.com/instyle.magyarorszag" target="_blank"><i class="fa fa-facebook ease"></i></a><a href="https://www.instagram.com/instyle_hungary/" target="_blank"><i class="fa fa-instagram ease"></i></a><a href="https://www.youtube.com/channel/UCeEuDDD-qrj7ot-5ywUUn4A" target="_blank"><i class="fa fa-youtube-play ease"></i></a><a href="https://twitter.com/InStyle_Hungary" target="_blank"><i class="fa fa-twitter ease"></i></a><a href="https://www.pinterest.com/InstylemenHungary/" target="_blank"><i class="fa fa-pinterest-p ease"></i></a></div><div class="header-mobil-slide-search ease bg-black"><div class="centerPart"><form name="headerMobilSlideSearchForm" id="headerMobilSlideSearchForm" class="ease"><input type="text" name="headerMobilSlideSearchInput" id="headerMobilSlideSearchInput" class="ease" placeholder="Írd be mit keresel"><input type="submit" class="buttonStyle buttonStyle-peach ease" value="Keresés"></form></div></div></header><div id="header-mobil" class="bg-black"><div class="centerPart flexBox flex-alignCenter flex-spaceBetween"><div class="col"><div id="menu-mobil-open"><span></span><span></span><span></span></div></div><div class="col"><div class="logo"><img src="/images/InstylemenHu/ISMEN_logo.svg" alt="logo" /><a href="/" class="fullSize"></a></div></div><div class="col"></div></div>
+</div><div class="header-close-layer ease"></div>
+<div id="mainPart" class="article-page "><div class="centerPart">
+<!--googleoff: all-->
+<div
+ id="div-gpt-ad-1697715285242-0"
+ class="theAd "
+ data-label="1"
+ data-device="desktop"
+></div>
+<!--googleon: all-->
+<h1 class="theArticleTitle textAlignCenter">Két újabb sebességrekordot döntött meg a Koenigsegg Jesko</h1><div class="article-tags textAlignCenter"><div class="article-tag"><a href="/cimke/vide%C3%B3" class="fullSize"></a>#videó</div><div class="article-tag"><a href="/cimke/youtube" class="fullSize"></a>#youtube</div><div class="article-tag"><a href="/cimke/gyorsul%C3%A1s" class="fullSize"></a>#gyorsulás</div><div class="article-tag"><a href="/cimke/szupersportaut%C3%B3" class="fullSize"></a>#szupersportautó</div><div class="article-tag"><a href="/cimke/sebess%C3%A9grekord" class="fullSize"></a>#sebességrekord</div><div class="article-tag"><a href="/cimke/Koenigsegg+Jesko" class="fullSize"></a>#Koenigsegg Jesko</div><div class="article-tag"><a href="/cimke/negyed+m%C3%A9rf%C3%B6ld" class="fullSize"></a>#negyed mérföld</div></div>
+<div class="article-hero">
+<picture><source srcset="https://cms.static.marquardmedia.hu/data/cikk/390/390856.1200x630.jpg" type="image/jpeg"><img src="https://cms.static.marquardmedia.hu/data/cikk/390/390856.1200x630.jpg" alt="Koenigsegg Jesko Absolut rekorddöntés közben" /></picture><div class="article-source">Forrás: Koenigsegg / Youtube</div>
+</div><!--googleoff: all-->
+<div
+ id="div-gpt-ad-1697718632864-0"
+ class="theAd "
+ data-label="1"
+ data-device="mobile"
+></div>
+<!--googleon: all--><div class="article-page-cols"><div id="rightSideColumn">
+<!--googleoff: all-->
+<div id="div-gpt-ad-1697718632864-0" class="theAd " data-label="1" data-device="Mobil"
+></div>
+<!--googleon: all-->
+<!--googleoff: all-->
+<div id="div-gpt-ad-1697716265519-0" class="theAd " data-label="1" data-device="Desktop"
+></div>
+<!--googleon: all-->
+<div class="post-block post-block-promo pr-article-block flexBox flex-spaceBetween">
+<div
+class="article-item pr-article card-design-style flexBox"
+data-ct-link=""
+data-article-id="195830"
+>
+<div class="article-hero">
+<img src="https://cms.static.marquardmedia.hu/data/cikk/390/390578.1200x630.jpg" /></div>
+<div class="article-text flexBox flex-alignCenter">
+<div>
+<p class="label-promo color-pink">Szórakozás</p>
+<h2>Hamisítatlan stadionélmény a nappaliban - kezdődhet a szurkolás</h2>
+<div class="article-info">A stadionok befogadóképessége véges, de az igazi meccshangulatot otthonunk kényelmében is megkaphatjuk.</div>
+</div>
+</div>
+<a href="/samsung-televizio-sportesemenyek-nyar-195830" class="fullSize" target="_blank"></a>
+</div>
+<div
+class="article-item pr-article card-design-style flexBox"
+data-ct-link=""
+data-article-id="195938"
+>
+<div class="article-hero">
+<img src="https://cms.static.marquardmedia.hu/data/cikk/390/390805.1200x630.jpg" /></div>
+<div class="article-text flexBox flex-alignCenter">
+<div>
+<p class="label-promo color-pink">Promóció</p>
+<h2>Okosóra, gázgrill, barista kávé és konzolélmény: így változtak az apák napi ajándékozási szokások</h2>
+<div class="article-info">Végleg leáldozóban van a sablonos apák napi ajándékok kora. A MediaMarkt tapasztalatai szerint június elején látványosan...</div>
+</div>
+</div>
+<a href="/apak-napja-ajandekok-media-markt-195938" class="fullSize" target="_blank"></a>
+</div>
+<div
+class="article-item pr-article card-design-style flexBox"
+data-ct-link=""
+data-article-id="196011"
+>
+<div class="article-hero">
+<img src="https://cms.static.marquardmedia.hu/data/cikk/390/390918.1200x630.jpg" /></div>
+<div class="article-text flexBox flex-alignCenter">
+<div>
+<p class="label-promo color-pink">Promóció</p>
+<h2>Elveszettnek hitt dalok kerültek elő: 15 év után újra hallgatható a Heaven Street Seven Gigerli EP-je</h2>
+<div class="article-info">Június 19-én felkerül a digitális streamingplatformokra a Heaven Street Seven 2011-ben megjelent, majd a zenekar számára...</div>
+</div>
+</div>
+<a href="/heaven-street-seven-gigerli-ep-streaming-196011" class="fullSize" target="_blank"></a>
+</div>
+</div>
+<div class="newsletterWidget "> <div id="newsletterContent"> <p class="newsletterTitle">Szeretnél képben lenni?</p> <p class="newsletterHighlight">Iratkozz fel hírlevelünkre!</p> <!-- Begin Sendinblue Form --> <!-- START - We recommend to place the below code in head tag of your website html --> <link rel="stylesheet" href="https://sibforms.com/forms/end-form/build/sib-styles.css"> <!-- END - We recommend to place the above code in head tag of your website html --> <!-- START - We recommend to place the below code where you want the form in your website html --> <div class="sib-form"> <div id="sib-form-container" class="sib-form-container"> <div id="error-message" class="sib-form-message-panel"> <div class="sib-form-message-panel__text sib-form-message-panel__text--center"> <svg viewBox="0 0 512 512" class="sib-icon sib-notification__icon"> <path d="M256 40c118.621 0 216 96.075 216 216 0 119.291-96.61 216-216 216-119.244 0-216-96.562-216-216 0-119.203 96.602-216 216-216m0-32C119.043 8 8 119.083 8 256c0 136.997 111.043 248 248 248s248-111.003 248-248C504 119.083 392.957 8 256 8zm-11.49 120h22.979c6.823 0 12.274 5.682 11.99 12.5l-7 168c-.268 6.428-5.556 11.5-11.99 11.5h-8.979c-6.433 0-11.722-5.073-11.99-11.5l-7-168c-.283-6.818 5.167-12.5 11.99-12.5zM256 340c-15.464 0-28 12.536-28 28s12.536 28 28 28 28-12.536 28-28-12.536-28-28-28z" /> </svg> <span class="sib-form-message-panel__inner-text"> A feliratkozásod hibába ütközött, kérjük, próbáld újra! </span> </div> </div> <div></div> <div id="success-message" class="sib-form-message-panel"> <div class="sib-form-message-panel__text sib-form-message-panel__text--center"> <svg viewBox="0 0 512 512" class="sib-icon sib-notification__icon"> <path d="M256 8C119.033 8 8 119.033 8 256s111.033 248 248 248 248-111.033 248-248S392.967 8 256 8zm0 464c-118.664 0-216-96.055-216-216 0-118.663 96.055-216 216-216 118.664 0 216 96.055 216 216 0 118.663-96.055 216-216 216zm141.63-274.961L217.15 376.071c-4.705 4.667-12.303 4.637-16.97-.068l-85.878-86.572c-4.667-4.705-4.637-12.303.068-16.97l8.52-8.451c4.705-4.667 12.303-4.637 16.97.068l68.976 69.533 163.441-162.13c4.705-4.667 12.303-4.637 16.97.068l8.451 8.52c4.668 4.705 4.637 12.303-.068 16.97z" /> </svg> <span class="sib-form-message-panel__inner-text"> Köszönjük, sikeres feliratkozás! </span> </div> </div> <div></div> <div id="sib-container" class="sib-container--large sib-container--vertical"> <form id="sib-form" method="POST" action="https://b6cbd471.sibforms.com/serve/MUIEANvjEgp0ip9Z-LxIRsefKm8eTJvvYt3FsXaC9nnmQN8JMVH1n2btn6Mj3WcMCjAkc2f2DZyfSDOeVwDZg4Q8ipITDRFmzW4bkS6DhJ8gP0aL9xDSgCQs1CQ_Ifwlq1XXauwg0BHu__-ekTFIg_4Urezw2FX-9UUoZQkTrDpSq9TXfXTd6MPHe94RpwQTFH09PlDwaAvdlS9D" data-type="subscription"> <div> <div class="sib-input sib-form-block"> <div class="form__entry entry_block"> <div class="form__label-row "> <div class="entry__field"> <input class="input" type="text" id="EMAIL" name="EMAIL" placeholder="E-mail címed" autocomplete="off" placeholder="" data-required="true" required /> </div> </div> <label class="entry__error entry__error--primary"> </label> <label class="entry__specification"> Példa: <a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="037b7a7943646e626a6f2d606c6e">[email&#160;protected]</a> </label> </div> </div> </div> <div> <div class="sib-optin sib-form-block" data-required="true"> <div class="form__entry entry_mcq"> <div class="form__label-row "> <div class="entry__choice"> <label> <input type="checkbox" class="input_replaced" value="1" id="OPT_IN" name="OPT_IN" required /> <span class="checkbox checkbox_tick_positive"></span><span><p>Hozzájárulok, hogy megadott e-mail címemre a Marquard Group Hungary Kft. tájékoztató jellegű hírlevelet küldjön. <a href="https://adatvedelem.marquardmedia.hu/adatvedelmi_tajekoztato.pdf" target="_blank">Adatvédelmi tájékoztató</a></p><span data-required="*" style="display: inline;" class="entry__label entry__label_optin"></span></span> </label> </div> </div> <label class="entry__error entry__error--primary"> </label> <label class="entry__specification"> Kötelező a feliratkozáshoz </label> </div> </div> </div> <div> <div class="sib-optin sib-form-block" data-required="true"> <div class="form__entry entry_mcq"> <div class="form__label-row "> <div class="entry__choice"> <label> <input type="checkbox" class="input_replaced" required value="1" id="16FELETT" name="16FELETT" /> <span class="checkbox checkbox_tick_positive"></span><span><p>Elmúltam 16 éves</p><span data-required="*" style="display: inline;" class="entry__label entry__label_optin"></span></span> </label> </div> </div> <label class="entry__error entry__error--primary"> </label> <label class="entry__specification"> Kötelező a feliratkozáshoz </label> </div> </div> </div> <div> <div class="sib-form-block" style="text-align: left"> <button class="sib-form-block__button sib-form-block__button-with-loader" form="sib-form" type="submit"> <svg class="icon clickable__icon progress-indicator__icon sib-hide-loader-icon" viewBox="0 0 512 512"> <path d="M460.116 373.846l-20.823-12.022c-5.541-3.199-7.54-10.159-4.663-15.874 30.137-59.886 28.343-131.652-5.386-189.946-33.641-58.394-94.896-95.833-161.827-99.676C261.028 55.961 256 50.751 256 44.352V20.309c0-6.904 5.808-12.337 12.703-11.982 83.556 4.306 160.163 50.864 202.11 123.677 42.063 72.696 44.079 162.316 6.031 236.832-3.14 6.148-10.75 8.461-16.728 5.01z" /> </svg> FELIRATKOZOM </button> </div> </div> <input type="text" name="email_address_check" value="" class="input--hidden"> <input type="hidden" name="locale" value="en"> </form> </div> </div> </div> <!-- END - We recommend to place the below code where you want the form in your website html --> <!-- START - We recommend to place the below code in footer or bottom of your website html --> <script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script> window.REQUIRED_CODE_ERROR_MESSAGE = 'Please choose a country code'; window.EMAIL_INVALID_MESSAGE = window.SMS_INVALID_MESSAGE = "Hibás e-mail formátum. Kérjük, ellenőrizd és add meg újra!"; window.REQUIRED_ERROR_MESSAGE = "Kérjük, töltsd ki a mezőt! "; window.GENERIC_INVALID_MESSAGE = "Hibás e-mail formátum. Kérjük, ellenőrizd és add meg újra!"; window.translation = { common: { selectedList: '{quantity} list selected', selectedLists: '{quantity} lists selected' } }; var AUTOHIDE = Boolean(0); </script> <script src="https://sibforms.com/forms/end-form/build/main.js"> </script> </div>
+</div><!--googleoff: all-->
+<div id="div-gpt-ad-1697716265519-0" class="theAd " data-label="1" data-device="Desktop"
+></div>
+<!--googleon: all-->
+<div class="post-block post-block-promo pr-article-block flexBox flex-spaceBetween">
+</div>
+</div><div class="article-container remove-style-on-read-more-click"><div id="theArticle" class="flexBox">
+<div id="article-social-tools"><div id="stickInArticle">
+<div class="article-clap" data-articleid="195969" data-clapped="0">
+<div class="article-clap-button ease">
+<i class="fa fa-heart"></i>
+<div class="article-rate-confetti ease"></div>
+</div>
+<span class="hidden">0</span>
+</div><div class="shareArticleBox">
+<div onclick="frontend.f.sharePage('fb');" class="shareArticle fb ease-fast">
+<i class="fa fa-fbook"></i>
+<span class="shareArticleText">Facebook</span>
+</div><!--<div onclick="frontend.f.sharePage('viber');" class="shareArticle viber ease-fast">
+<span class="shareArticleText">Viber</span>
+</div>--><div onclick="frontend.f.sharePage('tw');" class="shareArticle tw ease-fast">
+<i class="fa fa-twtr"></i>
+<span class="shareArticleText">Twitter</span>
+</div><div onclick="frontend.f.sharePage('pt');" class="shareArticle pin ease-fast">
+<i class="fa fa-pt"></i>
+<span class="shareArticleText">Pinterest</span>
+</div>
+</div>
+</div></div><!-- article-social-tools --><div class="theArticleMainPart"><div class="lead">
+<p>A Jesko már hatodik éve van gyártásban, de még mindig képesek vele újabb magaslatokat elérni.</p>
+</div><div class="article-author-info">
+<div class="author-pic" style="background-image: url('https://cms.static.marquardmedia.hu/data/szerzok/338_78158571_2616300378392664_9211227505724227584_n.jpg');"></div>
+<div><p>Szerző: Lendvai Zsolt<a href="/szerzo/lendvai-zsolt-338" class="article-author-info-more"> - Mutasd a cikkeit</a></p>2026. június 19. </div>
+</div><div class="theArticleFacebookLikeShare">
+<div class="fb-like fb_iframe_widget"
+data-share="true"
+data-show-faces="false"
+data-action="like"
+data-href="https://www.instylemen.hu/koenigsegg-jesko-negyed-merfold-rekord-195969"
+fb-iframe-plugin-query="action=like&app_id=1494817030795054&container_width=603&href=https%3A%2F%2Fwww.instylemen.hu%2Fkoenigsegg-jesko-negyed-merfold-rekord-195969&locale=hu_HU&sdk=joey&share=true&show_faces=false">
+</div>
+</div><!--fold-end--><!--googleoff: all-->
+<div
+ id="div-gpt-ad-1697716174714-0"
+ class="theAd "
+ data-label="1"
+ data-device="desktop"
+></div>
+<!--googleon: all-->
+<!--googleoff: all-->
+<div
+ id="div-gpt-ad-1697718809453-0"
+ class="theAd "
+ data-label="1"
+ data-device="mobile"
+></div>
+<!--googleon: all--><div class="ease " data-io-article-url="https://www.instylemen.hu/koenigsegg-jesko-negyed-merfold-rekord-195969?utm_source=hirnavigator&utm_medium=referral&utm_campaign=aggregator">
+<div class="articleMain-visible"><p style="text-decoration:none">A Koenigsegg ügyeletes szupersportautójaként, az Agera utódjaként mutatták be a 2019-es Genfi Autószalonon a Jeskót, amelynek gyártása 2021-ben indult. Absolut nevű kivitelének szuperszámítógépek által kiszámolt 531 km/órás végsebességet ugyan még bizonyítania kellene valós körülmények között, ám néhány rekordot már így is megdöntött. Például a szupersportkocsik szegmensében komoly presztízsnek számító 0-400-0-s mérésben.
+<div class="fb-page-container">
+<img src="/images/InstylemenHu/instylemen-logo-small.svg">
+<p>Ne maradj le cikkeinkről, like-olj minket a Facebookon is!</p>
+<a href="https://www.facebook.com/instylemenhungary" target="_blank">
+<img src="/images/InstylemenHu/fb-icon.svg">
+Követem!
+</a></div>
+<h2 style="text-decoration:none">Erről itt számoltunk be:</h2>
+<div id="oneArticleOffer" class="col-xs-12 "> <span class="justOneArticleMobileVer"> Olvasd el ezt is! </span> <div class="oneArticlePic lazy" data-bg="https://cms.static.marquardmedia.hu/data/cikk/355/355734.600x315.jpg"> </div> <div class="oneArticleText"> <span class="justOneArticle"> Olvasd el ezt is! </span> <a href="https://www.instylemen.hu/koenigsegg-jesko-abszolut-0-400-0-rekord-175793" target="_self"><span class="title">0-400-0: új rekordot futott a Koenigsegg Jesko Absolut</span></a> </div> <a href="https://www.instylemen.hu/koenigsegg-jesko-abszolut-0-400-0-rekord-175793" target="_self" class="innerArticleOfferFullLink"></a>
+</div>
+<div class="makeItClear"></div>
+<p style="text-decoration:none">Most pedig újabb két világcsúcsot tehetnek ki az ablakba, miután a gyári tesztpilóta, Markus Lundh a svédországi Ängelholm repterén nekifutott a negyed- és félmérföldes gyorsulásnak. A rövidebb távot, ami amúgy 402 méternek felel meg, 8,54 másodperc alatt teljesítette, közel 306 km/óráig fokozva a tempót. Bár az abszolút időeredmény elmarad a Rimac Nevera R-étől, a magasabb célvonali sebesség azonban rekord. A hosszabb etapon, ami ugye picit kevesebb, mint 805 méter, 12,76 másodperc alatt repesztett végig, átlépve a 373 km/órát is. Ebben az összevetésben már egyértelműen ütötte a Nevera 12,82-es idejét.<h2 style="text-decoration:none">Videón is mutatjuk:</h2><div class="joyTvVideo js-video">
+<div class="joyTvVideo js-video">
+<div class="js-video widescreen"><iframe width="560" height="315" src="https://www.youtube.com/embed/oPO08EJoCJM" frameborder="0" allowfullscreen></iframe></div> </div> </div>
+<p>A siker értékét csak növeli, hogy míg a Nevera R 1914 lóerejét négy villanymotor dobja össze, addig a Jesko Absolút szinte old schoolnak számít a maga ötliteres, ikerturbós V8-asával. Ez a nyolchengeres sima benzinnel 1279, míg E85-ös bioüzemanyaggal 1599 lóerőt tud.
+</div></div><!--googleoff: all-->
+<div
+ id="div-gpt-ad-1697718854232-0"
+ class="theAd "
+ data-label="1"
+ data-device="mobile"
+></div>
+<!--googleon: all--><!-- PR cikkek --><div class="post-block post-block-promo pr-article-block flexBox flex-spaceBetween"><div
+class="article-item pr-article card-design-style flexBox"
+data-ct-link=""
+data-article-id="195830"
+>
+<div class="article-hero">
+<img src="https://cms.static.marquardmedia.hu/data/cikk/390/390578.1200x630.jpg" /></div><div class="article-text flexBox flex-alignCenter">
+<div>
+<p class="label-promo color-pink">Szórakozás</p>
+<h2>Hamisítatlan stadionélmény a nappaliban - kezdődhet a szurkolás</h2>
+<div class="article-info">A stadionok befogadóképessége véges, de az igazi meccshangulatot otthonunk kényelmében is megkaphatjuk.</div>
+</div>
+</div><a href="/samsung-televizio-sportesemenyek-nyar-195830" class="fullSize" target="_blank"></a>
+</div><div
+class="article-item pr-article card-design-style flexBox"
+data-ct-link=""
+data-article-id="195938"
+>
+<div class="article-hero">
+<img src="https://cms.static.marquardmedia.hu/data/cikk/390/390805.1200x630.jpg" /></div><div class="article-text flexBox flex-alignCenter">
+<div>
+<p class="label-promo color-pink">Promóció</p>
+<h2>Okosóra, gázgrill, barista kávé és konzolélmény: így változtak az apák napi ajándékozási szokások</h2>
+<div class="article-info">Végleg leáldozóban van a sablonos apák napi ajándékok kora. A MediaMarkt tapasztalatai szerint június elején látványosan...</div>
+</div>
+</div><a href="/apak-napja-ajandekok-media-markt-195938" class="fullSize" target="_blank"></a>
+</div><div
+class="article-item pr-article card-design-style flexBox"
+data-ct-link=""
+data-article-id="196011"
+>
+<div class="article-hero">
+<img src="https://cms.static.marquardmedia.hu/data/cikk/390/390918.1200x630.jpg" /></div><div class="article-text flexBox flex-alignCenter">
+<div>
+<p class="label-promo color-pink">Promóció</p>
+<h2>Elveszettnek hitt dalok kerültek elő: 15 év után újra hallgatható a Heaven Street Seven Gigerli EP-je</h2>
+<div class="article-info">Június 19-én felkerül a digitális streamingplatformokra a Heaven Street Seven 2011-ben megjelent, majd a zenekar számára...</div>
+</div>
+</div><a href="/heaven-street-seven-gigerli-ep-streaming-196011" class="fullSize" target="_blank"></a>
+</div></div><!-- // PR cikkek --><div class="article-end-block">
+<div class="rltdwidget" data-widget-id="4441101"></div><div class="articleEndOffer card-design-style flexBox flex-spaceBetween flex-alignCenter " data-timestamp="1781838436"><div class="articleEndOfferPic">
+<a href="/lewis-hamilton-richard-mille-rm-43-01-ferrari-ora-196023?utm_medium=cic" class="fullSize"><picture><source srcset="https://cms.static.marquardmedia.hu/data/cikk/390/390933.600x315.jpg" type="image/jpeg"><img data-src="https://cms.static.marquardmedia.hu/data/cikk/390/390933.600x315.jpg" class="lazy" alt="Kép" /></picture></a>
+<div class="article-cat buttonStyle buttonStyle-white ease">
+Stílus<a href="stilus" class="fullSize"></a>
+</div>
+</div><div class="articleEndOfferText">
+<h2><a href="/lewis-hamilton-richard-mille-rm-43-01-ferrari-ora-196023?utm_medium=cic">800 milliós Richard Mille-ben ünnepelte első ferraris futamgyőzelmét Lewis Hamilton</a></h2><p>A különleges alkalomhoz különleges óra dukál, a hétszeres F1-világbajnok meg is adta a módját.</p>
+</div></div><div class="articleEndOffer card-design-style flexBox flex-spaceBetween flex-alignCenter " data-timestamp="1781834836"><div class="articleEndOfferPic">
+<a href="/szato-juto-japan-szurkolo-vilagbajnoksag-bringa-195945?utm_medium=cic" class="fullSize"><picture><source srcset="https://cms.static.marquardmedia.hu/data/cikk/390/390812.600x315.jpg" type="image/jpeg"><img data-src="https://cms.static.marquardmedia.hu/data/cikk/390/390812.600x315.jpg" class="lazy" alt="Kép" /></picture></a>
+<div class="article-cat buttonStyle buttonStyle-white ease">
+Világ<a href="vilag" class="fullSize"></a>
+</div>
+</div><div class="articleEndOfferText">
+<h2><a href="/szato-juto-japan-szurkolo-vilagbajnoksag-bringa-195945?utm_medium=cic">Kétezer kilométert bringázott, hogy lássa Japánt a vébén</a></h2><p>Egy Jutó nevű srác úgy érezte, soha nem lesz jobb alkalma arra, hogy világbajnokságon szurkoljon kedvenceinek, ezért nyeregbe pattant.</p>
+</div></div><div class="articleEndOffer card-design-style flexBox flex-spaceBetween flex-alignCenter " data-timestamp="1781827636"><div class="articleEndOfferPic">
+<a href="/gus-tyrannosaurus-rex-dinoszaurusz-csontvaz-195483?utm_medium=cic" class="fullSize"><picture><source srcset="https://cms.static.marquardmedia.hu/data/cikk/390/390127.600x315.jpg" type="image/jpeg"><img data-src="https://cms.static.marquardmedia.hu/data/cikk/390/390127.600x315.jpg" class="lazy" alt="Kép" /></picture></a>
+<div class="article-cat buttonStyle buttonStyle-white ease">
+Szórakozás<a href="szorakozas" class="fullSize"></a>
+</div>
+</div><div class="articleEndOfferText">
+<h2><a href="/gus-tyrannosaurus-rex-dinoszaurusz-csontvaz-195483?utm_medium=cic">9 milliárdot érhet Gus, a legteljesebben fennmaradt T-rex</a></h2><p>Töretlen népszerűségnek örvend a fosszíliabiznisz, a legnagyobb és legteljesebb Tyrannosaurus rex csontváz rekordösszegért találhat gazdára.</p>
+</div></div><div class="articleEndOffer card-design-style flexBox flex-spaceBetween flex-alignCenter " data-timestamp="1781752068"><div class="articleEndOfferPic">
+<a href="/a-filmtortenet-legdragabb-jelenetei-195762?utm_medium=cic" class="fullSize"><picture><source srcset="https://cms.static.marquardmedia.hu/data/cikk/390/390435.600x315.jpg" type="image/jpeg"><img data-src="https://cms.static.marquardmedia.hu/data/cikk/390/390435.600x315.jpg" class="lazy" alt="Kép" /></picture></a>
+<div class="article-cat buttonStyle buttonStyle-white ease">
+Szórakozás<a href="szorakozas" class="fullSize"></a>
+</div>
+</div><div class="articleEndOfferText">
+<h2><a href="/a-filmtortenet-legdragabb-jelenetei-195762?utm_medium=cic">A filmtörténet legdrágább jelenetei</a></h2><p>John Hammondot idézve: „Nem spóroltak semmin...”</p>
+</div></div><div class="articleEndOffer card-design-style flexBox flex-spaceBetween flex-alignCenter " data-timestamp="1781748468"><div class="articleEndOfferPic">
+<a href="/eletmodvaltas-tulzas-onoptimalizalas-aktivitas-195621?utm_medium=cic" class="fullSize"><picture><source srcset="https://cms.static.marquardmedia.hu/data/cikk/390/390121.600x315.jpg" type="image/jpeg"><img data-src="https://cms.static.marquardmedia.hu/data/cikk/390/390121.600x315.jpg" class="lazy" alt="Kép" /></picture></a>
+<div class="article-cat buttonStyle buttonStyle-white ease">
+Életmód<a href="eletmod" class="fullSize"></a>
+</div>
+</div><div class="articleEndOfferText">
+<h2><a href="/eletmodvaltas-tulzas-onoptimalizalas-aktivitas-195621?utm_medium=cic">Tényleg túl lehet tolni az életmódváltást?</a></h2><p>Visszaüthet, ha életünk minden aspektusát mérni és optimalizálni akarjuk ahelyett, hogy magát az egészséges életmódot tűzzük ki célul.</p>
+</div></div><div class="articleEndOffer card-design-style flexBox flex-spaceBetween flex-alignCenter " data-timestamp="1781744868"><div class="articleEndOfferPic">
+<a href="/jeremy-clarkson-ford-gt-sportauto-195937?utm_medium=cic" class="fullSize"><picture><source srcset="https://cms.static.marquardmedia.hu/data/cikk/390/390801.600x315.jpg" type="image/jpeg"><img data-src="https://cms.static.marquardmedia.hu/data/cikk/390/390801.600x315.jpg" class="lazy" alt="Kép" /></picture></a>
+<div class="article-cat buttonStyle buttonStyle-white ease">
+Jármű<a href="jarmu" class="fullSize"></a>
+</div>
+</div><div class="articleEndOfferText">
+<h2><a href="/jeremy-clarkson-ford-gt-sportauto-195937?utm_medium=cic">Autóbolondok Szent Grálja Jeremy Clarkson egykori Ford GT-je</a></h2><p>Ha egy autóért Clarkson őszintén tud lelkesedni, az már jelent valamit. Pedig volt vele gondja bőven.</p>
+</div></div>
+</div><div id="magazinPromo"></div>
+</div><!-- articleMainPart --></div><!-- theArticle --></div><!-- article-container --><div class="makeItClear"></div>
+</div>
+<div class="newsletterWidget newletterWidgetMobile"><div id="newsletterContent"><p class="newsletterTitle">Szeretnél képben lenni?</p><p class="newsletterHighlight">Iratkozz fel hírlevelünkre!</p><!-- Begin Sendinblue Form --><!-- START - We recommend to place the below code in head tag of your website html --><link rel="stylesheet" href="https://sibforms.com/forms/end-form/build/sib-styles.css"><!-- END - We recommend to place the above code in head tag of your website html --><!-- START - We recommend to place the below code where you want the form in your website html --><div class="sib-form"><div id="sib-form-container" class="sib-form-container"><div id="error-message" class="sib-form-message-panel"><div class="sib-form-message-panel__text sib-form-message-panel__text--center"><svg viewBox="0 0 512 512" class="sib-icon sib-notification__icon"><path d="M256 40c118.621 0 216 96.075 216 216 0 119.291-96.61 216-216 216-119.244 0-216-96.562-216-216 0-119.203 96.602-216 216-216m0-32C119.043 8 8 119.083 8 256c0 136.997 111.043 248 248 248s248-111.003 248-248C504 119.083 392.957 8 256 8zm-11.49 120h22.979c6.823 0 12.274 5.682 11.99 12.5l-7 168c-.268 6.428-5.556 11.5-11.99 11.5h-8.979c-6.433 0-11.722-5.073-11.99-11.5l-7-168c-.283-6.818 5.167-12.5 11.99-12.5zM256 340c-15.464 0-28 12.536-28 28s12.536 28 28 28 28-12.536 28-28-12.536-28-28-28z"
+ /></svg><span class="sib-form-message-panel__inner-text">
+ A feliratkozásod hibába ütközött, kérjük, próbáld újra!
+ </span></div></div><div></div><div id="success-message" class="sib-form-message-panel"><div class="sib-form-message-panel__text sib-form-message-panel__text--center"><svg viewBox="0 0 512 512" class="sib-icon sib-notification__icon"><path d="M256 8C119.033 8 8 119.033 8 256s111.033 248 248 248 248-111.033 248-248S392.967 8 256 8zm0 464c-118.664 0-216-96.055-216-216 0-118.663 96.055-216 216-216 118.664 0 216 96.055 216 216 0 118.663-96.055 216-216 216zm141.63-274.961L217.15 376.071c-4.705 4.667-12.303 4.637-16.97-.068l-85.878-86.572c-4.667-4.705-4.637-12.303.068-16.97l8.52-8.451c4.705-4.667 12.303-4.637 16.97.068l68.976 69.533 163.441-162.13c4.705-4.667 12.303-4.637 16.97.068l8.451 8.52c4.668 4.705 4.637 12.303-.068 16.97z"
+ /></svg><span class="sib-form-message-panel__inner-text">
+ Köszönjük, sikeres feliratkozás!
+ </span></div></div><div></div><div id="sib-container" class="sib-container--large sib-container--vertical"><form id="sib-form-mobile" method="POST" action="https://b6cbd471.sibforms.com/serve/MUIEANvjEgp0ip9Z-LxIRsefKm8eTJvvYt3FsXaC9nnmQN8JMVH1n2btn6Mj3WcMCjAkc2f2DZyfSDOeVwDZg4Q8ipITDRFmzW4bkS6DhJ8gP0aL9xDSgCQs1CQ_Ifwlq1XXauwg0BHu__-ekTFIg_4Urezw2FX-9UUoZQkTrDpSq9TXfXTd6MPHe94RpwQTFH09PlDwaAvdlS9D"
+ data-type="subscription"><div><div class="sib-input sib-form-block"><div class="form__entry entry_block"><div class="form__label-row "><div class="entry__field"><input class="input" type="text" id="EMAIL" name="EMAIL" placeholder="E-mail címed" autocomplete="off" placeholder="" data-required="true" required /></div></div><label class="entry__error entry__error--primary"></label><label class="entry__specification">
+ Példa: <a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="b2cacbc8f2d5dfd3dbde9cd1dddf">[email&#160;protected]</a>
+ </label></div></div></div><div><div class="sib-optin sib-form-block" data-required="true"><div class="form__entry entry_mcq"><div class="form__label-row "><div class="entry__choice"><label><input type="checkbox" class="input_replaced" value="1" id="OPT_IN" name="OPT_IN" required /><span class="checkbox checkbox_tick_positive"></span><span><p>Hozzájárulok, hogy megadott e-mail címemre a Marquard Group Hungary Kft. tájékoztató jellegű hírlevelet küldjön. <a href="https://adatvedelem.marquardmedia.hu/adatvedelmi_tajekoztato.pdf" target="_blank">Adatvédelmi tájékoztató</a></p><span data-required="*" style="display: inline;" class="entry__label entry__label_optin"></span></span></label></div></div><label class="entry__error entry__error--primary"></label><label class="entry__specification">
+ Kötelező a feliratkozáshoz
+ </label></div></div></div><div><div class="sib-optin sib-form-block" data-required="true"><div class="form__entry entry_mcq"><div class="form__label-row "><div class="entry__choice"><label><input type="checkbox" class="input_replaced" required value="1" id="16FELETT" name="16FELETT" /><span class="checkbox checkbox_tick_positive"></span><span><p>Elmúltam 16 éves</p><span data-required="*" style="display: inline;" class="entry__label entry__label_optin"></span></span></label></div></div><label class="entry__error entry__error--primary"></label><label class="entry__specification">
+ Kötelező a feliratkozáshoz
+ </label></div></div></div><div><div class="sib-form-block" style="text-align: left"><button class="sib-form-block__button sib-form-block__button-with-loader"
+ form="sib-form-mobile" type="submit"><svg class="icon clickable__icon progress-indicator__icon sib-hide-loader-icon" viewBox="0 0 512 512"><path d="M460.116 373.846l-20.823-12.022c-5.541-3.199-7.54-10.159-4.663-15.874 30.137-59.886 28.343-131.652-5.386-189.946-33.641-58.394-94.896-95.833-161.827-99.676C261.028 55.961 256 50.751 256 44.352V20.309c0-6.904 5.808-12.337 12.703-11.982 83.556 4.306 160.163 50.864 202.11 123.677 42.063 72.696 44.079 162.316 6.031 236.832-3.14 6.148-10.75 8.461-16.728 5.01z"
+ /></svg>
+ FELIRATKOZOM
+ </button></div></div><input type="text" name="email_address_check" value="" class="input--hidden"><input type="hidden" name="locale" value="en"></form></div></div></div><!-- END - We recommend to place the below code where you want the form in your website html --><!-- START - We recommend to place the below code in footer or bottom of your website html --><script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script>
+ window.REQUIRED_CODE_ERROR_MESSAGE = 'Please choose a country code';
+
+ window.EMAIL_INVALID_MESSAGE = window.SMS_INVALID_MESSAGE = "Hibás e-mail formátum. Kérjük, ellenőrizd és add meg újra!";
+
+ window.REQUIRED_ERROR_MESSAGE = "Kérjük, töltsd ki a mezőt! ";
+
+ window.GENERIC_INVALID_MESSAGE = "Hibás e-mail formátum. Kérjük, ellenőrizd és add meg újra!";
+
+ window.translation = {
+ common: {
+ selectedList: '{quantity} list selected',
+ selectedLists: '{quantity} lists selected'
+ }
+ };
+
+ var AUTOHIDE = Boolean(0);
+ </script><script src="https://sibforms.com/forms/end-form/build/main.js"></script></div>
+</div></div><!-- centerPart --></div><!-- mainPart --><script>
+var isPrArticle = false,
+ articleId = 195969,
+ articlePublishDate = '2026-06-19T03:07:16+00:00',
+ cacheEnabled = true;
+</script><script type="application/ld+json">
+{"@context":"https:\/\/schema.org","@type":"NewsArticle","mainEntityOfPage":{"@type":"WebPage","@id":"https:\/\/www.instylemen.hu\/koenigsegg-jesko-negyed-merfold-rekord-195969"},"headline":"K\u00e9t \u00fajabb sebess\u00e9grekordot d\u00f6nt\u00f6tt meg a Koenigsegg Jesko","description":"A Jesko m\u00e1r hatodik \u00e9ve van gy\u00e1rt\u00e1sban, de m\u00e9g mindig k\u00e9pesek vele \u00fajabb magaslatokat el\u00e9rni.","datePublished":"2026-06-19T03:07:16+02:00","inLanguage":"hu-HU","isAccessibleForFree":true,"articleSection":"J\u00e1rm\u0171","url":"https:\/\/www.instylemen.hu\/koenigsegg-jesko-negyed-merfold-rekord-195969","dateModified":"2026-06-18T13:58:13+02:00","publisher":{"@type":"Organization","name":"InStyle Men","url":"https:\/\/www.instylemen.hu","logo":{"@type":"ImageObject","url":"https:\/\/www.instylemen.hu\/images\/InstylemenHu\/amp-card-logo.png"}},"image":{"@type":"ImageObject","url":"https:\/\/cms.static.marquardmedia.hu\/data\/cikk\/390\/390856.1200x630.jpg","width":1200,"height":630},"author":{"@type":"Person","name":"Lendvai Zsolt","url":"https:\/\/www.instylemen.hu\/szerzo\/lendvai-zsolt-338"}}</script><footer id="footer" class="bg-black"><div class="centerPart"><div class="logo">
+<img src="/images/InstylemenHu/ISMEN_logo.svg" alt="logo" />
+<a href="/" class="fullSize"></a>
+</div><div class="flexBox">
+<div class="col">
+<strong>Infók</strong>
+<a href="/hirlevel" rel="nofollow">Hirlevél</a><br />
+<!-- <a href="https://magaziner.hu/magazin?magazine=35" target="_blank">Előfizetés</a><br /> -->
+<a href="/holkaphato">Hol kapható</a><br />
+<!-- <a target="_blank" href="http://elofizetesem.hu/informacio/ugyfelszolgalat.html" rel="nofollow">Ügyfélszolgálat</a><br /> -->
+<a href="https://adatvedelem.marquardmedia.hu/adatvedelmi_tajekoztato.pdf" rel="nofollow">Adatvédelmi&nbsp;tájékoztató</a><br />
+<a target="_blank" href="/impresszum">Impresszum</a><br>
+<a target="_blank" href="/jatekszabalyzat">Játékszabályzat</a><br><div class="footer-partner-logo mobile">
+</div></div><div class="col">
+<strong>Rólunk</strong>
+<a target="_blank" href="http://www.marquardmedia.hu/publishing/about">A kiadóról</a><br />
+<a target="_blank" href="https://marquardgroup.hu/marka/instyle-men/">Hirdetői információk</a>
+</div><div class="col">
+<strong>Keresd fel a többi oldalunkat</strong>
+<a target="_blank" href="https://www.joy.hu">Joy</a><br />
+<a target="_blank" href="https://www.evamagazin.hu">Éva</a><br />
+<a target="_blank" href="https://www.instyle.hu">InStyle</a><br />
+<!-- <a target="_blank" href="https://www.magaziner.hu">Magaziner</a><br /> -->
+</div><div class="col">
+<div class="footer-social-icons">
+<a href="https://www.facebook.com/instylemenhungary" target="_blank"><i class="fa fa-facebook ease"></i></a>
+<a href="https://www.instagram.com/instylemen_hu/" target="_blank"><i class="fa fa-instagram ease"></i></a>
+<a href="https://www.youtube.com/@instylemenmagyarorszag" target="_blank"><i class="fa fa-youtube-play ease"></i></a></div>
+<div class="footer-partner-logo">
+</div>
+</div>
+</div><p class="textAlignCenter">2022 Marquard Group Hungary<br />
+Fejlesztette a Marquard <strong>Digital Services</strong><br />
+<small>vv26.0617.1303</small></p></div></footer><!-- Facebook Pixel Code NEW-->
+<script>
+!function(f,b,e,v,n,t,s)
+{if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+n.queue=[];t=b.createElement(e);t.async=!0;
+t.src=v;s=b.getElementsByTagName(e)[0];
+s.parentNode.insertBefore(t,s)}(window, document,'script',
+'https://connect.facebook.net/en_US/fbevents.js');
+fbq('init', '3740665832897239');
+fbq('track', 'PageView');
+</script>
+<noscript><img height="1" width="1" style="display:none"
+src="https://www.facebook.com/tr?id=3740665832897239&ev=PageView&noscript=1"
+/></noscript>
+<!-- End Facebook Pixel Code --><!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-HHDF11W2R3"></script>
+<script>
+ window.dataLayer = window.dataLayer || [];
+ function gtag(){dataLayer.push(arguments);}
+ if (typeof ga === 'undefined') {
+ function ga(){dataLayer.push(arguments);}
+ }
+ gtag('js', new Date());
+
+ gtag('config', 'G-HHDF11W2R3');
+</script>
+</div><script src="https://cms.static.marquardmedia.hu/data/assets.min/a7525c2f683a8582424d3d9cab9cf680c61facd2.js" data-cookieconsent="ignore"></script>
+<script src="https://api.marquard.hu/pr.js"></script>
+<script src="https://cms.static.marquardmedia.hu/data/assets.min/5c65e5f9505d9893cdc22109bfa78c22e9804b67.js" data-cookieconsent="ignore"></script>
+<script src="/js/google-ads.js"></script>
+<script src="https://cms.static.marquardmedia.hu/data/assets.min/7a4397d0156cbce9b646e2adf7c5625f774dcea1.js" data-cookieconsent="ignore"></script>
+<script src="https://securepubads.g.doubleclick.net/tag/js/gpt.js" async></script><script>
+(function() {
+function go_gemius_hit() {
+window.pp_gemius_use_cmp = 'true';
+window.pp_gemius_cmp_timeout = Infinity;
+window.pp_gemius_identifier = String("nL6b64C7ACo1IlG5718omsVH7zDB9ht4KlFJCsEPmtj.I7");
+window.pp_gemius_identifier_original = String("nL6b64C7ACo1IlG5718omsVH7zDB9ht4KlFJCsEPmtj.I7");
+
+window.pp_gemius_extraparameters = ["gA=jarmu"];
+
+function gemius_pending(i) {
+window[i] = window[i] || function() {
+var x = window[i + '_pdata'] = window[i + '_pdata'] || [];
+x[x.length] = arguments;
+};
+}
+
+['gemius_hit', 'gemius_event', 'gemius_init', 'pp_gemius_hit', 'pp_gemius_event', 'pp_gemius_init']
+.forEach(gemius_pending);
+
+(function(d, t) {
+try {
+var gt = d.createElement(t),
+s = d.getElementsByTagName(t)[0],
+l = 'http' + (location.protocol === 'https:' ? 's' : '');
+gt.async = true;
+gt.defer = true;
+gt.src = l + '://hu.hit.gemius.pl/xgemius.js';
+s.parentNode.insertBefore(gt, s);
+} catch (e) {}
+})(document, 'script');
+}
+
+function check_tcfapi_for_gemius() {
+if (typeof __tcfapi !== 'undefined') {
+go_gemius_hit();
+} else {
+setTimeout(check_tcfapi_for_gemius, 500);
+}
+}
+
+check_tcfapi_for_gemius();
+})();
+</script><script async src="//related.hu/js/v2/widget.js"></script><script async src="https://cdn.onthe.io/io.js/KHpjHYEHMxN4"></script>
+<script>
+window._io_config = window._io_config || {};
+window._io_config["0.2.0"] = window._io_config["0.2.0"] || [];
+
+(function() {
+var baseConfig = {
+site_skin: (window.innerWidth > 768 ? 'desktop' : 'mobile'),
+page_url: document.location.href,
+page_url_canonical: document.head.querySelector("[rel='canonical']").href,
+page_title: document.title,
+page_language: "hu"
+};
+
+baseConfig.custom_page_type = "Article page";
+baseConfig.page_type = "article";
+baseConfig.article_authors = ["Lendvai Zsolt"];
+baseConfig.article_categories = ["Jármű"];
+baseConfig.article_type = "longread";
+baseConfig.article_word_count = 193;
+baseConfig.article_publication_date = "Fri, 19 Jun 2026 03:07:16 +0200";
+baseConfig.article_layout = "default";
+
+window._io_config["0.2.0"].push(baseConfig);
+})();
+</script><!-- Facebook Pixel Code NEW -->
+<script>
+!function(f,b,e,v,n,t,s)
+{if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+n.queue=[];t=b.createElement(e);t.async=!0;
+t.src=v;s=b.getElementsByTagName(e)[0];
+s.parentNode.insertBefore(t,s)}(window,document,'script',
+'https://connect.facebook.net/en_US/fbevents.js');
+ fbq('init', '3740665832897239'); 
+fbq('track', 'PageView');
+</script>
+<noscript><img height="1" width="1" 
+src="https://www.facebook.com/tr?id=3740665832897239&ev=PageView
+&noscript=1"/>
+</noscript>
+<!-- End Facebook Pixel Code -->
+</body>
+</html>
