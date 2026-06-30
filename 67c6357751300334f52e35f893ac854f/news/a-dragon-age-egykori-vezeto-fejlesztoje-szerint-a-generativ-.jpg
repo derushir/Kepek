@@ -1,0 +1,1263 @@
+<!DOCTYPE html>  <html>
+
+<head>
+    <title>Esport1 - A Dragon Age veteránja szerint az AI maga a pestis</title>	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width">
+	<meta name="theme-color" content="#111111" />
+    <meta http-equiv="Content-Language" content="hu" />
+<meta name="robots" content="all" />
+<meta name="robots" content="index,follow" />
+<meta name="robots" content="max-image-preview:large" />
+<meta name="googlebot" content="all" />
+<meta name="googlebot" content="index, follow" />
+<meta name="msnbot" content="index, follow" />
+<meta name="apple-mobile-web-app-capable" content="yes" />
+<meta name="apple-mobile-web-app-status-bar-style" content="black" />
+<meta name="google-site-verification" content="fEo3H4d-3EMqwiCp65pjgiSUb5Q8Zqpg6yH2IPTWo3k" />
+<meta property="og:type" content="website" />
+<meta property="og:site_name" content="Esport1" />
+<meta property="og:title" content="A Dragon Age veteránja szerint az AI maga a pestis" />
+<meta property="og:description" content="Gaider nem technológiaellenes, de úgy látja, a jelenlegi formájában a generatív AI nem áll készen a komoly munkára." />
+<meta property="og:image:width" content="1200" />
+<meta property="og:image:height" content="630" />
+<meta property="og:image" content="https://esport1.hu/images/fb_share/6a4365eda75b2_6a4365eda756f-a-dragon-age-veteranja-szerint-az-ai-maga-a-pestis.jpg" />
+<meta property="og:url" content="https://esport1.hu/news/2026/06/30/gaming-a-dragon-age-veteranja-szerint-az-ai-maga-a-pestis-tzeus" />
+<meta name="description" content="David Gaider, a Dragon Age egykori írója szerint a generatív AI egy fertőző pestis a játékiparban. Tudj meg mindent a tech-hype mögötti igazságról és a fejlesztők aggályairól!" />
+<meta name="keywords" content="generatív mesterséges intelligencia, AI a játékiparban, David Gaider, Dragon Age író, játékfejlesztés, Summerfall Studios, mesterséges intelligencia kritikák, gaming ipar hírek, AI etika, tech hype játékok" />    <link href="/assets/desktop/css/all.css?v3.0066" media="screen" rel="stylesheet" type="text/css" />
+<link href="https://esport1.hu/news/2026/06/30/gaming-a-dragon-age-veteranja-szerint-az-ai-maga-a-pestis-tzeus" rel="canonical" />    
+    <link rel="alternate" type="application/rss+xml" href="https://esport1.hu/rss" title="RSS Feed - Esport1 összes hír">
+    <link href="/assets/desktop/img/favicon.png" rel="apple-touch-startup-image">
+    <link href="/assets/desktop/img/favicon.png" rel="shortcut icon">
+   
+    <meta name="facebook-domain-verification" content="9pa5598isvdu0kwfi7s1742216dc12" />
+    <!--
+<style>
+#adp-layer-right-container {display:none !important;}
+#adp-layer-left-container {display:none !important;}
+#adp-layer-top-container {display:none !important;}
+.bottom-ad {display:none !important;}
+</style>
+-->
+
+
+    <!--[if lt IE 9]>
+   
+        <![endif]-->
+    <!--[if (gte IE 6)&(lte IE 8)]>
+            <script type="text/javascript" src="/assets/desktop/js/selectivizr-min.js"></script>
+        <![endif]-->
+    <!-- 
+        <script>
+            window.fbAsyncInit = function() {
+              FB.init({
+                appId      : '1779263728980368',
+                xfbml      : true,
+                version    : 'v2.6'
+              });
+            };
+
+            (function(d, s, id){
+               var js, fjs = d.getElementsByTagName(s)[0];
+               if (d.getElementById(id)) {return;}
+               js = d.createElement(s); js.id = id;
+               js.src = "//connect.facebook.net/en_US/sdk.js";
+               fjs.parentNode.insertBefore(js, fjs);
+             }(document, 'script', 'facebook-jssdk'));
+          </script> -->
+
+    <script>
+        (function(i, s, o, g, r, a, m) {
+            i['GoogleAnalyticsObject'] = r;
+            i[r] = i[r] || function() {
+                (i[r].q = i[r].q || []).push(arguments)
+            }, i[r].l = 1 * new Date();
+            a = s.createElement(o),
+                m = s.getElementsByTagName(o)[0];
+            a.async = 1;
+            a.src = g;
+            m.parentNode.insertBefore(a, m)
+        })(window, document, 'script', 'https://www.google-analytics.com/analytics.js', 'ga');
+
+        ga('create', 'UA-80489022-1', 'auto');
+        ga('send', 'pageview');
+    </script>
+    <script src='https://www.google.com/recaptcha/api.js'></script>
+    <!-- Facebook Pixel Code -->
+    <script>
+        ! function(f, b, e, v, n, t, s) {
+            if (f.fbq) return;
+            n = f.fbq = function() {
+                n.callMethod ?
+                    n.callMethod.apply(n, arguments) : n.queue.push(arguments)
+            };
+            if (!f._fbq) f._fbq = n;
+            n.push = n;
+            n.loaded = !0;
+            n.version = '2.0';
+            n.queue = [];
+            t = b.createElement(e);
+            t.async = !0;
+            t.src = v;
+            s = b.getElementsByTagName(e)[0];
+            s.parentNode.insertBefore(t, s)
+        }(window, document, 'script',
+            'https://connect.facebook.net/en_US/fbevents.js');
+        fbq('init', '848475978846545');
+        fbq('track', 'PageView');
+    </script>
+    <noscript>
+        <img height="1" width="1" src="https://www.facebook.com/tr?id=848475978846545&ev=PageView&noscript=1" />
+    </noscript>
+    <!-- <script async src="//paslsa.com/c/esport1.js"></script> -->
+    <!-- <script async src="//pahtbt.tech/c/esport1.js"></script> -->
+    <!-- End Facebook Pixel Code -->
+
+    <script>
+        var breaking = false    </script>
+
+	
+    
+<script type="application/javascript" async>var debugVersion=Date.now();const admeLocalQueryString=window.location.search,admeLocalUrlParams=new URLSearchParams(admeLocalQueryString),admeLocalDebug=admeLocalUrlParams.has("admeDebug"),admeUrl="https://link.adaptivemedia.hu/adme-v2/bundle",admeLink=admeLocalDebug?admeUrl+".js?v="+debugVersion:admeUrl+".min.js",admeElement=document.createElement("script");admeElement.src=admeLink,admeElement.async=true,document.head.appendChild(admeElement),admeElement.onload=()=>{console.log("admeJs loaded")},admeElement.onerror=()=>{console.log("admeJs cannot be loaded")};</script>
+    <!-- <script>
+        function getMonday(d) {
+            d = new Date(d);
+            var day = d.getDay(),
+                diff = d.getDate() - day + (day == 0 ? -6 : 1);
+            return new Date(d.setDate(diff));
+        }
+
+
+        var version = getMonday(new Date()).toISOString().slice(0, 10).replaceAll("-", "");
+
+        const admeLocalQueryString = window.location.search;
+        const admeLocalUrlParams = new URLSearchParams(admeLocalQueryString);
+        const admeLocalDebug = admeLocalUrlParams.has('admeDebug');
+
+        if (admeLocalDebug) {
+            document.write("<script type=\"text/javascript\" src=\"https://link.adaptivemedia.hu/adme/extra/adme-core-async-general.js?v=" + version + "\"><\/script>");
+        } else {
+            document.write("<script type=\"text/javascript\" src=\"https://link.adaptivemedia.hu/adme/extra/adme-core-async-general.min.js?v=" + version + "\"><\/script>");
+        }
+    </script> -->
+    
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-TC4ZKHW');</script>
+<!-- End Google Tag Manager -->
+<!-- <script>
+!function (w, d, t) {
+  w.TiktokAnalyticsObject=t;var ttq=w[t]=w[t]||[];ttq.methods=["page","track","identify","instances","debug","on","off","once","ready","alias","group","enableCookie","disableCookie"],ttq.setAndDefer=function(t,e){t[e]=function(){t.push([e].concat(Array.prototype.slice.call(arguments,0)))}};for(var i=0;i<ttq.methods.length;i++)ttq.setAndDefer(ttq,ttq.methods[i]);ttq.instance=function(t){for(var e=ttq._i[t]||[],n=0;n<ttq.methods.length;n++)ttq.setAndDefer(e,ttq.methods[n]);return e},ttq.load=function(e,n){var i="https://analytics.tiktok.com/i18n/pixel/events.js";ttq._i=ttq._i||{},ttq._i[e]=[],ttq._i[e]._u=i,ttq._t=ttq._t||{},ttq._t[e]=+new Date,ttq._o=ttq._o||{},ttq._o[e]=n||{};var o=document.createElement("script");o.type="text/javascript",o.async=!0,o.src=i+"?sdkid="+e+"&lib="+t;var a=document.getElementsByTagName("script")[0];a.parentNode.insertBefore(o,a)};
+
+  ttq.load('CH5PPPBC77U2I5R8K8DG');
+  ttq.page();
+}(window, document, 'ttq');
+</script>   -->
+ 
+ 
+
+
+</head>
+
+<body>
+<div id="adp-layer-top-container"></div>
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-TC4ZKHW"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+<!-- (c) 2000-2026 Gemius SA version 2.0 Impressions: campaign: NLM SZRT Lutri 2026, placement: /Village Media/gamekapocs.hu/kapubanner , creative: link_kapu  -->
+<IMG SRC="https://gdehu.hit.gemius.pl/_[TIMESTAMP]/redot.gif?id=p32V9rNtCWkuuhHFYdwjFZXkHdwpLPrHjup_zPf2a3n.77/fastid=esardpjkaenmehepvhgljmxftnkb/stparam=rppkpmknwl/nc=0/gdpr=0/gdpr_consent=" />
+<a href="https://gdehu.hit.gemius.pl/hitredir/id=p32V9rNtCWkuuhHFYdwjFZXkHdwpLPrHjup_zPf2a3n.77/fastid=hfkgniogtceeowggpmpzruqyrnmi/stparam=lbohgxngwf/nc=0/gdpr=0/gdpr_consent=/url=https://bet.szerencsejatek.hu/jatekok/lutri/leiras?utm_source=mediavasarlas1401_gamekapocs.hu&utm_content=SzRT_Lutri_KAPUBANNER&utm_medium=kapubanner&utm_campaign=2026-lutri">
+
+
+    <div class="bg-drop"></div>
+    </a>
+
+    <div class="main" style="max-width: 1090px;">
+        <div class="wrapper">
+            <header class="slotHeader">
+                <div class="d-flex" style="align-items: center;">
+                    <a href="/">
+                        <img src="/assets/desktop/img/logo-e1hu.png" alt="" class="main-logo">
+                    </a>
+
+                    <div class="theme-switch-wrapper">
+                        <label class="theme-switch" for="checkbox">
+                            <input type="checkbox" id="checkbox" />
+                            <div class="slider round"></div>
+                        </label>
+                    </div>
+                    <div class="d-flex darkmode-icon">
+                        <svg width="18" height="18" viewBox="0 0 11 11" fill="none" xmlns="http://www.w3.org/2000/svg">
+                            <path d="M0.65625 5.25C0.65625 7.92578 2.82422 10.0938 5.5 10.0938C8.15625 10.0938 10.3438 7.92578 10.3438 5.25C10.3438 2.59375 8.15625 0.40625 5.5 0.40625C2.82422 0.40625 0.65625 2.59375 0.65625 5.25ZM5.5 8.84375V1.65625C7.47266 1.65625 9.09375 3.27734 9.09375 5.25C9.09375 7.24219 7.47266 8.84375 5.5 8.84375Z" fill="white" />
+                        </svg>
+                    </div>
+                </div>
+                <div class="header-right">
+
+                    <div class="desktop-nav-holder">
+                        <div class="desktop-nav">
+                        <div class="item">
+                <a href="https://www.youtube.com/channel/UC63OM61f7lc2tUtYHleNAnA" target="_blank">
+                <div class="icon-holder">
+                <svg width="25" height="21" viewBox="0 0 25 21" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
+                        <path d="M23.8,4.8C23.5,3.8 22.7,3 21.7,2.7C19.9,2.2 12.5,2.2 12.5,2.2C12.5,2.2 5.1,2.2 3.3,2.7C2.3,3 1.5,3.8 1.2,4.8C0.7,6.6 0.7,10.5 0.7,10.5C0.7,10.5 0.7,14.3 1.2,16.2C1.5,17.2 2.3,18 3.3,18.3C5.1,18.8 12.5,18.8 12.5,18.8C12.5,18.8 19.9,18.8 21.7,18.3C22.7,18 23.5,17.2 23.8,16.2C24.3,14.4 24.3,10.5 24.3,10.5C24.3,10.5 24.3,6.7 23.8,4.8ZM10.2,14L10.2,7L16.3,10.5L10.2,14Z" style="fill:rgb(225,225,225);fill-rule:nonzero;"/>
+                </svg>
+
+                </div>
+                <b>Videó</b>
+                </a>
+            </div>
+
+                            <div class="item">
+                                <a href="/e1tv">
+                                                            <div class="icon-holder">
+                                    <svg width="25" height="21" viewBox="0 0 25 21" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                        <path d="M23.125 0.5H1.875C0.820312 0.5 0 1.35938 0 2.375V14.875C0 15.9297 0.820312 16.75 1.875 16.75H11.25V18H4.375C4.02344 18 3.75 18.3125 3.75 18.625V19.875C3.75 20.2266 4.02344 20.5 4.375 20.5H20.625C20.9375 20.5 21.25 20.2266 21.25 19.875V18.625C21.25 18.3125 20.9375 18 20.625 18H13.75V16.75H23.125C24.1406 16.75 25 15.9297 25 14.875V2.375C25 1.35938 24.1406 0.5 23.125 0.5ZM22.5 14.25H2.5V3H22.5V14.25Z" fill="#E1E1E1" />
+                                    </svg>
+                                </div>
+                                                       
+                                <b>E1TV</b>
+                                </a>
+                            </div>
+
+                            <div class="item">
+                                <a href="/market">
+                                    <div class="icon-holder">
+                                        <svg width="28" height="24" viewBox="0 0 28 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                            <path d="M24.75 14.1562L26.9531 4.40625C27.0938 3.70312 26.5781 3 25.8281 3H7.45312L7.03125 0.9375C6.89062 0.421875 6.42188 0 5.90625 0H1.125C0.46875 0 0 0.515625 0 1.125V1.875C0 2.53125 0.46875 3 1.125 3H4.35938L7.6875 19.125C6.89062 19.5938 6.375 20.4375 6.375 21.375C6.375 22.8281 7.54688 24 9 24C10.4062 24 11.625 22.8281 11.625 21.375C11.625 20.6719 11.2969 20.0156 10.8281 19.5H20.625C20.1562 20.0156 19.875 20.6719 19.875 21.375C19.875 22.8281 21.0469 24 22.5 24C23.9062 24 25.125 22.8281 25.125 21.375C25.125 20.3438 24.5156 19.4531 23.625 19.0312L23.8594 17.9062C24.0469 17.2031 23.4844 16.5 22.7812 16.5H10.2188L9.89062 15H23.625C24.1406 15 24.6094 14.6719 24.75 14.1562Z" fill="white" />
+                                        </svg>
+
+                                    </div>
+                                    <b>PIAC</b>
+                                </a>
+                            </div>
+
+
+
+
+                                                            <div class="item">
+                                    <a href="/user/login">
+                                        <div class="icon-holder avatar-holder">
+                                            <img src="/images/e1_avatar.jpg">
+                                        </div>
+                                        <b>Belépés</b>
+                                    </a>
+                                </div>
+                            
+
+
+                            <div class="item">
+                                <div class="icon-holder">
+                                    <div class="menu-bar">
+                                        <button class="openX" id="main-menu-btn">
+                                            <span class="icon-bar"></span>
+                                            <span class="icon-bar"></span>
+                                            <span class="icon-bar"></span>
+                                        </button>
+                                    </div>
+
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                            </header>
+
+            <div class="main-content">
+                <div class="row">
+                    <div class="col-md-12">
+                                            </div>
+                </div>
+
+                <!--- CLS -->
+                <div class="cls-header-1 slotLeaderboard">
+
+                </div>
+
+                <script type="application/ld+json">
+{
+    "@context": "https://schema.org",
+    "@type": "NewsArticle",
+    "inLanguage": "hu",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://esport1.hu/news/2026/06/30/gaming-a-dragon-age-veteranja-szerint-az-ai-maga-a-pestis-tzeus"
+    },
+    "headline": "A Dragon Age veteránja szerint az AI maga a pestis",
+    "image": "https://esport1.hu/images/6a4365ed80525_6a4365ed804da-a-dragon-age-veteranja-szerint-az-ai-maga-a-pestis.jpg",
+    "datePublished": "2026-06-30T10:00:00",                
+    "author": {
+        "@type": "Person",
+        "name": "TZeus"
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Esport1",
+        "url": "https://esport1.hu",
+        "logo": {
+            "@type": "ImageObject",
+            "url": "https://esport1.hu/assets/desktop/img/favicon.png",
+            "width": 100,
+            "height": 100
+        }
+    },
+    "description": "David Gaider, a Dragon Age egykori írója szerint a generatív AI egy fertőző pestis a játékiparban. Tudj meg mindent a tech-hype mögötti igazságról és a fejlesztők aggályairól!",        
+    "keywords": "generatív mesterséges intelligencia, AI a játékiparban, David Gaider, Dragon Age író, játékfejlesztés, Summerfall Studios, mesterséges intelligencia kritikák, gaming ipar hírek, AI etika, tech hype játékok"        
+}
+</script>
+
+<script type="application/bannerData" id="adData">
+{
+    "url"         : "/news/2026/06/30/gaming-a-dragon-age-veteranja-szerint-az-ai-maga-a-pestis-tzeus",
+    "uid"         : "69611",
+    "pageType"    : "article",
+    "keywords"    : ["generatív mesterséges intelligencia","AI a játékiparban","David Gaider","Dragon Age író","játékfejlesztés","Summerfall Studios","mesterséges intelligencia kritikák","gaming ipar hírek","AI etika","tech hype játékok"],
+    "category"    : "13",
+    "adult"        : 0,
+    "gSens"        : 0,
+    "noads"        : 0,
+    "extraData"    : []
+}
+</script>
+
+
+<div class="row main-col-holder">
+
+
+
+
+<div class="main-col-left">
+
+    <div class="article-page article-holder" data-game="13" data-article="69611">
+        <!-- TOP -->
+
+        <section class="content">
+            <article>
+                <header>
+                    <!-- TOP ARTICLE -->
+                    <img src="/images/6a4365ed80525_6a4365ed804da-a-dragon-age-veteranja-szerint-az-ai-maga-a-pestis.jpg" alt="A Dragon Age veteránja szerint az AI maga a pestis"  title="A Dragon Age veteránja szerint az AI maga a pestis" class="w100 article-main-image">
+                    <div class="title-holder">
+                        <h1>A Dragon Age veteránja szerint az AI maga a pestis</h1>
+                    </div>
+                </header>
+
+                <div class="article-content slotArticle">
+                    <p><strong>Gaider nem technol&oacute;giaellenes, de &uacute;gy l&aacute;tja, a jelenlegi form&aacute;j&aacute;ban a generat&iacute;v AI nem &aacute;ll k&eacute;szen a komoly munk&aacute;ra.</strong></p>
+                    
+
+                    
+
+                    <p>Azt vallja, hogy am&iacute;g nincsenek szigor&uacute; szab&aacute;lyoz&aacute;sok, am&iacute;g nem tiszta a forr&aacute;sk&oacute;d, &eacute;s am&iacute;g a menedzsment olcs&oacute; rabszolgak&eacute;nt tekint erre a techre, addig olyan, mint a pestis. Ha pedig a fantasy RPG-k vil&aacute;g&aacute;r&oacute;l van sz&oacute;, David Gaider szava aranyat &eacute;r. <a href="https://esport1.hu/news/2025/08/12/gaming-mass-effect-5-dragon-age-the-veilguard-hibaztatasa-mentheti-meg-a-fejlesztocsapatat-tbr" target="_blank"><strong>A Dragon Age sz&eacute;ria</strong></a> egykori vezető narrat&iacute;v tervezője (aki ma m&aacute;r a Summerfall Studios t&aacute;rsalap&iacute;t&oacute;ja) nem &eacute;ppen a diplomatikus megfogalmaz&aacute;sair&oacute;l h&iacute;res, ha a szakma j&ouml;vőj&eacute;ről van sz&oacute;. A legut&oacute;bbi interj&uacute;j&aacute;ban pedig olyan szinten p&aacute;ros l&aacute;bbal sz&aacute;llt bele a generat&iacute;v mesters&eacute;ges intelligenci&aacute;ba (AI), hogy a fal adta a m&aacute;sikat. Szerinte ugyanis az eg&eacute;sz tech-hype m&ouml;g&ouml;tt semmi m&aacute;s nincs, mint a sp&oacute;rolni akar&oacute; st&uacute;di&oacute;vezetők v&aacute;gy&aacute;lma.</p>
+<h3>Ellopott adatokb&oacute;l nem lesz forradalom</h3>
+<p>Gaider r&ouml;gt&ouml;n a mor&aacute;lis &eacute;s jogi k&eacute;rd&eacute;sekkel ind&iacute;t, amiket a legt&ouml;bb nagy tech-c&eacute;g szeret a szőnyeg al&aacute; seperni. A generat&iacute;v AI-modelleket ugyanis &oacute;ri&aacute;si mennyis&eacute;gű, internetről &ouml;sszehar&aacute;csolt adatokkal tan&iacute;tj&aacute;k be &ndash; gyakran az eredeti alkot&oacute;k enged&eacute;lye vagy tudta n&eacute;lk&uuml;l.</p>
+<blockquote>
+<p><em>&bdquo;Az az &eacute;rv, hogy 'ha nem lophatunk el b&aacute;rmit, amire sz&uuml;ks&eacute;g&uuml;nk van, akkor az AI nem fog j&oacute;l műk&ouml;dni', finoman sz&oacute;lva sem t&uacute;l meggyőző&rdquo; &ndash; nyilatkozta Gaider.</em></p>
+</blockquote>
+<p>Szerinte ez a fajta "adat-kal&oacute;zkod&aacute;s" a j&ouml;vőben olyan jogi lavin&aacute;t ind&iacute;that el, ami az eg&eacute;szet haszn&aacute;lhatatlann&aacute; teszi.</p>
+<div class="iframely-embed">
+<div class="iframely-responsive" style="height: 140px; padding-bottom: 0;"><a href="https://esport1.hu/news/2025/01/23/gaming-a-dragon-age-the-veilguard-bukasa-az-ea-teljes-penzugyi-evere-ranyomja-a-belyeget-weka" data-iframely-url="https://iframely.net/XNBR8Am?card=small&amp;theme=dark"></a></div>
+</div>
+<p>
+<script async="" src="https://iframely.net/embed.js"></script>
+</p>
+<h3>A csapda</h3>
+<p>Sokan azzal v&eacute;dekeznek, hogy az AI remek eszk&ouml;z az &ouml;tletel&eacute;shez, &eacute;s a v&eacute;gleges j&aacute;t&eacute;kba &uacute;gysem ker&uuml;l be belőle semmi. Gaider szerint ez naivit&aacute;s. El&eacute;g egyetlen lusta fejlesztő, egy ottfelejtett ideiglenes (placeholder) elem, vagy egy koll&eacute;ga, aki az&oacute;ta kil&eacute;pett a c&eacute;gtől, &eacute;s a st&uacute;di&oacute; m&aacute;ris nyakig &uuml;l a p&aacute;cban egy jogv&eacute;dett vagy hib&aacute;s AI-asset miatt &ndash; &eacute;s l&aacute;ssuk be, l&aacute;ttunk m&aacute;r erre p&eacute;ld&aacute;t az ut&oacute;bbi időben.</p>
+<h3>Mi&eacute;rt takar&iacute;tsunk egy lusta robot ut&aacute;n?</h3>
+<p>A veter&aacute;n fejlesztő szerint a legnagyobb probl&eacute;ma a logik&aacute;val van. Az AI-nak elvileg az unalmas, repetit&iacute;v mel&oacute;t kellene elv&eacute;geznie, hogy az embernek maradjon ideje a kreativit&aacute;sra. Ezzel szemben most azt l&aacute;tjuk, hogy az AI-ra b&iacute;zz&aacute;k m&eacute;g a fontos dolgokat (&iacute;r&aacute;st, diz&aacute;jnt) is, az ember meg ott &uuml;l mellette csicskak&eacute;nt, hogy jav&iacute;tsa a g&eacute;p hib&aacute;it.</p>
+<blockquote>
+<p><em>&bdquo;Narrat&iacute;v diz&aacute;jnerk&eacute;nt t&ouml;lt&ouml;tt &eacute;veim alatt egyszer sem tal&aacute;lkoztam olyan helyzettel, ahol egy pocs&eacute;k minős&eacute;gű anyag szerkesztget&eacute;se kevesebb időt vett volna ig&eacute;nybe, mintha az eg&eacute;szet kidobtuk volna a kuk&aacute;ba, &eacute;s &uacute;jrakezdt&uuml;k volna a null&aacute;r&oacute;l&rdquo; &ndash; magyar&aacute;zza.</em></p>
+</blockquote>
+<p>R&aacute;ad&aacute;sul ha a bel&eacute;pő szintű feladatokat kiszervezz&uuml;k a g&eacute;peknek, hogyan fog felnőni a fejlesztők k&ouml;vetkező gener&aacute;ci&oacute;ja? Ha nincs apr&oacute;munka, amivel a juniorok tanulhatnak &eacute;s fejlődhetnek, nem lesznek j&ouml;vőbeli szeniorok sem.</p>
+<h3>A l&eacute;lektelen diz&aacute;jn</h3>
+<p>A generat&iacute;v AI r&aacute;ad&aacute;sul pont a l&eacute;nyegre k&eacute;ptelen, vagyis az iter&aacute;ci&oacute;ra. Nem tudod neki azt mondani, hogy "figyelj, ezen a karakteren finom&iacute;ts egy kicsit az orr&aacute;n&aacute;l, de a t&ouml;bbi maradjon ugyanaz", mert a k&ouml;vetkező gener&aacute;l&aacute;sn&aacute;l egy teljesen m&aacute;s k&eacute;pet kapsz. Ugyanez igaz a k&oacute;dol&aacute;sra is. Hogy lehet debugolni egy olyan k&oacute;dot, amit &eacute;rz&eacute;sre &ouml;sszeoll&oacute;zott AI-k&oacute;ddal (vibe-coding) dobtak &ouml;ssze? Mi &eacute;rtelme van egy AI-protot&iacute;pusnak, ha a csapatb&oacute;l k&ouml;zben senki sem tanulta meg, hogyan kell val&oacute;j&aacute;ban fel&eacute;p&iacute;teni a j&aacute;t&eacute;kot?</p>
+<p><em>Bor&iacute;t&oacute;k&eacute;p: Steam</em></p>
+<p><h3>Ezeket olvastad már?</h3>
+    <div class="tabola-holder recommend-tabola">
+                        <article>
+                    <header>
+                        <a href="/news/2026/06/30/gaming-elkepeszto-arcedulat-kaphat-a-playstation-6-tzeus" class="article-image-list-holder" target="_blank">
+                            <div class="w100 article-image-list" >
+                                <img loading="lazy" src="/images/6a43852c9fe3d_6a43852c9fdf5-elkepeszto-arcedulat-kaphat-a-playstation-6.jpg" alt="">
+                            </div>
+                        </a>
+                        <div class="">
+                            <a href="/news/2026/06/30/gaming-elkepeszto-arcedulat-kaphat-a-playstation-6-tzeus" target="_blank">
+                                <h3>Elképesztő árcédulát kaphat a PlayStation 6</h3>
+                            </a>
+                        </div>
+                    </header>
+                </article>
+                        <article>
+                    <header>
+                        <a href="/news/2026/06/30/gaming-a-double-fine-a-ninja-theory-es-a-compulsion-games-mellett-az-undead-labst-is-beszanthatja-az-xbox-state-of-decay-3-microsoft-asha-sharma-bethesda-blizzard-activision-leecobo" class="article-image-list-holder" target="_blank">
+                            <div class="w100 article-image-list" >
+                                <img loading="lazy" src="/images/6a4377b84be5c_6a4377b84be17-a-state-of-decay-3-at-fejleszto-undead-labsre-is-lesujthat-az-xbox-kaszaja.jpg" alt="">
+                            </div>
+                        </a>
+                        <div class="">
+                            <a href="/news/2026/06/30/gaming-a-double-fine-a-ninja-theory-es-a-compulsion-games-mellett-az-undead-labst-is-beszanthatja-az-xbox-state-of-decay-3-microsoft-asha-sharma-bethesda-blizzard-activision-leecobo" target="_blank">
+                                <h3>A State of Decay 3-at fejlesztő Undead Labsre is lesújthat az Xbox kaszája</h3>
+                            </a>
+                        </div>
+                    </header>
+                </article>
+                        <article>
+                    <header>
+                        <a href="/news/2026/06/30/tech-nem-a-kijelzovel-fog-levenni-minket-a-labarol-az-iphone-18e-tbr" class="article-image-list-holder" target="_blank">
+                            <div class="w100 article-image-list" >
+                                <img loading="lazy" src="/images/6a437047ce883_6a437047ce83c-nem-a-kijelzojevel-fog-levenni-minket-a-labarol-az-iphone-18e.jpg" alt="">
+                            </div>
+                        </a>
+                        <div class="">
+                            <a href="/news/2026/06/30/tech-nem-a-kijelzovel-fog-levenni-minket-a-labarol-az-iphone-18e-tbr" target="_blank">
+                                <h3>Nem a kijelzőjével fog levenni minket a lábáról az iPhone 18e</h3>
+                            </a>
+                        </div>
+                    </header>
+                </article>
+            </div>
+</p>                </div>
+
+
+                
+
+                
+                
+                
+                <span class="article-info">
+                                                    <img src="/images/avatar/57875e23076a6_57875e23075b7-tzeus.jpg" class="avatar pull-left" />
+                                                                            TZeus                        
+                        
+                                                    <!-- <div class="savepost pull-right" attr-link=""><i class="fa fa-save"></i> Cikk mentése</div> -->
+                        
+                        <br>
+                        26/06/30  10:00
+                    </span>
+
+                <h4>Kövess Minket!</h4>
+                <div class="social">
+                    <a href="https://www.facebook.com/esport1.gg" target="_blank">
+                        <div>
+                            <img src="/assets/desktop/img/social_v3/facebook.png" class="social-icon" alt="" loading="lazy">
+                        </div>
+                    </a>
+                    <a href="https://www.instagram.com/esport1/" target="_blank">
+                        <div>
+                            <img src="/assets/desktop/img/social_v3/instagram.png" class="social-icon" alt="" loading="lazy" >
+                        </div>
+                    </a>
+                    <a href="https://www.youtube.com/channel/UC63OM61f7lc2tUtYHleNAnA" target="_blank">
+                        <div>
+                            <img src="/assets/desktop/img/social_v3/youtube.png" class="social-icon" alt=""  loading="lazy">
+                        </div>
+                    </a>
+                    <a href="https://www.tiktok.com/@esport1.hu" target="_blank">
+                        <div>
+                            <img src="/assets/desktop/img/social_v3/tiktok.png" class="social-icon" alt=""  loading="lazy">
+                        </div>
+
+                    </a>
+                </div>
+
+                <br>
+
+                <span class="tags-holder">
+                    <div class="video-tags">
+                                                    <a href="/news/ai">#ai</a>
+                                                    <a href="/news/gaming">#gaming</a>
+                                            </div>
+                </span>
+                <br>
+
+                                    <span class="tags-holder">
+                        <h2>Gamer szótár</h2>
+                        <div class="video-tags">
+                                                            <a href="/dictionary/botok" style="padding: 10px 20px; font-size:14px;">Botok</a>
+                                                            <a href="/dictionary/lan" style="padding: 10px 20px; font-size:14px;">LAN</a>
+                                                            <a href="/dictionary/overpowered-(op)" style="padding: 10px 20px; font-size:14px;">Overpowered (OP)</a>
+                                                            <a href="/dictionary/role-playing-game--(rpg)" style="padding: 10px 20px; font-size:14px;">Role-Playing Game  (RPG)</a>
+                                                    </div>
+                    </span>
+                    <br>
+                
+            </article>
+
+            
+                        
+<div class="article-reaction-holder">
+    
+<button class="reaction-btn" data-type="1" data-article="69611"   >
+        <span class="raction-normal like" ></span>    
+        <span class="rection-counter reaction_like"  >2</span>
+        </button>
+<button class="reaction-btn" data-type="2" data-article="69611"   >
+        <span class="raction-normal angry" ></span>    
+        <span class="rection-counter reaction_angry"  >0</span>
+        </button>
+<button class="reaction-btn" data-type="3" data-article="69611"   >
+        <span class="raction-normal love" ></span>    
+        <span class="rection-counter reaction_love"  >0</span>
+        </button>
+<button class="reaction-btn" data-type="4" data-article="69611"   >
+        <span class="raction-normal happy" ></span>    
+        <span class="rection-counter reaction_happy"  >0</span>
+        </button>
+<button class="reaction-btn" data-type="5" data-article="69611"   >
+        <span class="raction-normal sad" ></span>    
+        <span class="rection-counter reaction_sad"  >0</span>
+        </button>
+<button class="reaction-btn" data-type="6" data-article="69611"   >
+        <span class="raction-normal surprise" ></span>    
+        <span class="rection-counter reaction_surprise"  >0</span>
+        </button>
+</div>
+
+
+            <footer style="float:left;width:100%; padding-top:20px;" class="slotSelfContent">
+
+
+
+                                <!-- <div class="share jssocials"></div>  -->
+
+                <!-- new tabola -->
+                                    <h3>Partnereink ajánlata</h3>
+
+                    <div class="tabola-holder">
+                                                        <article>
+                                    <header>
+                                        <a href="https://www.origo.hu/techbazis/2025/08/esport-bajnoksag-telekom-playit-t-esports-championship?utm_source=esport1&utm_medium=referral&utm_campaign=ott_esport101" class="article-image-list-holder" target="_blank">
+                                       
+                                            <img  class="w100 article-image-list" style="aspect-ratio: 16 / 9;object-fit: cover;" src="https://cdn.origo.hu/2025/08/Q3gmQY0D4Pn_B3UjAd_FsqpcDkQrya6LaGJmlP4K-JA/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50LzhhODhmMjhiNjkwMTQxOGViZTdhOTQ4MmMwZGE5NjQw.webp" alt="" loading="lazy">                                        
+
+                                        </a>
+                                        <div class="">
+                                            <a href="https://www.origo.hu/techbazis/2025/08/esport-bajnoksag-telekom-playit-t-esports-championship?utm_source=esport1&utm_medium=referral&utm_campaign=ott_esport101" target="_blank">
+                                                <h3>Most tényleg megéri órákig a gép előtt ülni – mutatjuk, miért</h3>
+                                            </a>
+                                        </div>
+                                    </header>
+                                </article>
+                                                                                    <article>
+                                    <header>
+                                        <a href="https://www.origo.hu/sport/sport-egyeni/2025/08/alica-schmidt-nehez-dontest-hozpott-szunetet-tart?utm_source=esport1&utm_medium=referral&utm_campaign=ott_esport102" class="article-image-list-holder" target="_blank">
+                                       
+                                            <img  class="w100 article-image-list" style="aspect-ratio: 16 / 9;object-fit: cover;" src="https://cdn.origo.hu/2025/08/TSlXSxSu-_Qb7r5uLqxH36G4Wx6mOsqkjbNVNzgj3hc/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50LzNiYWRjMDA5NWNkNjQxMTQ4ZGQ5ZjM5MTFiMGQ2NjVj.webp" alt="" loading="lazy">                                        
+
+                                        </a>
+                                        <div class="">
+                                            <a href="https://www.origo.hu/sport/sport-egyeni/2025/08/alica-schmidt-nehez-dontest-hozpott-szunetet-tart?utm_source=esport1&utm_medium=referral&utm_campaign=ott_esport102" target="_blank">
+                                                <h3>Elszomorította a rajongókat a világ legszexisebb sportolónője</h3>
+                                            </a>
+                                        </div>
+                                    </header>
+                                </article>
+                                                                                    <article>
+                                    <header>
+                                        <a href="https://www.origo.hu/techbazis/2025/08/samsung-micro-rgb-panel-luxusteve?utm_source=esport1&utm_medium=referral&utm_campaign=ott_esport103" class="article-image-list-holder" target="_blank">
+                                       
+                                            <img  class="w100 article-image-list" style="aspect-ratio: 16 / 9;object-fit: cover;" src="https://cdn.origo.hu/2025/08/7RrTez5AIAO4dgNFBnXXowGdXsn2FPN-VrS0P2O3CBE/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50L2JmYjQyNzgwN2I1MzQ4ZjI4MTllODE4M2UxYjY5MTdk.webp" alt="" loading="lazy">                                        
+
+                                        </a>
+                                        <div class="">
+                                            <a href="https://www.origo.hu/techbazis/2025/08/samsung-micro-rgb-panel-luxusteve?utm_source=esport1&utm_medium=referral&utm_campaign=ott_esport103" target="_blank">
+                                                <h3>Forradalmi tévékijelzőt talált fel a Samsung</h3>
+                                            </a>
+                                        </div>
+                                    </header>
+                                </article>
+                                                                                    <article>
+                                    <header>
+                                        <a href="https://www.origo.hu/filmklub/2025/08/zendaya-pokember-dune-odusszeia-euforia-shrek-drama?utm_source=esport1&utm_medium=referral&utm_campaign=ott_esport105" class="article-image-list-holder" target="_blank">
+                                       
+                                            <img  class="w100 article-image-list" style="aspect-ratio: 16 / 9;object-fit: cover;" src="https://cdn.origo.hu/2025/08/noiYhYL1bMP4cjHGFfi4_aPHDLHox6-sAphvhc_S64s/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50Lzk4YzA5MWNhNDIzNTRkMDRiYWZjZDc0MjAyNGY0MDNh.webp" alt="" loading="lazy">                                        
+
+                                        </a>
+                                        <div class="">
+                                            <a href="https://www.origo.hu/filmklub/2025/08/zendaya-pokember-dune-odusszeia-euforia-shrek-drama?utm_source=esport1&utm_medium=referral&utm_campaign=ott_esport105" target="_blank">
+                                                <h3>Zendaya éve lesz 2026: 5+1 film, amiben a színésznőt láthatjuk jövőre</h3>
+                                            </a>
+                                        </div>
+                                    </header>
+                                </article>
+                                                                                    <article>
+                                    <header>
+                                        <a href="https://www.borsonline.hu/foci/2025/08/cristiano-ronaldo-velemeny-gyokeres-viktor?utm_source=esport1&utm_medium=referral&utm_campaign=ott_esport110" class="article-image-list-holder" target="_blank">
+                                       
+                                            <img  class="w100 article-image-list" style="aspect-ratio: 16 / 9;object-fit: cover;" src="https://cdn.borsonline.hu/2025/03/0WtHMtcoNtJ9NfC0JS8PKAaapsP7NdQ1-3iUTmBnaTg/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50L2FjYThhNDkxYjMxODQ5NDViOWFjMmMxMzJlOGU2NjU5.webp" alt="" loading="lazy">                                        
+
+                                        </a>
+                                        <div class="">
+                                            <a href="https://www.borsonline.hu/foci/2025/08/cristiano-ronaldo-velemeny-gyokeres-viktor?utm_source=esport1&utm_medium=referral&utm_campaign=ott_esport110" target="_blank">
+                                                <h3>Cristiano Ronaldónak megvan a véleménye a magyar focistáról</h3>
+                                            </a>
+                                        </div>
+                                    </header>
+                                </article>
+                                                                                    <article>
+                                    <header>
+                                        <a href="https://ripost.hu/tuzeloallas/2025/08/liverpool-isak-sztrajk-van-dijk?utm_source=esport1&utm_medium=referral&utm_campaign=ott_esport111" class="article-image-list-holder" target="_blank">
+                                       
+                                            <img  class="w100 article-image-list" style="aspect-ratio: 16 / 9;object-fit: cover;" src="https://cdn.ripost.hu/2025/08/4dCUd82XJJcvQu4z7zxR_dZrJG9U1oz9jOGEtLvVNrk/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50LzQzODkyMTkzNDEzYjRjNjE5YTJlZmM3MTFmMmE1ZjFk.jpg" alt="" loading="lazy">                                        
+
+                                        </a>
+                                        <div class="">
+                                            <a href="https://ripost.hu/tuzeloallas/2025/08/liverpool-isak-sztrajk-van-dijk?utm_source=esport1&utm_medium=referral&utm_campaign=ott_esport111" target="_blank">
+                                                <h3>Áll a bál a Liverpool körül, Szoboszlaiéknál sztrájkról szólnak a hírek</h3>
+                                            </a>
+                                        </div>
+                                    </header>
+                                </article>
+                                                                        </div>
+                
+                <!-- Gamestar Tabola -->
+                                    <h3>Gamestar</h3>
+
+                    <div class="tabola-holder">
+                                                        <article>
+                                    <header>
+                                        <a href="https://www.pcwplus.hu/pcwlite/egy-zuckerberget-gunyolo-polo-ami-tobbet-hozott-a-blueskynak-mint-ket-ev-uzleti-tevekenysege-364137.html" class="article-image-list-holder" target="_blank">
+                                            <img  class="w100 article-image-list" style="aspect-ratio: 16 / 9;object-fit: cover;" src="https://i.cdn29.hu/apix_collect_c/ngg_images/2503/21/jay_graber_125322_2_original_390x220_cover.jpg" alt="" loading="lazy">                                        
+                                        </a>
+                                        <div class="">
+                                            <a href="https://www.pcwplus.hu/pcwlite/egy-zuckerberget-gunyolo-polo-ami-tobbet-hozott-a-blueskynak-mint-ket-ev-uzleti-tevekenysege-364137.html" target="_blank">
+                                                <h3>Egy Zuckerberget gúnyoló póló, ami többet hozott a Blueskynak, mint két év üzleti tevékenysége</h3>
+                                            </a>
+                                        </div>
+                                    </header>
+                                </article>
+                                                                                    <article>
+                                    <header>
+                                        <a href="https://www.gsplus.hu/masvilag/jason-momoa-szerint-lobo-megjelenese-a-supergirlfilmben-hu-lesz-a-kepregenyekhez-364152.html" class="article-image-list-holder" target="_blank">
+                                            <img  class="w100 article-image-list" style="aspect-ratio: 16 / 9;object-fit: cover;" src="https://i.cdn29.hu/apix_collect_c/ngg_images/2503/21/lobo_195317_1_original_390x220_cover.jpg" alt="" loading="lazy">                                        
+                                        </a>
+                                        <div class="">
+                                            <a href="https://www.gsplus.hu/masvilag/jason-momoa-szerint-lobo-megjelenese-a-supergirlfilmben-hu-lesz-a-kepregenyekhez-364152.html" target="_blank">
+                                                <h3>Jason Momoa szerint Lobo megjelenése a Supergirl-filmben hű lesz a képregényekhez</h3>
+                                            </a>
+                                        </div>
+                                    </header>
+                                </article>
+                                                                                    <article>
+                                    <header>
+                                        <a href="https://www.gsplus.hu/hir/hatalmas-botrany-lett-az-ark-survival-evolved-bovitmenyenek-ai-elozetesebol-364151.html" class="article-image-list-holder" target="_blank">
+                                            <img  class="w100 article-image-list" style="aspect-ratio: 16 / 9;object-fit: cover;" src="https://i.cdn29.hu/apix_collect_c/ngg_images/2503/21/ark_aquatica_193720_1_original_390x220_cover.jpg" alt="" loading="lazy">                                        
+                                        </a>
+                                        <div class="">
+                                            <a href="https://www.gsplus.hu/hir/hatalmas-botrany-lett-az-ark-survival-evolved-bovitmenyenek-ai-elozetesebol-364151.html" target="_blank">
+                                                <h3>Hatalmas botrány lett az Ark: Survival Evolved bővítményének AI előzeteséből</h3>
+                                            </a>
+                                        </div>
+                                    </header>
+                                </article>
+                                                                        </div>
+                
+                
+
+
+                
+
+
+                    <div class="comments-holder slotComments">
+
+                                                <!-- Comments -->
+                        <ul class="comments">
+                            <!-- Comment Row -->
+                             
+    
+
+
+    <script>
+
+
+    </script>
+
+        
+                        </ul>
+                                                    <div class="clearfix"></div>
+                            <div class="new-comments" style="margin-top:10px;">
+                                <a href="/user/login?redirect=/news/2026/06/30/gaming-a-dragon-age-veteranja-szerint-az-ai-maga-a-pestis-tzeus">Lépj be</a>, ha hozzá akarsz szólni!
+                            </div>
+
+                                            </div>
+
+                
+                <!--<div class="fb-comments" data-href="https://esport1.hu/news/2026/06/30/gaming-a-dragon-age-veteranja-szerint-az-ai-maga-a-pestis-tzeus" data-numposts="5" width="100%"></div>-->
+            </footer>
+
+        </section>
+
+    </div>
+
+
+
+
+</div>
+
+
+<!-- right -->
+<div class="main-col-right">
+
+
+    <!--- Podcast --->
+    
+  
+
+
+    <div class="pull-left slotSingleColumn">
+        <div class="cls-right-1 slotHalfpage"></div>
+
+<div class="clear-fix"></div>
+     
+    <!-- <div class="col-sm-12 col-md-12">
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/SYPxaXL3s-o" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+        <small class="b-section-text">  Hirdetés <i class="fa fa-angle-up"></i></small>
+    </div> -->
+
+    <article class="article-list-item">
+                    <header>
+                        <div class="article-image-holder">       
+                        <a href="/news/2026/06/30/gaming-elkepeszto-arcedulat-kaphat-a-playstation-6-tzeus">                     
+                            <img loading="lazy"  src="/images/6a43852c9fe3d_6a43852c9fdf5-elkepeszto-arcedulat-kaphat-a-playstation-6.jpg" alt="Gaming - Elképesztő árcédulát kaphat a PlayStation 6" class="list-image"/>                                                                                                                                                                                                                     
+                                <div class="intro-raction-holder">
+                                                                           
+                                    
+                                                            
+                                                            
+                                                            
+                                    
+                                                                     
+                                </div>
+                      
+                            </a>
+                        </div>
+
+
+
+                        <div class="title-holder">
+                            <a href="/news/2026/06/30/gaming-elkepeszto-arcedulat-kaphat-a-playstation-6-tzeus">
+                                <h2>Elképesztő árcédulát kaphat a PlayStation 6</h2> 
+                            </a>
+
+                        </div>
+
+                    </header>
+                    <p>Mik&ouml;zben a legt&ouml;bb j&aacute;t&eacute;kos m&eacute;g mindig azon vitatkozik, hogy kell-e egy&aacute;ltal&aacute;n m&aacute;r az &uacute;j gener&aacute;ci&oacute; (spoiler: a t&ouml;bbs&eacute;g szerint nem), a sz&iacute;nfalak m&ouml;g&ouml;tt bizony m&aacute;r ezerrel matekoznak a fejesek.&nbsp;</p>
+                </article>
+
+    
+    
+
+
+    <article class="article-list-item">
+                    <header>
+                        <div class="article-image-holder">       
+                        <a href="/news/2026/06/30/gaming-a-double-fine-a-ninja-theory-es-a-compulsion-games-mellett-az-undead-labst-is-beszanthatja-az-xbox-state-of-decay-3-microsoft-asha-sharma-bethesda-blizzard-activision-leecobo">                     
+                            <img loading="lazy"  src="/images/6a4377b84be5c_6a4377b84be17-a-state-of-decay-3-at-fejleszto-undead-labsre-is-lesujthat-az-xbox-kaszaja.jpg" alt="Gaming - A State of Decay 3-at fejlesztő Undead Labsre is lesújthat az Xbox kaszája" class="list-image"/>                                                                                                                                                                                                                     
+                                <div class="intro-raction-holder">
+                                                                           
+                                                                            <span class="raction-small like"></span>        
+                                    
+                                                            
+                                                            
+                                                            
+                                    
+                                                                     
+                                </div>
+                      
+                            </a>
+                        </div>
+
+
+
+                        <div class="title-holder">
+                            <a href="/news/2026/06/30/gaming-a-double-fine-a-ninja-theory-es-a-compulsion-games-mellett-az-undead-labst-is-beszanthatja-az-xbox-state-of-decay-3-microsoft-asha-sharma-bethesda-blizzard-activision-leecobo">
+                                <h2>A State of Decay 3-at fejlesztő Undead Labsre is lesújthat az Xbox kaszája</h2> 
+                            </a>
+
+                        </div>
+
+                    </header>
+                    <p>Jason Schreier, a Bloomberg &uacute;js&aacute;g&iacute;r&oacute;ja j&uacute;liusra j&oacute;solta az Asha Sharma vezette Xbox &uacute;jabb le&eacute;p&iacute;t&eacute;si hull&aacute;m&aacute;t, amely t&ouml;bb &aacute;ldozatot k&ouml;vetelhet, mint azt kor&aacute;bban gondoltuk.</p>
+                </article>
+
+    
+    
+        
+    
+
+
+    <article class="article-list-item">
+                    <header>
+                        <div class="article-image-holder">       
+                        <a href="/news/2026/06/30/tech-nem-a-kijelzovel-fog-levenni-minket-a-labarol-az-iphone-18e-tbr">                     
+                            <img loading="lazy"  src="/images/6a437047ce883_6a437047ce83c-nem-a-kijelzojevel-fog-levenni-minket-a-labarol-az-iphone-18e.jpg" alt="Gaming - Nem a kijelzőjével fog levenni minket a lábáról az iPhone 18e" class="list-image"/>                                                                                                                                                                                                                     
+                                <div class="intro-raction-holder">
+                                                                           
+                                                                            <span class="raction-small like"></span>        
+                                    
+                                                            
+                                                            
+                                                                            <span class="raction-small happy"></span>        
+                                                            
+                                    
+                                                                     
+                                </div>
+                      
+                            </a>
+                        </div>
+
+
+
+                        <div class="title-holder">
+                            <a href="/news/2026/06/30/tech-nem-a-kijelzovel-fog-levenni-minket-a-labarol-az-iphone-18e-tbr">
+                                <h2>Nem a kijelzőjével fog levenni minket a lábáról az iPhone 18e</h2> 
+                            </a>
+
+                        </div>
+
+                    </header>
+                    <p>Am&iacute;g az iPhone 18e kijelzője nem sokat fejlődik az elődjeihez k&eacute;pest, addig az iPhone 18-ra &eacute;s az iPhone Air 2-re aligha lesz b&aacute;rkinek panasza.</p>
+                </article>
+
+    
+    
+
+
+    <article class="article-list-item">
+                    <header>
+                        <div class="article-image-holder">       
+                        <a href="/news/2026/06/30/gaming-a-digital-foundry-szerint-kizart-hogy-legyen-60fps-mod-a-gta-6-ban-grand-theft-auto-playstation-xbox-series-ps5-pro-rockstar-games-pssr-pc-vice-city-leecobo">                     
+                            <img loading="lazy"  src="/images/6a436abbe6372_6a436abbe6328-egy-pillanatig-se-gondoljatok-hogy-60fps-mellett-szaguldozhattok-vice-city-utcain.jpg" alt="Gaming - Egy pillanatig se gondoljátok, hogy 60fps mellett száguldozhattok Vice City utcáin!" class="list-image"/>                                                                                                                                                                                                                     
+                                <div class="intro-raction-holder">
+                                                                           
+                                                                            <span class="raction-small like"></span>        
+                                    
+                                                            
+                                                            
+                                                                            <span class="raction-small happy"></span>        
+                                                            
+                                    
+                                                                     
+                                </div>
+                      
+                            </a>
+                        </div>
+
+
+
+                        <div class="title-holder">
+                            <a href="/news/2026/06/30/gaming-a-digital-foundry-szerint-kizart-hogy-legyen-60fps-mod-a-gta-6-ban-grand-theft-auto-playstation-xbox-series-ps5-pro-rockstar-games-pssr-pc-vice-city-leecobo">
+                                <h2>Egy pillanatig se gondoljátok, hogy 60fps mellett száguldozhattok Vice City utcáin!</h2> 
+                            </a>
+
+                        </div>
+
+                    </header>
+                    <p>A lengyel Media Markt szellőztette meg az előrendel&eacute;s rajtja előtt, hogy sok m&aacute;s j&aacute;t&eacute;khoz hasonl&oacute;an a GTA 6-ban is v&aacute;laszthatunk majd a Quality m&oacute;d &eacute;s a Performance m&oacute;d k&ouml;z&ouml;tt, a Digital Foundry azonban kiz&aacute;rtnak tartja, hogy a Rockstar j&aacute;t&eacute;ka el&eacute;ri a 60fps-t.</p>
+                </article>
+
+    
+    
+
+
+    </div>
+
+    
+
+
+    <div class="e1tv-block-holder pull-left w100">
+        <h4>Közvetítések</h4>
+        <div class="match-calendar-holder">                                        
+               
+        
+</div>    </div>
+
+
+</div>
+
+
+
+</div>            </div>
+            <!-- </div> -->
+
+            <div class="footer">
+
+            <div class="row">
+            <div class="col-md-12">
+                <div class="footer-copyrights">Minden jog fenntartva <a href="https://corporate.esport1.hu/"  target="_blank" style="font-weight: bold; color: #BF1B2C;">Esport1 Kft.</a></div>
+             
+             
+                <div class="footer-links" style="margin-left: auto;">
+                    <!-- <a id="open-adatvedelem" style="cursor:pointer;">Adatvédelem</a> -->
+                    <a href="/content/impresszum">Impresszum</a>
+                    <a href="/content/szerzoi-jogok">Szerzői jogok</a>
+                    <a href="/content/adatkezeles">Adatkezelés</a>
+                    <a class="change-consent" onclick="window.__tcfapi('displayConsentUi', 2, function() {} );">Adatvédelmi
+                        beállítások</a>
+		    <a href="javascript:googlefc.callbackQueue.push({CONSENT_DATA_READY: () => googlefc.showRevocationMessage()});">Sütibeállítások</a>
+
+                    <a href="/content/felhasznalasi-feltetelek">Felhasználási Feltételek</a>
+                    
+                   
+                </div>
+                </div>
+
+                <div class="col-md-12 text-right">
+                    <img src="/assets/desktop/img/adaptive_white.png" style="margin-top: 20px;">
+                </div>
+            </div>
+
+
+            </div>
+
+        </div>
+
+
+
+
+
+
+
+        <!-- Footer Nav -->
+
+        <footer class="footer-nav">
+            <div class="item">
+                <div class="icon-holder">
+                    <div class="menu-bar">
+                        <button class="openX">
+                            <span class="icon-bar"></span>
+                            <span class="icon-bar"></span>
+                            <span class="icon-bar"></span>
+                        </button>
+                    </div>
+
+                </div>
+                <b>Menü</b>
+            </div>
+
+            <div class="item">
+                <a href="https://www.youtube.com/channel/UC63OM61f7lc2tUtYHleNAnA" target="_blank">
+                <div class="icon-holder">
+                <svg width="25" height="21" viewBox="0 0 25 21" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
+                        <path d="M23.8,4.8C23.5,3.8 22.7,3 21.7,2.7C19.9,2.2 12.5,2.2 12.5,2.2C12.5,2.2 5.1,2.2 3.3,2.7C2.3,3 1.5,3.8 1.2,4.8C0.7,6.6 0.7,10.5 0.7,10.5C0.7,10.5 0.7,14.3 1.2,16.2C1.5,17.2 2.3,18 3.3,18.3C5.1,18.8 12.5,18.8 12.5,18.8C12.5,18.8 19.9,18.8 21.7,18.3C22.7,18 23.5,17.2 23.8,16.2C24.3,14.4 24.3,10.5 24.3,10.5C24.3,10.5 24.3,6.7 23.8,4.8ZM10.2,14L10.2,7L16.3,10.5L10.2,14Z" style="fill:rgb(225,225,225);fill-rule:nonzero;"></path>
+                </svg>
+
+                </div>
+                <b>Videó</b>
+                </a>
+            </div>
+
+            <div class="item">
+                
+            <a href="/e1tv">
+                <div class="icon-holder"> 
+
+                                    <svg width="25" height="21" viewBox="0 0 25 21" fill="none" xmlns="http://www.w3.org/2000/svg">
+                        <path d="M23.125 0.5H1.875C0.820312 0.5 0 1.35938 0 2.375V14.875C0 15.9297 0.820312 16.75 1.875 16.75H11.25V18H4.375C4.02344 18 3.75 18.3125 3.75 18.625V19.875C3.75 20.2266 4.02344 20.5 4.375 20.5H20.625C20.9375 20.5 21.25 20.2266 21.25 19.875V18.625C21.25 18.3125 20.9375 18 20.625 18H13.75V16.75H23.125C24.1406 16.75 25 15.9297 25 14.875V2.375C25 1.35938 24.1406 0.5 23.125 0.5ZM22.5 14.25H2.5V3H22.5V14.25Z" fill="#E1E1E1" />
+                    </svg>
+                                    </div>
+                <b>E1TV</b>
+                </a>
+            </div>
+     
+
+
+                            <div class="item">
+                    <a href="/user/login">
+                        <div class="icon-holder avatar-holder">
+                            <img src="/images/e1_avatar.jpg">
+                        </div>
+                        <b>Belépés</b>
+                    </a>
+                </div>
+            
+
+
+    </div>
+    </footer>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    <div class="overlay-menu-new">
+        <div class="content row">
+        
+            <div class="h-menu-holder col-md-4">
+            <h2>Menü</h2>
+                <div class="h-menu-row">
+
+                    <a href="https://www.pcguru.hu/" target="_blank">
+                        <div class="h-menu-item">
+                            <img src="/assets/desktop/img/menu/e1_webicons_PCG-01.svg" alt="PCGURU">
+                            <b>PC Guru</b>  
+                        </div>
+                    </a>
+     
+                    <a href="/e1tv">
+                        <div class="h-menu-item">
+                            <img src="/assets/desktop/img/menu/e1_webicons_ETV-02.svg" alt="E1TV">
+                            <b>Esport1TV</b>  
+                        </div>
+                    </a>
+                    
+                    <a href="https://www.playitstore.hu/" target="_blank">
+                        <div class="h-menu-item">
+                            <img src="/assets/desktop/img/menu/e1_webicons_playit-23-23.svg" alt="PlayIT Store">
+                            <b>PlayIT Store</b>  
+                        </div>
+                    </a>
+
+                    <a href="/market">
+                        <div class="h-menu-item">
+                            <img src="/assets/desktop/img/menu/e1_webicons_PIAC-04.svg" alt="Piac">
+                            <b>Piac</b>  
+                        </div>
+                    </a>
+
+
+                </div>
+                <h2>ROVATOK</h2>
+                <div class="h-menu-row">
+
+                    <a href="/news/Gaming">
+                        <div class="h-menu-item">
+                            <img src="/assets/desktop/img/menu/e1_webicons_GAMING-05.svg" alt="Gaming">
+                            <b>Gaming</b>  
+                        </div>
+                    </a>
+     
+                    <a href="/news/tech">
+                        <div class="h-menu-item">
+                            <img src="/assets/desktop/img/menu/e1_webicons_TECH.svg" alt="">
+                            <b>Tech</b>  
+                        </div>
+                    </a>
+                    
+                    <a href="/news/movies">
+                        <div class="h-menu-item">
+                            <img src="/assets/desktop/img/menu/e1_webicons_FILM-07.svg" alt="">
+                            <b>Film-sorozat</b>  
+                        </div>
+                    </a>
+
+                    <a href="/news/ai">
+                        <div class="h-menu-item">
+                            <img src="/assets/desktop/img/menu/e1_webicons_AI-22.svg" alt="">
+                            <b>AI</b>  
+                        </div>
+                    </a>
+                </div>
+                
+                <div class="h-menu-row">
+
+                    <a href="/news/LeagueofLegends">
+                        <div class="h-menu-item">
+                            <img src="/assets/desktop/img/menu/e1_webicons_LOL-09.svg" alt="">
+                            <b>LoL</b>  
+                        </div>
+                    </a>
+     
+                    <a href="/news/cs2">
+                        <div class="h-menu-item">
+                            <img src="/assets/desktop/img/menu/e1_webicons_CSGO-10.svg" alt="">
+                            <b>CS2</b>  
+                        </div>
+                    </a>
+                    
+                    <a href="/news/gta-6">
+                        <div class="h-menu-item">
+                            <img src="/assets/desktop/img/menu/e1_webicons_GTA6-21.svg" alt="">
+                            <b>GTA 6</b>  
+                        </div>
+                    </a>
+
+                    <a href="/news/bulvar">
+                        <div class="h-menu-item">
+                            <img src="/assets/desktop/img/menu/e1_webicons_BULVAR.svg" alt="">
+                            <b>Szórakozás</b>  
+                        </div>
+                    </a>
+                </div>
+                </div>
+                <div class="h-menu-holder col-md-4">
+                     <h2>Versenyek</h2>
+                    <div class="h-menu-row">
+
+                        <a href="/news/mneb">
+                            <div class="h-menu-item">
+                                <img src="/assets/desktop/img/menu/e1_webicons_MNEB-13.svg" alt="">
+                                <b>K&H MNEB</b>  
+                            </div>
+                        </a>
+        
+                        <a href="/news/tippmixprocsgo">
+                            <div class="h-menu-item">
+                                <img src="/assets/desktop/img/menu/e1_webicons_TMPCS2-14.svg" alt="">
+                                <b>TMP CS2</b>  
+                            </div>
+                        </a>
+                        
+                        <a href="/news/iesfvb">
+                            <div class="h-menu-item">
+                                <img src="/assets/desktop/img/menu/e1_webicons_MEV-15.svg" alt="">
+                                <b>MEV</b>  
+                            </div>
+                        </a>
+
+                        <a href="/news/ogex">
+                            <div class="h-menu-item">
+                                <img src="/assets/desktop/img/menu/e1_webicons_OGEX-16.svg" alt="">
+                                <b>OGEX</b>  
+                            </div>
+                        </a>
+                    </div>
+
+                     <h2>Kövess minket!</h2>
+                    <div class="h-menu-row">
+
+                        <a href="https://www.facebook.com/esport1.gg" target="_blank">
+                            <div class="h-menu-item">
+                                <img src="/assets/desktop/img/menu/e1_webicons_SOCIAL_FB-17.svg" alt="">
+                                <b>Facebook</b>  
+                            </div>
+                        </a>
+        
+                        <a href="https://www.tiktok.com/@esport1.hu" target="_blank">
+                            <div class="h-menu-item">
+                                <img src="/assets/desktop/img/menu/e1_webicons_SOCIAL_TIKTOK-18.svg" alt="">
+                                <b>Tiktok</b>  
+                            </div>
+                        </a>
+                        
+                        <a href="https://www.youtube.com/channel/UC63OM61f7lc2tUtYHleNAnA">
+                            <div class="h-menu-item">
+                                <img src="/assets/desktop/img/menu/e1_webicons_SOCIAL_YT-19.svg" alt="">
+                                <b>Youtube</b>  
+                            </div>
+                        </a>
+
+                        <a href="https://discord.gg/mjszHPE">
+                            <div class="h-menu-item">
+                                <img src="/assets/desktop/img/menu/e1_webicons_SOCIAL_DISCORD-20.svg" alt="">
+                                <b>Discord</b>  
+                            </div>
+                        </a>
+
+                        
+                    </div>
+                    <div>
+                    <h2><i class="fa fa-search search-btn"></i> Kereső</h2>
+                            <div class="search-holder">
+                                <input type="text" placeholder="keresés..." class="search" autocomplete="off" id="search">
+                                <button class="search-btn">Keresés</button>
+                            </div>
+                </div>
+            </div>
+            
+         
+
+            
+   
+
+      
+
+    
+
+        </div>
+    </div>
+
+
+
+
+    <!-- recommend flyin -->
+    <div id="article-recommend-popup">
+        <div id="article-recommend-popup-content"> </div>
+    </div>
+
+    
+
+
+
+
+    <input type="hidden" id="token" value="2d5516659dd34db823631720038cf68299a1a427">
+    <!-- Google remarketingcímke-kód -->
+    <!--
+A remarketingcímkék nem társíthatók személyazonosításra alkalmas adatokkal, és nem helyezhetők el érzékeny kategóriához kapcsolódó oldalakon. A címke beállításával kapcsolatban további információt és útmutatást a következő címen olvashat: http://google.com/ads/remarketingsetup
+-->
+    <script type="text/javascript">
+        /* <![CDATA[ */
+        var google_conversion_id = 873479335;
+        var google_custom_params = window.google_tag_params;
+        var google_remarketing_only = true;
+        /* ]]> */
+    </script>
+    <script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js">
+    </script>
+    <noscript>
+        <div style="display:inline;">
+            <img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/873479335/?value=0&amp;guid=ON&amp;script=0" />
+        </div>
+    </noscript>
+    <script>
+                    var text_please_login_reaction = "Ezen funkció eléréséhez be kell jelentkezned!";
+                    var text_comment_report = "Biztosan jelenteni akarod a felhasználót ?";
+                    var text_comment_user_report = "Biztosan jelenteni akarod a felhasználót ?";
+                    var text_thanks_for_reporting = "Köszönjük! Az adminok hamarosan megvizsgálják a jelentést!";
+                    var text_notice_twitch_login = "Úgy tűnik nem vagy a Twitch nézők között! Be vagy jelentkezve a Twitch-en ? Bejelentkezés után frissíts rá az oldalra! (Amennyiben már bejelentkeztél, várd meg, amíg a rendszerünk szinkronizál!) Köszönjük a türelmet!";
+                    var text_apply_mission_login = "A nyereményjátékon való részvételhez jelentkezz be!";
+                    var text_apply_mission_no_default = "Először a belépő küldetést kell teljesítened! Erre a küldetésre ezután tudsz jelentkezni!";
+                    var text_apply_mission_already_exist = "Már jelentkeztél erre a küldetésre!";
+                    var text_apply_mission_unknown_error = "Ismeretlen hiba! Próbáld meg később!";
+                    var text_apply_mission_success = "Sikeresen felvetted a küldetést, amit megtalálsz a profil oldaladon. Nemsokára átirányítunk!";
+                    var text_delete_profile = "Törlés esetén, elveszted a pontjaid és a jelentkezésed a folyamatban levő nyereményjátékokban. A művelet nem visszavonható! Biztosan törölni akarod a felhasználó fiókodat?";
+                    var text_profile_avatar_wrong_picture = "Nem támogatott formátum! Csak JPG lehet!";
+                    var text_apply_mission_no_answer = "Jelöld ki a választ!";
+                    var text_apply_mission_no_answer_notfound = "Error!";
+                    var text_apply_mission_no_agree = "A játékszabályzatot el kell fogadnod!";
+                    var text_delete_comment = "Biztos törölni akarod a kommentedet ?";
+                    var text_report_user = "Biztosan jelenteni akarod névtelenül ?";
+                    var text_profile_avatar_wrong_size = "A képnek 2 Megabyte-nál kisebbnek kell lennie!";
+                    var text_no_accepted = "Az adatvédelmi szabályzatot el kell fogadnod!";
+                    var missionexperied = "A küldetésre való jelentkezési határidő lejárt!";
+                    var text_banned_comment = "Szabályok megsértése miatt, felfüggesztettük a kommentelési lehetőségedet {{DATE}}-ig!";
+                    var text_apply_prize_code = "Kérlek add meg a nyereményjáték szelvény kódodat!";
+                    var text_apply_prize_code_notfound = "Nyereményjáték szelvény kódod érvénytelen!";
+                    var text_apply_prize_code_used = "A nyereményjáték szelvény kódod már fel lett használva!";
+                    var text_apply_prize_success = "Sikeres jelentkezés!";
+                    var text_shop_login = "A pontbeváltáshoz be kell lépned!";
+                    var text_vote_login = "A szavazáshoz be kell jelentkezned!";
+            </script>
+
+    <script type="text/javascript" src="/assets/desktop/js/all.js?v3.0066"></script>            <script>
+            var hasIdentity = false;
+        </script>
+        
+
+
+
+
+</body>
+
+</html>
+<!-- Execution time : 1.1107461452484 seconds -->
