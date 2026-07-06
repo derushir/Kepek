@@ -1,0 +1,973 @@
+<!DOCTYPE html><html lang="hu"><head>
+    <meta charset="utf-8">
+    
+    
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <meta name="n3/config/environment" content="%7B%22modulePrefix%22%3A%22n3%22%2C%22environment%22%3A%22production%22%2C%22rootURL%22%3A%22%2F%22%2C%22locationType%22%3A%22history%22%2C%22EmberENV%22%3A%7B%22EXTEND_PROTOTYPES%22%3Afalse%2C%22FEATURES%22%3A%7B%7D%2C%22_APPLICATION_TEMPLATE_WRAPPER%22%3Afalse%2C%22_DEFAULT_ASYNC_OBSERVERS%22%3Atrue%2C%22_JQUERY_INTEGRATION%22%3Afalse%2C%22_NO_IMPLICIT_ROUTE_MODEL%22%3Atrue%2C%22_TEMPLATE_ONLY_GLIMMER_COMPONENTS%22%3Atrue%2C%22_USE_EMBER_MODULES%22%3Atrue%7D%2C%22APP%22%3A%7B%22name%22%3A%22n3%22%2C%22version%22%3A%220.0.0%2B065e3d7d%22%7D%2C%22fastboot%22%3A%7B%22hostWhitelist%22%3A%5B%22localhost%3A3000%22%2C%220.0.0.0%3A3000%22%2C%22444.hu%22%5D%7D%2C%22metricsAdapters%22%3A%5B%7B%22name%22%3A%22GoogleTagManager%22%2C%22environments%22%3A%5B%22production%22%5D%2C%22config%22%3A%7B%22id%22%3A%22GTM-KZVBKWD%22%7D%7D%2C%7B%22name%22%3A%22Remp%22%2C%22environments%22%3A%5B%22production%22%5D%2C%22config%22%3A%7B%22scriptUrl%22%3A%22https%3A%2F%2Fcdn.pmd.444.hu%2Fassets%2Flib%2Fjs%2Fheartbeat.js%22%2C%22host%22%3A%22https%3A%2F%2Fheartbeat.pmd.444.hu%22%2C%22token%22%3A%2258501271-8451-48bf-821e-10821a06f364%22%2C%22cookieDomain%22%3A%22.444.hu%22%7D%7D%5D%2C%22emberRollbarClient%22%3A%7B%22enabled%22%3Atrue%2C%22accessToken%22%3A%224c0fcee6de3b4ca9a8c6e629555ab07e%22%2C%22verbose%22%3Atrue%2C%22captureUncaught%22%3Atrue%2C%22captureUnhandledRejections%22%3Atrue%2C%22payload%22%3A%7B%22environment%22%3A%22production%22%2C%22client%22%3A%7B%22javascript%22%3A%7B%22source_map_enabled%22%3Atrue%2C%22code_version%22%3A%220.0.0%2B065e3d7%22%2C%22guess_uncaught_frames%22%3Atrue%7D%7D%7D%2C%22hostSafeList%22%3A%5B%22444.hu%22%5D%7D%2C%22ENGINES%22%3A%5B%7B%22name%22%3A%22valasztas--election%22%2C%22type%22%3A%22election%22%2C%22config%22%3A%7B%22buckets%22%3A%5B%22444%22%2C%22jo%22%5D%7D%7D%2C%7B%22name%22%3A%22author--author%22%2C%22type%22%3A%22author%22%2C%22config%22%3A%7B%22buckets%22%3A%5B%22444%22%2C%22insight-hungary%22%2C%22partizan%22%2C%22jo%22%5D%7D%7D%2C%7B%22name%22%3A%22kereses--search%22%2C%22type%22%3A%22search%22%2C%22config%22%3A%7B%22buckets%22%3A%5B%22444%22%2C%22insight-hungary%22%2C%22partizan%22%2C%22jo%22%5D%7D%7D%2C%7B%22name%22%3A%22foci%2Fbajnoksag--championship%22%2C%22type%22%3A%22championship%22%2C%22config%22%3A%7B%22buckets%22%3A%5B%22444%22%2C%22jo%22%5D%7D%7D%2C%7B%22name%22%3A%22partizan--reader%22%2C%22type%22%3A%22reader%22%2C%22config%22%3A%7B%22buckets%22%3A%5B%22partizan%22%5D%7D%7D%2C%7B%22name%22%3A%22jo--reader%22%2C%22type%22%3A%22reader%22%2C%22config%22%3A%7B%22buckets%22%3A%5B%22jo%22%5D%7D%7D%2C%7B%22name%22%3A%22--reader%22%2C%22type%22%3A%22reader%22%2C%22config%22%3A%7B%22buckets%22%3A%5B%22444%22%2C%22jo%22%5D%7D%7D%5D%7D">
+<!-- EMBER_CLI_FASTBOOT_TITLE -->      <meta name="ember-head-start" content>
+      
+      <meta name="author" content="Horváth Bence">
+
+        <meta name="keywords" content="sport,foci vb 2026,Jiménez,jude bellingham,angol válogatott,Azteca Stadion,Norvégia,mexikó,thomas tuchel,Pickford,harry kane,Quansah">
+        <meta name="news_keywords" content="sport,foci vb 2026,Jiménez,jude bellingham,angol válogatott,Azteca Stadion,Norvégia,mexikó,thomas tuchel,Pickford,harry kane,Quansah">
+        <meta itemprop="keywords" content="sport,foci vb 2026,Jiménez,jude bellingham,angol válogatott,Azteca Stadion,Norvégia,mexikó,thomas tuchel,Pickford,harry kane,Quansah">
+
+    <meta name="twitter:card" content="summary_large_image">
+
+        <link rel="canonical" href="https://444.hu/2026/07/06/majdnem-egy-felidot-emberhatranyban-oriasit-kuzdve-jutott-tovabb-anglia-mexikoval-szemben">
+        <meta property="og:url" content="https://444.hu/2026/07/06/majdnem-egy-felidot-emberhatranyban-oriasit-kuzdve-jutott-tovabb-anglia-mexikoval-szemben">
+        <meta property="twitter:url" content="https://444.hu/2026/07/06/majdnem-egy-felidot-emberhatranyban-oriasit-kuzdve-jutott-tovabb-anglia-mexikoval-szemben">
+
+      <meta property="og:site_name" content="444">
+
+    <meta property="og:type" content="article">
+    <meta property="og:locale" content="hu">
+
+        <title>Majdnem egy félidőt emberhátrányban, óriásit küzdve jutott tovább Anglia Mexikóval szemben</title>
+        <meta name="title" content="Majdnem egy félidőt emberhátrányban, óriásit küzdve jutott tovább Anglia Mexikóval szemben">
+        <meta property="og:title" content="Majdnem egy félidőt emberhátrányban, óriásit küzdve jutott tovább Anglia Mexikóval szemben">
+        <meta name="twitter:title" content="Majdnem egy félidőt emberhátrányban, óriásit küzdve jutott tovább Anglia Mexikóval szemben">
+
+        <meta name="description" content="A világbajnokság eddigi egyik legjobb meccse 3-2-es brit győzelmet hozott.">
+        <meta property="og:description" content="A világbajnokság eddigi egyik legjobb meccse 3-2-es brit győzelmet hozott.">
+        <meta name="twitter:description" content="A világbajnokság eddigi egyik legjobb meccse 3-2-es brit győzelmet hozott.">
+
+        <meta property="og:image" content="https://assets.4cdn.hu/kraken/8MXdmBpQWzVQGWB0s-lg.jpeg">
+        <meta name="twitter:image" content="https://assets.4cdn.hu/kraken/8MXdmBpQWzVQGWB0s-lg.jpeg">
+
+      <meta name="robots" content="max-image-preview:large">
+
+      <script type="application/ld+json">[{"@context":"https://schema.org","@type":"NewsArticle","mainEntityOfPage":"https://444.hu/2026/07/06/majdnem-egy-felidot-emberhatranyban-oriasit-kuzdve-jutott-tovabb-anglia-mexikoval-szemben","headline":"Majdnem egy félidőt emberhátrányban, óriásit küzdve jutott tovább Anglia Mexikóval szemben","description":"A világbajnokság eddigi egyik legjobb meccse 3-2-es brit győzelmet hozott.","datePublished":"2026-07-06T05:24:09+02:00","dateModified":"2026-07-06T10:27:24+02:00","author":[{"@type":"Person","name":"Horváth Bence","image":"https://assets.4cdn.hu/kraken/6m8hVlNP1j9zAKFUs-xxs.jpeg?width=96&amp;height=96&amp;fit=crop"}],"image":"https://assets.4cdn.hu/kraken/8MXdmBpQWzVQGWB0s.jpeg","publisher":{"@type":"Organization","name":"444","logo":"https://cdn.444r.cloud/assets/appicon-180.f28fd1db6b2192fcd860.png"}},{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"444","item":"https://444.hu"},{"@type":"ListItem","position":2,"name":"sport","item":"https://444.hu/category/sport"},{"@type":"ListItem","position":3,"name":"Majdnem egy félidőt emberhátrányban, óriásit küzdve jutott tovább Anglia Mexikóval szemben"}]}]</script>
+
+      <meta property="article:published_time" content="2026-07-06T05:24:07+02:00">
+
+<!---->
+<!---->
+<!---->
+      <link rel="icon" href="https://cdn.444r.cloud/assets/favicon.59a582e6612fdac3b572.svg" type="image/svg+xml">
+
+      <link rel="apple-touch-icon" href="https://cdn.444r.cloud/assets/appicon-180.f28fd1db6b2192fcd860.png">
+
+      <link rel="manifest" href="/manifest.e46292aedadf78a83e06.webmanifest" crossorigin="use-credentials">
+  
+      <meta name="ember-head-end" content>
+
+<meta name="author/config/environment" content="%7B%22modulePrefix%22%3A%22author%22%2C%22environment%22%3A%22production%22%7D">
+<meta name="championship/config/environment" content="%7B%22modulePrefix%22%3A%22championship%22%2C%22environment%22%3A%22production%22%7D">
+<meta name="election/config/environment" content="%7B%22modulePrefix%22%3A%22election%22%2C%22environment%22%3A%22production%22%7D">
+<link rel="preconnect" href="https://www.googletagmanager.com">
+<meta name="reader/config/environment" content="%7B%22modulePrefix%22%3A%22reader%22%2C%22environment%22%3A%22production%22%7D">
+<meta name="search/config/environment" content="%7B%22modulePrefix%22%3A%22search%22%2C%22environment%22%3A%22production%22%7D">
+
+    
+    
+
+
+    <meta name="n3/config/asset-manifest" content="%GENERATED_ASSET_MANIFEST%">
+  
+<link href="https://cdn.444r.cloud/assets/chunk.1ae0e02abe95d7f23615.css" rel="stylesheet">
+<link href="https://cdn.444r.cloud/assets/chunk.440ca1f6196f20814212.css" rel="stylesheet"></head>
+  <body class="_1bucvez1 jtivel0 xrg4ok0 _1pjxevg0 _4n4slr0 xsgiua0 _1g4l6550 i0wrnc0 srf2jf0 _15jjbzu0 _8da7wc0 ovyd8u0 _1nentwd0 epzvfx0 ana7u81 _8b6bxc9 _1dy6oyqid">
+    <script type="x/boundary" id="fastboot-body-start"></script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    <div>
+      
+  
+  
+
+  
+
+    
+    
+    
+    
+    
+    
+
+    
+    
+    
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  <!---->
+
+<!----><!---->
+  
+      
+      
+<!---->
+  
+    <div class="p03hpr0 _1chu0ywg p4kpu33i p4kpu38d">
+        
+    
+    <div id="ap-site-header-top" class="_13ou49a0 "></div>
+  
+
+    <header class="v9sb5o0 _1chu0ywu _1chu0ywz _1chu0ywm _1chu0ywg _1chu0yw14 ta3a4c1ig ta3a4c106 ta3a4c1aa p4kpu38y">
+<!---->
+      
+    <a href="https://444.hu" class="uwwrama ta3a4c0 ta3a4cdf ta3a4c4h ta3a4c8y _1chu0ywh _1chu0yw12 ta3a4c1fc ta3a4c14n p4kpu30 _1chu0yw17" rel="noopener">
+        <svg xmlns="http://www.w3.org/2000/svg" style="height: 38px; width: 119px;">
+          <use href="/assets/logo-444.svg#logo" fill="currentColor"></use>
+        </svg>
+      </a>
+  
+
+<!---->    </header>
+  
+
+        
+    <div id="ap-site-header-bottom" class="_13ou49a0 "></div>
+  
+        
+    <div id="ap-featured" class="_13ou49a0 "></div>
+  
+
+      
+      
+    <a href="/foci/bajnoksag/foci-vb-2026" class="ktds390 _1chu0ywh ta3a4c1ig ta3a4c106">
+      
+        <picture class="_1chu0ywe">
+            <source srcset="https://assets.4cdn.hu/kraken/8LhwTZAWrpteKems-md.jpeg 768w, https://assets.4cdn.hu/kraken/8LhwTZAWrpteKems-lg.jpeg 1366w" media="(width > 640px)">
+            <source srcset="https://assets.4cdn.hu/kraken/8LhwTlEoh9YlUyms-xl.jpeg 1920w, https://assets.4cdn.hu/kraken/8LhwTlEoh9YlUyms-xxl.jpeg 2560w" media="(width > 1920px)">
+          
+  <img loading="lazy" src="https://assets.4cdn.hu/kraken/8LhwTfI8M3zACu1Ys.jpeg" srcset="https://assets.4cdn.hu/kraken/8LhwTfI8M3zACu1Ys-xxs.jpeg 96w, https://assets.4cdn.hu/kraken/8LhwTfI8M3zACu1Ys-xs.jpeg 360w, https://assets.4cdn.hu/kraken/8LhwTfI8M3zACu1Ys-sm.jpeg 640w" sizes="auto" class="_672m2jd _1chu0ywo ta3a4c1ey ta3a4c1aa ktds391 ta3a4c106 ta3a4c1ig" style="--_672m2j6:8.37;--_672m2j8:26.48;--_672m2jb:40.00;--_672m2j5:1920px 48px" alt>
+
+        </picture>
+  
+      <div class="ktds391 _1chu0ywg p4kpu31k p4kpu38y _1dy6oyqer">
+        <div class="_1chu0ywg p4kpu3c2 p4kpu31k ta3a4css _1dy6oyq35">
+          <span class="_15pnudm3 _1chu0ywj _1dy6oyq4j _1dy6oyq4x" style="--_15pnudm0:24;--_15pnudm2:0" data-icon="sports_soccer">
+</span>
+          <span>
+            Foci-Vb 2026
+          </span>
+        </div>
+        
+      <div class="ktds395 _1chu0ywh ta3a4c14g p4kpu39j ta3a4c8y ta3a4cx9 _1dy6oyq4k _1dy6oyqer _1dy6oyq4x">
+        <span>A melléklet támogatója:</span>
+        
+        
+  <img loading="lazy" src="https://assets.4cdn.hu/kraken/8MMmzxZ3AIQPHK45s.png" srcset="https://assets.4cdn.hu/kraken/8MMmzxZ3AIQPHK45s-xs.png 721w, https://assets.4cdn.hu/kraken/8MMmzxZ3AIQPHK45s-xxl.png 5121w" sizes="auto" class="_672m2jd _1chu0ywo ta3a4c1ey ta3a4c1aa" style="--_672m2j6:4.22;--_672m2j5:2149px 507px" alt>
+
+  
+      </div>
+  
+      </div>
+    </a>
+  
+      <img src="https://ad.doubleclick.net/ddm/trackimp/N4022.1748848.ADAPTIVEMEDIA.HU/B36192464.450705490;dc_trk_aid=644779966;dc_trk_cid=259741908;ord=[timestamp];dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;tfua=;gdpr=${GDPR};gdpr_consent=${GDPR_CONSENT_755};ltd=;dc_tdv=1?" aria-hidden="true" border="0" height="1" width="1">
+
+      
+    <div id="ap-top" class="_13ou49a0  slotHeader"></div>
+  
+
+    
+  <div class="_2r9i95 _1chu0ywh p4kpu3e _1chu0ywh p4kpu3hp p4kpu3i5">
+    
+      
+<!---->
+
+      <div class="_1j8zfzf3 ta3a4cz ta3a4c1f ta3a4c5g ta3a4c5w _1chu0yw9 _2r9i9g">
+        
+      <h1 class="_19gjvagj _1dy6oyq4l _19gjvagm _19gjvagk _19gjvags _19gjvagq
+          
+          ">
+        <span>
+<!---->          <span class="_1dy6oyq5g _1dy6oyq5s">Majdnem egy félidőt emberhátrányban, óriásit küzdve jutott tovább Anglia Mexikóval szemben</span>
+        </span>
+      </h1>
+  
+      </div>
+
+      
+  <div class="_1rlsxp0 p4kpu3dm p4kpu3i3 _1chu0yw9 _1chu0ywh _1chu0yw9 _2r9i9h _2r9i9l">
+    
+        
+  <div class="_2r9i95 _1chu0ywh p4kpu3e _1chu0yw9 _1rlsxpe _1rlsxpf _1rlsxps _1rlsxp15 _1rlsxp1i _1rlsxp1v _1rlsxp2f _1rlsxp2l _1rlsxp2y _1rlsxp3b _1rlsxp3o _1rlsxp41
+            _1chu0ywh p4kpu3hp p4kpu3i5
+            slotDoubleColumn">
+    
+          
+    <div class="_1chu0ywg p4kpu34h p4kpu34c p4kpu3cn p4kpu3hp _1chu0yw9 _2r9i9d">
+      
+    <div class="p4kpu3c9 p4kpu3gq _1chu0ywg _1dy6oyq2r _1dy6oyqb5 p4kpu31k ta3a4c106 ta3a4czu p4kpu35g">
+        <div class="_1chu0ywg p4kpu3c2">
+            <div class="_1wsp8zg4 _1chu0ywu _1chu0ywz _1chu0ywk _8b6bx51 _1dy6oyqb5 _1chu0ywt _1chu0ywy _1wsp8zg2" style="--_1wsp8zg0:40">
+    <img class="ta3a4c106 ta3a4c1fc _1chu0ywo" src="https://assets.4cdn.hu/kraken/6m8hVlNP1j9zAKFUs-xxs.jpeg?width=96&amp;height=96&amp;fit=crop" alt loading="lazy">
+</div>
+        </div>
+
+      <div class="_1chu0ywh p4kpu31k">
+        <div>
+                <a href="/author/horvathb" class="_1dy6oyq5o">Horváth Bence</a><!---->
+        </div>
+
+        <div class="_1chu0ywg p4kpu3c2">
+            <span class="_1dy6oyq4k">
+                <a href="/category/sport" class="_1dy6oyq5o">sport</a>            </span>
+
+            <span class="_2eey3i9 _1dy6oyq4b"></span>
+
+            <time class="_2eey3i8" datetime="2026-07-06T05:24:07+02:00">
+2026. július 6. 5:24            </time>
+        </div>
+      </div>
+    </div>
+  
+
+      
+    <div class="_1n6u2803 _1chu0ywe">
+  
+  
+      <div class="_1n6u2804 _1chu0ywk">
+          <button class="_1oiqrbrt p4kpu3c9 p4kpu3gq _1chu0yw6 _1chu0ywl ta3a4c1i2 p4kpu377 p4kpu31k p4kpu37z _1dy6oyq4x uwwrama _1dy6oyq1s _1chu0ywt _1chu0ywy _1oiqrbr0 uwwram3 uwwramj _18ssces1 _18ssces5 _18ssces15 _18ssces7n _18sscesh3 _1dy6oyq5v _1dy6oyqam _1dy6oyqk2 diq4x0 _1oiqrbr6 _7oso933 _1chu0yw14 ta3a4css ta3a4cxn" type="button">
+      <span class="_15pnudm3 _1chu0ywj _1dy6oyq4j _1dy6oyq4x" style="--_15pnudm0:18;--_15pnudm2:0" data-icon="share">
+</span>
+
+    
+          Megosztás
+        
+  </button>
+
+      </div>
+      <!---->
+    
+  <div class="_1n6u2805 _1chu0yw13 _1n6u2806 _1n6u2808 _1n6u280a" popover="auto">
+    
+      <!---->
+      <div class="_25g4rm3 ta3a4cj2 ta3a4cnj _1chu0ywh p4kpu37l _1chu0ywu _8b6bx65 diq4xa _1chu0ywt _1chu0ywy _25g4rm1">
+  
+            <button class="_25g4rm9 _25g4rm4 ta3a4csl ta3a4cx2 _1chu0ywh p4kpu35n p4kpu377 ta3a4c1ig p4kpu31k uwwrama _1dy6oyq1s _1dy6oyqal _1dy6oyqk2 _25g4rm5 _7oso933 _1chu0yw14 uwwram3 uwwramj _25g4rmb" role="button">
+      <span class="_15pnudm3 _1chu0ywj _1dy6oyq4j _1dy6oyq4x ta3a4cf6 _1dy6oyqb5" style="--_15pnudm0:24;--_15pnudm2:0" data-icon="content_copy" role="presentation">
+</span>
+
+    <span class="_25g4rmf _1chu0ywu _1dy6oyq4x">
+      
+            Link másolása
+          
+    </span>
+
+<!---->  </button>
+
+            <button class="_25g4rm9 _25g4rm4 ta3a4csl ta3a4cx2 _1chu0ywh p4kpu35n p4kpu377 ta3a4c1ig p4kpu31k uwwrama _1dy6oyq1s _1dy6oyqal _1dy6oyqk2 _25g4rm5 _7oso933 _1chu0yw14 uwwram3 uwwramj _25g4rmb" role="button">
+      <span class="_15pnudm3 _1chu0ywj _1dy6oyq4j _1dy6oyq4x ta3a4cf6 _1dy6oyqb5" style="--_15pnudm0:24;--_15pnudm2:0" data-icon="logo_facebook" role="presentation">
+</span>
+
+    <span class="_25g4rmf _1chu0ywu _1dy6oyq4x">
+      
+            Facebook
+          
+    </span>
+
+<!---->  </button>
+
+            <button class="_25g4rm9 _25g4rm4 ta3a4csl ta3a4cx2 _1chu0ywh p4kpu35n p4kpu377 ta3a4c1ig p4kpu31k uwwrama _1dy6oyq1s _1dy6oyqal _1dy6oyqk2 _25g4rm5 _7oso933 _1chu0yw14 uwwram3 uwwramj _25g4rmb" role="button">
+      <span class="_15pnudm3 _1chu0ywj _1dy6oyq4j _1dy6oyq4x ta3a4cf6 _1dy6oyqb5" style="--_15pnudm0:24;--_15pnudm2:0" data-icon="logo_x" role="presentation">
+</span>
+
+    <span class="_25g4rmf _1chu0ywu _1dy6oyq4x">
+      
+            X (Twitter)
+          
+    </span>
+
+<!---->  </button>
+
+            <button class="_25g4rm9 _25g4rm4 ta3a4csl ta3a4cx2 _1chu0ywh p4kpu35n p4kpu377 ta3a4c1ig p4kpu31k uwwrama _1dy6oyq1s _1dy6oyqal _1dy6oyqk2 _25g4rm5 _7oso933 _1chu0yw14 uwwram3 uwwramj _25g4rmb" role="button">
+      <span class="_15pnudm3 _1chu0ywj _1dy6oyq4j _1dy6oyq4x ta3a4cf6 _1dy6oyqb5" style="--_15pnudm0:24;--_15pnudm2:0" data-icon="logo_tumblr" role="presentation">
+</span>
+
+    <span class="_25g4rmf _1chu0ywu _1dy6oyq4x">
+      
+            Tumblr
+          
+    </span>
+
+<!---->  </button>
+
+            <button class="_25g4rm9 _25g4rm4 ta3a4csl ta3a4cx2 _1chu0ywh p4kpu35n p4kpu377 ta3a4c1ig p4kpu31k uwwrama _1dy6oyq1s _1dy6oyqal _1dy6oyqk2 _25g4rm5 _7oso933 _1chu0yw14 uwwram3 uwwramj _25g4rmb" role="button">
+      <span class="_15pnudm3 _1chu0ywj _1dy6oyq4j _1dy6oyq4x ta3a4cf6 _1dy6oyqb5" style="--_15pnudm0:24;--_15pnudm2:0" data-icon="logo_linkedin" role="presentation">
+</span>
+
+    <span class="_25g4rmf _1chu0ywu _1dy6oyq4x">
+      
+            LinkedIn
+          
+    </span>
+
+<!---->  </button>
+
+      
+</div>
+    
+  </div>
+
+</div>
+
+
+<!---->    </div>
+  
+
+          
+    <div id="ap-article-top-001" class="_13ou49a0 "></div>
+  
+
+          
+  <div class="fkng932 _1chu0yw9 _2r9i9h _2r9i9i slotArticle">
+    
+            
+      
+  <p class>
+    Hatalmas küzdelem és elképesztő védekezés után, 3-2 győzelemmel <br />jutott tovább az angol válogatott a házigazda Mexikóval szemben a világbajnokság nyolcaddöntőjében, úgy, hogy Quansah kiállítása után az 54. perctől emberhátrányban voltak. 
+  </p>
+
+      
+    <figure class="he2knv0 _1chu0ywu _1chu0ywz ta3a4c8y ta3a4cdf _1chu0yw6 ta3a4c1aa _1dy6oyq4e ">
+      
+    <a href="https://assets.4cdn.hu/kraken/8MXdmBpQWzVQGWB0s.jpeg" class="uwwrama _1chu0ywg _8b6bx65" rel="nofollow">
+        
+        
+  <img loading="lazy" src="https://assets.4cdn.hu/kraken/8MXdmBpQWzVQGWB0s.jpeg" srcset="https://assets.4cdn.hu/kraken/8MXdmBpQWzVQGWB0s-xxs.jpeg 96w, https://assets.4cdn.hu/kraken/8MXdmBpQWzVQGWB0s-xs.jpeg 360w, https://assets.4cdn.hu/kraken/8MXdmBpQWzVQGWB0s-sm.jpeg 640w, https://assets.4cdn.hu/kraken/8MXdmBpQWzVQGWB0s-md.jpeg 768w, https://assets.4cdn.hu/kraken/8MXdmBpQWzVQGWB0s-lg.jpeg 1366w, https://assets.4cdn.hu/kraken/8MXdmBpQWzVQGWB0s-xl.jpeg 1920w, https://assets.4cdn.hu/kraken/8MXdmBpQWzVQGWB0s-xxl.jpeg 2560w" sizes="auto" class="_672m2jd _1chu0ywo ta3a4c1ey ta3a4c1aa he2knv4 ta3a4c1ey ta3a4czs" style="--_672m2j6:1.50;--_672m2j5:1024px 682px" alt>
+
+  
+      </a>
+  
+
+        <figcaption class="he2knv6 ta3a4c1d _1dy6oyqb5">
+<!---->            <div class="he2knv8 _1dy6oyq2r">
+              Fotó:
+                CARL DE SOUZA/AFP
+            </div>
+        </figcaption>
+    </figure>
+
+      
+  <p class>
+    Pedig a magaslati levegő, a kevés akklimatizációs idő és a rettegett helyszínnek számító Azteca Stadion miatt már <a href="https://444.hu/2026/07/05/oxigenhiany-kemkedes-ejszakai-zaklatas-irapuatoi-felelmekkel-kuzdenek-az-angolok-a-mexikoi-nyolcaddonto-elott" target="_blank" >előzetesen aggódtak </a>az angolok, de aztán mégis úgy nézett ki, hogy a vártnál simábban meglehet a meccs a számukra: egy mozgalmas első félidő végefelé Jude Bellingham két percen belül két gólt is szerzett. Hogy mégse legyen annyira egyszerű a helyzet, Quiñones még a félidő vége előtt szépített, majd jött 54. perc és Quansah elkésett, nagyon csúnya becsúszása, majd VAR-ozás után a kiállítása, és onnantól teljesen felborult a pálya, Thomas Tuchel védőket volt kénytelen beküldeni, az angolok pedig hatalmas nyomással találták szemben magukat. 
+  </p>
+
+      
+  
+        
+    <div class="_1chu0ywg p4kpu33i p4kpu3hp">
+          
+    <div class="_3k5lkz0 _1chu0ywg p4kpu33i p4kpu31k">
+      <div class="_3k5lkz4 _1chu0ywh p4kpu31k p4kpu3cu">
+          <div class="_3k5lkz5 _1chu0ywg p4kpu31k p4kpu37z p4kpu3c9 _1dy6oyq10 p4kpu343 p4kpu386 _1dy6oyq4c ta3a4c19i">
+            <img class="_3k5lkz9 ta3a4c124" src="https://cdn.sportmonks.com/images/soccer/teams/16/18576.png" role="presentation" alt>
+            <span class="_3k5lkzb">
+              Mexikó
+            </span>
+              <abbr class="_3k5lkzc " title="Mexikó">
+                MEX
+              </abbr>
+          </div>
+
+        <div class="_3k5lkza _1dy6oyqm _1dy6oyq4x">
+            2
+            -
+            3
+        </div>
+
+          <div class="_3k5lkz5 _1chu0ywg p4kpu31k p4kpu37z p4kpu3c9 _1dy6oyq10 p4kpu33w p4kpu38d _1dy6oyq4e ta3a4c19i">
+            <img class="_3k5lkz9 ta3a4c124" src="https://cdn.sportmonks.com/images/soccer/teams/21/18645.png" role="presentation" alt>
+            <span class="_3k5lkzb">
+              Anglia
+            </span>
+              <abbr class="_3k5lkzc " title="Anglia">
+                ENG
+              </abbr>
+          </div>
+      </div>
+
+      
+  <div class="_1chu0ywg p4kpu31k p4kpu3c9 p4kpu34a _1chu0ywg p4kpu37z p4kpu3c9 _1dy6oyq1z _1dy6oyqb5 _1dy6oyq4x">
+    
+<!----><!---->          
+  <span class="traulx3 _1chu0ywe">
+    
+              <span class="_3k5lkz2">
+                Vége
+              </span>
+          
+  </span>
+
+<!---->          
+  <span class="traulx3 _1chu0ywe">
+    
+            Nyolcaddöntők
+          
+  </span>
+
+      
+  </div>
+
+    </div>
+  
+
+          <div class="_1chu0ywg p4kpu33i p4kpu3gq _1dy6oyq10">
+                  <div class="ukxgz02 _1chu0ywh p4kpu3c9">
+                    <div class="_1dy6oyq4c">
+                      
+<!----><!---->      <div>
+            J. Quiñones Quiñones
+        42<!---->'
+
+        <!---->
+      </div>
+<!---->      <div>
+            R. Jiménez Rodríguez
+        69<!---->'
+
+        <!---->
+      </div>
+
+                    </div>
+
+                      <span class="_15pnudm3 _1chu0ywj _1dy6oyq4j _1dy6oyq4x" style="--_15pnudm0:24;--_15pnudm2:0" data-icon="sports_soccer">
+</span>
+
+                    <div>
+                      
+      <div>
+            J. Bellingham
+        36<!---->'
+
+        <!---->
+      </div>
+      <div>
+            J. Bellingham
+        38<!---->'
+
+        <!---->
+      </div>
+<!---->      <div>
+            H. Kane
+        60<!---->'
+
+        <!---->
+      </div>
+<!---->
+                    </div>
+                  </div>
+                  <div class="ukxgz02 _1chu0ywh p4kpu3c9">
+                    <div class="_1dy6oyq4c">
+                      
+<!----><!---->      <div>
+            J. Sánchez Ramos
+                71<!---->'
+
+        <!---->
+      </div>
+<!---->      <div>
+            J. Vásquez Ibarra
+                90+8'
+
+        <!---->
+      </div>
+<!---->
+                    </div>
+
+                      <span class="_15pnudm3 _1chu0ywj _1dy6oyq4j _1dy6oyq4x _16jnwhc0" style="--_15pnudm0:24;--_15pnudm2:0" data-icon="soccer_card">
+</span>
+
+                    <div>
+                      
+      <div>
+            D. Rice
+                1<!---->'
+
+        <!---->
+      </div>
+      <div>
+            M. Guehi
+                68<!---->'
+
+        <!---->
+      </div>
+<!---->      <div>
+            N. O'Reilly
+                72<!---->'
+
+        <!---->
+      </div>
+<!---->      <div>
+            J. Henderson
+                90+8'
+
+        <!---->
+      </div>
+
+                    </div>
+                  </div>
+                  <div class="ukxgz02 _1chu0ywh p4kpu3c9">
+                    <div class="_1dy6oyq4c">
+                      
+<!---->
+                    </div>
+
+                      <span class="_15pnudm3 _1chu0ywj _1dy6oyq4j _1dy6oyq4x _16jnwhc1" style="--_15pnudm0:24;--_15pnudm2:0" data-icon="soccer_card">
+</span>
+                    
+                    <div>
+                      
+      <div>
+            J. Quansah
+                54<!---->'
+
+        <!---->
+      </div>
+
+                    </div>
+                  </div>
+          </div>
+    </div>
+  
+
+
+      
+  <p class>
+    Ennek ellenére pár perccel később az angolok még növelni tudták az előnyüket Kane tizenegyesével, miután a kiugró Gordont elkaszálta Rangel kapus. A mexikóiaknak ekkor kétgólos hátrányt kellett volna behozniuk, óriási rohamokat indítottak, de már csak a szépítésre futotta, a 69. percben Jiménez tizenegyesével. Ezután már tényleg felborult a pálya, egymás után jöttek a mexikói támadási kísérletek, de Pickford is nagy formában volt, és az egész válogatott egy emberként védekezett, a tizenegy perces hosszabbításra már Kane-t is lehozta Tuchel, egymást érték a blokkok, a kifejelt labdák és a sikeres becsúszások, a meccs utolsó harmada olyasvalami volt, amiről még nagyon sokat fognak beszélni Angliában: a brit sajtó máris minden idők egyik legnagyobb brit vébémeccseként <a href="https://www.bbc.com/sport/football/live/cr5j14eyzm8t?post=asset%3Ad0e2d5ca-c7c8-44ad-9a6e-259cf0db3157#post" target="_blank" >beszél</a> a találkozóról. Az angol válogatottra majd a <a href="https://444.hu/2026/07/06/haalandvarazslat-a-nyolcaddontoben-norvegia-kiverte-braziliat" target="_blank" >Brazíliát kiejtő</a> Norvégia vár a negyeddöntőben. 
+  </p>
+
+
+          
+  </div>
+
+
+            
+    <div id="ap-article-bottom-001" class="_13ou49a0 "></div>
+  
+            
+    <div id="ap-article-bottom-002" class="_13ou49a0 "></div>
+  
+            
+    <div id="ap-article-bottom-003" class="_13ou49a0 "></div>
+  
+
+          
+    <div class="_1chu0ywg p4kpu34h p4kpu3c9 p4kpu3hb _1chu0yw9 _2r9i9d">
+<!---->
+            <a class="_189c837e _189c8375 _1chu0yw6 _1chu0ywl ta3a4c1ho p4kpu377 p4kpu3c9 p4kpu31k _1dy6oyq4x uwwrama _1dy6oyq1s _1chu0ywt _1chu0ywy _189c8370 uwwram3 uwwramj _189c8373 _7oso933 _1chu0yw14 _189c837g _189c837i _189c837k _189c837m ta3a4cx9 _189c8378 diq4x0 _18ssces1 _18ssces5 _18ssces2 _18ssces15 _18ssces7n _18ssces7k _18sscesh3 _189c8379 _1dy6oyqam _1dy6oyqk2 ta3a4css _1go36eq2 _1dy6oyq4k" data-group href="/category/sport" role="button">
+    
+
+<!---->
+    <span class="_1chu0ywu _1chu0ywz _1dy6oyq4g">
+      
+    
+    sport
+  
+  
+    </span>
+
+<!---->  </a>
+
+
+
+            <a class="_189c837e _189c8375 _1chu0yw6 _1chu0ywl ta3a4c1ho p4kpu377 p4kpu3c9 p4kpu31k _1dy6oyq4x uwwrama _1dy6oyq1s _1chu0ywt _1chu0ywy _189c8370 uwwram3 uwwramj _189c8373 _7oso933 _1chu0yw14 _189c837g _189c837i _189c837k _189c837m ta3a4cx9 _189c8378 diq4x0 _18ssces1 _18ssces5 _18ssces2 _18ssces15 _18ssces7n _18ssces7k _18sscesh3 _189c8379 _1dy6oyqam _1dy6oyqk2 ta3a4css _1dy6oyq4k" data-group href="/tag/foci-vb-2026" role="button">
+    
+
+<!---->
+    <span class="_1chu0ywu _1chu0ywz _1dy6oyq4g">
+      
+    
+    foci vb 2026
+  
+  
+    </span>
+
+<!---->  </a>
+
+
+            <a class="_189c837e _189c8375 _1chu0yw6 _1chu0ywl ta3a4c1ho p4kpu377 p4kpu3c9 p4kpu31k _1dy6oyq4x uwwrama _1dy6oyq1s _1chu0ywt _1chu0ywy _189c8370 uwwram3 uwwramj _189c8373 _7oso933 _1chu0yw14 _189c837g _189c837i _189c837k _189c837m ta3a4cx9 _189c8378 diq4x0 _18ssces1 _18ssces5 _18ssces2 _18ssces15 _18ssces7n _18ssces7k _18sscesh3 _189c8379 _1dy6oyqam _1dy6oyqk2 ta3a4css _1dy6oyq4k" data-group href="/tag/jimenez" role="button">
+    
+
+<!---->
+    <span class="_1chu0ywu _1chu0ywz _1dy6oyq4g">
+      
+    
+    Jiménez
+  
+  
+    </span>
+
+<!---->  </a>
+
+
+            <a class="_189c837e _189c8375 _1chu0yw6 _1chu0ywl ta3a4c1ho p4kpu377 p4kpu3c9 p4kpu31k _1dy6oyq4x uwwrama _1dy6oyq1s _1chu0ywt _1chu0ywy _189c8370 uwwram3 uwwramj _189c8373 _7oso933 _1chu0yw14 _189c837g _189c837i _189c837k _189c837m ta3a4cx9 _189c8378 diq4x0 _18ssces1 _18ssces5 _18ssces2 _18ssces15 _18ssces7n _18ssces7k _18sscesh3 _189c8379 _1dy6oyqam _1dy6oyqk2 ta3a4css _1dy6oyq4k" data-group href="/tag/jude-bellingham" role="button">
+    
+
+<!---->
+    <span class="_1chu0ywu _1chu0ywz _1dy6oyq4g">
+      
+    
+    jude bellingham
+  
+  
+    </span>
+
+<!---->  </a>
+
+
+            <a class="_189c837e _189c8375 _1chu0yw6 _1chu0ywl ta3a4c1ho p4kpu377 p4kpu3c9 p4kpu31k _1dy6oyq4x uwwrama _1dy6oyq1s _1chu0ywt _1chu0ywy _189c8370 uwwram3 uwwramj _189c8373 _7oso933 _1chu0yw14 _189c837g _189c837i _189c837k _189c837m ta3a4cx9 _189c8378 diq4x0 _18ssces1 _18ssces5 _18ssces2 _18ssces15 _18ssces7n _18ssces7k _18sscesh3 _189c8379 _1dy6oyqam _1dy6oyqk2 ta3a4css _1dy6oyq4k" data-group href="/tag/angol-valogatott" role="button">
+    
+
+<!---->
+    <span class="_1chu0ywu _1chu0ywz _1dy6oyq4g">
+      
+    
+    angol válogatott
+  
+  
+    </span>
+
+<!---->  </a>
+
+
+            <a class="_189c837e _189c8375 _1chu0yw6 _1chu0ywl ta3a4c1ho p4kpu377 p4kpu3c9 p4kpu31k _1dy6oyq4x uwwrama _1dy6oyq1s _1chu0ywt _1chu0ywy _189c8370 uwwram3 uwwramj _189c8373 _7oso933 _1chu0yw14 _189c837g _189c837i _189c837k _189c837m ta3a4cx9 _189c8378 diq4x0 _18ssces1 _18ssces5 _18ssces2 _18ssces15 _18ssces7n _18ssces7k _18sscesh3 _189c8379 _1dy6oyqam _1dy6oyqk2 ta3a4css _1dy6oyq4k" data-group href="/tag/azteca-stadion" role="button">
+    
+
+<!---->
+    <span class="_1chu0ywu _1chu0ywz _1dy6oyq4g">
+      
+    
+    Azteca Stadion
+  
+  
+    </span>
+
+<!---->  </a>
+
+
+            <a class="_189c837e _189c8375 _1chu0yw6 _1chu0ywl ta3a4c1ho p4kpu377 p4kpu3c9 p4kpu31k _1dy6oyq4x uwwrama _1dy6oyq1s _1chu0ywt _1chu0ywy _189c8370 uwwram3 uwwramj _189c8373 _7oso933 _1chu0yw14 _189c837g _189c837i _189c837k _189c837m ta3a4cx9 _189c8378 diq4x0 _18ssces1 _18ssces5 _18ssces2 _18ssces15 _18ssces7n _18ssces7k _18sscesh3 _189c8379 _1dy6oyqam _1dy6oyqk2 ta3a4css _1dy6oyq4k" data-group href="/tag/norvegia" role="button">
+    
+
+<!---->
+    <span class="_1chu0ywu _1chu0ywz _1dy6oyq4g">
+      
+    
+    Norvégia
+  
+  
+    </span>
+
+<!---->  </a>
+
+
+            <a class="_189c837e _189c8375 _1chu0yw6 _1chu0ywl ta3a4c1ho p4kpu377 p4kpu3c9 p4kpu31k _1dy6oyq4x uwwrama _1dy6oyq1s _1chu0ywt _1chu0ywy _189c8370 uwwram3 uwwramj _189c8373 _7oso933 _1chu0yw14 _189c837g _189c837i _189c837k _189c837m ta3a4cx9 _189c8378 diq4x0 _18ssces1 _18ssces5 _18ssces2 _18ssces15 _18ssces7n _18ssces7k _18sscesh3 _189c8379 _1dy6oyqam _1dy6oyqk2 ta3a4css _1dy6oyq4k" data-group href="/tag/mexiko" role="button">
+    
+
+<!---->
+    <span class="_1chu0ywu _1chu0ywz _1dy6oyq4g">
+      
+    
+    mexikó
+  
+  
+    </span>
+
+<!---->  </a>
+
+
+            <a class="_189c837e _189c8375 _1chu0yw6 _1chu0ywl ta3a4c1ho p4kpu377 p4kpu3c9 p4kpu31k _1dy6oyq4x uwwrama _1dy6oyq1s _1chu0ywt _1chu0ywy _189c8370 uwwram3 uwwramj _189c8373 _7oso933 _1chu0yw14 _189c837g _189c837i _189c837k _189c837m ta3a4cx9 _189c8378 diq4x0 _18ssces1 _18ssces5 _18ssces2 _18ssces15 _18ssces7n _18ssces7k _18sscesh3 _189c8379 _1dy6oyqam _1dy6oyqk2 ta3a4css _1dy6oyq4k" data-group href="/tag/thomas-tuchel" role="button">
+    
+
+<!---->
+    <span class="_1chu0ywu _1chu0ywz _1dy6oyq4g">
+      
+    
+    thomas tuchel
+  
+  
+    </span>
+
+<!---->  </a>
+
+
+            <a class="_189c837e _189c8375 _1chu0yw6 _1chu0ywl ta3a4c1ho p4kpu377 p4kpu3c9 p4kpu31k _1dy6oyq4x uwwrama _1dy6oyq1s _1chu0ywt _1chu0ywy _189c8370 uwwram3 uwwramj _189c8373 _7oso933 _1chu0yw14 _189c837g _189c837i _189c837k _189c837m ta3a4cx9 _189c8378 diq4x0 _18ssces1 _18ssces5 _18ssces2 _18ssces15 _18ssces7n _18ssces7k _18sscesh3 _189c8379 _1dy6oyqam _1dy6oyqk2 ta3a4css _1dy6oyq4k" data-group href="/tag/pickford" role="button">
+    
+
+<!---->
+    <span class="_1chu0ywu _1chu0ywz _1dy6oyq4g">
+      
+    
+    Pickford
+  
+  
+    </span>
+
+<!---->  </a>
+
+
+            <a class="_189c837e _189c8375 _1chu0yw6 _1chu0ywl ta3a4c1ho p4kpu377 p4kpu3c9 p4kpu31k _1dy6oyq4x uwwrama _1dy6oyq1s _1chu0ywt _1chu0ywy _189c8370 uwwram3 uwwramj _189c8373 _7oso933 _1chu0yw14 _189c837g _189c837i _189c837k _189c837m ta3a4cx9 _189c8378 diq4x0 _18ssces1 _18ssces5 _18ssces2 _18ssces15 _18ssces7n _18ssces7k _18sscesh3 _189c8379 _1dy6oyqam _1dy6oyqk2 ta3a4css _1dy6oyq4k" data-group href="/tag/harry-kane" role="button">
+    
+
+<!---->
+    <span class="_1chu0ywu _1chu0ywz _1dy6oyq4g">
+      
+    
+    harry kane
+  
+  
+    </span>
+
+<!---->  </a>
+
+
+            <a class="_189c837e _189c8375 _1chu0yw6 _1chu0ywl ta3a4c1ho p4kpu377 p4kpu3c9 p4kpu31k _1dy6oyq4x uwwrama _1dy6oyq1s _1chu0ywt _1chu0ywy _189c8370 uwwram3 uwwramj _189c8373 _7oso933 _1chu0yw14 _189c837g _189c837i _189c837k _189c837m ta3a4cx9 _189c8378 diq4x0 _18ssces1 _18ssces5 _18ssces2 _18ssces15 _18ssces7n _18ssces7k _18sscesh3 _189c8379 _1dy6oyqam _1dy6oyqk2 ta3a4css _1dy6oyq4k" data-group href="/tag/quansah" role="button">
+    
+
+<!---->
+    <span class="_1chu0ywu _1chu0ywz _1dy6oyq4g">
+      
+    
+    Quansah
+  
+  
+    </span>
+
+<!---->  </a>
+
+
+    </div>
+  
+
+            
+  <div class="_1chu0ywm slotVideoPlayer _1chu0yw9 _2r9i9d"></div>
+
+
+          
+    <section class="_1chu0yw9 _2r9i9d">
+      
+  <div class="_1myqn4p0 _1chu0ywg p4kpu31k ta3a4c1h3 _1dy6oyq4x _1dy6oyq35 ta3a4c6f">
+        Kapcsolódó cikkek
+      <span class="ta3a4c1fq _8b6bx8d p4kpu35g" aria-hidden="true"></span>
+<!---->  </div>
+
+      <div class="_1chu0ywg p4kpu33i p4kpu3hb p4kpu3i5">
+          
+        <a href="/2026/07/06/haalandvarazslat-a-nyolcaddontoben-norvegia-kiverte-braziliat" title="Haaland–varázslat a nyolcaddöntőben: Norvégia kiverte Brazíliát" class="c3zuuge _1chu0yw9 _1chu0yw14 _1chu0ywh p4kpu3cn p4kpu31y p4kpu3e c3zuug0 c3zuugi c3zuugl p4kpu3cn c3zuug8 c3zuug7" data-group>
+            
+        
+  <img loading="lazy" src="https://assets.4cdn.hu/kraken/8MXHaLj3O3fi29A1Qms.jpeg" srcset="https://assets.4cdn.hu/kraken/8MXHaLj3O3fi29A1Qms-xxs.jpeg 96w, https://assets.4cdn.hu/kraken/8MXHaLj3O3fi29A1Qms-xs.jpeg 360w, https://assets.4cdn.hu/kraken/8MXHaLj3O3fi29A1Qms-sm.jpeg 640w, https://assets.4cdn.hu/kraken/8MXHaLj3O3fi29A1Qms-md.jpeg 768w, https://assets.4cdn.hu/kraken/8MXHaLj3O3fi29A1Qms-lg.jpeg 1366w, https://assets.4cdn.hu/kraken/8MXHaLj3O3fi29A1Qms-xl.jpeg 1920w, https://assets.4cdn.hu/kraken/8MXHaLj3O3fi29A1Qms-xxl.jpeg 2560w" sizes="auto" class="_672m2jd _1chu0ywo ta3a4c1ey ta3a4c1aa c3zuugz ta3a4c106 c3zuugc" style="--_672m2j6:1.50;--_672m2j5:2560px 1707px" alt>
+
+  
+
+          <div class="c3zuug10 _1chu0yw9 c3zuugd _1chu0ywh ta3a4c1fc">
+            
+      <h1 class="_19gjvagj _1dy6oyq4l _19gjvagm _19gjvagk _19gjvagr _19gjvagp
+          
+          ">
+        <span>
+<!---->          <span class="_1dy6oyq5g _1dy6oyq5s">Haaland–varázslat a nyolcaddöntőben: Norvégia kiverte Brazíliát</span>
+        </span>
+      </h1>
+  
+          </div>
+
+            <div class="c3zuug1c c3zuug1b c3zuug10 _1chu0yw9 ta3a4c16">
+              <p class="c3zuug1d">
+                A norvég óriás két hatalmas góljára Neymar csak egy tizenegyessel tudott válaszolni: a vörösök megérdemelten jutottak a legjobb nyolc közé.
+              </p>
+            </div>
+
+            
+    <div class="p4kpu3c9 p4kpu3gq _1chu0ywg _1dy6oyq2r _1dy6oyqb5 p4kpu31k c3zuug1e c3zuug1b ta3a4c1r">
+        <div class="_1chu0ywg p4kpu3c2">
+            <div class="_1wsp8zg4 _1chu0ywu _1chu0ywz _1chu0ywk _8b6bx51 _1dy6oyqb5 _1chu0ywt _1chu0ywy _1wsp8zg2" style="--_1wsp8zg0:40">
+    <img class="ta3a4c106 ta3a4c1fc _1chu0ywo" src="https://assets.4cdn.hu/kraken/7Lh0IxMKo6K08484s-xxs.jpeg?width=96&amp;height=96&amp;fit=crop" alt loading="lazy">
+</div>
+        </div>
+
+      <div class="_1chu0ywh p4kpu31k">
+        <div>
+Rényi Pál Dániel<!---->
+        </div>
+
+        <div class="_1chu0ywg p4kpu3c2">
+            <span class="_1dy6oyq4k">
+futball            </span>
+
+            <span class="_2eey3i9 _1dy6oyq4b"></span>
+
+            <time class="_2eey3i8" datetime="2026-07-06T00:04:37+02:00">
+ma 0:04            </time>
+        </div>
+      </div>
+    </div>
+  
+        </a>
+        <!---->
+  
+          
+        <a href="/2026/07/05/oxigenhiany-kemkedes-ejszakai-zaklatas-irapuatoi-felelmekkel-kuzdenek-az-angolok-a-mexikoi-nyolcaddonto-elott" title="Oxigénhiány, kémkedés, éjszakai zaklatás – irapuatói félelmekkel küzdenek az angolok a mexikói nyolcaddöntő előtt" class="c3zuuge _1chu0yw9 _1chu0yw14 _1chu0ywh p4kpu3cn p4kpu31y p4kpu3e c3zuug0 c3zuugi c3zuugl p4kpu3cn c3zuug8 c3zuug7" data-group>
+            
+        
+  <img loading="lazy" src="https://assets.4cdn.hu/kraken/8MWNsiRRUcKO1du15ws.jpeg" srcset="https://assets.4cdn.hu/kraken/8MWNsiRRUcKO1du15ws-xxs.jpeg 96w, https://assets.4cdn.hu/kraken/8MWNsiRRUcKO1du15ws-xs.jpeg 360w, https://assets.4cdn.hu/kraken/8MWNsiRRUcKO1du15ws-sm.jpeg 640w, https://assets.4cdn.hu/kraken/8MWNsiRRUcKO1du15ws-md.jpeg 768w, https://assets.4cdn.hu/kraken/8MWNsiRRUcKO1du15ws-lg.jpeg 1366w, https://assets.4cdn.hu/kraken/8MWNsiRRUcKO1du15ws-xl.jpeg 1920w, https://assets.4cdn.hu/kraken/8MWNsiRRUcKO1du15ws-xxl.jpeg 2560w" sizes="auto" class="_672m2jd _1chu0ywo ta3a4c1ey ta3a4c1aa c3zuugz ta3a4c106 c3zuugc" style="--_672m2j6:1.50;--_672m2j5:2560px 1707px" alt>
+
+  
+
+          <div class="c3zuug10 _1chu0yw9 c3zuugd _1chu0ywh ta3a4c1fc">
+            
+      <h1 class="_19gjvagj _1dy6oyq4l _19gjvagm _19gjvagk _19gjvagr _19gjvago
+          
+          ">
+        <span>
+<!---->          <span class="_1dy6oyq5g _1dy6oyq5s">Oxigénhiány, kémkedés, éjszakai zaklatás – irapuatói félelmekkel küzdenek az angolok a mexikói nyolcaddöntő előtt</span>
+        </span>
+      </h1>
+  
+          </div>
+
+            <div class="c3zuug1c c3zuug1b c3zuug10 _1chu0yw9 ta3a4c16">
+              <p class="c3zuug1d">
+                Leginkább a tengerszint feletti magasság okoz aggodalmat Mexikóvárosban, amihez nehéz két nap alatt alkalmazkodni.
+              </p>
+            </div>
+
+            
+    <div class="p4kpu3c9 p4kpu3gq _1chu0ywg _1dy6oyq2r _1dy6oyqb5 p4kpu31k c3zuug1e c3zuug1b ta3a4c1r">
+        <div class="_1chu0ywg p4kpu3c2">
+            <div class="_1wsp8zg4 _1chu0ywu _1chu0ywz _1chu0ywk _8b6bx51 _1dy6oyqb5 _1chu0ywt _1chu0ywy _1wsp8zg2" style="--_1wsp8zg0:40">
+    <img class="ta3a4c106 ta3a4c1fc _1chu0ywo" src="https://assets.4cdn.hu/kraken/7Lh0IxMKo6K08484s-xxs.jpeg?width=96&amp;height=96&amp;fit=crop" alt loading="lazy">
+</div>
+        </div>
+
+      <div class="_1chu0ywh p4kpu31k">
+        <div>
+Rényi Pál Dániel<!---->
+        </div>
+
+        <div class="_1chu0ywg p4kpu3c2">
+            <span class="_1dy6oyq4k">
+futball            </span>
+
+            <span class="_2eey3i9 _1dy6oyq4b"></span>
+
+            <time class="_2eey3i8" datetime="2026-07-05T10:01:28+02:00">
+tegnap 10:01            </time>
+        </div>
+      </div>
+    </div>
+  
+        </a>
+        <!---->
+  
+      </div>
+    </section>
+
+        
+  </div>
+
+
+<!---->      
+  </div>
+
+    
+  </div>
+
+  
+
+        <div class="ta3a4c1mq"></div>
+        
+  <footer class="sun34x0 ta3a4ckm ta3a4cp3 _1chu0ywh p4kpu3hp _1dy6oyq1s ta3a4c0">
+    <div class="ta3a4csw ta3a4ctl ta3a4cxd ta3a4cy2 _1chu0ywg p4kpu31k p4kpu37z p4kpu34h">
+      <a href="/gyik" class="ta3a4cj9 ta3a4cnq _1dy6oyq5o uwwrama _1dy6oyq4x">
+        GYIK
+      </a>
+      <span class="sun34x3 ta3a4cz ta3a4c5g ta3a4cab ta3a4ces _1dy6oyq4b"></span>
+      <a href="mailto:elakadtam@444.hu" class="ta3a4cj9 ta3a4cnq _1dy6oyq5o uwwrama _1dy6oyq4x">
+        Hibát jelentek
+      </a>
+      <span class="sun34x3 ta3a4cz ta3a4c5g ta3a4cab ta3a4ces _1dy6oyq4b"></span>
+      <a href="/impresszum" class="ta3a4cj9 ta3a4cnq _1dy6oyq5o uwwrama _1dy6oyq4x">
+        Impresszum
+      </a>
+      <span class="sun34x3 ta3a4cz ta3a4c5g ta3a4cab ta3a4ces _1dy6oyq4b"></span>
+      <a href="/helyreigazitasok-javitasok" class="ta3a4cj9 ta3a4cnq _1dy6oyq5o uwwrama _1dy6oyq4x">
+        Javítások kezelése
+      </a>
+      <span class="sun34x3 ta3a4cz ta3a4c5g ta3a4cab ta3a4ces _1dy6oyq4b"></span>
+      <a href="/jogi-dokumentumok" class="ta3a4cj9 ta3a4cnq _1dy6oyq5o uwwrama _1dy6oyq4x">
+        Jogi dokumentumok
+      </a>
+      <span class="sun34x3 ta3a4cz ta3a4c5g ta3a4cab ta3a4ces _1dy6oyq4b"></span>
+      <a href="/mediaajanlat" class="ta3a4cj9 ta3a4cnq _1dy6oyq5o uwwrama _1dy6oyq4x">
+        Médiaajánlat
+      </a>
+      <span class="sun34x3 ta3a4cz ta3a4c5g ta3a4cab ta3a4ces _1dy6oyq4b"></span>
+      <a href="/feed" class="ta3a4cj9 ta3a4cnq _1dy6oyq5o uwwrama _1dy6oyq4x">
+        RSS
+      </a>
+      <span class="sun34x3 ta3a4cz ta3a4c5g ta3a4cab ta3a4ces _1dy6oyq4b"></span>
+      <span class="ta3a4cj9 ta3a4cnq _1dy6oyq5o uwwrama _1dy6oyq4x" role="button">
+        Sütibeállítások
+      </span>
+    </div>
+    <div class="ta3a4csw ta3a4ctl ta3a4cxd ta3a4cy2 _1chu0ywg p4kpu31k p4kpu37z p4kpu34h">
+      <span>
+        ©
+        2026
+        Magyar Jeti Zrt.
+      </span>
+    </div>
+    <div class="sun34x4 _1chu0ywh p4kpu31k p4kpu3cu">
+      
+  <hr class="_18wajyd1 _1chu0ywf _8b6bx8d sun34x5">
+
+      Vége
+      
+  <hr class="_18wajyd1 _1chu0ywf _8b6bx8d sun34x5">
+
+    </div>
+  </footer>
+
+    </div>
+  
+
+
+
+
+
+  
+<!---->  
+
+
+    </div>
+  
+
+
+<!---->  <script type="fastboot/shoebox" id="shoebox-apollo-cache">{"cache":{"Bucket:70b47701-2c71-55dc-95b1-7ac5be6b8a21":{"__typename":"Bucket","id":"70b47701-2c71-55dc-95b1-7ac5be6b8a21","slug":"444","name":"444"},"MediaItem:9d284683-83c2-59c9-845e-d6aa587bf202":{"__typename":"Image","caption":"","author":"CARL DE SOUZA/AFP","url":"https://assets.4cdn.hu/kraken/8MXdmBpQWzVQGWB0s.jpeg","creditType":"Fotó","sourceLink":null,"bucket":{"__ref":"Bucket:70b47701-2c71-55dc-95b1-7ac5be6b8a21"},"id":"9d284683-83c2-59c9-845e-d6aa587bf202","width":1024,"height":682,"variations":[{"__typename":"ImageVariation","url":"https://assets.4cdn.hu/kraken/8MXdmBpQWzVQGWB0s-xxs.jpeg","size":"xxs","width":96,"height":64},{"__typename":"ImageVariation","url":"https://assets.4cdn.hu/kraken/8MXdmBpQWzVQGWB0s-xs.jpeg","size":"xs","width":360,"height":240},{"__typename":"ImageVariation","url":"https://assets.4cdn.hu/kraken/8MXdmBpQWzVQGWB0s-sm.jpeg","size":"sm","width":640,"height":426},{"__typename":"ImageVariation","url":"https://assets.4cdn.hu/kraken/8MXdmBpQWzVQGWB0s-md.jpeg","size":"md","width":768,"height":512},{"__typename":"ImageVariation","url":"https://assets.4cdn.hu/kraken/8MXdmBpQWzVQGWB0s-lg.jpeg","size":"lg","width":1366,"height":910},{"__typename":"ImageVariation","url":"https://assets.4cdn.hu/kraken/8MXdmBpQWzVQGWB0s-xl.jpeg","size":"xl","width":1920,"height":1279},{"__typename":"ImageVariation","url":"https://assets.4cdn.hu/kraken/8MXdmBpQWzVQGWB0s-xxl.jpeg","size":"xxl","width":2560,"height":1705}]},"Author:e5fe9bc0-45fd-42b3-9eb8-a87ef4982673":{"__typename":"Author","id":"e5fe9bc0-45fd-42b3-9eb8-a87ef4982673","name":"Horváth Bence","avatar":"https://assets.4cdn.hu/kraken/6m8hVlNP1j9zAKFUs.jpeg?width=96\u0026height=96\u0026fit=crop","slug":"horvathb"},"Category:c2471353-fdc6-41bb-9383-56ab5889814f":{"__typename":"Category","id":"c2471353-fdc6-41bb-9383-56ab5889814f","slug":"sport","name":"sport","description":"","url":"https://444.hu/category/sport"},"Tag:0132f674-635f-48c7-b150-34d6daba06bd":{"__typename":"Tag","id":"0132f674-635f-48c7-b150-34d6daba06bd","slug":"foci-vb-2026","name":"foci vb 2026","description":"","url":"https://444.hu/tag/foci-vb-2026"},"Tag:25eba248-f65c-4a20-9beb-72eea6133ca9":{"__typename":"Tag","id":"25eba248-f65c-4a20-9beb-72eea6133ca9","slug":"jimenez","name":"Jiménez","description":"","url":"https://444.hu/tag/jimenez"},"Tag:5e3a287e-80ee-450d-bff5-eaf09d13e98c":{"__typename":"Tag","id":"5e3a287e-80ee-450d-bff5-eaf09d13e98c","slug":"jude-bellingham","name":"jude bellingham","description":"","url":"https://444.hu/tag/jude-bellingham"},"Tag:7d2569d0-7bf7-4e9c-b9df-f2cdd286c4ab":{"__typename":"Tag","id":"7d2569d0-7bf7-4e9c-b9df-f2cdd286c4ab","slug":"angol-valogatott","name":"angol válogatott","description":"","url":"https://444.hu/tag/angol-valogatott"},"Tag:7dcffb7c-f6e5-4c9f-a66f-71671f47d407":{"__typename":"Tag","id":"7dcffb7c-f6e5-4c9f-a66f-71671f47d407","slug":"azteca-stadion","name":"Azteca Stadion","description":"","url":"https://444.hu/tag/azteca-stadion"},"Tag:9edf62ca-79ed-4fd5-9adb-55668fc2f998":{"__typename":"Tag","id":"9edf62ca-79ed-4fd5-9adb-55668fc2f998","slug":"norvegia","name":"Norvégia","description":"","url":"https://444.hu/tag/norvegia"},"Tag:b47a138e-f91d-4953-9b83-0610790074ff":{"__typename":"Tag","id":"b47a138e-f91d-4953-9b83-0610790074ff","slug":"mexiko","name":"mexikó","description":"","url":"https://444.hu/tag/mexiko"},"Tag:bb94cb85-fdad-5cca-9c3f-5cc6f1d5964b":{"__typename":"Tag","id":"bb94cb85-fdad-5cca-9c3f-5cc6f1d5964b","slug":"thomas-tuchel","name":"thomas tuchel","description":null,"url":"https://444.hu/tag/thomas-tuchel"},"Tag:c83acd78-673f-4322-926b-3feeafbbb469":{"__typename":"Tag","id":"c83acd78-673f-4322-926b-3feeafbbb469","slug":"pickford","name":"Pickford","description":"","url":"https://444.hu/tag/pickford"},"Tag:e662c134-4cf1-561e-bedb-7e254e287648":{"__typename":"Tag","id":"e662c134-4cf1-561e-bedb-7e254e287648","slug":"harry-kane","name":"harry kane","description":null,"url":"https://444.hu/tag/harry-kane"},"Tag:fab48cd2-7cba-4293-ac6e-7e944bf579cb":{"__typename":"Tag","id":"fab48cd2-7cba-4293-ac6e-7e944bf579cb","slug":"quansah","name":"Quansah","description":"","url":"https://444.hu/tag/quansah"},"Format:7a6036e1-c587-11f0-9297-525400d76232":{"__typename":"Format","id":"7a6036e1-c587-11f0-9297-525400d76232","slug":"cikk","name":"Cikk","description":null,"url":"https://444.hu/format/cikk","mateType":"DEFAULT"},"MediaItem:48ec7ab2-a905-5c1d-9bd2-5adfcd44f533":{"__typename":"Image","caption":"","author":"JEWEL SAMAD/AFP","url":"https://assets.4cdn.hu/kraken/8MXHaLj3O3fi29A1Qms.jpeg","creditType":"Fotó","sourceLink":null,"bucket":{"__ref":"Bucket:70b47701-2c71-55dc-95b1-7ac5be6b8a21"},"id":"48ec7ab2-a905-5c1d-9bd2-5adfcd44f533","width":8256,"height":5504,"variations":[{"__typename":"ImageVariation","url":"https://assets.4cdn.hu/kraken/8MXHaLj3O3fi29A1Qms-xxs.jpeg","size":"xxs","width":96,"height":64},{"__typename":"ImageVariation","url":"https://assets.4cdn.hu/kraken/8MXHaLj3O3fi29A1Qms-xs.jpeg","size":"xs","width":360,"height":240},{"__typename":"ImageVariation","url":"https://assets.4cdn.hu/kraken/8MXHaLj3O3fi29A1Qms-sm.jpeg","size":"sm","width":640,"height":427},{"__typename":"ImageVariation","url":"https://assets.4cdn.hu/kraken/8MXHaLj3O3fi29A1Qms-md.jpeg","size":"md","width":768,"height":512},{"__typename":"ImageVariation","url":"https://assets.4cdn.hu/kraken/8MXHaLj3O3fi29A1Qms-lg.jpeg","size":"lg","width":1366,"height":911},{"__typename":"ImageVariation","url":"https://assets.4cdn.hu/kraken/8MXHaLj3O3fi29A1Qms-xl.jpeg","size":"xl","width":1920,"height":1280},{"__typename":"ImageVariation","url":"https://assets.4cdn.hu/kraken/8MXHaLj3O3fi29A1Qms-xxl.jpeg","size":"xxl","width":2560,"height":1707}]},"Author:af3a6a06-0124-4c74-9048-0a3f4dfee4c5":{"__typename":"Author","id":"af3a6a06-0124-4c74-9048-0a3f4dfee4c5","name":"Rényi Pál Dániel","avatar":"https://assets.4cdn.hu/kraken/7Lh0IxMKo6K08484s.jpeg?width=96\u0026height=96\u0026fit=crop","slug":"renyip"},"Category:0486fb8f-b163-4d3f-9b0b-6aa5839b2aeb":{"__typename":"Category","id":"0486fb8f-b163-4d3f-9b0b-6aa5839b2aeb","slug":"futball","name":"futball","description":"","url":"https://444.hu/category/futball"},"Article:28ce75ca-e99c-55da-acc9-61e43a116bc8":{"__typename":"Article","id":"28ce75ca-e99c-55da-acc9-61e43a116bc8","title":"Haaland–varázslat a nyolcaddöntőben: Norvégia kiverte Brazíliát","slug":"haalandvarazslat-a-nyolcaddontoben-norvegia-kiverte-braziliat","featuredImage":{"__ref":"MediaItem:48ec7ab2-a905-5c1d-9bd2-5adfcd44f533"},"excerpt":"A norvég óriás két hatalmas góljára Neymar csak egy tizenegyessel tudott válaszolni: a vörösök megérdemelten jutottak a legjobb nyolc közé.","publishedAt":"2026-07-06T00:04:37+02:00","createdAt":"2026-07-06T00:04:40+02:00","authors":[{"__ref":"Author:af3a6a06-0124-4c74-9048-0a3f4dfee4c5"}],"categories":[{"__ref":"Category:0486fb8f-b163-4d3f-9b0b-6aa5839b2aeb"}],"collections":[],"bucket":{"__ref":"Bucket:70b47701-2c71-55dc-95b1-7ac5be6b8a21"},"options":[{"__typename":"Option","key":"template","value":""},{"__typename":"Option","key":"language","value":"hu"},{"__typename":"Option","key":"color_scheme","value":""},{"__typename":"Option","key":"is_anonym","value":false},{"__typename":"Option","key":"background_shadow","value":false},{"__typename":"Option","key":"title_inner","value":false},{"__typename":"Option","key":"lead_av","value":""},{"__typename":"Option","key":"jumbotron","value":"48ec7ab2-a905-5c1d-9bd2-5adfcd44f533"},{"__typename":"Option","key":"external_url","value":""},{"__typename":"Option","key":"title_alignment","value":""},{"__typename":"Option","key":"comments_enabled","value":true},{"__typename":"Option","key":"stream","value":true}],"format":{"__ref":"Format:7a6036e1-c587-11f0-9297-525400d76232"},"partners":[],"url":"https://444.hu/2026/07/06/haalandvarazslat-a-nyolcaddontoben-norvegia-kiverte-braziliat"},"MediaItem:5c6e9bc0-8d02-57c0-8e35-113ae9bdbb7d":{"__typename":"Image","caption":"Djed Spence és John Stones küzd a labdáért az angol válogatott edzésén július 4-én Mexikóvárosban, a Pumas edzőközpontjában","author":"CARL DE SOUZA/AFP","url":"https://assets.4cdn.hu/kraken/8MWNsiRRUcKO1du15ws.jpeg","creditType":"Fotó","sourceLink":null,"bucket":{"__ref":"Bucket:70b47701-2c71-55dc-95b1-7ac5be6b8a21"},"id":"5c6e9bc0-8d02-57c0-8e35-113ae9bdbb7d","width":6318,"height":4212,"variations":[{"__typename":"ImageVariation","url":"https://assets.4cdn.hu/kraken/8MWNsiRRUcKO1du15ws-xxs.jpeg","size":"xxs","width":96,"height":64},{"__typename":"ImageVariation","url":"https://assets.4cdn.hu/kraken/8MWNsiRRUcKO1du15ws-xs.jpeg","size":"xs","width":360,"height":240},{"__typename":"ImageVariation","url":"https://assets.4cdn.hu/kraken/8MWNsiRRUcKO1du15ws-sm.jpeg","size":"sm","width":640,"height":427},{"__typename":"ImageVariation","url":"https://assets.4cdn.hu/kraken/8MWNsiRRUcKO1du15ws-md.jpeg","size":"md","width":768,"height":512},{"__typename":"ImageVariation","url":"https://assets.4cdn.hu/kraken/8MWNsiRRUcKO1du15ws-lg.jpeg","size":"lg","width":1366,"height":911},{"__typename":"ImageVariation","url":"https://assets.4cdn.hu/kraken/8MWNsiRRUcKO1du15ws-xl.jpeg","size":"xl","width":1920,"height":1280},{"__typename":"ImageVariation","url":"https://assets.4cdn.hu/kraken/8MWNsiRRUcKO1du15ws-xxl.jpeg","size":"xxl","width":2560,"height":1707}]},"Article:82f32d41-3ddc-53c3-909f-9f123d633800":{"__typename":"Article","id":"82f32d41-3ddc-53c3-909f-9f123d633800","title":"Oxigénhiány, kémkedés, éjszakai zaklatás – irapuatói félelmekkel küzdenek az angolok a mexikói nyolcaddöntő előtt","slug":"oxigenhiany-kemkedes-ejszakai-zaklatas-irapuatoi-felelmekkel-kuzdenek-az-angolok-a-mexikoi-nyolcaddonto-elott","featuredImage":{"__ref":"MediaItem:5c6e9bc0-8d02-57c0-8e35-113ae9bdbb7d"},"excerpt":"Leginkább a tengerszint feletti magasság okoz aggodalmat Mexikóvárosban, amihez nehéz két nap alatt alkalmazkodni.","publishedAt":"2026-07-05T10:01:28+02:00","createdAt":"2026-07-05T10:01:30+02:00","authors":[{"__ref":"Author:af3a6a06-0124-4c74-9048-0a3f4dfee4c5"}],"categories":[{"__ref":"Category:0486fb8f-b163-4d3f-9b0b-6aa5839b2aeb"}],"collections":[],"bucket":{"__ref":"Bucket:70b47701-2c71-55dc-95b1-7ac5be6b8a21"},"options":[{"__typename":"Option","key":"template","value":""},{"__typename":"Option","key":"language","value":"hu"},{"__typename":"Option","key":"color_scheme","value":""},{"__typename":"Option","key":"is_anonym","value":false},{"__typename":"Option","key":"background_shadow","value":false},{"__typename":"Option","key":"title_inner","value":false},{"__typename":"Option","key":"lead_av","value":""},{"__typename":"Option","key":"jumbotron","value":""},{"__typename":"Option","key":"external_url","value":""},{"__typename":"Option","key":"title_alignment","value":""},{"__typename":"Option","key":"comments_enabled","value":true},{"__typename":"Option","key":"stream","value":true}],"format":{"__ref":"Format:7a6036e1-c587-11f0-9297-525400d76232"},"partners":[],"url":"https://444.hu/2026/07/05/oxigenhiany-kemkedes-ejszakai-zaklatas-irapuatoi-felelmekkel-kuzdenek-az-angolok-a-mexikoi-nyolcaddonto-elott"},"Article:9bc69006-2b54-553a-a185-6e2bcc636cf9":{"__typename":"Article","id":"9bc69006-2b54-553a-a185-6e2bcc636cf9","featuredImage":{"__ref":"MediaItem:9d284683-83c2-59c9-845e-d6aa587bf202"},"title":"Majdnem egy félidőt emberhátrányban, óriásit küzdve jutott tovább Anglia Mexikóval szemben","body":[[{"type":"core/paragraph","params":{},"content":"Hatalmas küzdelem és elképesztő védekezés után, 3-2 győzelemmel \u003cbr /\u003ejutott tovább az angol válogatott a házigazda Mexikóval szemben a világbajnokság nyolcaddöntőjében, úgy, hogy Quansah kiállítása után az 54. perctől emberhátrányban voltak. "},{"type":"image","params":{"src":"https://4cdn.hu/kraken/image/upload/s--uHBWap7F--/c_limit,w_760/8MXdmBpQWzVQGWB0s.jpeg","id":"9d284683-83c2-59c9-845e-d6aa587bf202","showauthor":"true","alt":"","link":"","mediaItem":{"caption":"","author":"CARL DE SOUZA/AFP","url":"https://assets.4cdn.hu/kraken/8MXdmBpQWzVQGWB0s.jpeg","creditType":"Fotó","sourceLink":null,"bucket":{"id":"70b47701-2c71-55dc-95b1-7ac5be6b8a21","slug":"444","name":"444","__typename":"Bucket"},"__typename":"Image","id":"9d284683-83c2-59c9-845e-d6aa587bf202","width":1024,"height":682,"variations":[{"url":"https://assets.4cdn.hu/kraken/8MXdmBpQWzVQGWB0s-xxs.jpeg","size":"xxs","width":96,"height":64,"__typename":"ImageVariation"},{"url":"https://assets.4cdn.hu/kraken/8MXdmBpQWzVQGWB0s-xs.jpeg","size":"xs","width":360,"height":240,"__typename":"ImageVariation"},{"url":"https://assets.4cdn.hu/kraken/8MXdmBpQWzVQGWB0s-sm.jpeg","size":"sm","width":640,"height":426,"__typename":"ImageVariation"},{"url":"https://assets.4cdn.hu/kraken/8MXdmBpQWzVQGWB0s-md.jpeg","size":"md","width":768,"height":512,"__typename":"ImageVariation"},{"url":"https://assets.4cdn.hu/kraken/8MXdmBpQWzVQGWB0s-lg.jpeg","size":"lg","width":1366,"height":910,"__typename":"ImageVariation"},{"url":"https://assets.4cdn.hu/kraken/8MXdmBpQWzVQGWB0s-xl.jpeg","size":"xl","width":1920,"height":1279,"__typename":"ImageVariation"},{"url":"https://assets.4cdn.hu/kraken/8MXdmBpQWzVQGWB0s-xxl.jpeg","size":"xxl","width":2560,"height":1705,"__typename":"ImageVariation"}]}},"content":""},{"type":"core/paragraph","params":{},"content":"Pedig a magaslati levegő, a kevés akklimatizációs idő és a rettegett helyszínnek számító Azteca Stadion miatt már \u003ca href=\"https://444.hu/2026/07/05/oxigenhiany-kemkedes-ejszakai-zaklatas-irapuatoi-felelmekkel-kuzdenek-az-angolok-a-mexikoi-nyolcaddonto-elott\" target=\"_blank\" \u003eelőzetesen aggódtak \u003c/a\u003eaz angolok, de aztán mégis úgy nézett ki, hogy a vártnál simábban meglehet a meccs a számukra: egy mozgalmas első félidő végefelé Jude Bellingham két percen belül két gólt is szerzett. Hogy mégse legyen annyira egyszerű a helyzet, Quiñones még a félidő vége előtt szépített, majd jött 54. perc és Quansah elkésett, nagyon csúnya becsúszása, majd VAR-ozás után a kiállítása, és onnantól teljesen felborult a pálya, Thomas Tuchel védőket volt kénytelen beküldeni, az angolok pedig hatalmas nyomással találták szemben magukat. "},{"type":"widget","params":{"type":"footballcup_match_scoreboard","params":{"contenteditable":"false","data-id":"ec60fd2e-ca8f-4f14-a277-43b2ae8a997e","type":"footballcup_match_scoreboard","competition-series_label":"Foci-vb 2026 - 2026","competition-series":"foci-vb-2026","id_label":"Winner Match 79 - Winner Match 80 (2026-07-06 00:00)","id":"winner-match-79-winner-match-80-2026-07-06-0000"}}},{"type":"core/paragraph","params":{},"content":"Ennek ellenére pár perccel később az angolok még növelni tudták az előnyüket Kane tizenegyesével, miután a kiugró Gordont elkaszálta Rangel kapus. A mexikóiaknak ekkor kétgólos hátrányt kellett volna behozniuk, óriási rohamokat indítottak, de már csak a szépítésre futotta, a 69. percben Jiménez tizenegyesével. Ezután már tényleg felborult a pálya, egymás után jöttek a mexikói támadási kísérletek, de Pickford is nagy formában volt, és az egész válogatott egy emberként védekezett, a tizenegy perces hosszabbításra már Kane-t is lehozta Tuchel, egymást érték a blokkok, a kifejelt labdák és a sikeres becsúszások, a meccs utolsó harmada olyasvalami volt, amiről még nagyon sokat fognak beszélni Angliában: a brit sajtó máris minden idők egyik legnagyobb brit vébémeccseként \u003ca href=\"https://www.bbc.com/sport/football/live/cr5j14eyzm8t?post=asset%3Ad0e2d5ca-c7c8-44ad-9a6e-259cf0db3157#post\" target=\"_blank\" \u003ebeszél\u003c/a\u003e a találkozóról. Az angol válogatottra majd a \u003ca href=\"https://444.hu/2026/07/06/haalandvarazslat-a-nyolcaddontoben-norvegia-kiverte-braziliat\" target=\"_blank\" \u003eBrazíliát kiejtő\u003c/a\u003e Norvégia vár a negyeddöntőben. "}]],"slug":"majdnem-egy-felidot-emberhatranyban-oriasit-kuzdve-jutott-tovabb-anglia-mexikoval-szemben","publishedAt":"2026-07-06T05:24:07+02:00","bucket":{"__ref":"Bucket:70b47701-2c71-55dc-95b1-7ac5be6b8a21"},"excerpt":"A világbajnokság eddigi egyik legjobb meccse 3-2-es brit győzelmet hozott.","createdAt":"2026-07-06T05:24:09+02:00","updatedAt":"2026-07-06T10:27:24+02:00","authors":[{"__ref":"Author:e5fe9bc0-45fd-42b3-9eb8-a87ef4982673"}],"categories":[{"__ref":"Category:c2471353-fdc6-41bb-9383-56ab5889814f"}],"tags":[{"__ref":"Tag:0132f674-635f-48c7-b150-34d6daba06bd"},{"__ref":"Tag:25eba248-f65c-4a20-9beb-72eea6133ca9"},{"__ref":"Tag:5e3a287e-80ee-450d-bff5-eaf09d13e98c"},{"__ref":"Tag:7d2569d0-7bf7-4e9c-b9df-f2cdd286c4ab"},{"__ref":"Tag:7dcffb7c-f6e5-4c9f-a66f-71671f47d407"},{"__ref":"Tag:9edf62ca-79ed-4fd5-9adb-55668fc2f998"},{"__ref":"Tag:b47a138e-f91d-4953-9b83-0610790074ff"},{"__ref":"Tag:bb94cb85-fdad-5cca-9c3f-5cc6f1d5964b"},{"__ref":"Tag:c83acd78-673f-4322-926b-3feeafbbb469"},{"__ref":"Tag:e662c134-4cf1-561e-bedb-7e254e287648"},{"__ref":"Tag:fab48cd2-7cba-4293-ac6e-7e944bf579cb"}],"collections":[],"meta":[{"__typename":"Meta","key":"excerpt","value":"A világbajnokság eddigi egyik legjobb meccse 3-2-es brit győzelmet hozott."},{"__typename":"Meta","key":"featuredImage","value":"9d284683-83c2-59c9-845e-d6aa587bf202"}],"options":[{"__typename":"Option","key":"template","value":""},{"__typename":"Option","key":"language","value":"hu"},{"__typename":"Option","key":"color_scheme","value":""},{"__typename":"Option","key":"is_anonym","value":false},{"__typename":"Option","key":"background_shadow","value":false},{"__typename":"Option","key":"title_inner","value":false},{"__typename":"Option","key":"lead_av","value":""},{"__typename":"Option","key":"jumbotron","value":""},{"__typename":"Option","key":"external_url","value":""},{"__typename":"Option","key":"title_alignment","value":""},{"__typename":"Option","key":"comments_enabled","value":true},{"__typename":"Option","key":"stream","value":true}],"url":"https://444.hu/2026/07/06/majdnem-egy-felidot-emberhatranyban-oriasit-kuzdve-jutott-tovabb-anglia-mexikoval-szemben","format":{"__ref":"Format:7a6036e1-c587-11f0-9297-525400d76232"},"partners":[],"relatedArticles":[{"__ref":"Article:28ce75ca-e99c-55da-acc9-61e43a116bc8"},{"__ref":"Article:82f32d41-3ddc-53c3-909f-9f123d633800"}],"userHasAccess":true},"ROOT_QUERY":{"__typename":"Query","content({\"fromBucket\":{\"column\":\"SLUG\",\"operator\":\"IN\",\"value\":[\"444\",\"jo\"]},\"publishedAt\":\"2026-07-06\",\"slug\":\"majdnem-egy-felidot-emberhatranyban-oriasit-kuzdve-jutott-tovabb-anglia-mexikoval-szemben\"})":{"__ref":"Article:9bc69006-2b54-553a-a185-6e2bcc636cf9"},"competitionStage({\"slug\":\"winner-match-79-winner-match-80-2026-07-06-0000\"})":{"__ref":"CompetitionStage:49566"}},"CompetitionSeries:9927":{"__typename":"CompetitionSeries","id":"9927","slug":"foci-vb-2026","type":"SPORT_CUP"},"CompetitionStage:49566":{"__typename":"CompetitionStage","id":"49566","name":"MEX - ENG (2026-07-06 01:00)","slug":"winner-match-79-winner-match-80-2026-07-06-0000","type":"SPORT_MATCH","description":null,"competition":{"__typename":"Competition","name":"Nyolcaddöntők","type":"SPORT_KNOCK_OUT","description":null,"competitionSeries":{"__ref":"CompetitionSeries:9927"}},"properties":{"__typename":"FootballCompetitionStageProperties","minutes":90,"extraMinute":0,"status":"FT","addedTimeSecondHalf":11,"addedTimeFirstHalf":5,"currentMinutes":null,"currentAddedTime":null,"country":"","city":"Mexico City","stadium":"Mexico City Stadium","lineupConfirmed":true},"events":[{"__typename":"Event","type":"GOAL","participants":[{"__typename":"EventParticipant","role":"COMPETITION_STAGE","participant":{"__typename":"CompetitionStage"}},{"__typename":"EventParticipant","role":"ASSIST","participant":{"__typename":"Human","name":"Bukayo Saka","shortName":"B. Saka"}},{"__typename":"EventParticipant","role":"SCORER","participant":{"__typename":"Human","name":"Jude Bellingham","shortName":"J. Bellingham"}}],"properties":[{"__typename":"KeyValue","key":"minute","value":36},{"__typename":"KeyValue","key":"result","value":"0-1"},{"__typename":"KeyValue","key":"injuried","value":null},{"__typename":"KeyValue","key":"extra_minute","value":null},{"__typename":"KeyValue","key":"local_or_visitor","value":"visitor"}],"title":"goal","description":null},{"__typename":"Event","type":"GOAL","participants":[{"__typename":"EventParticipant","role":"COMPETITION_STAGE","participant":{"__typename":"CompetitionStage"}},{"__typename":"EventParticipant","role":"ASSIST","participant":{"__typename":"Human","name":"Harry Kane","shortName":"H. Kane"}},{"__typename":"EventParticipant","role":"SCORER","participant":{"__typename":"Human","name":"Jude Bellingham","shortName":"J. Bellingham"}}],"properties":[{"__typename":"KeyValue","key":"minute","value":38},{"__typename":"KeyValue","key":"result","value":"0-2"},{"__typename":"KeyValue","key":"injuried","value":null},{"__typename":"KeyValue","key":"extra_minute","value":null},{"__typename":"KeyValue","key":"local_or_visitor","value":"visitor"}],"title":"goal","description":null},{"__typename":"Event","type":"GOAL","participants":[{"__typename":"EventParticipant","role":"COMPETITION_STAGE","participant":{"__typename":"CompetitionStage"}},{"__typename":"EventParticipant","role":"SCORER","participant":{"__typename":"Human","name":"Julián Andrés Quiñones Quiñones","shortName":"J. Quiñones Quiñones"}}],"properties":[{"__typename":"KeyValue","key":"minute","value":42},{"__typename":"KeyValue","key":"result","value":"1-2"},{"__typename":"KeyValue","key":"injuried","value":null},{"__typename":"KeyValue","key":"extra_minute","value":null},{"__typename":"KeyValue","key":"local_or_visitor","value":"local"}],"title":"goal","description":null},{"__typename":"Event","type":"PENALTY","participants":[{"__typename":"EventParticipant","role":"COMPETITION_STAGE","participant":{"__typename":"CompetitionStage"}},{"__typename":"EventParticipant","role":"SCORER","participant":{"__typename":"Human","name":"Harry Kane","shortName":"H. Kane"}}],"properties":[{"__typename":"KeyValue","key":"minute","value":60},{"__typename":"KeyValue","key":"result","value":"1-3"},{"__typename":"KeyValue","key":"injuried","value":null},{"__typename":"KeyValue","key":"extra_minute","value":null},{"__typename":"KeyValue","key":"local_or_visitor","value":"visitor"}],"title":"penalty","description":null},{"__typename":"Event","type":"PENALTY","participants":[{"__typename":"EventParticipant","role":"COMPETITION_STAGE","participant":{"__typename":"CompetitionStage"}},{"__typename":"EventParticipant","role":"SCORER","participant":{"__typename":"Human","name":"Raúl Alonso Jiménez Rodríguez","shortName":"R. Jiménez Rodríguez"}}],"properties":[{"__typename":"KeyValue","key":"minute","value":69},{"__typename":"KeyValue","key":"result","value":"2-3"},{"__typename":"KeyValue","key":"injuried","value":null},{"__typename":"KeyValue","key":"extra_minute","value":null},{"__typename":"KeyValue","key":"local_or_visitor","value":"local"}],"title":"penalty","description":null},{"__typename":"Event","type":"SUBSTITUTION","participants":[{"__typename":"EventParticipant","role":"COMPETITION_STAGE","participant":{"__typename":"CompetitionStage"}},{"__typename":"EventParticipant","role":"OUTGOING_PLAYER","participant":{"__typename":"Human","name":"César Jasib Montes Castro","shortName":"C. Montes Castro"}},{"__typename":"EventParticipant","role":"INCOMING_PLAYER","participant":{"__typename":"Human","name":"Edson Omar Álvarez Velázquez","shortName":"E. Álvarez Velázquez"}}],"properties":[{"__typename":"KeyValue","key":"minute","value":46},{"__typename":"KeyValue","key":"result","value":null},{"__typename":"KeyValue","key":"injuried","value":null},{"__typename":"KeyValue","key":"extra_minute","value":null},{"__typename":"KeyValue","key":"local_or_visitor","value":"local"}],"title":"substitution","description":null},{"__typename":"Event","type":"SUBSTITUTION","participants":[{"__typename":"EventParticipant","role":"COMPETITION_STAGE","participant":{"__typename":"CompetitionStage"}},{"__typename":"EventParticipant","role":"INCOMING_PLAYER","participant":{"__typename":"Human","name":"John Stones","shortName":"J. Stones"}},{"__typename":"EventParticipant","role":"OUTGOING_PLAYER","participant":{"__typename":"Human","name":"Bukayo Saka","shortName":"B. Saka"}}],"properties":[{"__typename":"KeyValue","key":"minute","value":57},{"__typename":"KeyValue","key":"result","value":null},{"__typename":"KeyValue","key":"injuried","value":null},{"__typename":"KeyValue","key":"extra_minute","value":null},{"__typename":"KeyValue","key":"local_or_visitor","value":"visitor"}],"title":"substitution","description":null},{"__typename":"Event","type":"SUBSTITUTION","participants":[{"__typename":"EventParticipant","role":"COMPETITION_STAGE","participant":{"__typename":"CompetitionStage"}},{"__typename":"EventParticipant","role":"OUTGOING_PLAYER","participant":{"__typename":"Human","name":"Gilberto Rafael Mora Zambrano","shortName":"G. Mora Zambrano"}},{"__typename":"EventParticipant","role":"INCOMING_PLAYER","participant":{"__typename":"Human","name":"Santiago Tomás Giménez","shortName":"S. Giménez"}}],"properties":[{"__typename":"KeyValue","key":"minute","value":61},{"__typename":"KeyValue","key":"result","value":null},{"__typename":"KeyValue","key":"injuried","value":null},{"__typename":"KeyValue","key":"extra_minute","value":null},{"__typename":"KeyValue","key":"local_or_visitor","value":"local"}],"title":"substitution","description":null},{"__typename":"Event","type":"SUBSTITUTION","participants":[{"__typename":"EventParticipant","role":"COMPETITION_STAGE","participant":{"__typename":"CompetitionStage"}},{"__typename":"EventParticipant","role":"INCOMING_PLAYER","participant":{"__typename":"Human","name":"Brian Gutierrez","shortName":"B. Gutierrez"}},{"__typename":"EventParticipant","role":"OUTGOING_PLAYER","participant":{"__typename":"Human","name":"Luis Francisco Romo Barrón","shortName":"L. Romo Barrón"}}],"properties":[{"__typename":"KeyValue","key":"minute","value":61},{"__typename":"KeyValue","key":"result","value":null},{"__typename":"KeyValue","key":"injuried","value":null},{"__typename":"KeyValue","key":"extra_minute","value":null},{"__typename":"KeyValue","key":"local_or_visitor","value":"local"}],"title":"substitution","description":null},{"__typename":"Event","type":"SUBSTITUTION","participants":[{"__typename":"EventParticipant","role":"COMPETITION_STAGE","participant":{"__typename":"CompetitionStage"}},{"__typename":"EventParticipant","role":"OUTGOING_PLAYER","participant":{"__typename":"Human","name":"Nico O'Reilly","shortName":"N. O'Reilly"}},{"__typename":"EventParticipant","role":"INCOMING_PLAYER","participant":{"__typename":"Human","name":"Djed Spence","shortName":"D. Spence"}}],"properties":[{"__typename":"KeyValue","key":"minute","value":74},{"__typename":"KeyValue","key":"result","value":null},{"__typename":"KeyValue","key":"injuried","value":null},{"__typename":"KeyValue","key":"extra_minute","value":null},{"__typename":"KeyValue","key":"local_or_visitor","value":"visitor"}],"title":"substitution","description":null},{"__typename":"Event","type":"SUBSTITUTION","participants":[{"__typename":"EventParticipant","role":"COMPETITION_STAGE","participant":{"__typename":"CompetitionStage"}},{"__typename":"EventParticipant","role":"OUTGOING_PLAYER","participant":{"__typename":"Human","name":"Elliott Anderson","shortName":"E. Anderson"}},{"__typename":"EventParticipant","role":"INCOMING_PLAYER","participant":{"__typename":"Human","name":"Dan Burn","shortName":"D. Burn"}}],"properties":[{"__typename":"KeyValue","key":"minute","value":75},{"__typename":"KeyValue","key":"result","value":null},{"__typename":"KeyValue","key":"injuried","value":null},{"__typename":"KeyValue","key":"extra_minute","value":null},{"__typename":"KeyValue","key":"local_or_visitor","value":"visitor"}],"title":"substitution","description":null},{"__typename":"Event","type":"SUBSTITUTION","participants":[{"__typename":"EventParticipant","role":"COMPETITION_STAGE","participant":{"__typename":"CompetitionStage"}},{"__typename":"EventParticipant","role":"OUTGOING_PLAYER","participant":{"__typename":"Human","name":"Jorge Eduardo Sánchez Ramos","shortName":"J. Sánchez Ramos"}},{"__typename":"EventParticipant","role":"INCOMING_PLAYER","participant":{"__typename":"Human","name":"Álvaro Fidalgo Fernández","shortName":"Á. Fidalgo Fernández"}}],"properties":[{"__typename":"KeyValue","key":"minute","value":79},{"__typename":"KeyValue","key":"result","value":null},{"__typename":"KeyValue","key":"injuried","value":null},{"__typename":"KeyValue","key":"extra_minute","value":null},{"__typename":"KeyValue","key":"local_or_visitor","value":"local"}],"title":"substitution","description":null},{"__typename":"Event","type":"SUBSTITUTION","participants":[{"__typename":"EventParticipant","role":"COMPETITION_STAGE","participant":{"__typename":"CompetitionStage"}},{"__typename":"EventParticipant","role":"OUTGOING_PLAYER","participant":{"__typename":"Human","name":"Julián Andrés Quiñones Quiñones","shortName":"J. Quiñones Quiñones"}},{"__typename":"EventParticipant","role":"INCOMING_PLAYER","participant":{"__typename":"Human","name":"Guillermo Martínez Ayala","shortName":"G. Martínez Ayala"}}],"properties":[{"__typename":"KeyValue","key":"minute","value":81},{"__typename":"KeyValue","key":"result","value":null},{"__typename":"KeyValue","key":"injuried","value":null},{"__typename":"KeyValue","key":"extra_minute","value":null},{"__typename":"KeyValue","key":"local_or_visitor","value":"local"}],"title":"substitution","description":null},{"__typename":"Event","type":"SUBSTITUTION","participants":[{"__typename":"EventParticipant","role":"COMPETITION_STAGE","participant":{"__typename":"CompetitionStage"}},{"__typename":"EventParticipant","role":"OUTGOING_PLAYER","participant":{"__typename":"Human","name":"Harry Kane","shortName":"H. Kane"}},{"__typename":"EventParticipant","role":"INCOMING_PLAYER","participant":{"__typename":"Human","name":"Morgan Rogers","shortName":"M. Rogers"}}],"properties":[{"__typename":"KeyValue","key":"minute","value":90},{"__typename":"KeyValue","key":"result","value":null},{"__typename":"KeyValue","key":"injuried","value":null},{"__typename":"KeyValue","key":"extra_minute","value":null},{"__typename":"KeyValue","key":"local_or_visitor","value":"visitor"}],"title":"substitution","description":null},{"__typename":"Event","type":"YELLOWCARD","participants":[{"__typename":"EventParticipant","role":"COMPETITION_STAGE","participant":{"__typename":"CompetitionStage"}},{"__typename":"EventParticipant","role":"PENALIZED_PLAYER","participant":{"__typename":"Human","name":"Declan Rice","shortName":"D. Rice"}}],"properties":[{"__typename":"KeyValue","key":"minute","value":1},{"__typename":"KeyValue","key":"result","value":null},{"__typename":"KeyValue","key":"injuried","value":null},{"__typename":"KeyValue","key":"extra_minute","value":null},{"__typename":"KeyValue","key":"local_or_visitor","value":"visitor"}],"title":"yellowcard","description":null},{"__typename":"Event","type":"YELLOWCARD","participants":[{"__typename":"EventParticipant","role":"COMPETITION_STAGE","participant":{"__typename":"CompetitionStage"}},{"__typename":"EventParticipant","role":"PENALIZED_PLAYER","participant":{"__typename":"Human","name":"Marc Guehi","shortName":"M. Guehi"}}],"properties":[{"__typename":"KeyValue","key":"minute","value":68},{"__typename":"KeyValue","key":"result","value":null},{"__typename":"KeyValue","key":"injuried","value":null},{"__typename":"KeyValue","key":"extra_minute","value":null},{"__typename":"KeyValue","key":"local_or_visitor","value":"visitor"}],"title":"yellowcard","description":null},{"__typename":"Event","type":"YELLOWCARD","participants":[{"__typename":"EventParticipant","role":"COMPETITION_STAGE","participant":{"__typename":"CompetitionStage"}},{"__typename":"EventParticipant","role":"PENALIZED_PLAYER","participant":{"__typename":"Human","name":"Jorge Eduardo Sánchez Ramos","shortName":"J. Sánchez Ramos"}}],"properties":[{"__typename":"KeyValue","key":"minute","value":71},{"__typename":"KeyValue","key":"result","value":null},{"__typename":"KeyValue","key":"injuried","value":null},{"__typename":"KeyValue","key":"extra_minute","value":null},{"__typename":"KeyValue","key":"local_or_visitor","value":"local"}],"title":"yellowcard","description":null},{"__typename":"Event","type":"YELLOWCARD","participants":[{"__typename":"EventParticipant","role":"COMPETITION_STAGE","participant":{"__typename":"CompetitionStage"}},{"__typename":"EventParticipant","role":"PENALIZED_PLAYER","participant":{"__typename":"Human","name":"Nico O'Reilly","shortName":"N. O'Reilly"}}],"properties":[{"__typename":"KeyValue","key":"minute","value":72},{"__typename":"KeyValue","key":"result","value":null},{"__typename":"KeyValue","key":"injuried","value":null},{"__typename":"KeyValue","key":"extra_minute","value":null},{"__typename":"KeyValue","key":"local_or_visitor","value":"visitor"}],"title":"yellowcard","description":null},{"__typename":"Event","type":"YELLOWCARD","participants":[{"__typename":"EventParticipant","role":"COMPETITION_STAGE","participant":{"__typename":"CompetitionStage"}},{"__typename":"EventParticipant","role":"PENALIZED_PLAYER","participant":{"__typename":"Human","name":"Johan Felipe Vásquez Ibarra","shortName":"J. Vásquez Ibarra"}}],"properties":[{"__typename":"KeyValue","key":"minute","value":90},{"__typename":"KeyValue","key":"result","value":null},{"__typename":"KeyValue","key":"injuried","value":null},{"__typename":"KeyValue","key":"extra_minute","value":8},{"__typename":"KeyValue","key":"local_or_visitor","value":"local"}],"title":"yellowcard","description":null},{"__typename":"Event","type":"YELLOWCARD","participants":[{"__typename":"EventParticipant","role":"COMPETITION_STAGE","participant":{"__typename":"CompetitionStage"}},{"__typename":"EventParticipant","role":"PENALIZED_PLAYER","participant":{"__typename":"Human","name":"Jordan Brian Henderson","shortName":"J. Henderson"}}],"properties":[{"__typename":"KeyValue","key":"minute","value":90},{"__typename":"KeyValue","key":"result","value":null},{"__typename":"KeyValue","key":"injuried","value":null},{"__typename":"KeyValue","key":"extra_minute","value":8},{"__typename":"KeyValue","key":"local_or_visitor","value":"visitor"}],"title":"yellowcard","description":null},{"__typename":"Event","type":"REDCARD","participants":[{"__typename":"EventParticipant","role":"COMPETITION_STAGE","participant":{"__typename":"CompetitionStage"}},{"__typename":"EventParticipant","role":"PENALIZED_PLAYER","participant":{"__typename":"Human","name":"Jarell Quansah","shortName":"J. Quansah"}}],"properties":[{"__typename":"KeyValue","key":"minute","value":54},{"__typename":"KeyValue","key":"result","value":null},{"__typename":"KeyValue","key":"injuried","value":null},{"__typename":"KeyValue","key":"extra_minute","value":null},{"__typename":"KeyValue","key":"local_or_visitor","value":"visitor"}],"title":"redcard","description":null}],"statistics":{"__typename":"FootballCompetitionStageStatistics","shotsTotal":{"__typename":"ShotsTotal","local":20,"visitor":6},"shotsOngoal":{"__typename":"ShotsOngoal","local":5,"visitor":5},"shotsOffgoal":{"__typename":"ShotsOffgoal","local":8,"visitor":1},"shotsBlocked":{"__typename":"ShotsBlocked","local":0,"visitor":7},"corners":{"__typename":"Corners","local":12,"visitor":2},"freeKick":{"__typename":"FreeKick","local":6,"visitor":14},"offsides":{"__typename":"Offsides","local":1,"visitor":0},"passesPercentage":{"__typename":"PassesPercentage","local":92,"visitor":80},"passesTotal":{"__typename":"PassesTotal","local":453,"visitor":244},"possessiontime":{"__typename":"Possessiontime","local":67,"visitor":33},"attacksTotal":{"__typename":"AttacksTotal","local":126,"visitor":54},"attacksDangerous":{"__typename":"AttacksDangerous","visitor":22,"local":82}},"outcomes":[{"__typename":"FootballKnockOutStageOutcome","localOrVisitor":"local","penaltyScore":null,"score":2,"formation":"433","coach":"Javier Aguirre Onaindía","competitor":{"__typename":"Competitor","owner":{"__typename":"Organization","name":"Mexikó","shortName":"MEX","photoUrls":["https://cdn.sportmonks.com/images/soccer/teams/16/18576.png"]},"players":[{"__typename":"Player","name":"César Jasib Montes Castro","shortName":"C. Montes Castro","position":"D","number":3,"formationPosition":"3"},{"__typename":"Player","name":"Luis Francisco Romo Barrón","shortName":"L. Romo Barrón","position":"M","number":7,"formationPosition":"8"},{"__typename":"Player","name":"Gilberto Rafael Mora Zambrano","shortName":"G. Mora Zambrano","position":"M","number":19,"formationPosition":"6"},{"__typename":"Player","name":"Julián Andrés Quiñones Quiñones","shortName":"J. Quiñones Quiñones","position":"A","number":16,"formationPosition":"11"},{"__typename":"Player","name":"Érik Antonio Lira Méndez","shortName":"É. Lira Méndez","position":"M","number":6,"formationPosition":"7"},{"__typename":"Player","name":"Johan Felipe Vásquez Ibarra","shortName":"J. Vásquez Ibarra","position":"D","number":5,"formationPosition":"4"},{"__typename":"Player","name":"José Raúl Rangel Aguilar","shortName":"J. Rangel Aguilar","position":"G","number":1,"formationPosition":"1"},{"__typename":"Player","name":"Jorge Eduardo Sánchez Ramos","shortName":"J. Sánchez Ramos","position":"D","number":2,"formationPosition":"2"},{"__typename":"Player","name":"Roberto Carlos Alvarado Hernández","shortName":"R. Alvarado Hernández","position":"A","number":25,"formationPosition":"9"},{"__typename":"Player","name":"Raúl Alonso Jiménez Rodríguez","shortName":"R. Jiménez Rodríguez","position":"A","number":9,"formationPosition":"10"},{"__typename":"Player","name":"Jesús Daniel Gallardo Vasconcelos","shortName":"J. Gallardo Vasconcelos","position":"D","number":23,"formationPosition":"5"}]}},{"__typename":"FootballKnockOutStageOutcome","localOrVisitor":"visitor","penaltyScore":null,"score":3,"formation":"4231","coach":"Thomas Tuchel","competitor":{"__typename":"Competitor","owner":{"__typename":"Organization","name":"Anglia","shortName":"ENG","photoUrls":["https://cdn.sportmonks.com/images/soccer/teams/21/18645.png"]},"players":[{"__typename":"Player","name":"Jordan Pickford","shortName":"J. Pickford","position":"G","number":1,"formationPosition":"1"},{"__typename":"Player","name":"Jarell Quansah","shortName":"J. Quansah","position":"D","number":26,"formationPosition":"2"},{"__typename":"Player","name":"Elliott Anderson","shortName":"E. Anderson","position":"M","number":8,"formationPosition":"7"},{"__typename":"Player","name":"Nico O'Reilly","shortName":"N. O'Reilly","position":"D","number":3,"formationPosition":"5"},{"__typename":"Player","name":"Ezri Konsa Ngoyo","shortName":"E. Konsa Ngoyo","position":"D","number":2,"formationPosition":"3"},{"__typename":"Player","name":"Anthony Gordon","shortName":"A. Gordon","position":"M","number":18,"formationPosition":"10"},{"__typename":"Player","name":"Marc Guehi","shortName":"M. Guehi","position":"D","number":6,"formationPosition":"4"},{"__typename":"Player","name":"Jude Bellingham","shortName":"J. Bellingham","position":"M","number":10,"formationPosition":"9"},{"__typename":"Player","name":"Bukayo Saka","shortName":"B. Saka","position":"M","number":7,"formationPosition":"8"},{"__typename":"Player","name":"Harry Kane","shortName":"H. Kane","position":"A","number":9,"formationPosition":"11"},{"__typename":"Player","name":"Declan Rice","shortName":"D. Rice","position":"M","number":4,"formationPosition":"6"}]}}],"links":[],"startedAt":"2026-07-06T01:00:00+00:00","endedAt":"2026-07-06T03:00:00+00:00"}}}</script><script type="fastboot/shoebox" id="shoebox-abgroup">null</script><script type="x/boundary" id="fastboot-body-end"></script>
+
+    
+<script src="https://cdn.444r.cloud/assets/vendor.a695b4593df413ede9de682fe5ad5e29.js"></script>
+
+
+
+<link href="https://cdn.444r.cloud/assets/chunk.2933d09d4020d745e5dd.css" rel="stylesheet">
+<script src="https://cdn.444r.cloud/assets/chunk.1ae0e02abe95d7f23615.js"></script>
+<script src="https://cdn.444r.cloud/assets/chunk.440ca1f6196f20814212.js"></script>
+</body></html>
