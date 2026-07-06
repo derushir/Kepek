@@ -1,0 +1,759 @@
+<!DOCTYPE html><html lang="hu"><head>
+    <meta charset="utf-8">
+    
+    
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <meta name="n3/config/environment" content="%7B%22modulePrefix%22%3A%22n3%22%2C%22environment%22%3A%22production%22%2C%22rootURL%22%3A%22%2F%22%2C%22locationType%22%3A%22history%22%2C%22EmberENV%22%3A%7B%22EXTEND_PROTOTYPES%22%3Afalse%2C%22FEATURES%22%3A%7B%7D%2C%22_APPLICATION_TEMPLATE_WRAPPER%22%3Afalse%2C%22_DEFAULT_ASYNC_OBSERVERS%22%3Atrue%2C%22_JQUERY_INTEGRATION%22%3Afalse%2C%22_NO_IMPLICIT_ROUTE_MODEL%22%3Atrue%2C%22_TEMPLATE_ONLY_GLIMMER_COMPONENTS%22%3Atrue%2C%22_USE_EMBER_MODULES%22%3Atrue%7D%2C%22APP%22%3A%7B%22name%22%3A%22n3%22%2C%22version%22%3A%220.0.0%2B065e3d7d%22%7D%2C%22fastboot%22%3A%7B%22hostWhitelist%22%3A%5B%22localhost%3A3000%22%2C%220.0.0.0%3A3000%22%2C%22444.hu%22%5D%7D%2C%22metricsAdapters%22%3A%5B%7B%22name%22%3A%22GoogleTagManager%22%2C%22environments%22%3A%5B%22production%22%5D%2C%22config%22%3A%7B%22id%22%3A%22GTM-KZVBKWD%22%7D%7D%2C%7B%22name%22%3A%22Remp%22%2C%22environments%22%3A%5B%22production%22%5D%2C%22config%22%3A%7B%22scriptUrl%22%3A%22https%3A%2F%2Fcdn.pmd.444.hu%2Fassets%2Flib%2Fjs%2Fheartbeat.js%22%2C%22host%22%3A%22https%3A%2F%2Fheartbeat.pmd.444.hu%22%2C%22token%22%3A%2258501271-8451-48bf-821e-10821a06f364%22%2C%22cookieDomain%22%3A%22.444.hu%22%7D%7D%5D%2C%22emberRollbarClient%22%3A%7B%22enabled%22%3Atrue%2C%22accessToken%22%3A%224c0fcee6de3b4ca9a8c6e629555ab07e%22%2C%22verbose%22%3Atrue%2C%22captureUncaught%22%3Atrue%2C%22captureUnhandledRejections%22%3Atrue%2C%22payload%22%3A%7B%22environment%22%3A%22production%22%2C%22client%22%3A%7B%22javascript%22%3A%7B%22source_map_enabled%22%3Atrue%2C%22code_version%22%3A%220.0.0%2B065e3d7%22%2C%22guess_uncaught_frames%22%3Atrue%7D%7D%7D%2C%22hostSafeList%22%3A%5B%22444.hu%22%5D%7D%2C%22ENGINES%22%3A%5B%7B%22name%22%3A%22valasztas--election%22%2C%22type%22%3A%22election%22%2C%22config%22%3A%7B%22buckets%22%3A%5B%22444%22%2C%22jo%22%5D%7D%7D%2C%7B%22name%22%3A%22author--author%22%2C%22type%22%3A%22author%22%2C%22config%22%3A%7B%22buckets%22%3A%5B%22444%22%2C%22insight-hungary%22%2C%22partizan%22%2C%22jo%22%5D%7D%7D%2C%7B%22name%22%3A%22kereses--search%22%2C%22type%22%3A%22search%22%2C%22config%22%3A%7B%22buckets%22%3A%5B%22444%22%2C%22insight-hungary%22%2C%22partizan%22%2C%22jo%22%5D%7D%7D%2C%7B%22name%22%3A%22foci%2Fbajnoksag--championship%22%2C%22type%22%3A%22championship%22%2C%22config%22%3A%7B%22buckets%22%3A%5B%22444%22%2C%22jo%22%5D%7D%7D%2C%7B%22name%22%3A%22partizan--reader%22%2C%22type%22%3A%22reader%22%2C%22config%22%3A%7B%22buckets%22%3A%5B%22partizan%22%5D%7D%7D%2C%7B%22name%22%3A%22jo--reader%22%2C%22type%22%3A%22reader%22%2C%22config%22%3A%7B%22buckets%22%3A%5B%22jo%22%5D%7D%7D%2C%7B%22name%22%3A%22--reader%22%2C%22type%22%3A%22reader%22%2C%22config%22%3A%7B%22buckets%22%3A%5B%22444%22%2C%22jo%22%5D%7D%7D%5D%7D">
+<!-- EMBER_CLI_FASTBOOT_TITLE -->      <meta name="ember-head-start" content>
+      
+      <meta name="author" content="Windisch Judit">
+
+        <meta name="keywords" content="POLITIKA,Ruff Bálint,mcc,Orbán Balázs">
+        <meta name="news_keywords" content="POLITIKA,Ruff Bálint,mcc,Orbán Balázs">
+        <meta itemprop="keywords" content="POLITIKA,Ruff Bálint,mcc,Orbán Balázs">
+
+    <meta name="twitter:card" content="summary_large_image">
+
+        <link rel="canonical" href="https://444.hu/2026/07/06/ruff-balint-alairta-megszunik-az-mcc-alapitvanya">
+        <meta property="og:url" content="https://444.hu/2026/07/06/ruff-balint-alairta-megszunik-az-mcc-alapitvanya">
+        <meta property="twitter:url" content="https://444.hu/2026/07/06/ruff-balint-alairta-megszunik-az-mcc-alapitvanya">
+
+      <meta property="og:site_name" content="444">
+
+    <meta property="og:type" content="article">
+    <meta property="og:locale" content="hu">
+
+        <title>Ruff Bálint aláírta: megszűnik az MCC alapítványa</title>
+        <meta name="title" content="Ruff Bálint aláírta: megszűnik az MCC alapítványa">
+        <meta property="og:title" content="Ruff Bálint aláírta: megszűnik az MCC alapítványa">
+        <meta name="twitter:title" content="Ruff Bálint aláírta: megszűnik az MCC alapítványa">
+
+        <meta name="description" content="Orbán Balázs a tehetséggondozást sajnálja, de közben az MCC a Fidesz ideológiai hátterének egyik legfontosabb intézménye volt.">
+        <meta property="og:description" content="Orbán Balázs a tehetséggondozást sajnálja, de közben az MCC a Fidesz ideológiai hátterének egyik legfontosabb intézménye volt.">
+        <meta name="twitter:description" content="Orbán Balázs a tehetséggondozást sajnálja, de közben az MCC a Fidesz ideológiai hátterének egyik legfontosabb intézménye volt.">
+
+        <meta property="og:image" content="https://assets.4cdn.hu/kraken/8MYB9a0anwghmOWHs-lg.jpeg">
+        <meta name="twitter:image" content="https://assets.4cdn.hu/kraken/8MYB9a0anwghmOWHs-lg.jpeg">
+
+      <meta name="robots" content="max-image-preview:large">
+
+      <script type="application/ld+json">[{"@context":"https://schema.org","@type":"NewsArticle","mainEntityOfPage":"https://444.hu/2026/07/06/ruff-balint-alairta-megszunik-az-mcc-alapitvanya","headline":"Ruff Bálint aláírta: megszűnik az MCC alapítványa","description":"Orbán Balázs a tehetséggondozást sajnálja, de közben az MCC a Fidesz ideológiai hátterének egyik legfontosabb intézménye volt.","datePublished":"2026-07-06T15:38:14+02:00","dateModified":"2026-07-06T16:49:32+02:00","author":[{"@type":"Person","name":"Windisch Judit","image":"https://assets.4cdn.hu/kraken/833hrv1DDvOzWGWGs-xxs.jpeg?width=96&amp;height=96&amp;fit=crop"}],"image":"https://assets.4cdn.hu/kraken/8MYB9a0anwghmOWHs.jpeg","publisher":{"@type":"Organization","name":"444","logo":"https://cdn.444r.cloud/assets/appicon-180.f28fd1db6b2192fcd860.png"}},{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"444","item":"https://444.hu"},{"@type":"ListItem","position":2,"name":"POLITIKA","item":"https://444.hu/category/politika"},{"@type":"ListItem","position":3,"name":"Ruff Bálint aláírta: megszűnik az MCC alapítványa"}]}]</script>
+
+      <meta property="article:published_time" content="2026-07-06T15:38:14+02:00">
+
+<!---->
+<!---->
+<!---->
+      <link rel="icon" href="https://cdn.444r.cloud/assets/favicon.59a582e6612fdac3b572.svg" type="image/svg+xml">
+
+      <link rel="apple-touch-icon" href="https://cdn.444r.cloud/assets/appicon-180.f28fd1db6b2192fcd860.png">
+
+      <link rel="manifest" href="/manifest.e46292aedadf78a83e06.webmanifest" crossorigin="use-credentials">
+  
+      <meta name="ember-head-end" content>
+
+<meta name="author/config/environment" content="%7B%22modulePrefix%22%3A%22author%22%2C%22environment%22%3A%22production%22%7D">
+<meta name="championship/config/environment" content="%7B%22modulePrefix%22%3A%22championship%22%2C%22environment%22%3A%22production%22%7D">
+<meta name="election/config/environment" content="%7B%22modulePrefix%22%3A%22election%22%2C%22environment%22%3A%22production%22%7D">
+<link rel="preconnect" href="https://www.googletagmanager.com">
+<meta name="reader/config/environment" content="%7B%22modulePrefix%22%3A%22reader%22%2C%22environment%22%3A%22production%22%7D">
+<meta name="search/config/environment" content="%7B%22modulePrefix%22%3A%22search%22%2C%22environment%22%3A%22production%22%7D">
+
+    
+    
+
+
+    <meta name="n3/config/asset-manifest" content="%GENERATED_ASSET_MANIFEST%">
+  
+<link href="https://cdn.444r.cloud/assets/chunk.1ae0e02abe95d7f23615.css" rel="stylesheet">
+<link href="https://cdn.444r.cloud/assets/chunk.440ca1f6196f20814212.css" rel="stylesheet"></head>
+  <body class="_1bucvez1 jtivel0 xrg4ok0 _1pjxevg0 _4n4slr0 xsgiua0 _1g4l6550 i0wrnc0 srf2jf0 _15jjbzu0 _8da7wc0 ovyd8u0 _1nentwd0 epzvfx0 ana7u81 _8b6bxc9 _1dy6oyqid">
+    <script type="x/boundary" id="fastboot-body-start"></script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    <div>
+      
+  
+  
+
+  
+
+    
+    
+    
+    
+    
+    
+
+    
+    
+    
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  <!---->
+
+<!----><!---->
+  
+      
+      
+<!---->
+  
+    <div class="p03hpr0 _1chu0ywg p4kpu33i p4kpu38d">
+        
+    
+    <div id="ap-site-header-top" class="_13ou49a0 "></div>
+  
+
+    <header class="v9sb5o0 _1chu0ywu _1chu0ywz _1chu0ywm _1chu0ywg _1chu0yw14 ta3a4c1ig ta3a4c106 ta3a4c1aa p4kpu38y">
+<!---->
+      
+    <a href="https://444.hu" class="uwwrama ta3a4c0 ta3a4cdf ta3a4c4h ta3a4c8y _1chu0ywh _1chu0yw12 ta3a4c1fc ta3a4c14n p4kpu30 _1chu0yw17" rel="noopener">
+        <svg xmlns="http://www.w3.org/2000/svg" style="height: 38px; width: 119px;">
+          <use href="/assets/logo-444.svg#logo" fill="currentColor"></use>
+        </svg>
+      </a>
+  
+
+<!---->    </header>
+  
+
+        
+    <div id="ap-site-header-bottom" class="_13ou49a0 "></div>
+  
+        
+    <div id="ap-featured" class="_13ou49a0 "></div>
+  
+
+      
+<!---->
+      
+    <div id="ap-top" class="_13ou49a0  slotHeader"></div>
+  
+
+    
+  <div class="_2r9i95 _1chu0ywh p4kpu3e _1chu0ywh p4kpu3hp p4kpu3i5">
+    
+      
+<!---->
+
+      <div class="_1j8zfzf3 ta3a4cz ta3a4c1f ta3a4c5g ta3a4c5w _1chu0yw9 _2r9i9g">
+        
+      <h1 class="_19gjvagj _1dy6oyq4l _19gjvagm _19gjvagk _19gjvags _19gjvagq
+          
+          ">
+        <span>
+<!---->          <span class="_1dy6oyq5g _1dy6oyq5s">Ruff Bálint aláírta: megszűnik az MCC alapítványa</span>
+        </span>
+      </h1>
+  
+      </div>
+
+      
+  <div class="_1rlsxp0 p4kpu3dm p4kpu3i3 _1chu0yw9 _1chu0ywh _1chu0yw9 _2r9i9h _2r9i9l">
+    
+        
+  <div class="_2r9i95 _1chu0ywh p4kpu3e _1chu0yw9 _1rlsxpe _1rlsxpf _1rlsxps _1rlsxp15 _1rlsxp1i _1rlsxp1v _1rlsxp2f _1rlsxp2l _1rlsxp2y _1rlsxp3b _1rlsxp3o _1rlsxp41
+            _1chu0ywh p4kpu3hp p4kpu3i5
+            slotDoubleColumn">
+    
+          
+    <div class="_1chu0ywg p4kpu34h p4kpu34c p4kpu3cn p4kpu3hp _1chu0yw9 _2r9i9d">
+      
+    <div class="p4kpu3c9 p4kpu3gq _1chu0ywg _1dy6oyq2r _1dy6oyqb5 p4kpu31k ta3a4c106 ta3a4czu p4kpu35g">
+        <div class="_1chu0ywg p4kpu3c2">
+            <div class="_1wsp8zg4 _1chu0ywu _1chu0ywz _1chu0ywk _8b6bx51 _1dy6oyqb5 _1chu0ywt _1chu0ywy _1wsp8zg2" style="--_1wsp8zg0:40">
+    <img class="ta3a4c106 ta3a4c1fc _1chu0ywo" src="https://assets.4cdn.hu/kraken/833hrv1DDvOzWGWGs-xxs.jpeg?width=96&amp;height=96&amp;fit=crop" alt loading="lazy">
+</div>
+        </div>
+
+      <div class="_1chu0ywh p4kpu31k">
+        <div>
+                <a href="/author/windischj" class="_1dy6oyq5o">Windisch Judit</a><!---->
+        </div>
+
+        <div class="_1chu0ywg p4kpu3c2">
+            <span class="_1dy6oyq4k">
+                <a href="/category/politika" class="_1dy6oyq5o">POLITIKA</a>            </span>
+
+            <span class="_2eey3i9 _1dy6oyq4b"></span>
+
+            <time class="_2eey3i8" datetime="2026-07-06T15:38:14+02:00">
+2026. július 6. 15:38            </time>
+        </div>
+      </div>
+    </div>
+  
+
+      
+    <div class="_1n6u2803 _1chu0ywe">
+  
+  
+      <div class="_1n6u2804 _1chu0ywk">
+          <button class="_1oiqrbrt p4kpu3c9 p4kpu3gq _1chu0yw6 _1chu0ywl ta3a4c1i2 p4kpu377 p4kpu31k p4kpu37z _1dy6oyq4x uwwrama _1dy6oyq1s _1chu0ywt _1chu0ywy _1oiqrbr0 uwwram3 uwwramj _18ssces1 _18ssces5 _18ssces15 _18ssces7n _18sscesh3 _1dy6oyq5v _1dy6oyqam _1dy6oyqk2 diq4x0 _1oiqrbr6 _7oso933 _1chu0yw14 ta3a4css ta3a4cxn" type="button">
+      <span class="_15pnudm3 _1chu0ywj _1dy6oyq4j _1dy6oyq4x" style="--_15pnudm0:18;--_15pnudm2:0" data-icon="share">
+</span>
+
+    
+          Megosztás
+        
+  </button>
+
+      </div>
+      <!---->
+    
+  <div class="_1n6u2805 _1chu0yw13 _1n6u2806 _1n6u2808 _1n6u280a" popover="auto">
+    
+      <!---->
+      <div class="_25g4rm3 ta3a4cj2 ta3a4cnj _1chu0ywh p4kpu37l _1chu0ywu _8b6bx65 diq4xa _1chu0ywt _1chu0ywy _25g4rm1">
+  
+            <button class="_25g4rm9 _25g4rm4 ta3a4csl ta3a4cx2 _1chu0ywh p4kpu35n p4kpu377 ta3a4c1ig p4kpu31k uwwrama _1dy6oyq1s _1dy6oyqal _1dy6oyqk2 _25g4rm5 _7oso933 _1chu0yw14 uwwram3 uwwramj _25g4rmb" role="button">
+      <span class="_15pnudm3 _1chu0ywj _1dy6oyq4j _1dy6oyq4x ta3a4cf6 _1dy6oyqb5" style="--_15pnudm0:24;--_15pnudm2:0" data-icon="content_copy" role="presentation">
+</span>
+
+    <span class="_25g4rmf _1chu0ywu _1dy6oyq4x">
+      
+            Link másolása
+          
+    </span>
+
+<!---->  </button>
+
+            <button class="_25g4rm9 _25g4rm4 ta3a4csl ta3a4cx2 _1chu0ywh p4kpu35n p4kpu377 ta3a4c1ig p4kpu31k uwwrama _1dy6oyq1s _1dy6oyqal _1dy6oyqk2 _25g4rm5 _7oso933 _1chu0yw14 uwwram3 uwwramj _25g4rmb" role="button">
+      <span class="_15pnudm3 _1chu0ywj _1dy6oyq4j _1dy6oyq4x ta3a4cf6 _1dy6oyqb5" style="--_15pnudm0:24;--_15pnudm2:0" data-icon="logo_facebook" role="presentation">
+</span>
+
+    <span class="_25g4rmf _1chu0ywu _1dy6oyq4x">
+      
+            Facebook
+          
+    </span>
+
+<!---->  </button>
+
+            <button class="_25g4rm9 _25g4rm4 ta3a4csl ta3a4cx2 _1chu0ywh p4kpu35n p4kpu377 ta3a4c1ig p4kpu31k uwwrama _1dy6oyq1s _1dy6oyqal _1dy6oyqk2 _25g4rm5 _7oso933 _1chu0yw14 uwwram3 uwwramj _25g4rmb" role="button">
+      <span class="_15pnudm3 _1chu0ywj _1dy6oyq4j _1dy6oyq4x ta3a4cf6 _1dy6oyqb5" style="--_15pnudm0:24;--_15pnudm2:0" data-icon="logo_x" role="presentation">
+</span>
+
+    <span class="_25g4rmf _1chu0ywu _1dy6oyq4x">
+      
+            X (Twitter)
+          
+    </span>
+
+<!---->  </button>
+
+            <button class="_25g4rm9 _25g4rm4 ta3a4csl ta3a4cx2 _1chu0ywh p4kpu35n p4kpu377 ta3a4c1ig p4kpu31k uwwrama _1dy6oyq1s _1dy6oyqal _1dy6oyqk2 _25g4rm5 _7oso933 _1chu0yw14 uwwram3 uwwramj _25g4rmb" role="button">
+      <span class="_15pnudm3 _1chu0ywj _1dy6oyq4j _1dy6oyq4x ta3a4cf6 _1dy6oyqb5" style="--_15pnudm0:24;--_15pnudm2:0" data-icon="logo_tumblr" role="presentation">
+</span>
+
+    <span class="_25g4rmf _1chu0ywu _1dy6oyq4x">
+      
+            Tumblr
+          
+    </span>
+
+<!---->  </button>
+
+            <button class="_25g4rm9 _25g4rm4 ta3a4csl ta3a4cx2 _1chu0ywh p4kpu35n p4kpu377 ta3a4c1ig p4kpu31k uwwrama _1dy6oyq1s _1dy6oyqal _1dy6oyqk2 _25g4rm5 _7oso933 _1chu0yw14 uwwram3 uwwramj _25g4rmb" role="button">
+      <span class="_15pnudm3 _1chu0ywj _1dy6oyq4j _1dy6oyq4x ta3a4cf6 _1dy6oyqb5" style="--_15pnudm0:24;--_15pnudm2:0" data-icon="logo_linkedin" role="presentation">
+</span>
+
+    <span class="_25g4rmf _1chu0ywu _1dy6oyq4x">
+      
+            LinkedIn
+          
+    </span>
+
+<!---->  </button>
+
+      
+</div>
+    
+  </div>
+
+</div>
+
+
+<!---->    </div>
+  
+
+          
+    <div id="ap-article-top-001" class="_13ou49a0 "></div>
+  
+
+          
+  <div class="fkng932 _1chu0yw9 _2r9i9h _2r9i9i slotArticle">
+    
+            
+      
+  <p class>
+    Július 31-ével megszűnik a Mathias Corvinus Collegium Alapítvány, miután Ruff Bálint Miniszterelnökséget végző miniszter aláírta az erről szóló döntést.
+  </p>
+
+      
+  <p class>
+    Az MCC alapítványa is egy olyan kekva, amely nem felsőoktatási intézményt tart fenn, ezért a törvény értelmében a hónap végén megszűnik ebben a formában. 
+  </p>
+
+      
+    <figure class="he2knv0 _1chu0ywu _1chu0ywz ta3a4c8y ta3a4cdf _1chu0yw6 ta3a4c1aa _1dy6oyq4e ">
+      
+    <a href="https://assets.4cdn.hu/kraken/8MYI3BnJqe7NBPAIs.png" class="uwwrama _1chu0ywg _8b6bx65" rel="nofollow">
+        
+        
+  <img loading="lazy" src="https://assets.4cdn.hu/kraken/8MYI3BnJqe7NBPAIs.png" srcset="https://assets.4cdn.hu/kraken/8MYI3BnJqe7NBPAIs-xxs.png 96w, https://assets.4cdn.hu/kraken/8MYI3BnJqe7NBPAIs-xs.png 360w, https://assets.4cdn.hu/kraken/8MYI3BnJqe7NBPAIs-sm.png 640w, https://assets.4cdn.hu/kraken/8MYI3BnJqe7NBPAIs-md.png 768w, https://assets.4cdn.hu/kraken/8MYI3BnJqe7NBPAIs-lg.png 1366w, https://assets.4cdn.hu/kraken/8MYI3BnJqe7NBPAIs-xl.png 1920w, https://assets.4cdn.hu/kraken/8MYI3BnJqe7NBPAIs-xxl.png 2560w" sizes="auto" class="_672m2jd _1chu0ywo ta3a4c1ey ta3a4c1aa he2knv4 ta3a4c1ey ta3a4czs" style="--_672m2j6:1.11;--_672m2j5:707px 638px" alt>
+
+  
+      </a>
+  
+
+        <figcaption class="he2knv6 ta3a4c1d _1dy6oyqb5">
+            <div class="_1dy6oyq2k">
+              Ruff döntése
+            </div>
+            <div class="he2knv8 _1dy6oyq2r">
+              Fotó:
+                Orbán Balázs/Facebook
+            </div>
+        </figcaption>
+    </figure>
+
+      
+  <p class>
+    Az MCC alapítvánnyal együtt 15 kekva szűnik meg ezzel a határidővel, de <a href="https://444.hu/2026/06/10/ez-az-a-torveny-ami-miatt-magzatpozban-sirhatnak-a-fideszesek" target="_blank" >a törvény kimondja</a>, hogy azok a szervezetek, amelyeket nem az állam hozott létre, működhetnek tovább alapítványként, ha az eredeti alapító ezt kéri.
+  </p>
+
+      
+  <p class>
+    Természetesen onnantól a több százmilliárd forintnyi állami vagyon nélkül kell boldogulniuk. Az MCC az egyik érintett, ahol az alapító korábban már közölte, folytatni akarják. Kérdés, hogy hogyan.
+  </p>
+
+      
+  <p class>
+    Orbán Balázs volt kuratóriumi elnök a Facebookon ugyanis <a href="https://www.facebook.com/photo/?fbid=1655603939268302&amp;set=a.386873116141397" target="_blank" >arról írt</a>, értelmetlen pusztítás, rombolás és bosszú megszüntetni egy tehetséggondozással foglalkozó intézményt. 
+  </p>
+
+      
+  <p class>
+    Noha Orbán csak a tehetséggondozást, a kutatásokat és a 8000 diák és a tanárok elküldését emelte ki, az MCC jóval több volt ennél, valójában ez lett a Fidesz ideológiai hátországának legfontosabb intézménye. 
+  </p>
+
+      
+    <figure class="he2knv0 _1chu0ywu _1chu0ywz ta3a4c8y ta3a4cdf _1chu0yw6 ta3a4c1aa _1dy6oyq4e ">
+      
+    <a href="https://assets.4cdn.hu/kraken/8MYB9a0anwghmOWHs.jpeg" class="uwwrama _1chu0ywg _8b6bx65" rel="nofollow">
+        
+        
+  <img loading="lazy" src="https://assets.4cdn.hu/kraken/8MYB9a0anwghmOWHs.jpeg" srcset="https://assets.4cdn.hu/kraken/8MYB9a0anwghmOWHs-xxs.jpeg 96w, https://assets.4cdn.hu/kraken/8MYB9a0anwghmOWHs-xs.jpeg 360w, https://assets.4cdn.hu/kraken/8MYB9a0anwghmOWHs-sm.jpeg 640w, https://assets.4cdn.hu/kraken/8MYB9a0anwghmOWHs-md.jpeg 768w, https://assets.4cdn.hu/kraken/8MYB9a0anwghmOWHs-lg.jpeg 1366w, https://assets.4cdn.hu/kraken/8MYB9a0anwghmOWHs-xl.jpeg 1920w, https://assets.4cdn.hu/kraken/8MYB9a0anwghmOWHs-xxl.jpeg 2560w" sizes="auto" class="_672m2jd _1chu0ywo ta3a4c1ey ta3a4c1aa he2knv4 ta3a4c1ey ta3a4czs" style="--_672m2j6:1.50;--_672m2j5:2560px 1708px" alt>
+
+  
+      </a>
+  
+
+        <figcaption class="he2knv6 ta3a4c1d _1dy6oyqb5">
+<!---->            <div class="he2knv8 _1dy6oyq2r">
+              Fotó:
+                Németh Dániel/444
+            </div>
+        </figcaption>
+    </figure>
+
+      
+  <p class>
+    A Tisza-kormány pedig azért szünteti meg a kekvákat, mert a Fidesz egy <a href="https://444.hu/2026/05/20/a-kormany-belenyul-a-ner-parhuzamos-valosagaba-visszaveszik-a-kiszervezett-kekva-kat" target="_blank" >párhuzamos valóságot épített ki</a>, közpénzszázmilliárdokkal kitömve. Az MCC ügyében azért Ruff döntött, mert ez a kekva hozzá került. 
+  </p>
+
+      
+  <p class>
+    <b >Frissítés:</b> Orbán Balázs posztja után az MCC vezetése fontosnak tartotta <a href="https://444.hu/2026/07/06/helyreigazitotta-orban-balazst-az-mcc-vezetese" target="_blank" >helyreigazítani</a> a volt kuratóriumi elnököt. Közölték, hogy a döntésben semmi váratlan nincs, hiszen az a törvényből következik, a kormánnyal egyeztetnek és folytatni akarják a tehetséggondozást a a jelenlegi számokkal.
+  </p>
+
+
+          
+  </div>
+
+
+            
+    <div id="ap-article-bottom-001" class="_13ou49a0 "></div>
+  
+            
+    <div id="ap-article-bottom-002" class="_13ou49a0 "></div>
+  
+            
+    <div id="ap-article-bottom-003" class="_13ou49a0 "></div>
+  
+
+          
+    <div class="_1chu0ywg p4kpu34h p4kpu3c9 p4kpu3hb _1chu0yw9 _2r9i9d">
+<!---->
+            <a class="_189c837e _189c8375 _1chu0yw6 _1chu0ywl ta3a4c1ho p4kpu377 p4kpu3c9 p4kpu31k _1dy6oyq4x uwwrama _1dy6oyq1s _1chu0ywt _1chu0ywy _189c8370 uwwram3 uwwramj _189c8373 _7oso933 _1chu0yw14 _189c837g _189c837i _189c837k _189c837m ta3a4cx9 _189c8378 diq4x0 _18ssces1 _18ssces5 _18ssces2 _18ssces15 _18ssces7n _18ssces7k _18sscesh3 _189c8379 _1dy6oyqam _1dy6oyqk2 ta3a4css _1go36eq2 _1dy6oyq4k" data-group href="/category/politika" role="button">
+    
+
+<!---->
+    <span class="_1chu0ywu _1chu0ywz _1dy6oyq4g">
+      
+    
+    POLITIKA
+  
+  
+    </span>
+
+<!---->  </a>
+
+
+
+            <a class="_189c837e _189c8375 _1chu0yw6 _1chu0ywl ta3a4c1ho p4kpu377 p4kpu3c9 p4kpu31k _1dy6oyq4x uwwrama _1dy6oyq1s _1chu0ywt _1chu0ywy _189c8370 uwwram3 uwwramj _189c8373 _7oso933 _1chu0yw14 _189c837g _189c837i _189c837k _189c837m ta3a4cx9 _189c8378 diq4x0 _18ssces1 _18ssces5 _18ssces2 _18ssces15 _18ssces7n _18ssces7k _18sscesh3 _189c8379 _1dy6oyqam _1dy6oyqk2 ta3a4css _1dy6oyq4k" data-group href="/tag/ruff-balint" role="button">
+    
+
+<!---->
+    <span class="_1chu0ywu _1chu0ywz _1dy6oyq4g">
+      
+    
+    Ruff Bálint
+  
+  
+    </span>
+
+<!---->  </a>
+
+
+            <a class="_189c837e _189c8375 _1chu0yw6 _1chu0ywl ta3a4c1ho p4kpu377 p4kpu3c9 p4kpu31k _1dy6oyq4x uwwrama _1dy6oyq1s _1chu0ywt _1chu0ywy _189c8370 uwwram3 uwwramj _189c8373 _7oso933 _1chu0yw14 _189c837g _189c837i _189c837k _189c837m ta3a4cx9 _189c8378 diq4x0 _18ssces1 _18ssces5 _18ssces2 _18ssces15 _18ssces7n _18ssces7k _18sscesh3 _189c8379 _1dy6oyqam _1dy6oyqk2 ta3a4css _1dy6oyq4k" data-group href="/tag/mcc" role="button">
+    
+
+<!---->
+    <span class="_1chu0ywu _1chu0ywz _1dy6oyq4g">
+      
+    
+    mcc
+  
+  
+    </span>
+
+<!---->  </a>
+
+
+            <a class="_189c837e _189c8375 _1chu0yw6 _1chu0ywl ta3a4c1ho p4kpu377 p4kpu3c9 p4kpu31k _1dy6oyq4x uwwrama _1dy6oyq1s _1chu0ywt _1chu0ywy _189c8370 uwwram3 uwwramj _189c8373 _7oso933 _1chu0yw14 _189c837g _189c837i _189c837k _189c837m ta3a4cx9 _189c8378 diq4x0 _18ssces1 _18ssces5 _18ssces2 _18ssces15 _18ssces7n _18ssces7k _18sscesh3 _189c8379 _1dy6oyqam _1dy6oyqk2 ta3a4css _1dy6oyq4k" data-group href="/tag/orban-balazs" role="button">
+    
+
+<!---->
+    <span class="_1chu0ywu _1chu0ywz _1dy6oyq4g">
+      
+    
+    Orbán Balázs
+  
+  
+    </span>
+
+<!---->  </a>
+
+
+    </div>
+  
+
+            
+  <div class="_1chu0ywm slotVideoPlayer _1chu0yw9 _2r9i9d"></div>
+
+
+          
+    <section class="_1chu0yw9 _2r9i9d">
+      
+  <div class="_1myqn4p0 _1chu0ywg p4kpu31k ta3a4c1h3 _1dy6oyq4x _1dy6oyq35 ta3a4c6f">
+        Kapcsolódó cikkek
+      <span class="ta3a4c1fq _8b6bx8d p4kpu35g" aria-hidden="true"></span>
+<!---->  </div>
+
+      <div class="_1chu0ywg p4kpu33i p4kpu3hb p4kpu3i5">
+          
+        <a href="/2026/05/20/a-kormany-belenyul-a-ner-parhuzamos-valosagaba-visszaveszik-a-kiszervezett-kekva-kat" title="A kormány belenyúl a NER párhuzamos valóságába: visszaveszik a kiszervezett KEKVA-kat" class="c3zuuge _1chu0yw9 _1chu0yw14 _1chu0ywh p4kpu3cn p4kpu31y p4kpu3e c3zuug0 c3zuugi c3zuugl p4kpu3cn c3zuug8 c3zuug7" data-group>
+            
+        
+  <img loading="lazy" src="https://assets.4cdn.hu/kraken/84rnY64MXJWnchPos.jpeg" srcset="https://assets.4cdn.hu/kraken/84rnY64MXJWnchPos-xxs.jpeg 96w, https://assets.4cdn.hu/kraken/84rnY64MXJWnchPos-xs.jpeg 360w, https://assets.4cdn.hu/kraken/84rnY64MXJWnchPos-sm.jpeg 640w, https://assets.4cdn.hu/kraken/84rnY64MXJWnchPos-md.jpeg 768w, https://assets.4cdn.hu/kraken/84rnY64MXJWnchPos-lg.jpeg 1366w, https://assets.4cdn.hu/kraken/84rnY64MXJWnchPos-xl.jpeg 1920w, https://assets.4cdn.hu/kraken/84rnY64MXJWnchPos-xxl.jpeg 2560w" sizes="auto" class="_672m2jd _1chu0ywo ta3a4c1ey ta3a4c1aa c3zuugz ta3a4c106 c3zuugc" style="--_672m2j6:1.50;--_672m2j5:2399px 1600px" alt>
+
+  
+
+          <div class="c3zuug10 _1chu0yw9 c3zuugd _1chu0ywh ta3a4c1fc">
+            
+      <h1 class="_19gjvagj _1dy6oyq4l _19gjvagm _19gjvagk _19gjvagr _19gjvago
+          
+          ">
+        <span>
+<!---->          <span class="_1dy6oyq5g _1dy6oyq5s">A kormány belenyúl a NER párhuzamos valóságába: visszaveszik a kiszervezett KEKVA-kat</span>
+        </span>
+      </h1>
+  
+          </div>
+
+            <div class="c3zuug1c c3zuug1b c3zuug10 _1chu0yw9 ta3a4c16">
+              <p class="c3zuug1d">
+                Ez a Fidesz ideológiai hátországát, az MCC-t is érinti, de a modellváltó egyetemek kérdésének is nekimennek. Azonnal kell lépni, 10 milliárd euró a tét.
+              </p>
+            </div>
+
+            
+    <div class="p4kpu3c9 p4kpu3gq _1chu0ywg _1dy6oyq2r _1dy6oyqb5 p4kpu31k c3zuug1e c3zuug1b ta3a4c1r">
+        <div class="_1chu0ywg p4kpu3c2">
+            <div class="_1wsp8zg4 _1chu0ywu _1chu0ywz _1chu0ywk _8b6bx51 _1dy6oyqb5 _1chu0ywt _1chu0ywy _1wsp8zg2" style="--_1wsp8zg0:40">
+    <img class="ta3a4c106 ta3a4c1fc _1chu0ywo" src="https://assets.4cdn.hu/kraken/7zXYk0ZoEr9W1HNqvs-xxs.jpeg?width=96&amp;height=96&amp;fit=crop" alt loading="lazy">
+</div>
+        </div>
+
+      <div class="_1chu0ywh p4kpu31k">
+        <div>
+Kolozsi Ádám<!---->
+        </div>
+
+        <div class="_1chu0ywg p4kpu3c2">
+            <span class="_1dy6oyq4k">
+belföld            </span>
+
+            <span class="_2eey3i9 _1dy6oyq4b"></span>
+
+            <time class="_2eey3i8" datetime="2026-05-20T20:04:51+02:00">
+május 20. 20:04            </time>
+        </div>
+      </div>
+    </div>
+  
+        </a>
+        <!---->
+  
+          
+        <a href="/2026/06/10/ez-az-a-torveny-ami-miatt-magzatpozban-sirhatnak-a-fideszesek" title="Ez az a törvény, ami miatt magzatpózban sírhatnak a fideszesek" class="c3zuuge _1chu0yw9 _1chu0yw14 _1chu0ywh p4kpu3cn p4kpu31y p4kpu3e c3zuug0 c3zuugi c3zuugl p4kpu3cn c3zuug8 c3zuug7" data-group>
+            
+        
+  <img loading="lazy" src="https://assets.4cdn.hu/kraken/8LtkMtVlOk6LmOWGs.jpeg" srcset="https://assets.4cdn.hu/kraken/8LtkMtVlOk6LmOWGs-xxs.jpeg 96w, https://assets.4cdn.hu/kraken/8LtkMtVlOk6LmOWGs-xs.jpeg 360w, https://assets.4cdn.hu/kraken/8LtkMtVlOk6LmOWGs-sm.jpeg 640w, https://assets.4cdn.hu/kraken/8LtkMtVlOk6LmOWGs-md.jpeg 768w, https://assets.4cdn.hu/kraken/8LtkMtVlOk6LmOWGs-lg.jpeg 1366w, https://assets.4cdn.hu/kraken/8LtkMtVlOk6LmOWGs-xl.jpeg 1920w, https://assets.4cdn.hu/kraken/8LtkMtVlOk6LmOWGs-xxl.jpeg 2560w" sizes="auto" class="_672m2jd _1chu0ywo ta3a4c1ey ta3a4c1aa c3zuugz ta3a4c106 c3zuugc" style="--_672m2j6:1.50;--_672m2j5:2560px 1707px" alt>
+
+  
+
+          <div class="c3zuug10 _1chu0yw9 c3zuugd _1chu0ywh ta3a4c1fc">
+            
+      <h1 class="_19gjvagj _1dy6oyq4l _19gjvagm _19gjvagk _19gjvagr _19gjvagp
+          
+          ">
+        <span>
+            
+  <span class="_15pnudm3 _1chu0ywj _1dy6oyq4j _1dy6oyq4x _3qj35u0" style="--_15pnudm0:24;--_15pnudm2:0" data-icon="kor">
+</span>
+
+          <span class="_1dy6oyq5g _1dy6oyq5s">Ez az a törvény, ami miatt magzatpózban sírhatnak a fideszesek</span>
+        </span>
+      </h1>
+  
+          </div>
+
+            <div class="c3zuug1c c3zuug1b c3zuug10 _1chu0yw9 ta3a4c16">
+              <p class="c3zuug1d">
+                Megszűnik több közérdekű vagyonkezelő alapítvány, amibe a Fidesz nagyon sokat tett. Nem csak anyagi értelemben – de persze úgy is. A lépéssel kastélyok, drága ingatlanok és több száz milliárd forintnyi részvénycsomag is visszakerül az államhoz. Néhánynak van esélye a túlélésre, szerényebb keretek között.
+              </p>
+            </div>
+
+            
+    <div class="p4kpu3c9 p4kpu3gq _1chu0ywg _1dy6oyq2r _1dy6oyqb5 p4kpu33i c3zuug1e c3zuug1b ta3a4c1r">
+        <div class="_1chu0ywg p4kpu3c2">
+            <div class="_1wsp8zg4 _1chu0ywu _1chu0ywz _1chu0ywk _8b6bx51 _1dy6oyqb5 _1chu0ywt _1chu0ywy _1wsp8zg2" style="--_1wsp8zg0:40">
+    <img class="ta3a4c106 ta3a4c1fc _1chu0ywo" src="https://assets.4cdn.hu/kraken/838FyXjvkqaxWGWGs-xxs.jpeg?width=96&amp;height=96&amp;fit=crop" alt loading="lazy">
+</div>
+            <div class="_1wsp8zg4 _1chu0ywu _1chu0ywz _1chu0ywk _8b6bx51 _1dy6oyqb5 _1chu0ywt _1chu0ywy _1wsp8zg2" style="--_1wsp8zg0:40">
+    <img class="ta3a4c106 ta3a4c1fc _1chu0ywo" src="https://assets.4cdn.hu/kraken/7vIf828A8bOm1Rrxus-xxs.jpeg?width=96&amp;height=96&amp;fit=crop" alt loading="lazy">
+</div>
+            <div class="_1wsp8zg4 _1chu0ywu _1chu0ywz _1chu0ywk _8b6bx51 _1dy6oyqb5 _1chu0ywt _1chu0ywy _1wsp8zg2" style="--_1wsp8zg0:40">
+    <img class="ta3a4c106 ta3a4c1fc _1chu0ywo" src="https://assets.4cdn.hu/kraken/7hwxGLtdChDIOwGWs-xxs.jpeg?width=96&amp;height=96&amp;fit=crop" alt loading="lazy">
+</div>
+            <div class="_1wsp8zg4 _1chu0ywu _1chu0ywz _1chu0ywk _8b6bx51 _1dy6oyqb5 _1chu0ywt _1chu0ywy _1wsp8zg2" style="--_1wsp8zg0:40">
+    <img class="ta3a4c106 ta3a4c1fc _1chu0ywo" src="https://assets.4cdn.hu/kraken/833hrv1DDvOzWGWGs-xxs.jpeg?width=96&amp;height=96&amp;fit=crop" alt loading="lazy">
+</div>
+        </div>
+
+      <div class="_1chu0ywh p4kpu31k">
+        <div>
+Rovó Attila, 
+Tóth-Szenesi Attila, 
+Bódog Bálint, 
+Windisch Judit<!---->
+        </div>
+
+        <div class="_1chu0ywg p4kpu3c2">
+            <span class="_1dy6oyq4k">
+POLITIKA            </span>
+
+            <span class="_2eey3i9 _1dy6oyq4b"></span>
+
+            <time class="_2eey3i8" datetime="2026-06-10T16:00:03+02:00">
+június 10. 16:00            </time>
+        </div>
+      </div>
+    </div>
+  
+        </a>
+        <!---->
+  
+          
+        <a href="/2026/07/06/helyreigazitotta-orban-balazst-az-mcc-vezetese" title="Helyreigazította Orbán Balázst az MCC vezetése" class="c3zuuge _1chu0yw9 _1chu0yw14 _1chu0ywh p4kpu3cn p4kpu31y p4kpu3e c3zuug0 c3zuugi c3zuugl p4kpu3cn c3zuug8 c3zuug7" data-group>
+            
+        
+  <img loading="lazy" src="https://assets.4cdn.hu/kraken/8LXnkY5mO7sDmOWHs.jpeg" srcset="https://assets.4cdn.hu/kraken/8LXnkY5mO7sDmOWHs-xxs.jpeg 96w, https://assets.4cdn.hu/kraken/8LXnkY5mO7sDmOWHs-xs.jpeg 360w, https://assets.4cdn.hu/kraken/8LXnkY5mO7sDmOWHs-sm.jpeg 640w, https://assets.4cdn.hu/kraken/8LXnkY5mO7sDmOWHs-md.jpeg 768w, https://assets.4cdn.hu/kraken/8LXnkY5mO7sDmOWHs-lg.jpeg 1366w, https://assets.4cdn.hu/kraken/8LXnkY5mO7sDmOWHs-xl.jpeg 1920w, https://assets.4cdn.hu/kraken/8LXnkY5mO7sDmOWHs-xxl.jpeg 2560w" sizes="auto" class="_672m2jd _1chu0ywo ta3a4c1ey ta3a4c1aa c3zuugz ta3a4c106 c3zuugc" style="--_672m2j6:1.50;--_672m2j5:2560px 1708px" alt>
+
+  
+
+          <div class="c3zuug10 _1chu0yw9 c3zuugd _1chu0ywh ta3a4c1fc">
+            
+      <h1 class="_19gjvagj _1dy6oyq4l _19gjvagm _19gjvagk _19gjvagr _19gjvagp
+          
+          ">
+        <span>
+<!---->          <span class="_1dy6oyq5g _1dy6oyq5s">Helyreigazította Orbán Balázst az MCC vezetése</span>
+        </span>
+      </h1>
+  
+          </div>
+
+            <div class="c3zuug1c c3zuug1b c3zuug10 _1chu0yw9 ta3a4c16">
+              <p class="c3zuug1d">
+                Orbán Balázs posztja után leírták, hogy semmi rendkívüli nem volt Ruff Bálint döntésében, és ők folytatni akarják.
+              </p>
+            </div>
+
+            
+    <div class="p4kpu3c9 p4kpu3gq _1chu0ywg _1dy6oyq2r _1dy6oyqb5 p4kpu31k c3zuug1e c3zuug1b ta3a4c1r">
+        <div class="_1chu0ywg p4kpu3c2">
+            <div class="_1wsp8zg4 _1chu0ywu _1chu0ywz _1chu0ywk _8b6bx51 _1dy6oyqb5 _1chu0ywt _1chu0ywy _1wsp8zg2" style="--_1wsp8zg0:40">
+    <img class="ta3a4c106 ta3a4c1fc _1chu0ywo" src="https://assets.4cdn.hu/kraken/833hrv1DDvOzWGWGs-xxs.jpeg?width=96&amp;height=96&amp;fit=crop" alt loading="lazy">
+</div>
+        </div>
+
+      <div class="_1chu0ywh p4kpu31k">
+        <div>
+Windisch Judit<!---->
+        </div>
+
+        <div class="_1chu0ywg p4kpu3c2">
+            <span class="_1dy6oyq4k">
+POLITIKA            </span>
+
+            <span class="_2eey3i9 _1dy6oyq4b"></span>
+
+            <time class="_2eey3i8" datetime="2026-07-06T16:27:22+02:00">
+ma 16:27            </time>
+        </div>
+      </div>
+    </div>
+  
+        </a>
+        <!---->
+  
+      </div>
+    </section>
+
+        
+  </div>
+
+
+<!---->      
+  </div>
+
+    
+  </div>
+
+  
+
+        <div class="ta3a4c1mq"></div>
+        
+  <footer class="sun34x0 ta3a4ckm ta3a4cp3 _1chu0ywh p4kpu3hp _1dy6oyq1s ta3a4c0">
+    <div class="ta3a4csw ta3a4ctl ta3a4cxd ta3a4cy2 _1chu0ywg p4kpu31k p4kpu37z p4kpu34h">
+      <a href="/gyik" class="ta3a4cj9 ta3a4cnq _1dy6oyq5o uwwrama _1dy6oyq4x">
+        GYIK
+      </a>
+      <span class="sun34x3 ta3a4cz ta3a4c5g ta3a4cab ta3a4ces _1dy6oyq4b"></span>
+      <a href="mailto:elakadtam@444.hu" class="ta3a4cj9 ta3a4cnq _1dy6oyq5o uwwrama _1dy6oyq4x">
+        Hibát jelentek
+      </a>
+      <span class="sun34x3 ta3a4cz ta3a4c5g ta3a4cab ta3a4ces _1dy6oyq4b"></span>
+      <a href="/impresszum" class="ta3a4cj9 ta3a4cnq _1dy6oyq5o uwwrama _1dy6oyq4x">
+        Impresszum
+      </a>
+      <span class="sun34x3 ta3a4cz ta3a4c5g ta3a4cab ta3a4ces _1dy6oyq4b"></span>
+      <a href="/helyreigazitasok-javitasok" class="ta3a4cj9 ta3a4cnq _1dy6oyq5o uwwrama _1dy6oyq4x">
+        Javítások kezelése
+      </a>
+      <span class="sun34x3 ta3a4cz ta3a4c5g ta3a4cab ta3a4ces _1dy6oyq4b"></span>
+      <a href="/jogi-dokumentumok" class="ta3a4cj9 ta3a4cnq _1dy6oyq5o uwwrama _1dy6oyq4x">
+        Jogi dokumentumok
+      </a>
+      <span class="sun34x3 ta3a4cz ta3a4c5g ta3a4cab ta3a4ces _1dy6oyq4b"></span>
+      <a href="/mediaajanlat" class="ta3a4cj9 ta3a4cnq _1dy6oyq5o uwwrama _1dy6oyq4x">
+        Médiaajánlat
+      </a>
+      <span class="sun34x3 ta3a4cz ta3a4c5g ta3a4cab ta3a4ces _1dy6oyq4b"></span>
+      <a href="/feed" class="ta3a4cj9 ta3a4cnq _1dy6oyq5o uwwrama _1dy6oyq4x">
+        RSS
+      </a>
+      <span class="sun34x3 ta3a4cz ta3a4c5g ta3a4cab ta3a4ces _1dy6oyq4b"></span>
+      <span class="ta3a4cj9 ta3a4cnq _1dy6oyq5o uwwrama _1dy6oyq4x" role="button">
+        Sütibeállítások
+      </span>
+    </div>
+    <div class="ta3a4csw ta3a4ctl ta3a4cxd ta3a4cy2 _1chu0ywg p4kpu31k p4kpu37z p4kpu34h">
+      <span>
+        ©
+        2026
+        Magyar Jeti Zrt.
+      </span>
+    </div>
+    <div class="sun34x4 _1chu0ywh p4kpu31k p4kpu3cu">
+      
+  <hr class="_18wajyd1 _1chu0ywf _8b6bx8d sun34x5">
+
+      Vége
+      
+  <hr class="_18wajyd1 _1chu0ywf _8b6bx8d sun34x5">
+
+    </div>
+  </footer>
+
+    </div>
+  
+
+
+
+
+
+  
+<!---->  
+
+
+    </div>
+  
+
+
+<!---->  <script type="fastboot/shoebox" id="shoebox-apollo-cache">{"cache":{"Bucket:70b47701-2c71-55dc-95b1-7ac5be6b8a21":{"__typename":"Bucket","id":"70b47701-2c71-55dc-95b1-7ac5be6b8a21","slug":"444","name":"444"},"MediaItem:bac633dc-46c9-5312-b9bd-baa7ba1ec5b3":{"__typename":"Image","caption":"","author":"Németh Dániel/444","url":"https://assets.4cdn.hu/kraken/8MYB9a0anwghmOWHs.jpeg","creditType":"Fotó","sourceLink":null,"bucket":{"__ref":"Bucket:70b47701-2c71-55dc-95b1-7ac5be6b8a21"},"id":"bac633dc-46c9-5312-b9bd-baa7ba1ec5b3","width":3000,"height":2001,"variations":[{"__typename":"ImageVariation","url":"https://assets.4cdn.hu/kraken/8MYB9a0anwghmOWHs-xxs.jpeg","size":"xxs","width":96,"height":64},{"__typename":"ImageVariation","url":"https://assets.4cdn.hu/kraken/8MYB9a0anwghmOWHs-xs.jpeg","size":"xs","width":360,"height":240},{"__typename":"ImageVariation","url":"https://assets.4cdn.hu/kraken/8MYB9a0anwghmOWHs-sm.jpeg","size":"sm","width":640,"height":427},{"__typename":"ImageVariation","url":"https://assets.4cdn.hu/kraken/8MYB9a0anwghmOWHs-md.jpeg","size":"md","width":768,"height":512},{"__typename":"ImageVariation","url":"https://assets.4cdn.hu/kraken/8MYB9a0anwghmOWHs-lg.jpeg","size":"lg","width":1366,"height":911},{"__typename":"ImageVariation","url":"https://assets.4cdn.hu/kraken/8MYB9a0anwghmOWHs-xl.jpeg","size":"xl","width":1920,"height":1281},{"__typename":"ImageVariation","url":"https://assets.4cdn.hu/kraken/8MYB9a0anwghmOWHs-xxl.jpeg","size":"xxl","width":2560,"height":1708}]},"Author:b6e04a12-64df-4b60-95a1-72155ed14bd6":{"__typename":"Author","id":"b6e04a12-64df-4b60-95a1-72155ed14bd6","name":"Windisch Judit","avatar":"https://assets.4cdn.hu/kraken/833hrv1DDvOzWGWGs.jpeg?width=96\u0026height=96\u0026fit=crop","slug":"windischj"},"Category:492b6bf0-019a-4f4a-a596-fec37b6676b1":{"__typename":"Category","id":"492b6bf0-019a-4f4a-a596-fec37b6676b1","slug":"politika","name":"POLITIKA","description":"","url":"https://444.hu/category/politika"},"Tag:1bd8821e-ad74-40e5-a59d-532c6a9f8732":{"__typename":"Tag","id":"1bd8821e-ad74-40e5-a59d-532c6a9f8732","slug":"ruff-balint","name":"Ruff Bálint","description":"","url":"https://444.hu/tag/ruff-balint"},"Tag:b11931b8-d3e0-4859-acad-1612552f00b8":{"__typename":"Tag","id":"b11931b8-d3e0-4859-acad-1612552f00b8","slug":"mcc","name":"mcc","description":"","url":"https://444.hu/tag/mcc"},"Tag:ca82d16f-6347-404d-9496-21b1cb540be7":{"__typename":"Tag","id":"ca82d16f-6347-404d-9496-21b1cb540be7","slug":"orban-balazs","name":"Orbán Balázs","description":"","url":"https://444.hu/tag/orban-balazs"},"Format:7a6036e1-c587-11f0-9297-525400d76232":{"__typename":"Format","id":"7a6036e1-c587-11f0-9297-525400d76232","slug":"cikk","name":"Cikk","description":null,"url":"https://444.hu/format/cikk","mateType":"DEFAULT"},"MediaItem:34d417ed-11be-5c48-804a-5604af444757":{"__typename":"Image","caption":"Orbán Balázs a 2024-es MCC Festen","author":"Németh Dániel/444","url":"https://assets.4cdn.hu/kraken/84rnY64MXJWnchPos.jpeg","creditType":"Fotó","sourceLink":null,"bucket":{"__ref":"Bucket:70b47701-2c71-55dc-95b1-7ac5be6b8a21"},"id":"34d417ed-11be-5c48-804a-5604af444757","width":2399,"height":1600,"variations":[{"__typename":"ImageVariation","url":"https://assets.4cdn.hu/kraken/84rnY64MXJWnchPos-xxs.jpeg","size":"xxs","width":96,"height":64},{"__typename":"ImageVariation","url":"https://assets.4cdn.hu/kraken/84rnY64MXJWnchPos-xs.jpeg","size":"xs","width":360,"height":240},{"__typename":"ImageVariation","url":"https://assets.4cdn.hu/kraken/84rnY64MXJWnchPos-sm.jpeg","size":"sm","width":640,"height":427},{"__typename":"ImageVariation","url":"https://assets.4cdn.hu/kraken/84rnY64MXJWnchPos-md.jpeg","size":"md","width":768,"height":512},{"__typename":"ImageVariation","url":"https://assets.4cdn.hu/kraken/84rnY64MXJWnchPos-lg.jpeg","size":"lg","width":1366,"height":911},{"__typename":"ImageVariation","url":"https://assets.4cdn.hu/kraken/84rnY64MXJWnchPos-xl.jpeg","size":"xl","width":1920,"height":1281},{"__typename":"ImageVariation","url":"https://assets.4cdn.hu/kraken/84rnY64MXJWnchPos-xxl.jpeg","size":"xxl","width":2560,"height":1707}]},"Author:88ea7ba6-f073-4b9a-b70f-51742b0614cb":{"__typename":"Author","id":"88ea7ba6-f073-4b9a-b70f-51742b0614cb","name":"Kolozsi Ádám","avatar":"https://assets.4cdn.hu/kraken/7zXYk0ZoEr9W1HNqvs.jpeg?width=96\u0026height=96\u0026fit=crop","slug":"kolozsia"},"Category:b722e920-44ed-4c26-bca0-2ac8fc0cd644":{"__typename":"Category","id":"b722e920-44ed-4c26-bca0-2ac8fc0cd644","slug":"belfold","name":"belföld","description":"","url":"https://444.hu/category/belfold"},"Article:0a915a78-6f82-5479-98d9-5d176c24d3d4":{"__typename":"Article","id":"0a915a78-6f82-5479-98d9-5d176c24d3d4","title":"A kormány belenyúl a NER párhuzamos valóságába: visszaveszik a kiszervezett KEKVA-kat","slug":"a-kormany-belenyul-a-ner-parhuzamos-valosagaba-visszaveszik-a-kiszervezett-kekva-kat","featuredImage":{"__ref":"MediaItem:34d417ed-11be-5c48-804a-5604af444757"},"excerpt":"Ez a Fidesz ideológiai hátországát, az MCC-t is érinti, de a modellváltó egyetemek kérdésének is nekimennek. Azonnal kell lépni, 10 milliárd euró a tét.","publishedAt":"2026-05-20T20:04:51+02:00","createdAt":"2026-05-20T20:04:53+02:00","authors":[{"__ref":"Author:88ea7ba6-f073-4b9a-b70f-51742b0614cb"}],"categories":[{"__ref":"Category:b722e920-44ed-4c26-bca0-2ac8fc0cd644"}],"collections":[],"bucket":{"__ref":"Bucket:70b47701-2c71-55dc-95b1-7ac5be6b8a21"},"options":[{"__typename":"Option","key":"template","value":""},{"__typename":"Option","key":"language","value":"hu"},{"__typename":"Option","key":"color_scheme","value":""},{"__typename":"Option","key":"is_anonym","value":false},{"__typename":"Option","key":"background_shadow","value":false},{"__typename":"Option","key":"title_inner","value":false},{"__typename":"Option","key":"lead_av","value":""},{"__typename":"Option","key":"jumbotron","value":""},{"__typename":"Option","key":"external_url","value":""},{"__typename":"Option","key":"title_alignment","value":""},{"__typename":"Option","key":"comments_enabled","value":true},{"__typename":"Option","key":"stream","value":true}],"format":{"__ref":"Format:7a6036e1-c587-11f0-9297-525400d76232"},"partners":[],"url":"https://444.hu/2026/05/20/a-kormany-belenyul-a-ner-parhuzamos-valosagaba-visszaveszik-a-kiszervezett-kekva-kat"},"MediaItem:dd7c132a-a77d-5350-9941-2c083c9a6214":{"__typename":"Image","caption":"","author":"Kovács Bendegúz/444","url":"https://assets.4cdn.hu/kraken/8LtkMtVlOk6LmOWGs.jpeg","creditType":"Fotó","sourceLink":null,"bucket":{"__ref":"Bucket:70b47701-2c71-55dc-95b1-7ac5be6b8a21"},"id":"dd7c132a-a77d-5350-9941-2c083c9a6214","width":3000,"height":2000,"variations":[{"__typename":"ImageVariation","url":"https://assets.4cdn.hu/kraken/8LtkMtVlOk6LmOWGs-xxs.jpeg","size":"xxs","width":96,"height":64},{"__typename":"ImageVariation","url":"https://assets.4cdn.hu/kraken/8LtkMtVlOk6LmOWGs-xs.jpeg","size":"xs","width":360,"height":240},{"__typename":"ImageVariation","url":"https://assets.4cdn.hu/kraken/8LtkMtVlOk6LmOWGs-sm.jpeg","size":"sm","width":640,"height":427},{"__typename":"ImageVariation","url":"https://assets.4cdn.hu/kraken/8LtkMtVlOk6LmOWGs-md.jpeg","size":"md","width":768,"height":512},{"__typename":"ImageVariation","url":"https://assets.4cdn.hu/kraken/8LtkMtVlOk6LmOWGs-lg.jpeg","size":"lg","width":1366,"height":911},{"__typename":"ImageVariation","url":"https://assets.4cdn.hu/kraken/8LtkMtVlOk6LmOWGs-xl.jpeg","size":"xl","width":1920,"height":1280},{"__typename":"ImageVariation","url":"https://assets.4cdn.hu/kraken/8LtkMtVlOk6LmOWGs-xxl.jpeg","size":"xxl","width":2560,"height":1707}]},"Author:2fda16e2-68cb-469a-9919-ea1eb9dadc5e":{"__typename":"Author","id":"2fda16e2-68cb-469a-9919-ea1eb9dadc5e","name":"Rovó Attila","avatar":"https://assets.4cdn.hu/kraken/838FyXjvkqaxWGWGs.jpeg?width=96\u0026height=96\u0026fit=crop","slug":"rovoa"},"Author:5448ff5b-7c80-42be-a9e7-b4ecf96b8813":{"__typename":"Author","id":"5448ff5b-7c80-42be-a9e7-b4ecf96b8813","name":"Tóth-Szenesi Attila","avatar":"https://assets.4cdn.hu/kraken/7vIf828A8bOm1Rrxus.jpeg?width=96\u0026height=96\u0026fit=crop","slug":"tothszenesia"},"Author:6cba2d25-9994-43cc-b220-239068a003f0":{"__typename":"Author","id":"6cba2d25-9994-43cc-b220-239068a003f0","name":"Bódog Bálint","avatar":"https://assets.4cdn.hu/kraken/7hwxGLtdChDIOwGWs.jpeg?width=96\u0026height=96\u0026fit=crop","slug":"bodogb"},"Format:7a6022ed-c587-11f0-9297-525400d76232":{"__typename":"Format","id":"7a6022ed-c587-11f0-9297-525400d76232","slug":"tldr","name":"TLDR","description":null,"url":"https://444.hu/format/tldr","mateType":"FEATURE"},"Article:3dfaa096-ebe8-5406-aca9-84df1206f3ed":{"__typename":"Article","id":"3dfaa096-ebe8-5406-aca9-84df1206f3ed","title":"Ez az a törvény, ami miatt magzatpózban sírhatnak a fideszesek","slug":"ez-az-a-torveny-ami-miatt-magzatpozban-sirhatnak-a-fideszesek","featuredImage":{"__ref":"MediaItem:dd7c132a-a77d-5350-9941-2c083c9a6214"},"excerpt":"Megszűnik több közérdekű vagyonkezelő alapítvány, amibe a Fidesz nagyon sokat tett. Nem csak anyagi értelemben – de persze úgy is. A lépéssel kastélyok, drága ingatlanok és több száz milliárd forintnyi részvénycsomag is visszakerül az államhoz. Néhánynak van esélye a túlélésre, szerényebb keretek között.","publishedAt":"2026-06-10T16:00:03+02:00","createdAt":"2026-06-10T16:00:07+02:00","authors":[{"__ref":"Author:2fda16e2-68cb-469a-9919-ea1eb9dadc5e"},{"__ref":"Author:5448ff5b-7c80-42be-a9e7-b4ecf96b8813"},{"__ref":"Author:6cba2d25-9994-43cc-b220-239068a003f0"},{"__ref":"Author:b6e04a12-64df-4b60-95a1-72155ed14bd6"}],"categories":[{"__ref":"Category:492b6bf0-019a-4f4a-a596-fec37b6676b1"}],"collections":[],"bucket":{"__ref":"Bucket:70b47701-2c71-55dc-95b1-7ac5be6b8a21"},"options":[{"__typename":"Option","key":"template","value":""},{"__typename":"Option","key":"locked","value":true},{"__typename":"Option","key":"language","value":"hu"},{"__typename":"Option","key":"color_scheme","value":"bright"},{"__typename":"Option","key":"is_anonym","value":false},{"__typename":"Option","key":"background_shadow","value":true},{"__typename":"Option","key":"title_inner","value":false},{"__typename":"Option","key":"lead_av","value":""},{"__typename":"Option","key":"jumbotron","value":"dd7c132a-a77d-5350-9941-2c083c9a6214"},{"__typename":"Option","key":"external_url","value":""},{"__typename":"Option","key":"title_alignment","value":"left bottom"},{"__typename":"Option","key":"comments_enabled","value":true},{"__typename":"Option","key":"stream","value":true}],"format":{"__ref":"Format:7a6022ed-c587-11f0-9297-525400d76232"},"partners":[],"url":"https://444.hu/2026/06/10/ez-az-a-torveny-ami-miatt-magzatpozban-sirhatnak-a-fideszesek"},"MediaItem:c924c14c-f767-52d6-8751-c6ce67c59105":{"__typename":"Image","caption":"","author":"Németh Dániel/444","url":"https://assets.4cdn.hu/kraken/8LXnkY5mO7sDmOWHs.jpeg","creditType":"Fotó","sourceLink":null,"bucket":{"__ref":"Bucket:70b47701-2c71-55dc-95b1-7ac5be6b8a21"},"id":"c924c14c-f767-52d6-8751-c6ce67c59105","width":3000,"height":2001,"variations":[{"__typename":"ImageVariation","url":"https://assets.4cdn.hu/kraken/8LXnkY5mO7sDmOWHs-xxs.jpeg","size":"xxs","width":96,"height":64},{"__typename":"ImageVariation","url":"https://assets.4cdn.hu/kraken/8LXnkY5mO7sDmOWHs-xs.jpeg","size":"xs","width":360,"height":240},{"__typename":"ImageVariation","url":"https://assets.4cdn.hu/kraken/8LXnkY5mO7sDmOWHs-sm.jpeg","size":"sm","width":640,"height":427},{"__typename":"ImageVariation","url":"https://assets.4cdn.hu/kraken/8LXnkY5mO7sDmOWHs-md.jpeg","size":"md","width":768,"height":512},{"__typename":"ImageVariation","url":"https://assets.4cdn.hu/kraken/8LXnkY5mO7sDmOWHs-lg.jpeg","size":"lg","width":1366,"height":911},{"__typename":"ImageVariation","url":"https://assets.4cdn.hu/kraken/8LXnkY5mO7sDmOWHs-xl.jpeg","size":"xl","width":1920,"height":1281},{"__typename":"ImageVariation","url":"https://assets.4cdn.hu/kraken/8LXnkY5mO7sDmOWHs-xxl.jpeg","size":"xxl","width":2560,"height":1708}]},"Article:57a78462-1a91-573b-ad68-123f4c1decf1":{"__typename":"Article","id":"57a78462-1a91-573b-ad68-123f4c1decf1","title":"Helyreigazította Orbán Balázst az MCC vezetése","slug":"helyreigazitotta-orban-balazst-az-mcc-vezetese","featuredImage":{"__ref":"MediaItem:c924c14c-f767-52d6-8751-c6ce67c59105"},"excerpt":"Orbán Balázs posztja után leírták, hogy semmi rendkívüli nem volt Ruff Bálint döntésében, és ők folytatni akarják.","publishedAt":"2026-07-06T16:27:22+02:00","createdAt":"2026-07-06T16:27:24+02:00","authors":[{"__ref":"Author:b6e04a12-64df-4b60-95a1-72155ed14bd6"}],"categories":[{"__ref":"Category:492b6bf0-019a-4f4a-a596-fec37b6676b1"}],"collections":[],"bucket":{"__ref":"Bucket:70b47701-2c71-55dc-95b1-7ac5be6b8a21"},"options":[{"__typename":"Option","key":"template","value":""},{"__typename":"Option","key":"language","value":"hu"},{"__typename":"Option","key":"color_scheme","value":""},{"__typename":"Option","key":"is_anonym","value":false},{"__typename":"Option","key":"background_shadow","value":false},{"__typename":"Option","key":"title_inner","value":false},{"__typename":"Option","key":"lead_av","value":""},{"__typename":"Option","key":"jumbotron","value":""},{"__typename":"Option","key":"external_url","value":""},{"__typename":"Option","key":"title_alignment","value":""},{"__typename":"Option","key":"comments_enabled","value":true},{"__typename":"Option","key":"stream","value":true}],"format":{"__ref":"Format:7a6036e1-c587-11f0-9297-525400d76232"},"partners":[],"url":"https://444.hu/2026/07/06/helyreigazitotta-orban-balazst-az-mcc-vezetese"},"Article:d73949ec-94de-5c09-b435-27ef8fab903d":{"__typename":"Article","id":"d73949ec-94de-5c09-b435-27ef8fab903d","featuredImage":{"__ref":"MediaItem:bac633dc-46c9-5312-b9bd-baa7ba1ec5b3"},"title":"Ruff Bálint aláírta: megszűnik az MCC alapítványa","body":[[{"type":"core/paragraph","params":{},"content":"Július 31-ével megszűnik a Mathias Corvinus Collegium Alapítvány, miután Ruff Bálint Miniszterelnökséget végző miniszter aláírta az erről szóló döntést."},{"type":"core/paragraph","params":{},"content":"Az MCC alapítványa is egy olyan kekva, amely nem felsőoktatási intézményt tart fenn, ezért a törvény értelmében a hónap végén megszűnik ebben a formában. "},{"type":"image","params":{"src":"https://4cdn.hu/kraken/image/upload/s--UdnGA4sJ--/c_limit,w_760/8MYI3BnJqe7NBPAIs.png","id":"4951d738-7ccf-50f1-8b63-fc69296e7025","showauthor":"true","alt":"","link":"","mediaItem":{"__typename":"Image","id":"4951d738-7ccf-50f1-8b63-fc69296e7025","author":"Orbán Balázs/Facebook","bucket":{"id":"70b47701-2c71-55dc-95b1-7ac5be6b8a21","slug":"444","name":"444","__typename":"Bucket"},"caption":"","creditType":"Fotó","sourceLink":null,"url":"https://assets.4cdn.hu/kraken/8MYI3BnJqe7NBPAIs.png","height":638,"width":707,"variations":[{"__typename":"ImageVariation","height":87,"width":96,"size":"xxs","url":"https://assets.4cdn.hu/kraken/8MYI3BnJqe7NBPAIs-xxs.png"},{"__typename":"ImageVariation","height":325,"width":360,"size":"xs","url":"https://assets.4cdn.hu/kraken/8MYI3BnJqe7NBPAIs-xs.png"},{"__typename":"ImageVariation","height":578,"width":640,"size":"sm","url":"https://assets.4cdn.hu/kraken/8MYI3BnJqe7NBPAIs-sm.png"},{"__typename":"ImageVariation","height":693,"width":768,"size":"md","url":"https://assets.4cdn.hu/kraken/8MYI3BnJqe7NBPAIs-md.png"},{"__typename":"ImageVariation","height":1233,"width":1366,"size":"lg","url":"https://assets.4cdn.hu/kraken/8MYI3BnJqe7NBPAIs-lg.png"},{"__typename":"ImageVariation","height":1733,"width":1920,"size":"xl","url":"https://assets.4cdn.hu/kraken/8MYI3BnJqe7NBPAIs-xl.png"},{"__typename":"ImageVariation","height":2310,"width":2560,"size":"xxl","url":"https://assets.4cdn.hu/kraken/8MYI3BnJqe7NBPAIs-xxl.png"}]}},"content":"Ruff döntése"},{"type":"core/paragraph","params":{},"content":"Az MCC alapítvánnyal együtt 15 kekva szűnik meg ezzel a határidővel, de \u003ca href=\"https://444.hu/2026/06/10/ez-az-a-torveny-ami-miatt-magzatpozban-sirhatnak-a-fideszesek\" target=\"_blank\" \u003ea törvény kimondja\u003c/a\u003e, hogy azok a szervezetek, amelyeket nem az állam hozott létre, működhetnek tovább alapítványként, ha az eredeti alapító ezt kéri."},{"type":"core/paragraph","params":{},"content":"Természetesen onnantól a több százmilliárd forintnyi állami vagyon nélkül kell boldogulniuk. Az MCC az egyik érintett, ahol az alapító korábban már közölte, folytatni akarják. Kérdés, hogy hogyan."},{"type":"core/paragraph","params":{},"content":"Orbán Balázs volt kuratóriumi elnök a Facebookon ugyanis \u003ca href=\"https://www.facebook.com/photo/?fbid=1655603939268302\u0026amp;set=a.386873116141397\" target=\"_blank\" \u003earról írt\u003c/a\u003e, értelmetlen pusztítás, rombolás és bosszú megszüntetni egy tehetséggondozással foglalkozó intézményt. "},{"type":"core/paragraph","params":{},"content":"Noha Orbán csak a tehetséggondozást, a kutatásokat és a 8000 diák és a tanárok elküldését emelte ki, az MCC jóval több volt ennél, valójában ez lett a Fidesz ideológiai hátországának legfontosabb intézménye. "},{"type":"image","params":{"src":"https://4cdn.hu/kraken/image/upload/s--G4aTlaT1--/c_limit,w_760/8MYB9a0anwghmOWHs.jpeg","id":"bac633dc-46c9-5312-b9bd-baa7ba1ec5b3","showauthor":"true","alt":"","link":"","mediaItem":{"caption":"","author":"Németh Dániel/444","url":"https://assets.4cdn.hu/kraken/8MYB9a0anwghmOWHs.jpeg","creditType":"Fotó","sourceLink":null,"bucket":{"id":"70b47701-2c71-55dc-95b1-7ac5be6b8a21","slug":"444","name":"444","__typename":"Bucket"},"__typename":"Image","id":"bac633dc-46c9-5312-b9bd-baa7ba1ec5b3","width":3000,"height":2001,"variations":[{"url":"https://assets.4cdn.hu/kraken/8MYB9a0anwghmOWHs-xxs.jpeg","size":"xxs","width":96,"height":64,"__typename":"ImageVariation"},{"url":"https://assets.4cdn.hu/kraken/8MYB9a0anwghmOWHs-xs.jpeg","size":"xs","width":360,"height":240,"__typename":"ImageVariation"},{"url":"https://assets.4cdn.hu/kraken/8MYB9a0anwghmOWHs-sm.jpeg","size":"sm","width":640,"height":427,"__typename":"ImageVariation"},{"url":"https://assets.4cdn.hu/kraken/8MYB9a0anwghmOWHs-md.jpeg","size":"md","width":768,"height":512,"__typename":"ImageVariation"},{"url":"https://assets.4cdn.hu/kraken/8MYB9a0anwghmOWHs-lg.jpeg","size":"lg","width":1366,"height":911,"__typename":"ImageVariation"},{"url":"https://assets.4cdn.hu/kraken/8MYB9a0anwghmOWHs-xl.jpeg","size":"xl","width":1920,"height":1281,"__typename":"ImageVariation"},{"url":"https://assets.4cdn.hu/kraken/8MYB9a0anwghmOWHs-xxl.jpeg","size":"xxl","width":2560,"height":1708,"__typename":"ImageVariation"}]}},"content":""},{"type":"core/paragraph","params":{},"content":"A Tisza-kormány pedig azért szünteti meg a kekvákat, mert a Fidesz egy \u003ca href=\"https://444.hu/2026/05/20/a-kormany-belenyul-a-ner-parhuzamos-valosagaba-visszaveszik-a-kiszervezett-kekva-kat\" target=\"_blank\" \u003epárhuzamos valóságot épített ki\u003c/a\u003e, közpénzszázmilliárdokkal kitömve. Az MCC ügyében azért Ruff döntött, mert ez a kekva hozzá került. "},{"type":"core/paragraph","params":{},"content":"\u003cb \u003eFrissítés:\u003c/b\u003e Orbán Balázs posztja után az MCC vezetése fontosnak tartotta \u003ca href=\"https://444.hu/2026/07/06/helyreigazitotta-orban-balazst-az-mcc-vezetese\" target=\"_blank\" \u003ehelyreigazítani\u003c/a\u003e a volt kuratóriumi elnököt. Közölték, hogy a döntésben semmi váratlan nincs, hiszen az a törvényből következik, a kormánnyal egyeztetnek és folytatni akarják a tehetséggondozást a a jelenlegi számokkal."}]],"slug":"ruff-balint-alairta-megszunik-az-mcc-alapitvanya","publishedAt":"2026-07-06T15:38:14+02:00","bucket":{"__ref":"Bucket:70b47701-2c71-55dc-95b1-7ac5be6b8a21"},"excerpt":"Orbán Balázs a tehetséggondozást sajnálja, de közben az MCC a Fidesz ideológiai hátterének egyik legfontosabb intézménye volt.","createdAt":"2026-07-06T15:38:14+02:00","updatedAt":"2026-07-06T16:49:32+02:00","authors":[{"__ref":"Author:b6e04a12-64df-4b60-95a1-72155ed14bd6"}],"categories":[{"__ref":"Category:492b6bf0-019a-4f4a-a596-fec37b6676b1"}],"tags":[{"__ref":"Tag:1bd8821e-ad74-40e5-a59d-532c6a9f8732"},{"__ref":"Tag:b11931b8-d3e0-4859-acad-1612552f00b8"},{"__ref":"Tag:ca82d16f-6347-404d-9496-21b1cb540be7"}],"collections":[],"meta":[{"__typename":"Meta","key":"description","value":""},{"__typename":"Meta","key":"excerpt","value":"Orbán Balázs a tehetséggondozást sajnálja, de közben az MCC a Fidesz ideológiai hátterének egyik legfontosabb intézménye volt."},{"__typename":"Meta","key":"featuredImage","value":"bac633dc-46c9-5312-b9bd-baa7ba1ec5b3"},{"__typename":"Meta","key":"og:description","value":""},{"__typename":"Meta","key":"og:image","value":""},{"__typename":"Meta","key":"og:title","value":""},{"__typename":"Meta","key":"title","value":""}],"options":[{"__typename":"Option","key":"template","value":""},{"__typename":"Option","key":"language","value":"hu"},{"__typename":"Option","key":"color_scheme","value":""},{"__typename":"Option","key":"is_anonym","value":false},{"__typename":"Option","key":"background_shadow","value":false},{"__typename":"Option","key":"title_inner","value":false},{"__typename":"Option","key":"lead_av","value":""},{"__typename":"Option","key":"jumbotron","value":""},{"__typename":"Option","key":"external_url","value":""},{"__typename":"Option","key":"title_alignment","value":""},{"__typename":"Option","key":"comments_enabled","value":true},{"__typename":"Option","key":"stream","value":true}],"url":"https://444.hu/2026/07/06/ruff-balint-alairta-megszunik-az-mcc-alapitvanya","format":{"__ref":"Format:7a6036e1-c587-11f0-9297-525400d76232"},"partners":[],"relatedArticles":[{"__ref":"Article:0a915a78-6f82-5479-98d9-5d176c24d3d4"},{"__ref":"Article:3dfaa096-ebe8-5406-aca9-84df1206f3ed"},{"__ref":"Article:57a78462-1a91-573b-ad68-123f4c1decf1"}],"userHasAccess":true},"ROOT_QUERY":{"__typename":"Query","content({\"fromBucket\":{\"column\":\"SLUG\",\"operator\":\"IN\",\"value\":[\"444\",\"jo\"]},\"publishedAt\":\"2026-07-06\",\"slug\":\"ruff-balint-alairta-megszunik-az-mcc-alapitvanya\"})":{"__ref":"Article:d73949ec-94de-5c09-b435-27ef8fab903d"}}}}</script><script type="fastboot/shoebox" id="shoebox-abgroup">"2"</script><script type="x/boundary" id="fastboot-body-end"></script>
+
+    
+<script src="https://cdn.444r.cloud/assets/vendor.a695b4593df413ede9de682fe5ad5e29.js"></script>
+
+
+
+<link href="https://cdn.444r.cloud/assets/chunk.2933d09d4020d745e5dd.css" rel="stylesheet">
+<script src="https://cdn.444r.cloud/assets/chunk.1ae0e02abe95d7f23615.js"></script>
+<script src="https://cdn.444r.cloud/assets/chunk.440ca1f6196f20814212.js"></script>
+</body></html>
