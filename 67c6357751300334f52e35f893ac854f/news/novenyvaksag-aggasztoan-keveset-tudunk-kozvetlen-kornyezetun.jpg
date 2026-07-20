@@ -1,0 +1,1295 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml"
+      xml:lang="hu"
+      lang="hu"
+        dir="ltr"
+      xmlns:fb="http://www.facebook.com/2008/fbml"
+      xmlns:og="http://ogp.me/ns#">
+  <head>
+    <title>Természetbarátok közössége ·  iNaturalist</title>
+    <meta http-equiv="Content-Language" content="hu">
+    <link rel="shortcut icon" type="image/x-icon" href="https://static.inaturalist.org/sites/1-favicon.png?1573071870" />
+      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+     <link rel="stylesheet" media="screen" href="https://www.inaturalist.org/assets/font-awesome-990f381a2419ee6705e676495f996801f42447fbd5ecc045aff9837a3ed5bbea.css" />
+<link rel="stylesheet" media="screen" href="https://www.inaturalist.org/assets/application_bundle-3168b80a26db0940b86fec1f52cf7f50e45b6cb4d6607a0fdcaea51a14b413b4.css" />
+  <link rel="stylesheet" media="screen" href="https://static.inaturalist.org/sites/1-stylesheet.css?1573579729" />
+<!--[if lte IE 7]>
+  <link rel="stylesheet" media="screen" href="https://www.inaturalist.org/assets/ie-8b3a4b99429f63a6660eb4243b740658672a467d477f4cb9e80ecad24a22f1d5.css" />
+<![endif]-->
+
+    <!-- Bootstrap -->
+    <link rel="stylesheet" media="screen" href="https://www.inaturalist.org/assets/bootstrap_bundle-45fc45fbee613bd2f3ed7fa6138018ca5ef2cdf1bc64c65179f9a72416792dba.css" />
+    
+    <meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="F8G+zllKv/GBDSnBT9eDgBJcjvlMRwLgvzgqEo47vll38IssLoeGCOrR7mZQWABfEpST2WUDWbmTOd8DpXEb7g==" />
+    <meta name="config:inaturalist_api_url" content="https://api.inaturalist.org/v1">
+    <meta property="og:site_name" content="iNaturalist"/>
+    <meta property="og:type" content="website"/>
+      <meta name="apple-itunes-app" content="app-id=6475737561">
+    <meta content="zTQkjSSm7eCNxRXMpYtLCHK00zeRWPrSFJIgJPBnjKc" name="google-site-verification" />
+<meta content="flCGrmXAfNRjXdNNmDRLgbE0XHOHguuFhh1twJN6TVM" name="google-site-verification" />
+<meta content="website" property="og:type" />
+<meta content="iNaturalist" property="og:title" />
+<meta content="https://static.inaturalist.org/sites/1-shareable_image.png?1573071871" property="og:image" />
+<meta content="https://static.inaturalist.org/sites/1-shareable_image.png?1573071871" property="twitter:image" />
+<meta content="https://www.inaturalist.org/" property="og:url" />
+<meta content="iNaturalist is a social network for naturalists! Record your observations of plants and animals,
+share them with friends and researchers, and learn about the natural world.
+" property="og:description" />
+<meta content="iNaturalist is a social network for naturalists! Record your observations of plants and animals,
+share them with friends and researchers, and learn about the natural world.
+" name="description" />
+<link rel="preload" href="https://www.inaturalist.org/assets/welcome_v2/hero_video_fallback-5c279bd7240e656247402c13a6908861317cd055d1b3525de90cb8bccaaa6183.webp" as="image" type="image/webp">
+
+    <link rel="stylesheet" media="screen" href="https://www.inaturalist.org/assets/welcome_v2-8cf8582af3edeac6142ae93cb3cfc9bb94c388bc3900ce4de4a531439e1dcd56.css" />
+      <meta property="og:image" content="https://static.inaturalist.org/sites/1-shareable_image.png?1573071871"/>
+  <script async src='https://www.googletagmanager.com/gtag/js?id=G-TV5BYME7B4'></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments)};
+  gtag('js', new Date());
+
+  
+
+  
+    
+    gtag('config', 'G-TV5BYME7B4', {"anonymize_ip":true});
+  
+
+  
+</script>
+</head>
+  <body class="responsive">
+    <div id="bodywrapper" class=" ">
+      
+        <div class="bootstrap" id="header">
+<div class="navtabs" id="narrow-menu">
+<div class="dropdown">
+<div aria-expanded="false" aria-haspopup="true" class="dropdown-toggle" data-toggle="dropdown" id="header-narrow-dropdown-toggle">
+<i class="fa fa-bars"></i>
+</div>
+<ul aria-labelledby="header-narrow-dropdown-toggle" class="dropdown-menu">
+<li><a href="/search">Keresés</a></li>
+<li><a href="/observations">Felfedezés</a></li>
+<li class="submenu community closed">
+<a href="/people">
+Közösség
+<i class="submenu-toggle-indicator fa fa-angle-right"></i>
+</a>
+<ul>
+<li><a href="/people">Emberek</a></li>
+<li><a href="/projects">Projektek</a></li>
+<li><a href="/journal">Bejegyzések</a></li>
+</ul>
+</li>
+<li class="submenu community closed">
+<a href="https://help.inaturalist.org">
+Továbbiak
+<i class="submenu-toggle-indicator fa fa-angle-right"></i>
+</a>
+<ul>
+<li><a href="/taxa">Taxoninformációk</a></li>
+<li><a href="/guides">Útmutatók</a></li>
+<li><a href="/places">Területek</a></li>
+<li><a href="/stats">Webhelyforgalom</a></li>
+<li><a href="https://help.inaturalist.org">Súgó</a></li>
+<li><a href="https://help.inaturalist.org/en/support/solutions/folders/151000552105">Első lépések</a></li>
+<li><a href="https://help.inaturalist.org/en/support/solutions/articles/151000176472-understanding-projects-on-inaturalist">Tudnivaló a projektekről</a></li>
+<li><a href="https://help.inaturalist.org/en/support/solutions/articles/151000170805-inaturalist-educator-s-guide">Útmutató oktatóknak</a></li>
+<li><a href="https://help.inaturalist.org/en/support/solutions/folders/151000547795">Videó bemutatók</a></li>
+<li><a href="https://www.inaturalist.org/pages/curator+guide">Útmutató kurátoroknak</a></li>
+<li><a rel="nofollow" href="https://www.inaturalist.org/donate?utm_content=header-more">Támogatás</a></li>
+</ul>
+</li>
+</ul>
+</div>
+</div>
+<div class="navtabs" id="logonav">
+<a class="logolink innertab" href="/" title="iNaturalist">
+<img alt="iNaturalist" src="https://static.inaturalist.org/sites/1-logo.svg?1573071870" />
+</a>
+</div>
+<ul class="navtabs" id="mainnav">
+<li class="navtab">
+<a href="/observations">Felfedezés</a>
+</li>
+<li class="navtab communitytab menutab">
+<div class="dropdown">
+<div aria-expanded="false" aria-haspopup="true" class="dropdown-toggle" data-toggle="dropdown" id="header-community-dropdown-toggle">
+<a href="/people">Közösség</a>
+<i class="fa fa-angle-down"></i>
+</div>
+<ul aria-labelledby="header-community-dropdown-toggle" class="dropdown-menu dropdown-menu-left">
+<li><a href="/people">Emberek</a></li>
+<li><a href="/projects">Projektek</a></li>
+<li><a href="/journal">Bejegyzések</a></li>
+</ul>
+</div>
+</li>
+<li class="navtab moretab menutab">
+<div class="dropdown">
+<div aria-expanded="false" aria-haspopup="true" class="dropdown-toggle" data-toggle="dropdown" id="header-more-dropdown-toggle">
+Továbbiak
+<i class="fa fa-angle-down"></i>
+</div>
+<ul aria-labelledby="header-more-dropdown-toggle" class="dropdown-menu">
+<li><a href="/search">Keresés</a></li>
+<li><a href="/taxa">Taxoninformációk</a></li>
+<li><a href="/guides">Útmutatók</a></li>
+<li><a href="/places">Területek</a></li>
+<li><a href="/stats">Webhelyforgalom</a></li>
+<li class="divider" role="separator"></li>
+<li><a href="https://help.inaturalist.org">Súgó</a></li>
+<li><a href="https://help.inaturalist.org/en/support/solutions/folders/151000552105">Első lépések</a></li>
+<li><a href="https://help.inaturalist.org/en/support/solutions/articles/151000176472-understanding-projects-on-inaturalist">Tudnivaló a projektekről</a></li>
+<li><a href="https://help.inaturalist.org/en/support/solutions/articles/151000170805-inaturalist-educator-s-guide">Útmutató oktatóknak</a></li>
+<li><a href="https://help.inaturalist.org/en/support/solutions/folders/151000547795">Videó bemutatók</a></li>
+<li><a href="https://www.inaturalist.org/pages/curator+guide">Útmutató kurátoroknak</a></li>
+<li class="divider" role="separator"></li>
+<li><a rel="nofollow" href="https://www.inaturalist.org/donate?utm_content=header-more">Támogatás</a></li>
+</ul>
+</div>
+</li>
+</ul>
+<ul class="navtabs" id="usernav">
+<li class="navtab signedout">
+<div class="navtabs donate-cta">
+<a class="btn btn-default btn-inat btn-focus" href="/donate?redirect=true&amp;segment=gmHome&amp;utm_source=inaturalist_homepage&amp;utm_campaign=homepage_redesign_2026&amp;utm_medium=webmobile&amp;utm_content=header_donate_cta"><i class="fa fa-heart"></i>
+<span class="header-md header-lg">Támogatás</span>
+</a></div>
+<a class="signin_link" rel="nofollow" href="/login?utm_source=inaturalist_homepage&amp;utm_campaign=homepage_redesign_2026&amp;utm_medium=owned_web&amp;utm_content=header_login_cta">Bejelentkezés</a>
+<span id="auth-or">vagy</span>
+<a class="signup_link" rel="nofollow" href="/signup?utm_source=inaturalist_homepage&amp;utm_campaign=homepage_redesign_2026&amp;utm_medium=owned_web&amp;utm_content=header_signup_cta">Regisztráció</a>
+</li>
+</ul>
+</div>
+
+
+
+          
+          
+          
+          
+
+      <div id="wrapper" class="bootstrap">
+        <main class="wv2">
+<div class="wv2-section wv2-section--hero text-center">
+<video aria-hidden="true" autoplay="autoplay" class="wv2-hero__video" loop="loop" muted="muted" playsinline="playsinline" preload="none">
+<source src="https://www.inaturalist.org/assets/welcome_v2/hero_video-a59747dd3e25238fbed0f5907a864a83704bc41b066480d14c2ddba36c8d297f.webm" type="video/webm" />
+<source src="https://www.inaturalist.org/assets/welcome_v2/hero_video-b653e08f217698f1090c46a0f319ac8ff30f9f2a0df6c6c1116d9114d5dd6506.mp4" type="video/mp4" />
+</video>
+<div class="wv2-hero__content">
+<h1>Ahol a kíváncsiságod hozzájárul a tudományhoz.</h1>
+<p class="wv2-hero__sub">Azonosítsd a növényeket, állatokat, gombákat és még sok mást, miközben hozzájárulsz egy élő atlaszhoz a Földön.
+</p>
+<a class="btn wv2-btn--white btn-lg" rel="nofollow" href="/signup?utm_source=inaturalist_homepage&amp;utm_campaign=homepage_redesign_2026&amp;utm_medium=owned_web&amp;utm_content=hero_join_cta">Csatlakozz a közösséghez</a>
+<p class="wv2-hero__tagline">Ingyenes, nonprofit, közösségi támogatású.</p>
+</div>
+</div>
+<div class="wv2-section wv2-section--light text-center">
+<h2>Az iNaturalist-szel a következőket teheted:</h2>
+<div class="wv2-features">
+<div class="wv2-feature">
+<div class="wv2-feature__icon-wrap">
+<img class="wv2-feature__icon" alt="" src="https://www.inaturalist.org/assets/welcome_v2/identify_verb-ecb20f0308f02aefa22e990db82bdb1222558dd2cf77e81c6a73c2108ca15b06.svg" />
+</div>
+<h3>Azonosítás</h3>
+<p>növények, állatok, gombák és még sok más</p>
+</div>
+<div class="wv2-feature">
+<div class="wv2-feature__icon-wrap">
+<img class="wv2-feature__icon" alt="" src="https://www.inaturalist.org/assets/welcome_v2/track-e95399ff148fcde3a1ea0d6feb36cebfad481a7a78cbe648ce2c6d8c4a91e493.svg" />
+</div>
+<h3>Nyom</h3>
+<p>Olyan fajokat, amiket világszerte láttál</p>
+</div>
+<div class="wv2-feature">
+<div class="wv2-feature__icon-wrap">
+<img class="wv2-feature__icon" alt="" src="https://www.inaturalist.org/assets/welcome_v2/discover-d91ef9117ed9a0980041deafeba406df32aa7a18ed2a9fdea64e0f0ca73e4bc0.svg" />
+</div>
+<h3>Fedezd fel</h3>
+<p>A közeli természet</p>
+</div>
+<div class="wv2-feature">
+<div class="wv2-feature__icon-wrap">
+<img class="wv2-feature__icon" alt="" src="https://www.inaturalist.org/assets/welcome_v2/contribute-669e69c1cc18e271378dbb5579450bfba75a66afa718fd123b76967dcc753060.svg" />
+</div>
+<h3>Hozzájárulás</h3>
+<p>a valódi tudományhoz</p>
+</div>
+<div class="wv2-feature">
+<div class="wv2-feature__icon-wrap">
+<img class="wv2-feature__icon" alt="" src="https://www.inaturalist.org/assets/welcome_v2/learn-85069c8eff436efe8c6179a2db2dad4de7091842415e683328cbeb63c1e4adb5.svg" />
+</div>
+<h3>Tanulás</h3>
+<p>egy globális természettudós közösségtől</p>
+</div>
+</div>
+</div>
+<div class="wv2-section wv2-section--white wv2-section--stories text-center">
+<h2>A közösségi tudomány ereje</h2>
+<div class="wv2-stories-row">
+<a class="wv2-story" target="_blank" rel="noopener" href="https://tr.ee/FYNsVb"><div class="wv2-story__image">
+<img alt="Frosted phoenix moth" src="https://www.inaturalist.org/assets/welcome_v2/frosted_phoenix-735939c26e5a5caf3f6f5384a29ac4ea9fcbee376b4f2848f994d70ba692041f.webp" />
+<h3>A rég elveszett fajok újrafelfedezése</h3>
+</div>
+<div class="wv2-story__body">
+<p>A Frosted Phoenix A lepkét évtizedek óta nem látták, és egykor kihaltnak hitték — egészen addig, amíg egy új-zélandi turista véletlenül meg nem vette.
+</p>
+<p class="wv2-story__credit">Látott pav_johnsson in New Zealand</p>
+</div>
+</a><a class="wv2-story" target="_blank" rel="noopener" href="https://tr.ee/j29kgK"><div class="wv2-story__image">
+<img alt="Imádkozó sáska" src="https://www.inaturalist.org/assets/welcome_v2/inat-82ef9af16c60a286fa7f2a9ee72e142f04f715a8670e64514142654988d8dd0d.webp" />
+<h3>Új tudományos fajok felfedezése</h3>
+</div>
+<div class="wv2-story__body">
+<p><span class="italic">Inimia nat</span> — rövidítve: <span class="italic">I. nat</span> — egy tudomány számára új sáskafaj, amelyet egy ausztráliai nő talált a környékén sétálva.
+</p>
+<p class="wv2-story__credit">Látott glendawalter in Australia</p>
+</div>
+</a><a class="wv2-story" target="_blank" rel="noopener" href="https://tr.ee/hQZIFH"><div class="wv2-story__image">
+<img alt="California newt" src="https://www.inaturalist.org/assets/welcome_v2/california_newt-8e9a77530dd68f22f5b80bbafbaf47ba15681fe5d1db56848b1b170300bc02d9.webp" />
+<h3>A helyi ökoszisztémák védelme</h3>
+</div>
+<div class="wv2-story__body">
+<p>Egy helyi önkéntesekből álló csoport Kaliforniában az iNaturalist-en keresztül gyűlt össze, hogy megvédjék a forgalmas úton átkelő vándorló kétéltűeket.
+</p>
+<p class="wv2-story__credit">Látott tcuriel in United States</p>
+</div>
+</a></div>
+<a class="btn wv2-btn--green" rel="nofollow" href="/pages/impact?utm_source=inaturalist_homepage&amp;utm_campaign=homepage_redesign_2026&amp;utm_medium=owned_web&amp;utm_content=impact_stories_cta">További történetek olvasható</a>
+</div>
+<div class="wv2-section wv2-section--light text-center">
+<h2>Minden megfigyelés mesél egy történetet</h2>
+<dl class="wv2-observation">
+<div class="wv2-observation__col">
+<div class="wv2-observation__row">
+<dt>Ki</dt>
+<dd class="wv2-observation__who">
+<img class="wv2-observation__avatar" alt="" src="https://www.inaturalist.org/assets/welcome_v2/observations/sample_153739963_user-90c97fd43f43ced80780d53e8e3bdcfc6a1eabb43149ca0210bff1f39cbf0267.webp" />
+<span>tiwane</span>
+</dd>
+</div>
+<div class="wv2-observation__row wv2-observation__row--sep">
+<dt>Mi</dt>
+<dd>
+<img class="wv2-observation__photo" alt="Zöldbéka a levélen" src="https://www.inaturalist.org/assets/welcome_v2/observations/sample_153739963_observation-512c10c26af39b287ba224fa9463910df5cde5373ebd62fd26efacb85119fe5c.webp" />
+<div class="wv2-taxon">
+<img class="wv2-taxon__thumb" alt="" src="https://www.inaturalist.org/assets/welcome_v2/observations/sample_153739963_taxon-354ec64e663d7cb52876cbc5ab79fd69dd86528fe7196a4a65399bebe4f1e9a8.webp" />
+<div class="wv2-taxon__names">
+<p>Emerald Glass Frog</p>
+<em>Espadarana prosoblepon</em>
+</div>
+</div>
+</dd>
+<a target="_blank" rel="noopener" class="wv2-observation__row-link" aria-label="Megfigyelés megtekintése" href="/observations/153739963"></a>
+</div>
+</div>
+<div class="wv2-observation__col">
+<div class="wv2-observation__row">
+<dt>Hol</dt>
+<dd>
+<img class="wv2-observation__map" alt="Map showing observation location with large marker and other observations via grid cells" src="https://www.inaturalist.org/assets/welcome_v2/observation_example_map-183f5d95e90edff27391d938ed7131d1acb2db5e2e2d18d7d8dc1a6e7522f390.webp" />
+<div class="wv2-location">
+<img class="wv2-location__icon" alt="" src="https://www.inaturalist.org/assets/welcome_v2/icon-locationpin-f6ae470a068e1dfdf7b4e46baa84fdb018f701da6e7c5798b7c758834dd82e40.svg" />
+<span>Barrio Flaminia, Heredia, Sarapiquí, Costa Rica</span>
+</div>
+</dd>
+</div>
+<div class="wv2-observation__row wv2-observation__row--sep">
+<dt>Mikor</dt>
+<dd>
+<div class="wv2-location">
+<img class="wv2-location__icon" alt="" src="https://www.inaturalist.org/assets/welcome_v2/icon-datetime-0c1f6ed21075bc8ad67f925e95cc2ac992b4d328bdbb1cd50bc9e2c4f5ba2c65.svg" />
+<span>Mar 25, 2023 · 8:38 PM CST</span>
+</div>
+</dd>
+</div>
+</div>
+</dl>
+</div>
+<div class="wv2-section wv2-section--white wv2-section--stats text-center">
+<div class="wv2-stats">
+<div class="wv2-stats__cell">
+<p class="wv2-stat__number">
+300M
+<span class="wv2-stat__plus">+</span>
+</p>
+<p class="wv2-stat__label">Megfigyelések, amelyek hozzájárulnak a biodiverzitás tudományához</p>
+</div>
+<div class="wv2-stats__cell">
+<p class="wv2-stat__number">
+550,000
+<span class="wv2-stat__plus">+</span>
+</p>
+<p class="wv2-stat__label">Világszerte dokumentált fajokat</p>
+</div>
+<div class="wv2-stats__cell">
+<p class="wv2-stat__number">
+7,000
+<span class="wv2-stat__plus">+</span>
+</p>
+<p class="wv2-stat__label">iNaturalist adatokra hivatkozó cikkek</p>
+</div>
+<div class="wv2-stats__cell">
+<p class="wv2-stat__number">
+500
+<span class="wv2-stat__plus">+</span>
+</p>
+<p class="wv2-stat__label">Fajok, amelyeket közösségi tudósok fedeztek fel vagy fedeztek fel újra</p>
+</div>
+</div>
+</div>
+<div class="wv2-section wv2-section--light wv2-section--how">
+<div class="wv2-steps">
+<div class="wv2-step">
+<span class="wv2-step__num">1</span>
+<div class="wv2-step__content">
+<div class="wv2-step__heading">
+<h3>Figyeld meg</h3>
+<img class="wv2-step__icon" alt="" src="https://www.inaturalist.org/assets/welcome_v2/icon-camera-0448c8a57165c0f5add623d8d2daf61d674df7367298ffe151695d8339efdb3b.svg" />
+</div>
+<p>Nyisd meg az alkalmazást, és fényképezz le bármilyen vadnövényt, állatot, gombát vagy más élőlényt — akár a környékedről, akár a világ bármely pontjáról.
+</p>
+</div>
+</div>
+<div class="wv2-step">
+<span class="wv2-step__num">2</span>
+<div class="wv2-step__content">
+<div class="wv2-step__heading">
+<h3>Azonosíts</h3>
+<img class="wv2-step__icon" alt="" src="https://www.inaturalist.org/assets/welcome_v2/icon-identify-573507f61c439a843ed39edde862fdf3efb25808e9ab934a831a903ce72d59c7.svg" />
+</div>
+<p>Az alkalmazás azonnal azonosítást javasol, és egy globális természettudós közösség megerősíti vagy finomítja azt.
+</p>
+</div>
+</div>
+<div class="wv2-step">
+<span class="wv2-step__num">3</span>
+<div class="wv2-step__content">
+<div class="wv2-step__heading">
+<h3>Járulj hozzá</h3>
+<img class="wv2-step__icon" alt="" src="https://www.inaturalist.org/assets/welcome_v2/icon-globe-0cc9ad2b40aa004e78d7aadc289e3a0f0b0ff26143554e6f611340e74b86842a.svg" />
+</div>
+<p>A megfigyelésed nyílt adatmá válik — tudósok, természetvédők és kutatók által világszerte használják.
+</p>
+</div>
+</div>
+</div>
+</div>
+<div class="wv2-section wv2-section--white">
+<div class="wv2-why">
+<strong class="wv2-why__label">Miért?</strong>
+<p class="wv2-why__body">A természet gyorsabban változik, mint valaha, ezért szükségünk van <span class="underline">Te</span> hogy segítsünk feltüntetni, hol élő személyek.
+</p>
+</div>
+</div>
+<div class="wv2-section wv2-section--white wv2-section--no-horizontal-padding">
+<div class="wv2-testimonials">
+<div class="wv2-carousel" data-carousel="data-carousel" data-initial-index="0">
+<div class="wv2-carousel__stage">
+<button aria-label="Previous" class="wv2-carousel__arrow wv2-carousel__arrow--prev"></button>
+<div class="wv2-carousel__track">
+<div class="wv2-carousel__item">
+<div class="wv2-testimonial">
+<div class="wv2-testimonial__quote">
+<p>Nagyon sokat segített a fajazonosításban, ráadásul lehetőséget adott arra, hogy különböző emberekkel kapcsolatba lépjek a világ minden tájáról.
+</p>
+</div>
+<a class="wv2-testimonial__byline" target="_blank" href="/people/dzivulajr_03"><img class="wv2-testimonial__avatar" alt="Dzivula Gube" src="https://www.inaturalist.org/assets/welcome_v2/testimonial_gube-8bdfa0bdda48c931354c77c7c280e20df97a657f053f99ca45e6e7013116d1f3.webp" />
+<div>
+<p class="wv2-testimonial__name">Dzivula Gube</p>
+<p class="wv2-testimonial__title">Tengeri természetvédő és víz alatti fotós, Kenya</p>
+</div>
+</a></div>
+</div>
+<div class="wv2-carousel__item">
+<div class="wv2-testimonial">
+<div class="wv2-testimonial__quote">
+<p>Az iNaturalist rengeteg új és izgalmas kutatás előtt nyitja meg az alulértékelt taxonokról. Véleményem szerint ez a platform az ökológiai tudomány élvonala.
+</p>
+</div>
+<a class="wv2-testimonial__byline" target="_blank" href="/people/humanbyweight"><img class="wv2-testimonial__avatar" alt="Chris Alice &quot;Alie&quot; Kratzer" src="https://www.inaturalist.org/assets/welcome_v2/testimonial_kratzer-db39d7b09f6f3c0812fb3e1fadf876c66580a7f3302680243b66c2c07b7a876c.webp" />
+<div>
+<p class="wv2-testimonial__name">Chris Alice &quot;Alie&quot; Kratzer</p>
+<p class="wv2-testimonial__title">Terepi útmutató szerző az Owlfly LLC-nél, USA</p>
+</div>
+</a></div>
+</div>
+<div class="wv2-carousel__item">
+<div class="wv2-testimonial">
+<div class="wv2-testimonial__quote">
+<p>Az iNaturalist és elkötelezett azonosító közössége felbecsülhetetlen erőforrássá vált a felfedezéseimben. Ez segített lefektetni a jelenlegi munkám alapjait.
+</p>
+</div>
+<a class="wv2-testimonial__byline" target="_blank" href="/people/amila_sumanapala"><img class="wv2-testimonial__avatar" alt="Amila Sumanapala" src="https://www.inaturalist.org/assets/welcome_v2/testimonial_sumanapala-851c14e2f9440a533d2c43bbfbdb1844391a83fb6e1b81a5315a72155dd2cfd5.webp" />
+<div>
+<p class="wv2-testimonial__name">Amila Sumanapala</p>
+<p class="wv2-testimonial__title">Biodiverzitáskutató, Srí Lanka</p>
+</div>
+</a></div>
+</div>
+<div class="wv2-carousel__item">
+<div class="wv2-testimonial">
+<div class="wv2-testimonial__quote">
+<p>Az iNaturalist egy erőteljes eszköz, amely összeköti az embereket, a természetet és a tudást. Képes vagyok lefotózni egy ritka fajt, vagy akár olyat, amelyet még nem írtak le, és ugyanakkor hozzájárulok a természeti örökségünk megőrzéséhez.
+</p>
+</div>
+<a class="wv2-testimonial__byline" target="_blank" href="/people/nah_fachetti19"><img class="wv2-testimonial__avatar" alt="Nágyla Fachetti Coser" src="https://www.inaturalist.org/assets/welcome_v2/testimonial_fachetti-4332e1559482a7c1ae8d077a5a60adfee5c39a367d6a0cf81fb71dcccac620bb.webp" />
+<div>
+<p class="wv2-testimonial__name">Nágyla Fachetti Coser</p>
+<p class="wv2-testimonial__title">Környezettechnikus és hobbi fotós, Brazília</p>
+</div>
+</a></div>
+</div>
+<div class="wv2-carousel__item">
+<div class="wv2-testimonial">
+<div class="wv2-testimonial__quote">
+<p>Bárhol is vagy a világon, akár PhD-d van, akár csak szereted a természetet, az iNaturalist közelebb visz a természethez és sok más természettudóshoz.
+</p>
+</div>
+<a class="wv2-testimonial__byline" target="_blank" href="/people/aztekium"><img class="wv2-testimonial__avatar" alt="Carlos G. Velazco-Macias" src="https://www.inaturalist.org/assets/welcome_v2/testimonial_velazco-59e98bf559cba3c8d865eb343fb8915b6947ef8d3c0cd958f75b646d4b3581a7.webp" />
+<div>
+<p class="wv2-testimonial__name">Carlos G. Velazco-Macias</p>
+<p class="wv2-testimonial__title">Biológus, Mexikó</p>
+</div>
+</a></div>
+</div>
+</div>
+<button aria-label="Next" class="wv2-carousel__arrow wv2-carousel__arrow--next"></button>
+</div>
+<div class="wv2-carousel__dots">
+<button aria-label="Testimonial 1" class="wv2-carousel__dot active"></button>
+<button aria-label="Testimonial 2" class="wv2-carousel__dot"></button>
+<button aria-label="Testimonial 3" class="wv2-carousel__dot"></button>
+<button aria-label="Testimonial 4" class="wv2-carousel__dot"></button>
+<button aria-label="Testimonial 5" class="wv2-carousel__dot"></button>
+</div>
+</div>
+</div>
+</div>
+<div class="wv2-section wv2-section--light">
+<div class="wv2-everyone">
+<div class="wv2-everyone__point">
+<h3>Mindenki természettudós</h3>
+<p>Ha valaha is közelről megnéztél valami élőt, és azon tűnődtél volna, mi az, az iNaturalist neked való.
+</p>
+</div>
+<div class="wv2-everyone__point">
+<h3>Hatással lehet rá</h3>
+<p>Minden megosztott fotó egy globális tudományos nyilvántartás részévé válik, amelyre a kutatók világszerte támaszkodnak.
+</p>
+</div>
+<div class="wv2-everyone__point">
+<h3><a target="_blank" rel="noopener" href="https://www.sfgate.com/local/article/inaturalist-app-bay-area-22092747.php">A legszebb hely az interneten</a></h3>
+<p>Gyere az azonosításért, maradj a közösségért és a tudományra gyakorolt hatásért.
+</p>
+</div>
+</div>
+</div>
+<div class="wv2-section wv2-section--white">
+<div class="wv2-download">
+<div class="wv2-download__text">
+<h2>Töltse le az iNaturalist alkalmazást</h2>
+<p>Szerezz valós idejű azonosításokat és járulj hozzá a tudományhoz</p>
+</div>
+<div class="wv2-download__images">
+<img class="wv2-download__phone" alt="iNat on two phone screens, showing hummingbird and California poppy observations" width="600" height="604" src="https://www.inaturalist.org/assets/welcome_v2/inaturalist-6fd2c5a0c38dcb5a8204b2eefd73fa981b2702edbde9c2672d51bf1385b83050.webp" />
+</div>
+<div class="wv2-download__cta">
+<div class="wv2-store-badges">
+<a target="_blank" rel="noopener" href="https://apps.apple.com/app/apple-store/id6475737561?pt=475606&amp;ct=homepage&amp;mt=8"><img alt="Download on the App Store" class="wv2-store-badge" width="304" height="90" src="https://static.inaturalist.org/wiki_page_attachments/414-original.png" />
+</a><a target="_blank" rel="noopener" href="https://play.google.com/store/apps/details?id=org.inaturalist.android&amp;hl=en_US"><img alt="Get it on Google Play" class="wv2-store-badge" width="304" height="90" src="https://static.inaturalist.org/wiki_page_attachments/412-original.png" />
+</a></div>
+
+<p class="wv2-download__count">700,000+ Letöltések</p>
+</div>
+</div>
+</div>
+<div class="wv2-section wv2-section--light wv2-section--no-horizontal-padding text-center">
+<h2>Fedezze fel a fajokat világszerte</h2>
+<div class="wv2-explore__cards">
+<div class="wv2-carousel" data-carousel="data-carousel" data-initial-index="0">
+<div class="wv2-carousel__stage">
+<button aria-label="Previous" class="wv2-carousel__arrow wv2-carousel__arrow--prev"></button>
+<div class="wv2-carousel__track">
+<a target="_blank" class="wv2-carousel__item" href="/observations/293778918"><div class="wv2-obs-card">
+<div class="wv2-obs-card__header">
+<img class="wv2-obs-card__avatar-img" alt="" src="https://www.inaturalist.org/assets/welcome_v2/observations/293778918_user-402c62b2af5059b000323c520047d0cbcbeebcc5489123fe0f53fe297a6e5789.webp" />
+<span class="wv2-obs-card__username">cryokinesis</span>
+</div>
+<img class="wv2-obs-card__photo-img" alt="" src="https://www.inaturalist.org/assets/welcome_v2/observations/293778918_observation-2d2ef929a17dde64c7b36172185b618332ea171bbb76fea983b3386dcbffb58d.webp" />
+<div class="wv2-taxon">
+<img class="wv2-taxon__thumb" alt="" src="https://www.inaturalist.org/assets/welcome_v2/observations/293778918_taxon-52a61b66e870ae989e89e87c4bc07c37d64589bc277615ef7d2f4ccda22730fb.webp" />
+<div class="wv2-taxon__names">
+<p class="wv2-obs-card__common">Viráglakó karolópók</p>
+<em class="wv2-obs-card__sci">Misumena vatia</em>
+</div>
+</div>
+<div class="wv2-location">
+<img class="wv2-location__icon" alt="" src="https://www.inaturalist.org/assets/welcome_v2/icon-locationpin-f6ae470a068e1dfdf7b4e46baa84fdb018f701da6e7c5798b7c758834dd82e40.svg" />
+<span>Sainte-Adèle, QC J8B 1N9, Canada</span>
+</div>
+</div>
+</a><a target="_blank" class="wv2-carousel__item" href="/observations/286445539"><div class="wv2-obs-card">
+<div class="wv2-obs-card__header">
+<img class="wv2-obs-card__avatar-img" alt="" src="https://www.inaturalist.org/assets/welcome_v2/observations/286445539_user-be182512c3b20f68a391b0afeb56b8bb836449ceed4cbac4b2af2c98d06a7294.webp" />
+<span class="wv2-obs-card__username">adrian2370</span>
+</div>
+<img class="wv2-obs-card__photo-img" alt="" src="https://www.inaturalist.org/assets/welcome_v2/observations/286445539_observation-1d0806d5e15eebfa66ea880ab9c5f60460af9d21b4b6e8b8cb81ac40c3dfc2db.webp" />
+<div class="wv2-taxon">
+<img class="wv2-taxon__thumb" alt="" src="https://www.inaturalist.org/assets/welcome_v2/observations/286445539_taxon-966e4316b1cdf1f5c5885c7f97ec23b3961e207dc14c482f2554fff880e3ae47.webp" />
+<div class="wv2-taxon__names">
+<em class="wv2-obs-card__sci">Paraplanocera</em>
+</div>
+</div>
+<div class="wv2-location">
+<img class="wv2-location__icon" alt="" src="https://www.inaturalist.org/assets/welcome_v2/icon-locationpin-f6ae470a068e1dfdf7b4e46baa84fdb018f701da6e7c5798b7c758834dd82e40.svg" />
+<span>Woolgoolga NSW 2456, Australia</span>
+</div>
+</div>
+</a><a target="_blank" class="wv2-carousel__item" href="/observations/285912486"><div class="wv2-obs-card">
+<div class="wv2-obs-card__header">
+<img class="wv2-obs-card__avatar-img" alt="" src="https://www.inaturalist.org/assets/welcome_v2/observations/285912486_user-0a0da6b530ef7d4362de40d6968fbe1c2127be3384059f92465dd25a2b389085.webp" />
+<span class="wv2-obs-card__username">myconeer</span>
+</div>
+<img class="wv2-obs-card__photo-img" alt="" src="https://www.inaturalist.org/assets/welcome_v2/observations/285912486_observation-cdb2f60e34fff34db046a32526373d8884d056f5f53f22b988fdb698d072287f.webp" />
+<div class="wv2-taxon">
+<img class="wv2-taxon__thumb" alt="" src="https://www.inaturalist.org/assets/welcome_v2/observations/285912486_taxon-ff620d3d81b365778b44de8932d9ab8b936a2c0516a129a27d3ae1e87cedbc8a.webp" />
+<div class="wv2-taxon__names">
+<em class="wv2-obs-card__sci">Mycena podocarpi</em>
+</div>
+</div>
+<div class="wv2-location">
+<img class="wv2-location__icon" alt="" src="https://www.inaturalist.org/assets/welcome_v2/icon-locationpin-f6ae470a068e1dfdf7b4e46baa84fdb018f701da6e7c5798b7c758834dd82e40.svg" />
+<span>Momorangi Bay 7281, New Zealand</span>
+</div>
+</div>
+</a><a target="_blank" class="wv2-carousel__item" href="/observations/276441627"><div class="wv2-obs-card">
+<div class="wv2-obs-card__header">
+<img class="wv2-obs-card__avatar-img" alt="" src="https://www.inaturalist.org/assets/welcome_v2/observations/276441627_user-bf665415908fb6279e0c3e9d9d55820406469bdae072ccaa9b1a0fceb6e5e63b.webp" />
+<span class="wv2-obs-card__username">luca_dt</span>
+</div>
+<img class="wv2-obs-card__photo-img" alt="" src="https://www.inaturalist.org/assets/welcome_v2/observations/276441627_observation-6e295b30bfd2aba4f307e7535a5a86ebbfaa5e229469bf970aadf62610901306.webp" />
+<div class="wv2-taxon">
+<img class="wv2-taxon__thumb" alt="" src="https://www.inaturalist.org/assets/welcome_v2/observations/276441627_taxon-5d9f92f985d95487f425e774098b2e45d9f0ba41329273c0adf2d989fe04f8ee.webp" />
+<div class="wv2-taxon__names">
+<em class="wv2-obs-card__sci">Calvatomina superba</em>
+</div>
+</div>
+<div class="wv2-location">
+<img class="wv2-location__icon" alt="" src="https://www.inaturalist.org/assets/welcome_v2/icon-locationpin-f6ae470a068e1dfdf7b4e46baa84fdb018f701da6e7c5798b7c758834dd82e40.svg" />
+<span>Wilton, Wellington, New Zealand</span>
+</div>
+</div>
+</a><a target="_blank" class="wv2-carousel__item" href="/observations/275114059"><div class="wv2-obs-card">
+<div class="wv2-obs-card__header">
+<img class="wv2-obs-card__avatar-img" alt="" src="https://www.inaturalist.org/assets/welcome_v2/observations/275114059_user-d3e016c0aad2b71ef41f1c00347a6b6b7a0084a2065785ae64826fa5d6fe3e63.webp" />
+<span class="wv2-obs-card__username">srichakrapranav</span>
+</div>
+<img class="wv2-obs-card__photo-img" alt="" src="https://www.inaturalist.org/assets/welcome_v2/observations/275114059_observation-40f1ad250e9385af1d57fab0faab0eacdd0b4bd950a59cbbc0469d81707c1ccb.webp" />
+<div class="wv2-taxon">
+<img class="wv2-taxon__thumb" alt="" src="https://www.inaturalist.org/assets/welcome_v2/observations/275114059_taxon-d997f65acc771f5f6c0174c9bf5e05200075ca5997aebb937b83aab881cac4ef.webp" />
+<div class="wv2-taxon__names">
+<em class="wv2-obs-card__sci">Phidiana unilineata</em>
+</div>
+</div>
+<div class="wv2-location">
+<img class="wv2-location__icon" alt="" src="https://www.inaturalist.org/assets/welcome_v2/icon-locationpin-f6ae470a068e1dfdf7b4e46baa84fdb018f701da6e7c5798b7c758834dd82e40.svg" />
+<span>Visakhapatnam Urban, Visakhapatnam, Andhra Pradesh, India</span>
+</div>
+</div>
+</a><a target="_blank" class="wv2-carousel__item" href="/observations/266791102"><div class="wv2-obs-card">
+<div class="wv2-obs-card__header">
+<img class="wv2-obs-card__avatar-img" alt="" src="https://www.inaturalist.org/assets/welcome_v2/observations/266791102_user-895489186803d9e0d8977d6309a12573c13d1f5c54cbc081ac1e3fc0c93e5a85.webp" />
+<span class="wv2-obs-card__username">swordgrass</span>
+</div>
+<img class="wv2-obs-card__photo-img" alt="" src="https://www.inaturalist.org/assets/welcome_v2/observations/266791102_observation-eb414c03c7f2688c3d81a77fc44e37c0f06fe8945dc8242bfc3d8200baaa5724.webp" />
+<div class="wv2-taxon">
+<img class="wv2-taxon__thumb" alt="" src="https://www.inaturalist.org/assets/welcome_v2/observations/266791102_taxon-ee802cf0f4c69f845303cc5c8b3d03f0768fdb249c5c7ff88c1206622ce81e6f.webp" />
+<div class="wv2-taxon__names">
+<p class="wv2-obs-card__common">white fawnlily</p>
+<em class="wv2-obs-card__sci">Erythronium albidum</em>
+</div>
+</div>
+<div class="wv2-location">
+<img class="wv2-location__icon" alt="" src="https://www.inaturalist.org/assets/welcome_v2/icon-locationpin-f6ae470a068e1dfdf7b4e46baa84fdb018f701da6e7c5798b7c758834dd82e40.svg" />
+<span>Cucumbertree Trail, Athens, OH, US</span>
+</div>
+</div>
+</a><a target="_blank" class="wv2-carousel__item" href="/observations/265635978"><div class="wv2-obs-card">
+<div class="wv2-obs-card__header">
+<img class="wv2-obs-card__avatar-img" alt="" src="https://www.inaturalist.org/assets/welcome_v2/observations/265635978_user-0f670d232fe227a7bc958911a89aefa5dc3651fd97a197c14688f7d7b226fb0b.webp" />
+<span class="wv2-obs-card__username">alex_shure</span>
+</div>
+<img class="wv2-obs-card__photo-img" alt="" src="https://www.inaturalist.org/assets/welcome_v2/observations/265635978_observation-318bc7c2f7be95a96bef81f924fd8b94c2bd37d8b14daba444221d85602fe0a4.webp" />
+<div class="wv2-taxon">
+<img class="wv2-taxon__thumb" alt="" src="https://www.inaturalist.org/assets/welcome_v2/observations/265635978_taxon-5d4b055f9adf084582b9e3611560dbedf4fa2efc4bc3f3f6538c9fa266075a4e.webp" />
+<div class="wv2-taxon__names">
+<em class="wv2-obs-card__sci">Nereidinae</em>
+</div>
+</div>
+<div class="wv2-location">
+<img class="wv2-location__icon" alt="" src="https://www.inaturalist.org/assets/welcome_v2/icon-locationpin-f6ae470a068e1dfdf7b4e46baa84fdb018f701da6e7c5798b7c758834dd82e40.svg" />
+<span>Beverly, MA, USA</span>
+</div>
+</div>
+</a><a target="_blank" class="wv2-carousel__item" href="/observations/265386961"><div class="wv2-obs-card">
+<div class="wv2-obs-card__header">
+<img class="wv2-obs-card__avatar-img" alt="" src="https://www.inaturalist.org/assets/welcome_v2/observations/265386961_user-4eed10fb3974ffdd7f9c402ddf46ba589b223e82831d24ca03de03f9f135f992.webp" />
+<span class="wv2-obs-card__username">shou_1221</span>
+</div>
+<img class="wv2-obs-card__photo-img" alt="" src="https://www.inaturalist.org/assets/welcome_v2/observations/265386961_observation-373077bfdf0772655a995bcd1fb374278159368b57e766e83b6c1a91435619b7.webp" />
+<div class="wv2-taxon">
+<img class="wv2-taxon__thumb" alt="" src="https://www.inaturalist.org/assets/welcome_v2/observations/265386961_taxon-1d646c895a42e2b6c60341cec287d79580f969b1cf4ef17ba22699fbc86e41d9.webp" />
+<div class="wv2-taxon__names">
+<em class="wv2-obs-card__sci">Neotrichozetes spinulosa</em>
+</div>
+</div>
+<div class="wv2-location">
+<img class="wv2-location__icon" alt="" src="https://www.inaturalist.org/assets/welcome_v2/icon-locationpin-f6ae470a068e1dfdf7b4e46baa84fdb018f701da6e7c5798b7c758834dd82e40.svg" />
+<span>Pareora West, ニュージーランド</span>
+</div>
+</div>
+</a><a target="_blank" class="wv2-carousel__item" href="/observations/265118975"><div class="wv2-obs-card">
+<div class="wv2-obs-card__header">
+<img class="wv2-obs-card__avatar-img" alt="" src="https://www.inaturalist.org/assets/welcome_v2/observations/265118975_user-a07f2f16e6e039abcc0511f5b761c41d1b6c228bc08179d8020a43837378f164.webp" />
+<span class="wv2-obs-card__username">liznoble</span>
+</div>
+<img class="wv2-obs-card__photo-img" alt="" src="https://www.inaturalist.org/assets/welcome_v2/observations/265118975_observation-7f72025e4b95071c5865ee26aa07de883693c053e2589fa988d3f96e59082f61.webp" />
+<div class="wv2-taxon">
+<img class="wv2-taxon__thumb" alt="" src="https://www.inaturalist.org/assets/welcome_v2/observations/265118975_taxon-3d1af01e8b0ab44e3aac899c4b64148f6d04c1557b42a5a057708f62c144085a.webp" />
+<div class="wv2-taxon__names">
+<p class="wv2-obs-card__common">ruby bonnet</p>
+<em class="wv2-obs-card__sci">Cruentomycena viscidocruenta</em>
+</div>
+</div>
+<div class="wv2-location">
+<img class="wv2-location__icon" alt="" src="https://www.inaturalist.org/assets/welcome_v2/icon-locationpin-f6ae470a068e1dfdf7b4e46baa84fdb018f701da6e7c5798b7c758834dd82e40.svg" />
+<span>Sydney NSW, Australia</span>
+</div>
+</div>
+</a><a target="_blank" class="wv2-carousel__item" href="/observations/264419988"><div class="wv2-obs-card">
+<div class="wv2-obs-card__header">
+<img class="wv2-obs-card__avatar-img" alt="" src="https://www.inaturalist.org/assets/welcome_v2/observations/264419988_user-68d55eb69e4c8eebeccfad683922a903b79298b9df843a49d9c2b8be6c78fef4.webp" />
+<span class="wv2-obs-card__username">moth_nut</span>
+</div>
+<img class="wv2-obs-card__photo-img" alt="" src="https://www.inaturalist.org/assets/welcome_v2/observations/264419988_observation-809332b105a569b0f1bc09d2a6251550dac13a609b937bc5c2e3e4b1e44ac635.webp" />
+<div class="wv2-taxon">
+<img class="wv2-taxon__thumb" alt="" src="https://www.inaturalist.org/assets/welcome_v2/observations/264419988_taxon-eb32549a22f0bdcdd27ffdfa62ce583c0765c568ee084598193b27dd125b29b8.webp" />
+<div class="wv2-taxon__names">
+<em class="wv2-obs-card__sci">Paridotea ungulata</em>
+</div>
+</div>
+<div class="wv2-location">
+<img class="wv2-location__icon" alt="" src="https://www.inaturalist.org/assets/welcome_v2/icon-locationpin-f6ae470a068e1dfdf7b4e46baa84fdb018f701da6e7c5798b7c758834dd82e40.svg" />
+<span>Boronia Beach Track, Kingston Beach, TAS, AU</span>
+</div>
+</div>
+</a><a target="_blank" class="wv2-carousel__item" href="/observations/263045673"><div class="wv2-obs-card">
+<div class="wv2-obs-card__header">
+<img class="wv2-obs-card__avatar-img" alt="" src="https://www.inaturalist.org/assets/welcome_v2/observations/263045673_user-742ed98c85e167eb29813dc416ee258e87cf2f184fe583c53a8e41f088a3c28a.webp" />
+<span class="wv2-obs-card__username">abhiapc</span>
+</div>
+<img class="wv2-obs-card__photo-img" alt="" src="https://www.inaturalist.org/assets/welcome_v2/observations/263045673_observation-f447acd0d54e2e330118d67c7e704bf56c1d4dab9b52ac78b8bb196aef4b896c.webp" />
+<div class="wv2-taxon">
+<img class="wv2-taxon__thumb" alt="" src="https://www.inaturalist.org/assets/welcome_v2/observations/263045673_taxon-5f1311e2c61024df0ac131ea8df518afe46e74e043046fbbccf567ba26c70c94.webp" />
+<div class="wv2-taxon__names">
+<em class="wv2-obs-card__sci">Teleopsis sykesii</em>
+</div>
+</div>
+<div class="wv2-location">
+<img class="wv2-location__icon" alt="" src="https://www.inaturalist.org/assets/welcome_v2/icon-locationpin-f6ae470a068e1dfdf7b4e46baa84fdb018f701da6e7c5798b7c758834dd82e40.svg" />
+<span>Ranipuram, Kerala, India</span>
+</div>
+</div>
+</a><a target="_blank" class="wv2-carousel__item" href="/observations/260473262"><div class="wv2-obs-card">
+<div class="wv2-obs-card__header">
+<img class="wv2-obs-card__avatar-img" alt="" src="https://www.inaturalist.org/assets/welcome_v2/observations/260473262_user-9d3894fd047647f3a477d98bbafc2e62263578dea65e91a7ae5df519738540cc.webp" />
+<span class="wv2-obs-card__username">bektemirosmonali</span>
+</div>
+<img class="wv2-obs-card__photo-img" alt="" src="https://www.inaturalist.org/assets/welcome_v2/observations/260473262_observation-4b7ec298026a769f90cec08e3ab2790d034eff8ce17d390baa405d83a31f773a.webp" />
+<div class="wv2-taxon">
+<img class="wv2-taxon__thumb" alt="" src="https://www.inaturalist.org/assets/welcome_v2/observations/260473262_taxon-5989091f2fc89ad0221d1c75da2e16c29e7d8935cdf93fefa15210234aa15c3d.webp" />
+<div class="wv2-taxon__names">
+<em class="wv2-obs-card__sci">Climacoptera lanata</em>
+</div>
+</div>
+<div class="wv2-location">
+<img class="wv2-location__icon" alt="" src="https://www.inaturalist.org/assets/welcome_v2/icon-locationpin-f6ae470a068e1dfdf7b4e46baa84fdb018f701da6e7c5798b7c758834dd82e40.svg" />
+<span>Каракиянский район, Казахстан</span>
+</div>
+</div>
+</a><a target="_blank" class="wv2-carousel__item" href="/observations/259241789"><div class="wv2-obs-card">
+<div class="wv2-obs-card__header">
+<img class="wv2-obs-card__avatar-img" alt="" src="https://www.inaturalist.org/assets/welcome_v2/observations/259241789_user-e990c550feb4203341366a5cdca7d78de93fdefe67cd25e182a4f47f8eef3ec1.webp" />
+<span class="wv2-obs-card__username">ohwhen</span>
+</div>
+<img class="wv2-obs-card__photo-img" alt="" src="https://www.inaturalist.org/assets/welcome_v2/observations/259241789_observation-30f6c5490065a8b480b25e85026f7a0f4578f6b82a3dfc31718fc2c5ea992914.webp" />
+<div class="wv2-taxon">
+<img class="wv2-taxon__thumb" alt="" src="https://www.inaturalist.org/assets/welcome_v2/observations/259241789_taxon-dd655a525ff2cda7aa7403fabddf2a43e6f40e4bf46852b7beb7ce37cfdf78ab.webp" />
+<div class="wv2-taxon__names">
+<p class="wv2-obs-card__common">Sárga Falizuzmó</p>
+<em class="wv2-obs-card__sci">Xanthoria parietina</em>
+</div>
+</div>
+<div class="wv2-location">
+<img class="wv2-location__icon" alt="" src="https://www.inaturalist.org/assets/welcome_v2/icon-locationpin-f6ae470a068e1dfdf7b4e46baa84fdb018f701da6e7c5798b7c758834dd82e40.svg" />
+<span>X5W5+M9, Lancaster LA2 0BS, UK</span>
+</div>
+</div>
+</a><a target="_blank" class="wv2-carousel__item" href="/observations/258827087"><div class="wv2-obs-card">
+<div class="wv2-obs-card__header">
+<img class="wv2-obs-card__avatar-img" alt="" src="https://www.inaturalist.org/assets/welcome_v2/observations/258827087_user-5c4ace08d3fa45de669ffd47fe622731378e1b08d85aabd8dbf14a8bd0bf169e.webp" />
+<span class="wv2-obs-card__username">timlindlof</span>
+</div>
+<img class="wv2-obs-card__photo-img" alt="" src="https://www.inaturalist.org/assets/welcome_v2/observations/258827087_observation-2b2144843b03211f91f3257562970c883727124a94c214640f60a141954d0b2d.webp" />
+<div class="wv2-taxon">
+<img class="wv2-taxon__thumb" alt="" src="https://www.inaturalist.org/assets/welcome_v2/observations/258827087_taxon-089bda67f28ff7aa7d31a424780f873b4261b4d25c7173372b6f32784bdd7bde.webp" />
+<div class="wv2-taxon__names">
+<p class="wv2-obs-card__common">európai vidra</p>
+<em class="wv2-obs-card__sci">Lutra lutra</em>
+</div>
+</div>
+<div class="wv2-location">
+<img class="wv2-location__icon" alt="" src="https://www.inaturalist.org/assets/welcome_v2/icon-locationpin-f6ae470a068e1dfdf7b4e46baa84fdb018f701da6e7c5798b7c758834dd82e40.svg" />
+<span>Kristinestad, Finland</span>
+</div>
+</div>
+</a><a target="_blank" class="wv2-carousel__item" href="/observations/258349114"><div class="wv2-obs-card">
+<div class="wv2-obs-card__header">
+<img class="wv2-obs-card__avatar-img" alt="" src="https://www.inaturalist.org/assets/welcome_v2/observations/258349114_user-392c0207510e93f9b85892d8dc817bda12f885043d126011ef41f665cca7014d.webp" />
+<span class="wv2-obs-card__username">tetracerus</span>
+</div>
+<img class="wv2-obs-card__photo-img" alt="" src="https://www.inaturalist.org/assets/welcome_v2/observations/258349114_observation-377109d797fd0838f4f9850e24099b4261856b8aec3f99cb1c204020b73f0bc4.webp" />
+<div class="wv2-taxon">
+<img class="wv2-taxon__thumb" alt="" src="https://www.inaturalist.org/assets/welcome_v2/observations/258349114_taxon-8c42ee4819d90bea7ba702ff466f8a6c3df083b434d05f37874e24c91afb1c2f.webp" />
+<div class="wv2-taxon__names">
+<em class="wv2-obs-card__sci">Arcyria</em>
+</div>
+</div>
+<div class="wv2-location">
+<img class="wv2-location__icon" alt="" src="https://www.inaturalist.org/assets/welcome_v2/icon-locationpin-f6ae470a068e1dfdf7b4e46baa84fdb018f701da6e7c5798b7c758834dd82e40.svg" />
+<span>San Mateo County, CA, USA</span>
+</div>
+</div>
+</a><a target="_blank" class="wv2-carousel__item" href="/observations/256726247"><div class="wv2-obs-card">
+<div class="wv2-obs-card__header">
+<img class="wv2-obs-card__avatar-img" alt="" src="https://www.inaturalist.org/assets/welcome_v2/observations/256726247_user-e0f64f496f81a926303e344015223c371f9c201d9dd8ceaa4264d6a4ead8b4ef.webp" />
+<span class="wv2-obs-card__username">cicciocostarica</span>
+</div>
+<img class="wv2-obs-card__photo-img" alt="" src="https://www.inaturalist.org/assets/welcome_v2/observations/256726247_observation-f94e30c6f361b8a1b6bc0dfc0063e99950d53e686573f5a3ea2930236f6136fd.webp" />
+<div class="wv2-taxon">
+<img class="wv2-taxon__thumb" alt="" src="https://www.inaturalist.org/assets/welcome_v2/observations/256726247_taxon-01cd59c723e5ce629da677680126f1faaa1d990e68ecc7340da5b8010e56843d.webp" />
+<div class="wv2-taxon__names">
+<p class="wv2-obs-card__common">sörtés dücskőgomba</p>
+<em class="wv2-obs-card__sci">Panus lecomtei</em>
+</div>
+</div>
+<div class="wv2-location">
+<img class="wv2-location__icon" alt="" src="https://www.inaturalist.org/assets/welcome_v2/icon-locationpin-f6ae470a068e1dfdf7b4e46baa84fdb018f701da6e7c5798b7c758834dd82e40.svg" />
+<span>Coto Brus, Puntarenas, CR</span>
+</div>
+</div>
+</a><a target="_blank" class="wv2-carousel__item" href="/observations/256481438"><div class="wv2-obs-card">
+<div class="wv2-obs-card__header">
+<img class="wv2-obs-card__avatar-img" alt="" src="https://www.inaturalist.org/assets/welcome_v2/observations/256481438_user-b0489865695930ea262246ad29270ab8e974b5fd35c37d446a1f77f65371ef2b.webp" />
+<span class="wv2-obs-card__username">andrewpavlov</span>
+</div>
+<img class="wv2-obs-card__photo-img" alt="" src="https://www.inaturalist.org/assets/welcome_v2/observations/256481438_observation-b1c67483d154d39d6393391b5c66bfa2f017f6b9d34c9cdbb21b784a8a1c5f38.webp" />
+<div class="wv2-taxon">
+<img class="wv2-taxon__thumb" alt="" src="https://www.inaturalist.org/assets/welcome_v2/observations/256481438_taxon-be14c0d3fc7933b31efaa60be42fbcf2b6c5213e76f1343489d0e146806aa526.webp" />
+<div class="wv2-taxon__names">
+<p class="wv2-obs-card__common">fehérhasú legyezőfarok</p>
+<em class="wv2-obs-card__sci">Rhipidura leucophrys</em>
+</div>
+</div>
+<div class="wv2-location">
+<img class="wv2-location__icon" alt="" src="https://www.inaturalist.org/assets/welcome_v2/icon-locationpin-f6ae470a068e1dfdf7b4e46baa84fdb018f701da6e7c5798b7c758834dd82e40.svg" />
+<span>Woolgoolga NSW 2456, Australia</span>
+</div>
+</div>
+</a><a target="_blank" class="wv2-carousel__item" href="/observations/255961537"><div class="wv2-obs-card">
+<div class="wv2-obs-card__header">
+<img class="wv2-obs-card__avatar-img" alt="" src="https://www.inaturalist.org/assets/welcome_v2/observations/255961537_user-66ce183041be296f1b86cf895eb9ecca72a4ecc1336eef0cdb870827527b7c7f.webp" />
+<span class="wv2-obs-card__username">lloyd_esler</span>
+</div>
+<img class="wv2-obs-card__photo-img" alt="" src="https://www.inaturalist.org/assets/welcome_v2/observations/255961537_observation-d121fd25d81fa8ebcd752fd278217a356a2e2d295f4dff1e1078e617736f2872.webp" />
+<div class="wv2-taxon">
+<img class="wv2-taxon__thumb" alt="" src="https://www.inaturalist.org/assets/welcome_v2/observations/255961537_taxon-093fad4190d61dba54386a9c56f15050a51a3966d433028508a52aad78f20e93.webp" />
+<div class="wv2-taxon__names">
+<em class="wv2-obs-card__sci">Rivularia</em>
+</div>
+</div>
+<div class="wv2-location">
+<img class="wv2-location__icon" alt="" src="https://www.inaturalist.org/assets/welcome_v2/icon-locationpin-f6ae470a068e1dfdf7b4e46baa84fdb018f701da6e7c5798b7c758834dd82e40.svg" />
+<span>Southland, New Zealand</span>
+</div>
+</div>
+</a><a target="_blank" class="wv2-carousel__item" href="/observations/254160994"><div class="wv2-obs-card">
+<div class="wv2-obs-card__header">
+<img class="wv2-obs-card__avatar-img" alt="" src="https://www.inaturalist.org/assets/welcome_v2/observations/254160994_user-f71c8061b48dc8fe80948cf1806c42573321dc4090f75186247217bbfe0c026a.webp" />
+<span class="wv2-obs-card__username">oscarkokako</span>
+</div>
+<img class="wv2-obs-card__photo-img" alt="" src="https://www.inaturalist.org/assets/welcome_v2/observations/254160994_observation-2fe2f9ce624ddb8c5dfdb5f0cbbdce4d671371c4814ffddfff62938c7c07877e.webp" />
+<div class="wv2-taxon">
+<img class="wv2-taxon__thumb" alt="" src="https://www.inaturalist.org/assets/welcome_v2/observations/254160994_taxon-649013a91070141770a2583559a7de4ec47b5ce34db20bac9607a3aca3eab5fb.webp" />
+<div class="wv2-taxon__names">
+<p class="wv2-obs-card__common">királypingvin</p>
+<em class="wv2-obs-card__sci">Aptenodytes patagonicus</em>
+</div>
+</div>
+<div class="wv2-location">
+<img class="wv2-location__icon" alt="" src="https://www.inaturalist.org/assets/welcome_v2/icon-locationpin-f6ae470a068e1dfdf7b4e46baa84fdb018f701da6e7c5798b7c758834dd82e40.svg" />
+<span>Sandy Bay, Macquarie Island</span>
+</div>
+</div>
+</a><a target="_blank" class="wv2-carousel__item" href="/observations/251945802"><div class="wv2-obs-card">
+<div class="wv2-obs-card__header">
+<img class="wv2-obs-card__avatar-img" alt="" src="https://www.inaturalist.org/assets/welcome_v2/observations/251945802_user-93d81a69b503d97ba02135a0ce2503a7a22ba8b0af89563b11031d9611f94199.webp" />
+<span class="wv2-obs-card__username">xoabird</span>
+</div>
+<img class="wv2-obs-card__photo-img" alt="" src="https://www.inaturalist.org/assets/welcome_v2/observations/251945802_observation-314dc6783f6328e861524390a8b9949b54d375691519b231e000147261ec44a2.webp" />
+<div class="wv2-taxon">
+<img class="wv2-taxon__thumb" alt="" src="https://www.inaturalist.org/assets/welcome_v2/observations/251945802_taxon-f807dfb22966cba9d757f4dee6298d7f7535e733dbacf5c77cae6716de8d68b0.webp" />
+<div class="wv2-taxon__names">
+<p class="wv2-obs-card__common">Southern Gerenuk</p>
+<em class="wv2-obs-card__sci">Litocranius walleri walleri</em>
+</div>
+</div>
+<div class="wv2-location">
+<img class="wv2-location__icon" alt="" src="https://www.inaturalist.org/assets/welcome_v2/icon-locationpin-f6ae470a068e1dfdf7b4e46baa84fdb018f701da6e7c5798b7c758834dd82e40.svg" />
+<span>Isiolo North, KE-IS, KE</span>
+</div>
+</div>
+</a></div>
+<button aria-label="Next" class="wv2-carousel__arrow wv2-carousel__arrow--next"></button>
+</div>
+<div class="wv2-carousel__dots">
+<button aria-label="Observation 1" class="wv2-carousel__dot"></button>
+<button aria-label="Observation 2" class="wv2-carousel__dot"></button>
+<button aria-label="Observation 3" class="wv2-carousel__dot"></button>
+<button aria-label="Observation 4" class="wv2-carousel__dot"></button>
+<button aria-label="Observation 5" class="wv2-carousel__dot"></button>
+<button aria-label="Observation 6" class="wv2-carousel__dot"></button>
+<button aria-label="Observation 7" class="wv2-carousel__dot"></button>
+<button aria-label="Observation 8" class="wv2-carousel__dot"></button>
+<button aria-label="Observation 9" class="wv2-carousel__dot"></button>
+<button aria-label="Observation 10" class="wv2-carousel__dot"></button>
+<button aria-label="Observation 11" class="wv2-carousel__dot active"></button>
+<button aria-label="Observation 12" class="wv2-carousel__dot"></button>
+<button aria-label="Observation 13" class="wv2-carousel__dot"></button>
+<button aria-label="Observation 14" class="wv2-carousel__dot"></button>
+<button aria-label="Observation 15" class="wv2-carousel__dot"></button>
+<button aria-label="Observation 16" class="wv2-carousel__dot"></button>
+<button aria-label="Observation 17" class="wv2-carousel__dot"></button>
+<button aria-label="Observation 18" class="wv2-carousel__dot"></button>
+<button aria-label="Observation 19" class="wv2-carousel__dot"></button>
+<button aria-label="Observation 20" class="wv2-carousel__dot"></button>
+</div>
+</div>
+</div>
+<a class="btn wv2-btn--dark" href="/observations">Fedezz fel most</a>
+</div>
+<div class="wv2-section wv2-section--white">
+<div class="wv2-seek">
+<div class="wv2-seek__text">
+<h2>13 év alatti? Töltsd le a Seek!</h2>
+<p>Szerezz jelvényeket, és vegyél részt a fajok megfigyelésére irányuló kihívásokban!</p>
+</div>
+<div class="wv2-seek__images">
+<img class="wv2-seek__phone" alt="A Seek alkalmazás aktív két telefonon, amely egy tukán jelvényt és a Fajok a közelben nézetet mutatja" width="600" height="605" src="https://www.inaturalist.org/assets/welcome_v2/seek-f4725241fef8913dcafef8c22dd4330401c82406cc2d6895a6f5ab359468028a.webp" />
+</div>
+<div class="wv2-seek__cta">
+<div class="wv2-store-badges">
+<a target="_blank" rel="noopener" href="https://apps.apple.com/app/apple-store/id1353224144?pt=475606&amp;ct=homepageapr26&amp;mt=8"><img alt="Download on the App Store" class="wv2-store-badge" width="304" height="90" src="https://static.inaturalist.org/wiki_page_attachments/414-original.png" />
+</a><a target="_blank" rel="noopener" href="https://play.google.com/store/apps/details?id=org.inaturalist.seek"><img alt="Get it on Google Play" class="wv2-store-badge" width="304" height="90" src="https://static.inaturalist.org/wiki_page_attachments/412-original.png" />
+</a></div>
+
+<p class="wv2-seek__reviews">20,000+ 5 csillagos értékelések</p>
+</div>
+</div>
+</div>
+<div class="wv2-section wv2-section--dark wv2-section--spacious text-center">
+<h2>Szerezze meg havi hírlevelünket!</h2>
+<p class="wv2-section__body">Maradj kapcsolatban az iNaturalist közösség történeteivel és felfedezéseivel.</p>
+<a class="btn wv2-btn--white" rel="nofollow" href="/pages/newsletter?utm_source=inaturalist_homepage&amp;utm_campaign=homepage_redesign_2026&amp;utm_medium=owned_web&amp;utm_content=newsletter_signup">Feliratkozz</a>
+</div>
+<div class="wv2-section wv2-section--white wv2-section--spacious text-center">
+<p class="wv2-donate__headline">Az iNaturalist egy nonprofit szervezet, amely támogatja a tudományt és a természetvédelmet.</p>
+<p class="wv2-section__body">A támogatásod teszi ezt lehetővé.</p>
+<a class="btn wv2-btn--green" rel="nofollow" href="/donate?redirect=true&amp;segment=gmHome&amp;utm_source=inaturalist_homepage&amp;utm_campaign=homepage_redesign_2026&amp;utm_medium=webmobile&amp;utm_content=donate_cta">Adományozz most</a>
+</div>
+<div class="wv2-section wv2-section--light">
+<h2 class="text-center">GYIK</h2>
+<div class="wv2-faq">
+<details class="wv2-faq__item">
+<summary>Feltölthetek már meglévő fotóimat?</summary>
+<p>Igen! Amíg nagyjából tudod, mikor és hol készült egy fotó, a régebbi fotókat szívesen látjuk.
+</p>
+</details>
+<details class="wv2-faq__item">
+<summary>Ki tud tudományt végezni iNaturalista megfigyelésekkel?</summary>
+<p>Valaki! Minden iNaturalist megfigyelés nyitott és szabadon elérhető – kutatók, természetvédelmi szakemberek és kíváncsi személyek számára egyaránt.
+</p>
+</details>
+<details class="wv2-faq__item">
+<summary>Mit jelent a &quot;kutatási minősítés&quot;?</summary>
+<p>Amikor a közösség megegyezik az azonosításban, egy megfigyelés &quot;kutatási fokozatú&quot; lesz, és bekerül a globális tudományos nyilvántartásba. Minden azonosítás segíthet eljuttatni a célt.
+</p>
+</details>
+<details class="wv2-faq__item">
+<summary>Tudnom kell, mit nézek?</summary>
+<p>Egyáltalán nem! Oszd meg egy fotót, és egy globális természettudósok közössége segíthet felismerni.
+</p>
+</details>
+<details class="wv2-faq__item">
+<summary>Szükségem van az alkalmazásra?</summary>
+<p>Asztali gépen iNaturalist.org remekül működik. Mobil eszközön az alkalmazás a legjobb élményt nyújtja — különösen a fajok azonosításához útközben.
+</p>
+</details>
+</div>
+</div>
+</main>
+<a class="wv2-app-banner" aria-label="Download iNaturalist on the App Store" href="/redirect_links/31?utm_source=inaturalist_homepage&amp;utm_campaign=homepage_redesign_2026&amp;utm_medium=owned_web&amp;utm_content=sticky_footer_cta"><img class="wv2-app-banner__icon" alt="" src="https://www.inaturalist.org/assets/welcome_v2/app-icon-4ceb63c0ce7aaa56652b0461a57495e1b770055ae6347616ed3f1e8414b21f8b.webp" />
+<div class="wv2-app-banner__text">
+<img class="wv2-app-banner__wordmark" alt="iNaturalist" src="https://www.inaturalist.org/assets/welcome_v2/wordmark-95c19bd69b2dcbd438824076cd0158f8f79340f9d75bc098016af67eeefe5c60.webp" />
+<p class="wv2-app-banner__tagline">Discover nature around you</p>
+</div>
+<span class="wv2-app-banner__cta">Use app</span>
+</a>
+
+      </div>
+    </div>
+
+    <div class="bootstrap" id="footer">
+<div class="container">
+<div class="row">
+<div class="col-sm-3 links-col">
+<p>
+<a href="/pages/about">Leírás</a>
+</p>
+<p>
+<a href="https://help.inaturalist.org">Súgó</a>
+</p>
+<p>
+<a href="https://forum.inaturalist.org">Fórum</a>
+</p>
+<p>
+<a href="/pages/press">Sajtó</a>
+</p>
+<p>
+<a href="/pages/jobs">Állások</a>
+</p>
+<p>
+<a href="https://www.inaturalist.org/blog">Blogunk</a>
+</p>
+<p>
+<a href="/pages/community+guidelines">Közösségi irányelvek</a>
+</p>
+<p>
+<a href="/pages/terms">Felhasználási feltételek</a>
+</p>
+<p>
+<a href="/pages/privacy">Adatvédelem</a>
+</p>
+</div>
+<div class="col-sm-3 buttons-col">
+<div class="one-line">
+<a class="btn btn-inat btn-primary btn-block btn-donate" title="TÁMOGATÁS" rel="nofollow" href="/donate?utm_campaign=default&amp;utm_content=footer-button&amp;utm_medium=web">TÁMOGATÁS</a>
+<a class="btn btn-inat btn-primary btn-block btn-donate" title="Bolt" href="https://tr.ee/MymHMn">BOLT</a>
+</div>
+<div class="social-media">
+<a class="social-media-link facebook" title="Facebook" href="https://www.facebook.com/inaturalist/"><img aria-hidden="true" src="https://www.inaturalist.org/assets/facebook-f-logo-white-2f1726246d88d13949d648abb4b66ed4c212b86b2bacaf483f02bebf806eb0f3.svg" />
+</a><a class="social-media-link instagram" title="Instagram" href="https://instagram.com/inaturalistorg">Instagram</a>
+<a class="social-media-link bluesky" title="Bluesky" href="https://bsky.app/profile/inaturalist.bsky.social"><img aria-hidden="true" src="https://www.inaturalist.org/assets/bluesky-logo-9b9fb2e3b0ad68edc4484143276bd159333123d0a755a7c11ab7e7a82ba6d34e.svg" />
+</a></div>
+</div>
+<div class="col-sm-6">   <div style="display: flex; justify-content: space-evenly">     <a href="https://apps.apple.com/app/apple-store/id6475737561?pt=475606&ct=Web:%20iNaturalist%20footer&mt=8" onclick="javascript:window.location = (window.navigator.userAgent.indexOf('Android') >= 0 ? 'https://play.google.com/store/apps/details?id=org.inaturalist.android' : 'https://apps.apple.com/app/apple-store/id6475737561?pt=475606&ct=Web:%20iNaturalist%20footer&mt=8'); return false;">       <img alt="iNaturalist app icon" src="https://static.inaturalist.org/wiki_page_attachments/3154-medium.png" style="display:block; max-height: 95.95px; max-width: 100%; margin: 0 auto; margin-inline-end: 0px;"/>     </a>     <div style="display: flex; flex-direction: column">       <a href="https://play.google.com/store/apps/details?id=org.inaturalist.android">         <img alt="Android app on Google Play" src="https://static.inaturalist.org/wiki_page_attachments/412-original.png" style="display:block; max-height: 42px; max-width: 100%; margin: 0 auto 18px;"/>       </a>       <a href="https://apps.apple.com/app/apple-store/id6475737561?pt=475606&ct=Web:%20iNaturalist%20footer&mt=8">         <img alt="iPhone app in the Apple App Store" src="https://static.inaturalist.org/wiki_page_attachments/414-original.png" style="display:block; max-height: 42px; max-width: 100%; margin: 0 auto;"/>       </a>     </div>     <a href="https://www.inaturalist.org/pages/seek_app">       <img alt="Seek app icon" src="https://static.inaturalist.org/wiki_page_attachments/3153-medium.png" style="display:block; max-height: 95.95px; max-width: 100%; margin: 0 auto 18px; margin-inline-start: 0px"/>     </a>   </div> </div>
+</div>
+</div>
+</div>
+
+<div class="bootstrap" id="inatnotice">
+<div class="container">
+<div class="row">
+<div class="col-xs-12">
+<div class="links inlineblock">
+<div class="footer-link">
+Az <a href="/sites/network">iNaturalist Network</a> tagja
+
+</div>
+<div class="footer-link-separator">
+&nbsp;
+|
+&nbsp;
+</div>
+<div class="footer-link">
+Működteti az <a href="https://github.com/inaturalist/inaturalist" target="_new" >iNaturalist nyílt forrású szoftver</a>
+</div>
+<div class="footer-link-separator">
+&nbsp;
+|
+&nbsp;
+</div>
+<div class="footer-link">
+Fejlesztői <a href="/pages/developers">dokumentáció</a>
+</div>
+</div>
+<div class="btn-group dropup pull-right" id="footer-locale-chooser">
+<button aria-haspopup="aria-haspopup" class="btn btn-default dropdown-toggle" data-toggle="dropdown">
+<i class="icon-ios-world"></i>
+magyar
+<span class="caret"></span>
+<span class="sr-only">Toggle Dropdown</span>
+</button>
+<ul class="dropdown-menu">
+<li>
+<a title="Breton" rel="nofollow" href="/set_locale?locale=br">Breton</a>
+</li>
+<li>
+<a title="Katalán" rel="nofollow" href="/set_locale?locale=ca">Català</a>
+</li>
+<li>
+<a title="Dán" rel="nofollow" href="/set_locale?locale=da">Dansk</a>
+</li>
+<li>
+<a title="Német" rel="nofollow" href="/set_locale?locale=de">Deutsch</a>
+</li>
+<li>
+<a title="Észt" rel="nofollow" href="/set_locale?locale=et">Eesti</a>
+</li>
+<li>
+<a title="Angol" rel="nofollow" href="/set_locale?locale=en">English</a>
+</li>
+<li>
+<a title="Angol (Egyesült Királyság)" rel="nofollow" href="/set_locale?locale=en-GB">English (UK)</a>
+</li>
+<li>
+<a title="Spanyol" rel="nofollow" href="/set_locale?locale=es">Español</a>
+</li>
+<li>
+<a title="Spanyol (Argentína)" rel="nofollow" href="/set_locale?locale=es-AR">Español (Argentina)</a>
+</li>
+<li>
+<a title="Spanyol (Kolumbia)" rel="nofollow" href="/set_locale?locale=es-CO">Español (Colombia)</a>
+</li>
+<li>
+<a title="Spanyol (Costa Rica)" rel="nofollow" href="/set_locale?locale=es-CR">Español (Costa Rica)</a>
+</li>
+<li>
+<a title="Spanyol (Mexikó)" rel="nofollow" href="/set_locale?locale=es-MX">Español (México)</a>
+</li>
+<li>
+<a title="Eszperantó" rel="nofollow" href="/set_locale?locale=eo">Esperanto</a>
+</li>
+<li>
+<a title="Baszk" rel="nofollow" href="/set_locale?locale=eu">Euskara</a>
+</li>
+<li>
+<a title="Francia" rel="nofollow" href="/set_locale?locale=fr">Français</a>
+</li>
+<li>
+<a title="Francia (Kanada)" rel="nofollow" href="/set_locale?locale=fr-CA">Français (Canada)</a>
+</li>
+<li>
+<a title="Galíciai" rel="nofollow" href="/set_locale?locale=gl">Galego</a>
+</li>
+<li>
+<a title="Grúz" rel="nofollow" href="/set_locale?locale=ka">Georgian</a>
+</li>
+<li>
+<a title="Horvát" rel="nofollow" href="/set_locale?locale=hr">Hrvatski</a>
+</li>
+<li>
+<a title="Indonéz" rel="nofollow" href="/set_locale?locale=id">Indonesia</a>
+</li>
+<li>
+<a title="Olasz" rel="nofollow" href="/set_locale?locale=it">Italiano</a>
+</li>
+<li>
+<a title="Litván" rel="nofollow" href="/set_locale?locale=lv">Latviešu</a>
+</li>
+<li>
+<a title="Litván" rel="nofollow" href="/set_locale?locale=lt">Lietuvių</a>
+</li>
+<li>
+<a title="Luxemburgi" rel="nofollow" href="/set_locale?locale=lb">Lëtzebuergesch</a>
+</li>
+<li>
+<a title="Magyar" rel="nofollow" href="/set_locale?locale=hu">Magyar</a>
+</li>
+<li>
+<a title="Malajálam" rel="nofollow" href="/set_locale?locale=ml">Malayalam</a>
+</li>
+<li>
+<a title="Holland" rel="nofollow" href="/set_locale?locale=nl">Nederlands</a>
+</li>
+<li>
+<a title="Norvég bokmal" rel="nofollow" href="/set_locale?locale=nb">Norsk Bokmål</a>
+</li>
+<li>
+<a title="Okszitán" rel="nofollow" href="/set_locale?locale=oc">Occitan</a>
+</li>
+<li>
+<a title="Lengyel" rel="nofollow" href="/set_locale?locale=pl">Polski</a>
+</li>
+<li>
+<a title="Portugál" rel="nofollow" href="/set_locale?locale=pt">Portuguese</a>
+</li>
+<li>
+<a title="Portugál (Brazília)" rel="nofollow" href="/set_locale?locale=pt-BR">Português (Brasil)</a>
+</li>
+<li>
+<a title="Szantáli" rel="nofollow" href="/set_locale?locale=sat">Santali</a>
+</li>
+<li>
+<a title="Albán" rel="nofollow" href="/set_locale?locale=sq">Shqip</a>
+</li>
+<li>
+<a title="Szlovák" rel="nofollow" href="/set_locale?locale=sk">Slovenský</a>
+</li>
+<li>
+<a title="Szolvén" rel="nofollow" href="/set_locale?locale=sl">Slovenščina</a>
+</li>
+<li>
+<a title="Szerb" rel="nofollow" href="/set_locale?locale=sr">Srpski</a>
+</li>
+<li>
+<a title="Finn" rel="nofollow" href="/set_locale?locale=fi">Suomi</a>
+</li>
+<li>
+<a title="Svéd" rel="nofollow" href="/set_locale?locale=sv">Svenska</a>
+</li>
+<li>
+<a title="Maori" rel="nofollow" href="/set_locale?locale=mi">Te reo Māori</a>
+</li>
+<li>
+<a title="Török" rel="nofollow" href="/set_locale?locale=tr">Türkçe</a>
+</li>
+<li>
+<a title="Cseh" rel="nofollow" href="/set_locale?locale=cs">Česky</a>
+</li>
+<li>
+<a title="Görög" rel="nofollow" href="/set_locale?locale=el">Ελληνικά</a>
+</li>
+<li>
+<a title="Belorusz" rel="nofollow" href="/set_locale?locale=be">Беларуская</a>
+</li>
+<li>
+<a title="Bolgár" rel="nofollow" href="/set_locale?locale=bg">Български</a>
+</li>
+<li>
+<a title="Macedón" rel="nofollow" href="/set_locale?locale=mk">Македонски</a>
+</li>
+<li>
+<a title="Orosz" rel="nofollow" href="/set_locale?locale=ru">Русский</a>
+</li>
+<li>
+<a title="Ukrán" rel="nofollow" href="/set_locale?locale=uk">Українська</a>
+</li>
+<li>
+<a title="Kazak" rel="nofollow" href="/set_locale?locale=kk">Қазақша</a>
+</li>
+<li>
+<a title="Héber" rel="nofollow" href="/set_locale?locale=he">עברית</a>
+</li>
+<li>
+<a title="Arab" rel="nofollow" href="/set_locale?locale=ar">العربية</a>
+</li>
+<li>
+<a title="Maráthi" rel="nofollow" href="/set_locale?locale=mr">मराठी</a>
+</li>
+<li>
+<a title="Tamil" rel="nofollow" href="/set_locale?locale=ta">தமிழ்</a>
+</li>
+<li>
+<a title="Kannada" rel="nofollow" href="/set_locale?locale=kn">ಕನ್ನಡ</a>
+</li>
+<li>
+<a title="Tháj" rel="nofollow" href="/set_locale?locale=th">ภาษาไทย</a>
+</li>
+<li>
+<a title="Japán" rel="nofollow" href="/set_locale?locale=ja">日本語</a>
+</li>
+<li>
+<a title="Kínai (egyszerűsített)" rel="nofollow" href="/set_locale?locale=zh-CN">简体中文</a>
+</li>
+<li>
+<a title="Kínai (hagyományos)" rel="nofollow" href="/set_locale?locale=zh-TW">繁體中文</a>
+</li>
+<li>
+<a title="Koreai" rel="nofollow" href="/set_locale?locale=ko">한국어</a>
+</li>
+<li class="divider" role="separator"></li>
+<li><a href="/pages/translate">Segíts fordítani!</a></li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+
+
+    <div id="inat-universal-autocomplete"></div>
+
+    <script src="https://www.inaturalist.org/assets/jquery/jquery-1.11.3.min-aa364d900c3098c524e5cadafee39ba08d15dda7a2ba81c1d81906cb86091822.js"></script>
+    <script src="https://www.inaturalist.org/assets/jquery/jquery-ui-1.11.4.min-2450ef9a98171ec1ace29a307d003b85ece62de5210253ea9d1d2ab9f55b8aa9.js"></script>
+    <script type="text/javascript">
+  //<![CDATA[
+    I18n = { }
+    I18n.defaultLocale = "en";
+    I18n.locale = "hu";
+    I18n.fallbacks = true;
+  //]]>
+</script>
+<script src="https://www.inaturalist.org/assets/i18n/translations/hu-6a68e4e401c61d8b50ad8855f19595b52e4803521e172543cbdcc15df479ecfe.js"></script>
+
+    <script type="text/javascript">
+      var PREFERRED_PLACE;
+      var PREFERRED_SEARCH_PLACE;
+      var CURRENT_USER;
+      var RAILS_FLASH = {};
+      var TIMEZONE = "Etc/UTC";
+      var SITE = {
+        id: 1,
+        name: "iNaturalist",
+        short_name: "iNat",
+        help_email: "help@inaturalist.org",
+        logo_square: "https://static.inaturalist.org/sites/1-logo_square.png?1573071870",
+        copyrighted_media_image_urls: {
+          original: "https://www.inaturalist.org/assets/copyright-infringement-original.png",
+          large: "https://www.inaturalist.org/assets/copyright-infringement-large.png",
+          medium: "https://www.inaturalist.org/assets/copyright-infringement-medium.png",
+          small: "https://www.inaturalist.org/assets/copyright-infringement-small.png",
+          square: "https://www.inaturalist.org/assets/copyright-infringement-square.png"
+        },
+        artificial_media_image_urls: {
+          original: "https://www.inaturalist.org/assets/artificially-generated-content-original.png",
+          large: "https://www.inaturalist.org/assets/artificially-generated-content-large.png",
+          medium: "https://www.inaturalist.org/assets/artificially-generated-content-medium.png",
+          small: "https://www.inaturalist.org/assets/artificially-generated-content-small.png",
+          square: "https://www.inaturalist.org/assets/artificially-generated-content-square.png"
+        },
+        processing_image_urls: {
+          small: "https://www.inaturalist.org/attachment_defaults/local_photos/small.png",
+          square: "https://www.inaturalist.org/attachment_defaults/local_photos/square.png"
+        }
+      };
+      var CONTROLLER_ACTION = "WelcomeController::index";
+      var CONFIG = {
+        content_freeze_enabled: false
+      };
+    </script>
+    <script src="https://www.inaturalist.org/assets/bootstrap_bundle-88e5846975d75cd70ac3504de0a235426f2f3f0651049adcdfeee9d220662b9b.js"></script>
+    <script type="text/javascript">
+      // stop conflict btwn jqueryui button and bootstrap button
+      if ( $ && $.fn && $.fn.button && typeof( $.fn.button.noConflict ) === "function" ) {
+        var btn = $.fn.button.noConflict( );
+        $.fn.btn = btn;
+      }
+    </script>
+    <script src="https://www.inaturalist.org/assets/welcome_v2-250bb932c5662cd7717380f00d28d7549870822062b4530c9f6366a5b60d8264.js"></script>
+
+  <script>(function(){function c(){var b=a.contentDocument||a.contentWindow.document;if(b){var d=b.createElement('script');d.innerHTML="window.__CF$cv$params={r:'a1e387784e836844',t:'MTc4NDU2NjkwMA=='};var a=document.createElement('script');a.src='/cdn-cgi/challenge-platform/scripts/jsd/main.js';document.getElementsByTagName('head')[0].appendChild(a);";b.getElementsByTagName('head')[0].appendChild(d)}}if(document.body){var a=document.createElement('iframe');a.height=1;a.width=1;a.style.position='absolute';a.style.top=0;a.style.left=0;a.style.border='none';a.style.visibility='hidden';document.body.appendChild(a);if('loading'!==document.readyState)c();else if(window.addEventListener)document.addEventListener('DOMContentLoaded',c);else{var e=document.onreadystatechange||function(){};document.onreadystatechange=function(b){e(b);'loading'!==document.readyState&&(document.onreadystatechange=e,c())}}}})();</script></body>
+</html>
