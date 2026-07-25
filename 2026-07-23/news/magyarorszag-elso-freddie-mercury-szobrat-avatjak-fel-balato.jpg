@@ -1,0 +1,963 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns:fb="https://www.facebook.com/2008/fbml">
+<head>
+    <!-- Google Tag Manager -->
+    <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+    new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+    j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+    'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+    })(window,document,'script','dataLayer','GTM-TC4TC7Z');</script>
+    <!-- End Google Tag Manager -->
+    <title> Koncert.hu - Az ország elsőszámú koncert ajánló oldala</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta http-equiv="Content-Language" content="hu" />
+    <meta name="description" content="Itt minden közelgő eseményt, koncertet, fesztivált megtalálsz, amikre akár azonnal jegyet is vásárolhatsz!" />
+    <link rel="image_src" href="https://www.koncert.hu/images/koncert/defaultshare.png" />    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=0" />
+    <meta property="og:title" content="" />
+    <meta property="og:description" content="Itt minden közelgő eseményt, koncertet, fesztivált megtalálsz, amikre akár azonnal jegyet is vásárolhatsz!" />
+    <meta property="og:image" content="https://www.koncert.hu/images/koncert/defaultshare.jpg" />
+    <meta property="og:image:secure_url" content="https://www.koncert.hu/images/koncert/defaultshare.jpg" />
+    <meta property="og:image:type" content="image/jpeg" />
+    <meta property="og:image:width" content="1200" />
+    <meta property="og:image:height" content="630" />
+    <link rel="alternate" type="application/rss+xml" title="Koncert.hu hírek" href="https://www.koncert.hu/rss/hirek" />
+    <meta property="og:url" content="https://www.koncert.hu/" />
+    <meta property="og:type" content="website" />
+    <meta property="fb:app_id" content="276602505777407" />
+    <link rel="image_src" href="https://www.koncert.hu/images/koncert/defaultshare.jpg" />
+    <link type="image/x-icon" rel="shortcut icon" href="https://www.koncert.hu/favicon.ico" />
+    <script type="text/javascript" src="https://www.koncert.hu/js/jquery.1.7.2-jquery-ui-1.9.2.custom.min.js?v=2"></script>
+    <script type="text/javascript" src="https://www.koncert.hu/js/core.generated.js?v=12" async></script>
+    <link href="//netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.css" rel="stylesheet">
+        <!-- GA ajaxbridge-->
+        <link rel="stylesheet" href="https://www.koncert.hu/css/all.css?v=12" type="text/css"/>
+        <!-- Google tag (gtag.js) -->
+        <script async src="https://www.googletagmanager.com/gtag/js?id=G-17QEFW02RR"></script>
+        <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+
+        gtag('config', 'G-17QEFW02RR');
+        </script>
+
+       
+        <script>
+        !function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+        n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;
+        n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;
+        t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,
+        document,'script','https://connect.facebook.net/en_US/fbevents.js');
+        fbq('init', '1907843416159469'); // Insert your pixel ID here.
+        fbq('track', 'PageView');
+        </script>
+        <noscript><img height="1" width="1" style="display:none"
+        src="https://www.facebook.com/tr?id=1907843416159469&ev=PageView&noscript=1"
+        /></noscript>
+</head>
+<body class="body  "> 
+
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-TC4TC7Z" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+
+<a href="javascript:void('0')" class="menubar"><span></span></a>
+
+<div id="fb-root"></div>
+<script type="text/javascript">(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/hu_HU/all.js#xfbml=1&appId=276602505777407";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+  <div class="wrapper" >
+        
+     <div class="header">
+        <div class="container">
+            <div class="sitetitle"><a href="https://www.koncert.hu"><span class="loading"><i class="fa fa-gear fa-spin"></i></span><img src="https://www.koncert.hu/images/koncert/logo.png" alt="" title="" /></a></div>
+            <div class="banner728 top"><div class="banner"><a href="https://www.koncert.hu/modules/adserver/redirect.php?bid=ODIz" target="_blank" title="Mamma Mia!"><img src="https://www.koncert.hu/uploads/banners/20260413125923-MM_banner_728x90_4helyszin.jpg" alt="Mamma Mia!" title="Mamma Mia!" style="width:728px; height: 90px; " /></a></div></div>    
+            <div class="menuholder">
+                <div class="menuin">
+                    
+    <ul class="menu">
+             <li class="menu-1 " ><a href="/"  class="transition round">Ajánló</a></li><li class="menu-2 "><a href="https://www.koncert.hu/koncertek" class="menu-2 transition round">Koncertek</a></li><li class="menu-3 "><a href="https://www.koncert.hu/eloadok" class="menu-3 transition round">Előadók</a></li><li class="menu-4 "><a href="https://www.koncert.hu/helyszinek" class="menu-4 transition round">Helyszínek</a></li><li class="menu-5 "><a href="https://www.koncert.hu/hirek" class="menu-5 transition round">Hírek</a></li><li class="menu-6 "><a href="https://www.koncert.hu/jatekok" class="menu-6 transition round">Játékok</a></li><li class="menu-8 " ><a href="https://www.facebook.com/koncert.hu/" target="_blank" class="transition round">Facebook</a></li>
+
+             
+    </ul>
+                    <div class="uploadholder"><a href="https://www.koncert.hu/partner" class="upload r5" ><i class="fa fa-upload"></i> <strong>Töltsd fel az oldalra</strong><span>koncerted, helyszíned, zenekarod</span></a></div>
+                    <div class="clear">&nbsp;</div>
+                </div>
+            </div>
+            <div class="overlay"></div> 
+        </div>
+    </div>
+    <div class="searchbar">
+        <div class="container">
+       
+        
+    <div class="search v2 r5" id="mainsearch"> 
+        <div class="inputholder">
+            <input type="text" class="searchnow" id="searchv2" value="" placeholder="Koncertek, előadók, helyszínek, hírek keresése..." />
+            <div class="close closesearchbtn" id="colosev2"><i class="fa fa-times"></i></div>            
+        </div>          
+        <div class="clear">&nbsp;</div> 
+        <div id="searchresultsv2" class="searchresultsv2"><div class="info"> <i class="fa fa-gear fa-spin"></i>&nbsp; Keresés folyamatban...</div></div>       
+    </div>
+              
+        
+         <div class="allinpage r5">
+            <div class="event fl" onclick="self.location='https://www.koncert.hu/koncertek'"><i class="fa fa-music"></i><div>22288<span>Koncert</span></div></div>
+            <div class="artists fl" onclick="self.location='https://www.koncert.hu/eloadok'"><i class="fa fa-users"></i><div>4809<span>Előadó</span></div></div>
+            <div class="place fl" onclick="self.location='https://www.koncert.hu/helyszinek'"><i class="fa fa-map-marker"></i><div>2189<span>Helyszín</span></div></div>
+            <div class="post fl" onclick="self.location='https://www.koncert.hu/hirek'"><i class="fa fa-bullhorn"></i><div>15033<span>hír</span></div></div>
+            <div class="clear">&nbsp;</div>
+         </div>
+         <div class="clear">&nbsp;</div> 
+                 </div>
+    </div>
+    <div class="container">
+    <div class="site" >        
+        <div class="headbanner"></div>
+        <div class="content">
+        
+            <div class="left">
+                
+            <div id="showcontent">
+                <div class="clear">&nbsp;</div>
+                <div class="spotlight">
+                    <div>
+    <a href="https://www.koncert.hu/hirek/lemezbemutato/a-horvat-tengerparton-szuletett-az-otlet--huszonot-ev-utan-jelent-meg-zambo-jimmy-dalainak-uj-albuma-15333"><img src="https://images.weserv.nl/?url=https://www.koncert.hu/uploads/news/1784897481-a-horvat-tengerparton-szuletett-az-otlet--huszonot-ev-utan-jelent-meg-zambo-jimmy-kulonleges-albuma-15333.jpg&w=800&h=450&t=square" class="block-image r5" alt="A horvát tengerparton született az ötlet – huszonöt év után jelent meg Zámbó Jimmy dalainak új albuma" /></a>
+    <h3><a href="https://www.koncert.hu/hirek/lemezbemutato/a-horvat-tengerparton-szuletett-az-otlet--huszonot-ev-utan-jelent-meg-zambo-jimmy-dalainak-uj-albuma-15333">A horvát tengerparton született az ötlet – huszonöt év után jelent meg Zámbó Jimmy dalainak új albuma</a></h3>   
+    <div>Huszonöt évvel Zámbó Jimmy halála után különleges formában születnek újjá a legismertebb dalai. A Mediterrán melódiák (Jimmy újragondolva) című hangszeres album mögött egy régi barátság és egy ötlet áll, amelyet még maga Jimmy is lelkesen fogadott, megvalósulására azonban negyed évszázadot kellett várni.</div>
+</div>
+                </div>
+                <div class="newsbox-v2">
+                    
+		 <div class="news">
+				<div class="inside">
+				    <a href="https://www.koncert.hu/hirek/bulvar/ludwig-van-beethoven-vs--jegmadar-15332" class="block-image r5"  alt="Ludwig van Beethoven vs. jégmadár" /><img src="https://images.weserv.nl/?url=www.koncert.hu/uploads/news/1784888916-kire-szavaznal--ludwig-van-beethovenre-vagy-egy-jegmadarra--15332.jpg&w=800&h=450&t=square" alt="Ludwig van Beethoven vs. jégmadár"></a> 
+					<div class="block-text"><h4><a href="https://www.koncert.hu/hirek/bulvar/ludwig-van-beethoven-vs--jegmadar-15332">Ludwig van Beethoven vs. jégmadár</a></h4><div>Bár minket közvetlenül nem érint, de aki kiteszi a lábát az országból belefut a bankjegybe: az Európai Központi Bank a mai napon közzétette az...</div></div>
+					<span class="clear">&nbsp;</span>
+				</div>
+			</div>
+		 
+		 <div class="news">
+				<div class="inside">
+				     
+					<div class="block-text"><h4><a href="https://www.koncert.hu/hirek/ajanlo/macy-gray-honnan-ismeros-ez-a-nev--15331">Macy Gray… Honnan ismerős ez a név?</a></h4></div>
+					<span class="clear">&nbsp;</span>
+				</div>
+			</div>
+		 
+		 <div class="news">
+				<div class="inside">
+				     
+					<div class="block-text"><h4><a href="https://www.koncert.hu/hirek/zenei-hir/huss-es-pocc--15330">Huss és pöcc! </a></h4></div>
+					<span class="clear">&nbsp;</span>
+				</div>
+			</div>
+		 
+                </div>
+                <div class="clear space">&nbsp;</div>
+                <div class="rotatorbox-v2">
+                    
+                    <div class="clear">&nbsp;</div>
+                </div>
+                <div class="clear">&nbsp;</div><div class="banner-inlist"><div class="banner"><a href="https://www.koncert.hu/modules/adserver/redirect.php?bid=ODU1" target="_blank" title="Triggerfinger 728x90"><img src="https://www.koncert.hu/uploads/banners/20260409124408-Triggerfinger_banner_728x90px.jpg" alt="Triggerfinger 728x90" title="Triggerfinger 728x90" style="width:728px; height: 90px; " /></a></div></div>
+                </div>
+                <div class="concertsbox" id="maintop">
+<div id="showcontent"> 
+    <div class="sortandpaginate head">
+        <div class="sort ">
+            <a href="https://www.koncert.hu/koncertek/?sort=ajanlo" class="sortbutton round  active"">Ajánló</a>
+            <a href="https://www.koncert.hu/koncertek/?sort=nepszeru" class="sortbutton round "">Népszerű</a>
+            <a href="https://www.koncert.hu/koncertek/?sort=kozeli" class="sortbutton round "">Közeli</a>
+            <a href="https://www.koncert.hu/koncertek/?sort=fesztival" class="sortbutton round "">Fesztivál</a>
+            <a href="https://www.koncert.hu/koncertek/?sort=ingyenes" class="sortbutton round "">ingyenes</a>
+            <a href="https://www.koncert.hu/koncertek/?sort=kulfold" class="sortbutton round "">Külföld</a>
+            <div class="clear">&nbsp;</div>
+        </div>
+        <div class="clear">&nbsp;</div>
+    </div>
+	<div class="concertlistitem r5 0">
+		 <div class="eventpic"><a href="https://www.koncert.hu/koncert/st--martin-koncert-a-baradla-barlangban-july25-95104"><img src="https://images.weserv.nl/?url=https://www.koncert.hu/uploads/concerts/1778234097-st--martin-koncert-july25-95104.jpg&w=1024&h=768&t=letterbox&bg=ffffff&v=1" alt="St. Martin koncert a Baradla-barlangban" class="eventpic thumb" /></a></div>
+			
+		<div class="eventdate">
+            <div class="day">25</div>
+            <div class="fl">
+                <div class="year">2026</div>
+                <div class="month">July</div>
+            </div>
+            <div class="clear"></div>
+		
+		</div>
+		
+		 <div class="eventinfo ">
+				
+				<div class="eventname"><h2><a href="https://www.koncert.hu/koncert/st--martin-koncert-a-baradla-barlangban-july25-95104">St. Martin koncert a Baradla-barlangban</a></h2></div>
+				<div class="place"><a href="https://www.koncert.hu/helyszin/baradla-barlang---aggtelek"><strong>Baradla barlang - Aggtelek</strong></a><br><a href="https://www.koncert.hu/helyszinek#aggtelek:1">Aggtelek</a></div>
+		 </div>
+         
+
+				
+				<div class="buttonholder">
+						<div class="fl"><a href="https://koncerthu.jegy.hu/auditwiev.php?eid=1397779&amp;d=95104" class="buyticketbutton iframe" data-fancybox-type="iframe" target="_blank">Jegyvásárlás</a></div>
+                        <!--div class="fl"></div-->
+                        <div class="fl"><a href="https://www.koncert.hu/koncert/st--martin-koncert-a-baradla-barlangban-july25-95104/" class="button"><i class="fa fa-info-circle"></i></a></div> 						
+						<div class="clr">&nbsp;</div>
+				</div>
+		
+	</div>
+	
+	<div class="concertlistitem r5 0">
+		 <div class="eventpic"><a href="https://www.koncert.hu/koncert/szimfonik-lajk-2026-july25-95902"><img src="https://images.weserv.nl/?url=https://www.koncert.hu/uploads/concerts/szimfonik-lajk-2026-1774429247.jpg&w=1024&h=768&t=letterbox&bg=ffffff&v=1" alt="Szimfonik Lájk 2026" class="eventpic thumb" /></a></div>
+			
+		<div class="eventdate">
+            <div class="day">25</div>
+            <div class="fl">
+                <div class="year">2026</div>
+                <div class="month">July</div>
+            </div>
+            <div class="clear"></div>
+		
+		</div>
+		
+		 <div class="eventinfo ">
+				
+				<div class="eventname"><h2><a href="https://www.koncert.hu/koncert/szimfonik-lajk-2026-july25-95902">Szimfonik Lájk 2026</a></h2></div>
+				<div class="place"><a href="https://www.koncert.hu/helyszin/marai-kozpont---szepasszony-volgy"><strong>Márai Központ - Szépasszony-völgy</strong></a><br><a href="https://www.koncert.hu/helyszinek#eger:1">Eger</a></div>
+		 </div>
+         
+
+				
+				<div class="buttonholder">
+						<div class="fl"><a href="https://koncerthu.jegy.hu/auditwiev.php?eid=1422220&amp;d=95902" class="buyticketbutton iframe" data-fancybox-type="iframe" target="_blank">Jegyvásárlás</a></div>
+                        <!--div class="fl"></div-->
+                        <div class="fl"><a href="https://www.koncert.hu/koncert/szimfonik-lajk-2026-july25-95902/" class="button"><i class="fa fa-info-circle"></i></a></div> 						
+						<div class="clr">&nbsp;</div>
+				</div>
+		
+	</div>
+	
+	<div class="concertlistitem r5 0">
+		 <div class="eventpic"><a href="https://www.koncert.hu/koncert/mezesvolgyi-nyar-2026---csak-egy-tanc-volt---szecsi-pal-legszebb-dalai-august01-95403"><img src="https://images.weserv.nl/?url=https://www.koncert.hu/uploads/concerts/mezesvolgyi-nyar-2026---csak-egy-tanc-volt---szecsi-pal-legszebb-dalai-1772179193.jpg&w=1024&h=768&t=letterbox&bg=ffffff&v=1" alt="Mézesvölgyi Nyár 2026 - Csak egy tánc volt - Szécsi Pál..." class="eventpic thumb" /></a></div>
+			
+		<div class="eventdate">
+            <div class="day">01</div>
+            <div class="fl">
+                <div class="year">2026</div>
+                <div class="month">August</div>
+            </div>
+            <div class="clear"></div>
+		
+		</div>
+		
+		 <div class="eventinfo ">
+				
+				<div class="eventname"><h2><a href="https://www.koncert.hu/koncert/mezesvolgyi-nyar-2026---csak-egy-tanc-volt---szecsi-pal-legszebb-dalai-august01-95403">Mézesvölgyi Nyár 2026 - Csak egy tánc volt - Szécsi Pál...</a></h2></div>
+				<div class="place"><a href="https://www.koncert.hu/helyszin/mezesvolgyi-nyar-szabadteri-szinhaz"><strong>Mézesvölgyi Nyár Szabadtéri Színház</strong></a><br><a href="https://www.koncert.hu/helyszinek#veresegyhaz:1">Veresegyház</a></div>
+		 </div>
+         
+
+				
+				<div class="buttonholder">
+						<div class="fl"><a href="https://koncerthu.jegy.hu/auditwiev.php?eid=1408026&amp;d=95403" class="buyticketbutton iframe" data-fancybox-type="iframe" target="_blank">Jegyvásárlás</a></div>
+                        <!--div class="fl"></div-->
+                        <div class="fl"><a href="https://www.koncert.hu/koncert/mezesvolgyi-nyar-2026---csak-egy-tanc-volt---szecsi-pal-legszebb-dalai-august01-95403/" class="button"><i class="fa fa-info-circle"></i></a></div> 						
+						<div class="clr">&nbsp;</div>
+				</div>
+		
+	</div>
+	
+	<div class="concertlistitem r5 0">
+		 <div class="eventpic"><a href="https://www.koncert.hu/koncert/x--bohem-jazzfovaros-fesztival-august06-95083"><img src="https://images.weserv.nl/?url=https://www.koncert.hu/uploads/concerts/x--bohem-jazzfovaros-fesztival-1770196039.jpg&w=1024&h=768&t=letterbox&bg=ffffff&v=1" alt="X. Bohém Jazzfőváros fesztivál" class="eventpic thumb" /></a></div>
+			
+		<div class="eventdate">
+            <div class="day">06</div>
+            <div class="fl">
+                <div class="year">2026</div>
+                <div class="month">August</div>
+            </div>
+            <div class="clear"></div>
+		
+		</div>
+		
+		 <div class="eventinfo ">
+				
+				<div class="eventname"><h2><a href="https://www.koncert.hu/koncert/x--bohem-jazzfovaros-fesztival-august06-95083">X. Bohém Jazzfőváros fesztivál</a></h2></div>
+				<div class="place"><a href="https://www.koncert.hu/helyszin/kecskemet---benko-zoltan-park"><strong>Kecskemét - Benkó Zoltán Park</strong></a><br><a href="https://www.koncert.hu/helyszinek#kecskemet:1">Kecskemét</a></div>
+		 </div>
+         
+
+				
+				<div class="buttonholder">
+						<div class="fl"><a href="https://koncerthu.jegy.hu/auditwiev.php?eid=1396645&amp;d=95083" class="buyticketbutton iframe" data-fancybox-type="iframe" target="_blank">Jegyvásárlás</a></div>
+                        <!--div class="fl"></div-->
+                        <div class="fl"><a href="https://www.koncert.hu/koncert/x--bohem-jazzfovaros-fesztival-august06-95083/" class="button"><i class="fa fa-info-circle"></i></a></div> 						
+						<div class="clr">&nbsp;</div>
+				</div>
+		
+	</div>
+	
+	<div class="concertlistitem r5 0">
+		 <div class="eventpic"><a href="https://www.koncert.hu/koncert/mezesvolgyi-nyar-2026---quimby-koncert-august08-96025"><img src="https://images.weserv.nl/?url=https://www.koncert.hu/uploads/concerts/mezesvolgyi-nyar-2026---quimby-koncert-1775295961.jpg&w=1024&h=768&t=letterbox&bg=ffffff&v=1" alt="Mézesvölgyi Nyár 2026 - Quimby koncert" class="eventpic thumb" /></a></div>
+			
+		<div class="eventdate">
+            <div class="day">08</div>
+            <div class="fl">
+                <div class="year">2026</div>
+                <div class="month">August</div>
+            </div>
+            <div class="clear"></div>
+		
+		</div>
+		
+		 <div class="eventinfo ">
+				
+				<div class="eventname"><h2><a href="https://www.koncert.hu/koncert/mezesvolgyi-nyar-2026---quimby-koncert-august08-96025">Mézesvölgyi Nyár 2026 - Quimby koncert</a></h2></div>
+				<div class="place"><a href="https://www.koncert.hu/helyszin/mezesvolgyi-nyar-szabadteri-szinhaz"><strong>Mézesvölgyi Nyár Szabadtéri Színház</strong></a><br><a href="https://www.koncert.hu/helyszinek#veresegyhaz:1">Veresegyház</a></div>
+		 </div>
+         
+
+				
+				<div class="buttonholder">
+						<div class="fl"><a href="https://koncerthu.jegy.hu/auditwiev.php?eid=1427223&amp;d=96025" class="buyticketbutton iframe" data-fancybox-type="iframe" target="_blank">Jegyvásárlás</a></div>
+                        <!--div class="fl"></div-->
+                        <div class="fl"><a href="https://www.koncert.hu/koncert/mezesvolgyi-nyar-2026---quimby-koncert-august08-96025/" class="button"><i class="fa fa-info-circle"></i></a></div> 						
+						<div class="clr">&nbsp;</div>
+				</div>
+		
+	</div>
+	
+	<div class="concertlistitem r5 0">
+		 <div class="eventpic"><a href="https://www.koncert.hu/koncert/havasi-zongora-show-2026-1321644"><img src="https://images.weserv.nl/?url=https://www.koncert.hu/uploads/concerts/havasi-zongora-show-2026-1754997675.jpg&w=1024&h=768&t=letterbox&bg=ffffff&v=1" alt="HAVASI zongora show 2026" class="eventpic thumb" /></a></div>
+			
+		<div class="eventdate">
+            <div class="day">08</div>
+            <div class="fl">
+                <div class="year">2026</div>
+                <div class="month">August</div>
+            </div>
+            <div class="clear"></div>
+		
+		</div>
+		
+		 <div class="eventinfo ">
+				
+				<div class="eventname"><h2><a href="https://www.koncert.hu/koncert/havasi-zongora-show-2026-1321644">HAVASI zongora show 2026</a></h2></div>
+				<div class="place"><a href="https://www.koncert.hu/helyszin/tokaj-fesztivalkatlan"><strong>Tokaj Fesztiválkatlan</strong></a><br><a href="https://www.koncert.hu/helyszinek#tokaj:1">Tokaj</a></div>
+		 </div>
+         
+
+				
+				<div class="buttonholder">
+						<div class="fl"><a href="https://koncerthu.jegy.hu/auditwiev.php?eid=1321644&amp;d=92442" class="buyticketbutton iframe" data-fancybox-type="iframe" target="_blank">Jegyvásárlás</a></div>
+                        <!--div class="fl"></div-->
+                        <div class="fl"><a href="https://www.koncert.hu/koncert/havasi-zongora-show-2026-1321644/" class="button"><i class="fa fa-info-circle"></i></a></div> 						
+						<div class="clr">&nbsp;</div>
+				</div>
+		
+	</div>
+	<div class="clear">&nbsp;</div><div class="banner-inlist"><div class="banner"><a href="https://www.koncert.hu/modules/adserver/redirect.php?bid=ODU3" target="_blank" title="Simple Plan 728x90"><img src="https://www.koncert.hu/uploads/banners/20260409124624-SimplePlan_banner728x90px.jpg" alt="Simple Plan 728x90" title="Simple Plan 728x90" style="width:728px; height: 90px; " /></a></div></div>
+	<div class="concertlistitem r5 0">
+		 <div class="eventpic"><a href="https://www.koncert.hu/koncert/kedvenc-slagereink--falusi-mariann-es-weisz-viktor-koncertshow-august09-95942"><img src="https://images.weserv.nl/?url=https://www.koncert.hu/uploads/concerts/1774513975--kedvenc-slagereink-----falusi-mariann-es-weisz-viktor-koncertshow-kozremukodik-a-studio11-ensemble-1407018.jpg&w=1024&h=768&t=letterbox&bg=ffffff&v=1" alt="Kedvenc slágereink: Falusi Mariann és Weisz Viktor koncertshow" class="eventpic thumb" /></a></div>
+			
+		<div class="eventdate">
+            <div class="day">09</div>
+            <div class="fl">
+                <div class="year">2026</div>
+                <div class="month">August</div>
+            </div>
+            <div class="clear"></div>
+		
+		</div>
+		
+		 <div class="eventinfo ">
+				
+				<div class="eventname"><h2><a href="https://www.koncert.hu/koncert/kedvenc-slagereink--falusi-mariann-es-weisz-viktor-koncertshow-august09-95942">Kedvenc slágereink: Falusi Mariann és Weisz Viktor koncertshow</a></h2></div>
+				<div class="place"><a href="https://www.koncert.hu/helyszin/pro-kultura-sopron-nonprofit-kft-"><strong>Pro Kultúra Sopron Nonprofit Kft.</strong></a><br><a href="https://www.koncert.hu/helyszinek#sopron:1">Sopron</a></div>
+		 </div>
+         
+
+				
+				<div class="buttonholder">
+						<div class="fl"><a href="https://koncerthu.jegy.hu/auditwiev.php?eid=1407018&amp;d=95942" class="buyticketbutton iframe" data-fancybox-type="iframe" target="_blank">Jegyvásárlás</a></div>
+                        <!--div class="fl"></div-->
+                        <div class="fl"><a href="https://www.koncert.hu/koncert/kedvenc-slagereink--falusi-mariann-es-weisz-viktor-koncertshow-august09-95942/" class="button"><i class="fa fa-info-circle"></i></a></div> 						
+						<div class="clr">&nbsp;</div>
+				</div>
+		
+	</div>
+	
+	<div class="concertlistitem r5 0">
+		 <div class="eventpic"><a href="https://www.koncert.hu/koncert/the-bootleg-beatles-august09-95284"><img src="https://images.weserv.nl/?url=https://www.koncert.hu/uploads/concerts/the-bootleg-beatles-1771576354.jpg&w=1024&h=768&t=letterbox&bg=ffffff&v=1" alt="The Bootleg BEATLES" class="eventpic thumb" /></a></div>
+			
+		<div class="eventdate">
+            <div class="day">09</div>
+            <div class="fl">
+                <div class="year">2026</div>
+                <div class="month">August</div>
+            </div>
+            <div class="clear"></div>
+		
+		</div>
+		
+		 <div class="eventinfo ">
+				
+				<div class="eventname"><h2><a href="https://www.koncert.hu/koncert/the-bootleg-beatles-august09-95284">The Bootleg BEATLES</a></h2></div>
+				<div class="place"><a href="https://www.koncert.hu/helyszin/tokaj-fesztivalkatlan"><strong>Tokaj Fesztiválkatlan</strong></a><br><a href="https://www.koncert.hu/helyszinek#tokaj:1">Tokaj</a></div>
+		 </div>
+         
+
+				
+				<div class="buttonholder">
+						<div class="fl"><a href="https://koncerthu.jegy.hu/auditwiev.php?eid=1404059&amp;d=95284" class="buyticketbutton iframe" data-fancybox-type="iframe" target="_blank">Jegyvásárlás</a></div>
+                        <!--div class="fl"></div-->
+                        <div class="fl"><a href="https://www.koncert.hu/koncert/the-bootleg-beatles-august09-95284/" class="button"><i class="fa fa-info-circle"></i></a></div> 						
+						<div class="clr">&nbsp;</div>
+				</div>
+		
+	</div>
+	
+	<div class="concertlistitem r5 0">
+		 <div class="eventpic"><a href="https://www.koncert.hu/koncert/lovasi--a-legfontosabb-magyar-szavak-august19-94995"><img src="https://images.weserv.nl/?url=https://www.koncert.hu/uploads/concerts/lovasi--a-legfontosabb-magyar-szavak-1770030069.jpg&w=1024&h=768&t=letterbox&bg=ffffff&v=1" alt="LOVASI: A legfontosabb magyar szavak" class="eventpic thumb" /></a></div>
+			
+		<div class="eventdate">
+            <div class="day">19</div>
+            <div class="fl">
+                <div class="year">2026</div>
+                <div class="month">August</div>
+            </div>
+            <div class="clear"></div>
+		
+		</div>
+		
+		 <div class="eventinfo ">
+				
+				<div class="eventname"><h2><a href="https://www.koncert.hu/koncert/lovasi--a-legfontosabb-magyar-szavak-august19-94995">LOVASI: A legfontosabb magyar szavak</a></h2></div>
+				<div class="place"><a href="https://www.koncert.hu/helyszin/varosmajori-szabadteri-szinpad"><strong>Városmajori Szabadtéri Színpad</strong></a><br><a href="https://www.koncert.hu/helyszinek#budapest:1">Budapest</a></div>
+		 </div>
+         
+
+				
+				<div class="buttonholder">
+						<div class="fl"><a href="https://koncerthu.jegy.hu/auditwiev.php?eid=1394104&amp;d=94995" class="buyticketbutton iframe" data-fancybox-type="iframe" target="_blank">Jegyvásárlás</a></div>
+                        <!--div class="fl"></div-->
+                        <div class="fl"><a href="https://www.koncert.hu/koncert/lovasi--a-legfontosabb-magyar-szavak-august19-94995/" class="button"><i class="fa fa-info-circle"></i></a></div> 						
+						<div class="clr">&nbsp;</div>
+				</div>
+		
+	</div>
+	
+	<div class="concertlistitem r5 0">
+		 <div class="eventpic"><a href="https://www.koncert.hu/koncert/roby-lakatos-es-a-budapest-ragtime-band-1468472"><img src="https://images.weserv.nl/?url=https://www.koncert.hu/uploads/places/zempleni-fesztival-1720605605.jpg&w=1024&h=768&t=letterbox&bg=ffffff&v=1" alt="Roby Lakatos és a Budapest Ragtime Band" class="thumb" /></a></div>
+			
+		<div class="eventdate">
+            <div class="day">21</div>
+            <div class="fl">
+                <div class="year">2026</div>
+                <div class="month">August</div>
+            </div>
+            <div class="clear"></div>
+		
+		</div>
+		
+		 <div class="eventinfo ">
+				
+				<div class="eventname"><h2><a href="https://www.koncert.hu/koncert/roby-lakatos-es-a-budapest-ragtime-band-1468472">Roby Lakatos és a Budapest Ragtime Band</a></h2></div>
+				<div class="place"><a href="https://www.koncert.hu/helyszin/zempleni-fesztival"><strong>Zempléni Fesztivál</strong></a><br><a href="https://www.koncert.hu/helyszinek#szegi:1">Szegi</a></div>
+		 </div>
+         
+
+				
+				<div class="buttonholder">
+						<div class="fl"><a href="https://koncerthu.jegy.hu/auditwiev.php?eid=1468472&amp;d=97264" class="buyticketbutton iframe" data-fancybox-type="iframe" target="_blank">Jegyvásárlás</a></div>
+                        <!--div class="fl"></div-->
+                        <div class="fl"><a href="https://www.koncert.hu/koncert/roby-lakatos-es-a-budapest-ragtime-band-1468472/" class="button"><i class="fa fa-info-circle"></i></a></div> 						
+						<div class="clr">&nbsp;</div>
+				</div>
+		
+	</div>
+	
+	<div class="concertlistitem r5 0">
+		 <div class="eventpic"><a href="https://www.koncert.hu/koncert/mazs---elozenes-koncert-show-1468280"><img src="https://images.weserv.nl/?url=https://www.koncert.hu/uploads/places/cervinus-1695117608.jpg&w=1024&h=768&t=letterbox&bg=ffffff&v=1" alt="MÁZS - Élőzenés koncert show" class="thumb" /></a></div>
+			
+		<div class="eventdate">
+            <div class="day">21</div>
+            <div class="fl">
+                <div class="year">2026</div>
+                <div class="month">August</div>
+            </div>
+            <div class="clear"></div>
+		
+		</div>
+		
+		 <div class="eventinfo ">
+				
+				<div class="eventname"><h2><a href="https://www.koncert.hu/koncert/mazs---elozenes-koncert-show-1468280">MÁZS - Élőzenés koncert show</a></h2></div>
+				<div class="place"><a href="https://www.koncert.hu/helyszin/cervinus"><strong>Cervinus</strong></a><br><a href="https://www.koncert.hu/helyszinek#szarvas:1">Szarvas</a></div>
+		 </div>
+         
+
+				
+				<div class="buttonholder">
+						<div class="fl"><a href="https://koncerthu.jegy.hu/auditwiev.php?eid=1468280&amp;d=97252" class="buyticketbutton iframe" data-fancybox-type="iframe" target="_blank">Jegyvásárlás</a></div>
+                        <!--div class="fl"></div-->
+                        <div class="fl"><a href="https://www.koncert.hu/koncert/mazs---elozenes-koncert-show-1468280/" class="button"><i class="fa fa-info-circle"></i></a></div> 						
+						<div class="clr">&nbsp;</div>
+				</div>
+		
+	</div>
+	
+	<div class="concertlistitem r5 0">
+		 <div class="eventpic"><a href="https://www.koncert.hu/koncert/sanremoi-fesztival-csillagai-august22-95093"><img src="https://images.weserv.nl/?url=https://www.koncert.hu/uploads/concerts/sanremoi-fesztival-csillagai-1770196022.jpg&w=1024&h=768&t=letterbox&bg=ffffff&v=1" alt="Sanremoi fesztivál csillagai" class="eventpic thumb" /></a></div>
+			
+		<div class="eventdate">
+            <div class="day">22</div>
+            <div class="fl">
+                <div class="year">2026</div>
+                <div class="month">August</div>
+            </div>
+            <div class="clear"></div>
+		
+		</div>
+		
+		 <div class="eventinfo ">
+				
+				<div class="eventname"><h2><a href="https://www.koncert.hu/koncert/sanremoi-fesztival-csillagai-august22-95093">Sanremoi fesztivál csillagai</a></h2></div>
+				<div class="place"><a href="https://www.koncert.hu/helyszin/mvm-dome"><strong>MVM Dome</strong></a><br><a href="https://www.koncert.hu/helyszinek#budapest:1">Budapest</a></div>
+		 </div>
+         
+
+				
+				<div class="buttonholder">
+						<div class="fl"><a href="https://koncerthu.jegy.hu/auditwiev.php?eid=1396225&amp;d=95093" class="buyticketbutton iframe" data-fancybox-type="iframe" target="_blank">Jegyvásárlás</a></div>
+                        <!--div class="fl"></div-->
+                        <div class="fl"><a href="https://www.koncert.hu/koncert/sanremoi-fesztival-csillagai-august22-95093/" class="button"><i class="fa fa-info-circle"></i></a></div> 						
+						<div class="clr">&nbsp;</div>
+				</div>
+		
+	</div>
+	<div class="clear">&nbsp;</div><div class="banner-inlist"><div class="banner"><a href="https://www.koncert.hu/modules/adserver/redirect.php?bid=ODkz" target="_blank" title="Deep Purple 728x90"><img src="https://www.koncert.hu/uploads/banners/20260521025653-Deep_Purple_2026_728x90px.gif" alt="Deep Purple 728x90" title="Deep Purple 728x90" style="width:728px; height: 90px; " /></a></div></div>
+	<div class="concertlistitem r5 0">
+		 <div class="eventpic"><a href="https://www.koncert.hu/koncert/best-of-kero---tokaj-august22-94398"><img src="https://images.weserv.nl/?url=https://www.koncert.hu/uploads/concerts/best-of-kero---tokaj-1765890056.jpg&w=1024&h=768&t=letterbox&bg=ffffff&v=1" alt="BEST OF KERO - Tokaj" class="eventpic thumb" /></a></div>
+			
+		<div class="eventdate">
+            <div class="day">22</div>
+            <div class="fl">
+                <div class="year">2026</div>
+                <div class="month">August</div>
+            </div>
+            <div class="clear"></div>
+		
+		</div>
+		
+		 <div class="eventinfo ">
+				
+				<div class="eventname"><h2><a href="https://www.koncert.hu/koncert/best-of-kero---tokaj-august22-94398">BEST OF KERO - Tokaj</a></h2></div>
+				<div class="place"><a href="https://www.koncert.hu/helyszin/tokaj-fesztivalkatlan"><strong>Tokaj Fesztiválkatlan</strong></a><br><a href="https://www.koncert.hu/helyszinek#tokaj:1">Tokaj</a></div>
+		 </div>
+         
+
+				
+				<div class="buttonholder">
+						<div class="fl"><a href="https://koncerthu.jegy.hu/auditwiev.php?eid=1371232&amp;d=94398" class="buyticketbutton iframe" data-fancybox-type="iframe" target="_blank">Jegyvásárlás</a></div>
+                        <!--div class="fl"></div-->
+                        <div class="fl"><a href="https://www.koncert.hu/koncert/best-of-kero---tokaj-august22-94398/" class="button"><i class="fa fa-info-circle"></i></a></div> 						
+						<div class="clr">&nbsp;</div>
+				</div>
+		
+	</div>
+	
+	<div class="concertlistitem r5 0">
+		 <div class="eventpic"><a href="https://www.koncert.hu/koncert/szikora-robert-es-az-r-go-koncert-egy-furcsa-par--in-memoriam-fenyo-miklos-august29-95215"><img src="https://images.weserv.nl/?url=https://www.koncert.hu/uploads/concerts/1771335130-szikora-robert-es-az-r-go-koncert-egy-furcsa-par--in-memoriam-fenyo-miklos-1402001.jpg&w=1024&h=768&t=letterbox&bg=ffffff&v=1" alt="SZIKORA RÓBERT és az R-GO koncert Egy furcsa pár – in..." class="eventpic thumb" /></a></div>
+			
+		<div class="eventdate">
+            <div class="day">29</div>
+            <div class="fl">
+                <div class="year">2026</div>
+                <div class="month">August</div>
+            </div>
+            <div class="clear"></div>
+		
+		</div>
+		
+		 <div class="eventinfo ">
+				
+				<div class="eventname"><h2><a href="https://www.koncert.hu/koncert/szikora-robert-es-az-r-go-koncert-egy-furcsa-par--in-memoriam-fenyo-miklos-august29-95215">SZIKORA RÓBERT és az R-GO koncert Egy furcsa pár – in...</a></h2></div>
+				<div class="place"><a href="https://www.koncert.hu/helyszin/margitszigeti-szabadteri-szinpad"><strong>Margitszigeti Szabadtéri Színpad</strong></a><br><a href="https://www.koncert.hu/helyszinek#budapest:1">Budapest</a></div>
+		 </div>
+         
+
+				
+				<div class="buttonholder">
+						<div class="fl"><a href="https://koncerthu.jegy.hu/auditwiev.php?eid=1402001&amp;d=95215" class="buyticketbutton iframe" data-fancybox-type="iframe" target="_blank">Jegyvásárlás</a></div>
+                        <!--div class="fl"></div-->
+                        <div class="fl"><a href="https://www.koncert.hu/koncert/szikora-robert-es-az-r-go-koncert-egy-furcsa-par--in-memoriam-fenyo-miklos-august29-95215/" class="button"><i class="fa fa-info-circle"></i></a></div> 						
+						<div class="clr">&nbsp;</div>
+				</div>
+		
+	</div>
+	
+	<div class="concertlistitem r5 0">
+		 <div class="eventpic"><a href="https://www.koncert.hu/koncert/ruzsa-magdi-koncert-august29-95339"><img src="https://images.weserv.nl/?url=https://www.koncert.hu/uploads/concerts/ruzsa-magdi-koncert-1772005836.jpg&w=1024&h=768&t=letterbox&bg=ffffff&v=1" alt="Rúzsa Magdi koncert" class="eventpic thumb" /></a></div>
+			
+		<div class="eventdate">
+            <div class="day">29</div>
+            <div class="fl">
+                <div class="year">2026</div>
+                <div class="month">August</div>
+            </div>
+            <div class="clear"></div>
+		
+		</div>
+		
+		 <div class="eventinfo ">
+				
+				<div class="eventname"><h2><a href="https://www.koncert.hu/koncert/ruzsa-magdi-koncert-august29-95339">Rúzsa Magdi koncert</a></h2></div>
+				<div class="place"><a href="https://www.koncert.hu/helyszin/tokaj-fesztivalkatlan"><strong>Tokaj Fesztiválkatlan</strong></a><br><a href="https://www.koncert.hu/helyszinek#tokaj:1">Tokaj</a></div>
+		 </div>
+         
+
+				
+				<div class="buttonholder">
+						<div class="fl"><a href="https://koncerthu.jegy.hu/auditwiev.php?eid=1401793&amp;d=95339" class="buyticketbutton iframe" data-fancybox-type="iframe" target="_blank">Jegyvásárlás</a></div>
+                        <!--div class="fl"></div-->
+                        <div class="fl"><a href="https://www.koncert.hu/koncert/ruzsa-magdi-koncert-august29-95339/" class="button"><i class="fa fa-info-circle"></i></a></div> 						
+						<div class="clr">&nbsp;</div>
+				</div>
+		
+	</div>
+	
+	<div class="concertlistitem r5 0">
+		 <div class="eventpic"><a href="https://www.koncert.hu/koncert/-szep-a-tavasz-szep-a-nyar----csik-janos-es-a-mezzo-1407028"><img src="https://images.weserv.nl/?url=https://www.koncert.hu/uploads/concerts/-szep-a-tavasz-szep-a-nyar----csik-janos-es-a-mezzo-1774512930.jpg&w=1024&h=768&t=letterbox&bg=ffffff&v=1" alt=""Szép a tavasz, szép a nyár" | Csík János és a Mezzo" class="eventpic thumb" /></a></div>
+			
+		<div class="eventdate">
+            <div class="day">30</div>
+            <div class="fl">
+                <div class="year">2026</div>
+                <div class="month">August</div>
+            </div>
+            <div class="clear"></div>
+		
+		</div>
+		
+		 <div class="eventinfo ">
+				
+				<div class="eventname"><h2><a href="https://www.koncert.hu/koncert/-szep-a-tavasz-szep-a-nyar----csik-janos-es-a-mezzo-1407028">"Szép a tavasz, szép a nyár" | Csík János és a Mezzo</a></h2></div>
+				<div class="place"><a href="https://www.koncert.hu/helyszin/pro-kultura-sopron-nonprofit-kft-"><strong>Pro Kultúra Sopron Nonprofit Kft.</strong></a><br><a href="https://www.koncert.hu/helyszinek#fertorakos:1">Fertőrákos</a></div>
+		 </div>
+         
+
+				
+				<div class="buttonholder">
+						<div class="fl"><a href="https://koncerthu.jegy.hu/auditwiev.php?eid=1407028&amp;d=95944" class="buyticketbutton iframe" data-fancybox-type="iframe" target="_blank">Jegyvásárlás</a></div>
+                        <!--div class="fl"></div-->
+                        <div class="fl"><a href="https://www.koncert.hu/koncert/-szep-a-tavasz-szep-a-nyar----csik-janos-es-a-mezzo-1407028/" class="button"><i class="fa fa-info-circle"></i></a></div> 						
+						<div class="clr">&nbsp;</div>
+				</div>
+		
+	</div>
+	
+	<div class="concertlistitem r5 0">
+		 <div class="eventpic"><a href="https://www.koncert.hu/koncert/london-community-gospel-choir-september04-93795"><img src="https://images.weserv.nl/?url=https://www.koncert.hu/uploads/concerts/1771409205-london-community-gospel-choir-1357271.jpg&w=1024&h=768&t=letterbox&bg=ffffff&v=1" alt="LONDON COMMUNITY GOSPEL CHOIR" class="eventpic thumb" /></a></div>
+			
+		<div class="eventdate">
+            <div class="day">04</div>
+            <div class="fl">
+                <div class="year">2026</div>
+                <div class="month">September</div>
+            </div>
+            <div class="clear"></div>
+		
+		</div>
+		
+		 <div class="eventinfo ">
+				
+				<div class="eventname"><h2><a href="https://www.koncert.hu/koncert/london-community-gospel-choir-september04-93795">LONDON COMMUNITY GOSPEL CHOIR</a></h2></div>
+				<div class="place"><a href="https://www.koncert.hu/helyszin/margitszigeti-szabadteri-szinpad"><strong>Margitszigeti Szabadtéri Színpad</strong></a><br><a href="https://www.koncert.hu/helyszinek#budapest:1">Budapest</a></div>
+		 </div>
+         
+
+				
+				<div class="buttonholder">
+						<div class="fl"><a href="https://koncerthu.jegy.hu/auditwiev.php?eid=1357271&amp;d=93795" class="buyticketbutton iframe" data-fancybox-type="iframe" target="_blank">Jegyvásárlás</a></div>
+                        <!--div class="fl"></div-->
+                        <div class="fl"><a href="https://www.koncert.hu/koncert/london-community-gospel-choir-september04-93795/" class="button"><i class="fa fa-info-circle"></i></a></div> 						
+						<div class="clr">&nbsp;</div>
+				</div>
+		
+	</div>
+	
+	<div class="concertlistitem r5 0">
+		 <div class="eventpic"><a href="https://www.koncert.hu/koncert/a-zenegyulolo-1-0---danubia-zenekar-september19-94120"><img src="https://images.weserv.nl/?url=https://www.koncert.hu/uploads/concerts/a-zenegyulolo-1-0---danubia-zenekar-1764235678.jpg&w=1024&h=768&t=letterbox&bg=ffffff&v=1" alt="A zenegyűlölő 1.0 - Danubia Zenekar" class="eventpic thumb" /></a></div>
+			
+		<div class="eventdate">
+            <div class="day">19</div>
+            <div class="fl">
+                <div class="year">2026</div>
+                <div class="month">September</div>
+            </div>
+            <div class="clear"></div>
+		
+		</div>
+		
+		 <div class="eventinfo ">
+				
+				<div class="eventname"><h2><a href="https://www.koncert.hu/koncert/a-zenegyulolo-1-0---danubia-zenekar-september19-94120">A zenegyűlölő 1.0 - Danubia Zenekar</a></h2></div>
+				<div class="place"><a href="https://www.koncert.hu/helyszin/mom-kulturalis-kozpont---szinhazterem"><strong>MOM Kulturális Központ - Színházterem</strong></a><br><a href="https://www.koncert.hu/helyszinek#budapest:1">Budapest</a></div>
+		 </div>
+         
+
+				
+				<div class="buttonholder">
+						<div class="fl"><a href="https://koncerthu.jegy.hu/auditwiev.php?eid=1366180&amp;d=94120" class="buyticketbutton iframe" data-fancybox-type="iframe" target="_blank">Jegyvásárlás</a></div>
+                        <!--div class="fl"></div-->
+                        <div class="fl"><a href="https://www.koncert.hu/koncert/a-zenegyulolo-1-0---danubia-zenekar-september19-94120/" class="button"><i class="fa fa-info-circle"></i></a></div> 						
+						<div class="clr">&nbsp;</div>
+				</div>
+		
+	</div>
+	
+    <div class="clear">&nbsp;</div>
+    <div class="sortandpaginate ">
+        <div class="paginate">
+            <a href="https://www.koncert.hu/koncertek/?sort=ajanlo" class="pager round active">1</a><a href="https://www.koncert.hu/koncertek/2/?sort=ajanlo" class="pager round ">2</a><a href="https://www.koncert.hu/koncertek/3/?sort=ajanlo" class="pager round ">3</a><a href="https://www.koncert.hu/koncertek/2/?sort=ajanlo" class="pager round ">></a>
+        </div>
+        <div class="clear">&nbsp;</div>
+    </div>
+</div>
+                </div>
+                            </div>
+
+            <div class="right">
+
+                             <div class="newsbox-v2">
+         <div class="news">
+                <div class="inside">
+                    <a href="https://www.koncert.hu/hirek/zenei-hir/balatonszemesen-avatjak-fel-magyarorszag-elso-freddie-mercury-szobrat-15329" class="block-image r5"  alt="Balatonszemesen avatják fel Magyarország első Freddie Mercury-szobrát" /><img src="https://images.weserv.nl/?url=https://www.koncert.hu/uploads/news/1784727510-balatonszemesen-avatjak-fel-magyarorszag-elso-freddie-mercury-mellszobrat-15329.jpg&w=800&h=450&t=square" alt="Balatonszemesen avatják fel Magyarország első Freddie Mercury-szobrát"></a> 
+                    <div class="block-text"><h4><a href="https://www.koncert.hu/hirek/zenei-hir/balatonszemesen-avatjak-fel-magyarorszag-elso-freddie-mercury-szobrat-15329">Balatonszemesen avatják fel Magyarország első Freddie...</a></h4><div>Július 25-én avatják fel Balatonszemesen Freddie Mercury-mellszobrát. A XXXIII. Queen Fesztivál kiemelt eseményeként leleplezendő alkotás a...</div></div>
+                    <span class="clear">&nbsp;</span>
+                </div>
+            </div>
+         
+         <div class="news">
+                <div class="inside">
+                     
+                    <div class="block-text"><h4><a href="https://www.koncert.hu/hirek/ajanlo/most-akkor-ez-koncert-vagy-irodalmi-est--15328">Most akkor ez koncert vagy irodalmi est?</a></h4></div>
+                    <span class="clear">&nbsp;</span>
+                </div>
+            </div>
+         </div>
+<div class="calendarbox">
+    <div class="blocktitle">Koncert naptár </div> 
+    
+    <div id="calendar"></div>
+</div>
+<a href="https://www.koncert.hu/partner" class="upload r5" ><i class="fa fa-upload"></i> <strong>Töltsd fel az oldalra</strong><span>koncerted, helyszíned, zenekarod</span></a><div class="banner-right"><div class="banner"><a href="https://www.koncert.hu/modules/adserver/redirect.php?bid=ODg2" target="_blank" title="Seal 300x250"><img src="https://www.koncert.hu/uploads/banners/20260521025122-SEAL_2026_HUN_300x250px.gif" alt="Seal 300x250" title="Seal 300x250" style="width:300px; height: 250px; " /></a></div></div><div class="blocktitle"><a href="https://www.koncert.hu/hirek">További friss zenei hírek</a> </div><div class="newsboxr">
+         <div class="onenews"> 
+            <div class="picture round"><a href="https://www.koncert.hu/hirek/ajanlo/25-ev-kihagyas-utan-ter-vissza-budapestre-a-manowar-15312"><img src="https://images.weserv.nl/?url=https://www.koncert.hu/uploads/news/1784104548-25-ev-kihagyas-utan-ter-vissza-budapestre-a-manowar-15312.jpg&w=800&h=450&t=square" class="round" /></a></div>
+            <div class="text"><h4><a href="https://www.koncert.hu/hirek/ajanlo/25-ev-kihagyas-utan-ter-vissza-budapestre-a-manowar-15312">25 év kihagyás után tér vissza Budapestre a Manowar</a></h4> Több mint két évtized után ismét Budapesten lép fel a heavy metal egyik legismertebb zenekara. A Manowar 2027. január 23-án a Papp László Budapest Sportarénában ad koncertet, ahol teljes egészében eljátssza a Fighting The World albumot, emellett természetesen a legnagyobb klasszikusok sem maradnak ki a programból.</div>
+         </div>
+         
+         <div class="onenews"> 
+            <div class="picture round"><a href="https://www.koncert.hu/hirek/ajanlo/tobb-mint-160-millio-letoltesnal-jar-a-save-tonight--most-eloben-hallhatjuk-budapesten-15293"><img src="https://images.weserv.nl/?url=https://www.koncert.hu/uploads/news/1783518070-tobb-mint-160-millio-letoltesnal-jar-a-save-tonight--most-eloben-hallhatjuk-budapesten-15293.jpg&w=800&h=450&t=square" class="round" /></a></div>
+            <div class="text"><h4><a href="https://www.koncert.hu/hirek/ajanlo/tobb-mint-160-millio-letoltesnal-jar-a-save-tonight--most-eloben-hallhatjuk-budapesten-15293">Több mint 160 millió letöltésnál jár a Save Tonight – most élőben hallhatjuk Budapesten</a></h4> A sláger mögött megszámlálhatatlan rádiós lejátszás és generációkon átívelő ismertség áll. És persze egy előadó, a svéd Eagle-Eye Cherry, aki november 23-án az Akvárium Klubban ad koncertet, ahol a világsláger mellett pályafutásának legfontosabb dalai is felcsendülnek.</div>
+         </div>
+         
+         <div class="onenews">
+            <div class="picture round"><a href="https://www.koncert.hu/hirek/ajanlo/most-akkor-ez-koncert-vagy-irodalmi-est--15328"><img src="https://images.weserv.nl/?url=https://www.koncert.hu/uploads/news/1784705275-most-akkor-ez-koncert-vagy-irodalmi-est--15328.jpg&w=800&h=450&t=square" class="round" /></a></div>
+            <div class="text"><h4><a href="https://www.koncert.hu/hirek/ajanlo/most-akkor-ez-koncert-vagy-irodalmi-est--15328">Most akkor ez koncert vagy irodalmi est?</a></h4> A kortárs spoken word nemzetközileg is elismert brit-nigériai előadója 2026. október 9-én először ad koncertet Magyarországon. A Turbina Kulturális Központban Ludvig Parmenttel közös produkciója érkezik Budapestre, amely a kimondott szót és az elektronikus zenét kapcsolja össze.</div>
+         </div>
+         
+         <div class="onenews">
+            <div class="picture round"><a href="https://www.koncert.hu/hirek/koncertbeszamolo/mukodik-e-a-sex-pistols-johnny-rotten-nelkul--koncertbeszamolo-15327"><img src="https://images.weserv.nl/?url=https://www.koncert.hu/uploads/news/1784656662-mukodik-e-a-sex-pistols-johnny-rotten-nelkul--15327.jpg&w=800&h=450&t=square" class="round" /></a></div>
+            <div class="text"><h4><a href="https://www.koncert.hu/hirek/koncertbeszamolo/mukodik-e-a-sex-pistols-johnny-rotten-nelkul--koncertbeszamolo-15327">Működik-e a Sex Pistols Johnny Rotten nélkül? (koncertbeszámoló)</a></h4> Ezt a kérdést már egyszer feltettük, mégpedig 2024-ben, amikor a Sex Pistols alapító tagjai (kivéve Lyndon)  összeálltak, hogy egy londoni koncerthelyszín túlélésére szervezett pénzgyűjtő koncerten részt vegyenek. Két jó dolog is származott ebből, egyrészt a Bush Hall megmenekült és köszöni szépen, azóta is jól van,...</div>
+         </div>
+         </div>
+     
+     <div class="blocktitle"><a href="https://www.facebook.com/koncert.hu/">Kövess minket</a> </div>
+     <div class="socialholder"><div class="fb-page" data-href="https://www.facebook.com/koncert.hu/" data-small-header="true" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="true"><blockquote cite="https://www.facebook.com/koncert.hu/" class="fb-xfbml-parse-ignore"><a href="https://www.facebook.com/koncert.hu/">Koncert.hu</a></blockquote></div></div>
+     <div class="blocktitle"><a href="/eloadok/?sort=friss">Új előadók és együttesek</a> </div><div class="boxholder">
+        <div class="onebox">
+            <div class="picture round"><a href="https://www.koncert.hu/eloado/mulato-aztekok"><img src="https://images.weserv.nl/?url=https://www.koncert.hu/uploads/artists/1781102047-mulato-aztekok.jpg&w=1024&h=768&t=letterbox&bg=ffffff&v=1" alt="Mulató Aztékok" class="eventpic thumb" /></a></div>
+            <div class="text"><h5><a href="https://www.koncert.hu/eloado/mulato-aztekok">Mulató Aztékok</a></h5></div>         
+        </div>
+        <div class="onebox">
+            <div class="picture round"><a href="https://www.koncert.hu/eloado/teveszme"><img src="https://images.weserv.nl/?url=https://www.koncert.hu/uploads/artists/1781099798-teveszme.jpg&w=1024&h=768&t=letterbox&bg=ffffff&v=1" alt="Téveszme" class="eventpic thumb" /></a></div>
+            <div class="text"><h5><a href="https://www.koncert.hu/eloado/teveszme">Téveszme</a></h5></div>         
+        </div>
+        <div class="onebox">
+            <div class="picture round"><a href="https://www.koncert.hu/eloado/gepfolklor"><img src="https://images.weserv.nl/?url=https://www.koncert.hu/uploads/artists/1776936209-gepfolklor.jpg&w=1024&h=768&t=letterbox&bg=ffffff&v=1" alt="Gépfolklór" class="eventpic thumb" /></a></div>
+            <div class="text"><h5><a href="https://www.koncert.hu/eloado/gepfolklor">Gépfolklór</a></h5></div>         
+        </div>
+        <div class="onebox">
+            <div class="picture round"><a href="https://www.koncert.hu/eloado/behajtani-tilos"><img src="https://images.weserv.nl/?url=https://www.koncert.hu/uploads/artists/1770577964-behajtani-tilos.jpg&w=1024&h=768&t=letterbox&bg=ffffff&v=1" alt="Behajtani Tilos" class="eventpic thumb" /></a></div>
+            <div class="text"><h5><a href="https://www.koncert.hu/eloado/behajtani-tilos">Behajtani Tilos</a></h5></div>         
+        </div><div class="clear">&nbsp;</div></div><div class="blocktitle"><a href="/helyszinek/?sort=friss">Új koncerthelyszínek</a> </div><div class="boxholder">
+        <div class="onebox">
+            <div class="picture round"><a href="https://www.koncert.hu/helyszin/kaptalan-kert"><img src="https://images.weserv.nl/?url=https://www.koncert.hu/uploads/places/1776766354-kaptalan-kert.jpg&w=1024&h=768&t=letterbox&bg=ffffff&v=1" alt="Káptalan Kert" class="eventpic thumb" /></a></div>
+            <div class="text"><h5><a href="https://www.koncert.hu/helyszin/kaptalan-kert">Káptalan Kert</a></h5></div>         
+        </div>
+        <div class="onebox">
+            <div class="picture round"><a href="https://www.koncert.hu/helyszin/szent-laszlo-templom---sarvar"><img src="https://images.weserv.nl/?url=https://www.koncert.hu/uploads/places/1772097636-szent-laszlo-templom---sarvar.jpg&w=1024&h=768&t=letterbox&bg=ffffff&v=1" alt="Szent László Templom - Sárvár" class="eventpic thumb" /></a></div>
+            <div class="text"><h5><a href="https://www.koncert.hu/helyszin/szent-laszlo-templom---sarvar">Szent László Templom - Sárvár</a></h5></div>         
+        </div>
+        <div class="onebox">
+            <div class="picture round"><a href="https://www.koncert.hu/helyszin/reformatus-templom---salgotarjan"><img src="https://images.weserv.nl/?url=https://www.koncert.hu/uploads/places/1772097279-reformatus-templom---salgotarjan.jpg&w=1024&h=768&t=letterbox&bg=ffffff&v=1" alt="Református templom - Salgótarján" class="eventpic thumb" /></a></div>
+            <div class="text"><h5><a href="https://www.koncert.hu/helyszin/reformatus-templom---salgotarjan">Református templom - Salgótarján</a></h5></div>         
+        </div>
+        <div class="onebox">
+            <div class="picture round"><a href="https://www.koncert.hu/helyszin/szolnoki-galeria---damjanich-janos-muzeum"><img src="https://images.weserv.nl/?url=https://www.koncert.hu/uploads/places/1772096975-szolnoki-galeria.jpg&w=1024&h=768&t=letterbox&bg=ffffff&v=1" alt="Szolnoki Galéria - Damjanich János Múzeum" class="eventpic thumb" /></a></div>
+            <div class="text"><h5><a href="https://www.koncert.hu/helyszin/szolnoki-galeria---damjanich-janos-muzeum">Szolnoki Galéria - Damjanich János Múzeum</a></h5></div>         
+        </div><div class="clear">&nbsp;</div></div><div class="banner-right"><div class="banner"><a href="https://www.koncert.hu/modules/adserver/redirect.php?bid=ODU2" target="_blank" title="Simple Plan 300x250"><img src="https://www.koncert.hu/uploads/banners/20260409124527-SimplePlan_banner_300x250px.jpg" alt="Simple Plan 300x250" title="Simple Plan 300x250" style="width:300px; height: 250px; " /></a></div></div><div class="blocktitle">Új koncertek </div><div class="boxholder">
+		<div class="onebox">
+			<div class="picture"><a href="https://www.koncert.hu/koncert/xvii--fuzeri-palinkafesztival--parno-graszt-x-bohemian-betyars-koncert-october03-97629"><img src="https://images.weserv.nl/?url=https://www.koncert.hu/uploads/concerts/xvii--fuzeri-palinkafesztival--parno-graszt-x-bohemian-betyars-koncert-1784724744.jpg&w=1024&h=768&t=letterbox&bg=ffffff&v=1" alt="XVII. Füzéri..." class="eventpic thumb" /></a></div>
+			<div class="text"><h5><a href="https://www.koncert.hu/koncert/xvii--fuzeri-palinkafesztival--parno-graszt-x-bohemian-betyars-koncert-october03-97629">XVII. Füzéri...</a></h5>Füzér&nbsp;</div>
+		</div>
+		<div class="onebox">
+			<div class="picture"><a href="https://www.koncert.hu/koncert/only-the-hard-tour-2026---madball-us-1481982"><img src="https://images.weserv.nl/?url=https://www.koncert.hu/uploads/concerts/only-the-hard-tour-2026---madball-us-1784724744.jpg&w=1024&h=768&t=letterbox&bg=ffffff&v=1" alt="ONLY THE HARD TOUR 2026 -..." class="eventpic thumb" /></a></div>
+			<div class="text"><h5><a href="https://www.koncert.hu/koncert/only-the-hard-tour-2026---madball-us-1481982">ONLY THE HARD TOUR 2026 -...</a></h5>Budapest&nbsp;</div>
+		</div>
+		<div class="onebox">
+			<div class="picture"><a href="https://www.koncert.hu/koncert/2026--csiribiri--halasz-judit-eloadasa-1482406"><img src="https://images.weserv.nl/?url=https://www.koncert.hu/uploads/concerts/2026--csiribiri--halasz-judit-eloadasa-1784724745.jpg&w=1024&h=768&t=letterbox&bg=ffffff&v=1" alt="2026 "Csiribiri" Halász..." class="eventpic thumb" /></a></div>
+			<div class="text"><h5><a href="https://www.koncert.hu/koncert/2026--csiribiri--halasz-judit-eloadasa-1482406">2026 "Csiribiri" Halász...</a></h5>Kecskemét&nbsp;</div>
+		</div>
+		<div class="onebox">
+			<div class="picture"><a href="https://www.koncert.hu/koncert/nox---csendes-turne-2026-1477434"><img src="https://images.weserv.nl/?url=https://www.koncert.hu/uploads/concerts/nox---csendes-turne-2026-1784705347.jpg&w=1024&h=768&t=letterbox&bg=ffffff&v=1" alt="NOX - Csendes Turné 2026" class="eventpic thumb" /></a></div>
+			<div class="text"><h5><a href="https://www.koncert.hu/koncert/nox---csendes-turne-2026-1477434">NOX - Csendes Turné 2026</a></h5>Veszprém&nbsp;</div>
+		</div>
+		<div class="onebox">
+			<div class="picture"><a href="https://www.koncert.hu/koncert/nox---csendes-turne-2026-1477433"><img src="https://images.weserv.nl/?url=https://www.koncert.hu/uploads/concerts/nox---csendes-turne-2026-1784705347.jpg&w=1024&h=768&t=letterbox&bg=ffffff&v=1" alt="NOX - Csendes Turné 2026" class="eventpic thumb" /></a></div>
+			<div class="text"><h5><a href="https://www.koncert.hu/koncert/nox---csendes-turne-2026-1477433">NOX - Csendes Turné 2026</a></h5>Békéscsaba&nbsp;</div>
+		</div>
+		<div class="onebox">
+			<div class="picture"><a href="https://www.koncert.hu/koncert/nox---csendes-turne-2026-1477432"><img src="https://images.weserv.nl/?url=https://www.koncert.hu/uploads/concerts/nox---csendes-turne-2026-1784705348.jpg&w=1024&h=768&t=letterbox&bg=ffffff&v=1" alt="NOX - Csendes Turné 2026" class="eventpic thumb" /></a></div>
+			<div class="text"><h5><a href="https://www.koncert.hu/koncert/nox---csendes-turne-2026-1477432">NOX - Csendes Turné 2026</a></h5>Keszthely&nbsp;</div>
+		</div>
+		<div class="onebox">
+			<div class="picture"><a href="https://www.koncert.hu/koncert/nox---csendes-turne-2026-1477425"><img src="https://images.weserv.nl/?url=https://www.koncert.hu/uploads/concerts/nox---csendes-turne-2026-1784705348.jpg&w=1024&h=768&t=letterbox&bg=ffffff&v=1" alt="NOX - Csendes Turné 2026" class="eventpic thumb" /></a></div>
+			<div class="text"><h5><a href="https://www.koncert.hu/koncert/nox---csendes-turne-2026-1477425">NOX - Csendes Turné 2026</a></h5>Miskolc&nbsp;</div>
+		</div>
+		<div class="onebox">
+			<div class="picture"><a href="https://www.koncert.hu/koncert/kozos-nemzetkozi-zongorakoncert-a-vilagbekeert-1482160"><img src="https://images.weserv.nl/?url=https://www.koncert.hu/uploads/places/liszt-ferenc-emlekmuzeum-es-kutatokozpont-1694782806.jpg&w=1024&h=768&t=letterbox&bg=ffffff&v=1" alt="Közös nemzetközi..." class="thumb" /></a></div>
+			<div class="text"><h5><a href="https://www.koncert.hu/koncert/kozos-nemzetkozi-zongorakoncert-a-vilagbekeert-1482160">Közös nemzetközi...</a></h5>Budapest&nbsp;</div>
+		</div>
+		<div class="onebox">
+			<div class="picture"><a href="https://www.koncert.hu/koncert/szoljon-hangosan-az-enek-soltesz-rezso-es-a-studio11-ensemble-koncertje-1473345"><img src="https://images.weserv.nl/?url=https://www.koncert.hu/uploads/concerts/szoljon-hangosan-az-enek-soltesz-rezso-es-a-studio11-ensemble-koncertje-1784705348.jpg&w=1024&h=768&t=letterbox&bg=ffffff&v=1" alt="Szóljon hangosan az..." class="eventpic thumb" /></a></div>
+			<div class="text"><h5><a href="https://www.koncert.hu/koncert/szoljon-hangosan-az-enek-soltesz-rezso-es-a-studio11-ensemble-koncertje-1473345">Szóljon hangosan az...</a></h5>Budapest&nbsp;</div>
+		</div>
+		<div class="onebox">
+			<div class="picture"><a href="https://www.koncert.hu/koncert/beethoven--brahms---concerto-budapest-2627-1474724"><img src="https://images.weserv.nl/?url=https://www.koncert.hu/uploads/places/concerto-budapest-1696255207.jpg&w=1024&h=768&t=letterbox&bg=ffffff&v=1" alt="Beethoven / Brahms -..." class="thumb" /></a></div>
+			<div class="text"><h5><a href="https://www.koncert.hu/koncert/beethoven--brahms---concerto-budapest-2627-1474724">Beethoven / Brahms -...</a></h5>Budapest&nbsp;</div>
+		</div><div class="clear">&nbsp;</div></div>                         </div>
+            
+            <div class="clear">&nbsp;</div>
+        </div>
+        <div class="clear">&nbsp;</div>
+        </div>
+        </div>  
+        <div class="footer">
+            <div class="container">
+
+                <div class="col1"><h5>Mi az a Koncert.hu?</h5>
+<p>A Koncert.hu az ország elsőszámú zenei esemény naptára. Itt minden közelgő eseményt, koncertet, fesztivált megtalálsz, amikre akár azonnal jegyet is vásárolhatsz! A koncertek mellett zenei híreket is olvashatsz, továbbá mindent megtudhatsz együttesekről és helyszínekről is. Minden koncert egy helyen, ez a Koncert.hu.</p>                       
+                
+                </div>
+                <div class="col2"><p><a href="https://www.koncert.hu/kapcsolat">Kapcsolatok és üzenet küldés</a></p>
+<p><a href="https://www.koncert.hu/uploads/images2/M%C3%A9diaaj%C3%A1nlat%202019.pdf" target="_blank" rel="noopener">Médiaajánlatunk</a></p>
+<p><a href="https://www.koncert.hu/gyakran-ismetelt-kerdesek">Gyakran ismételt kérdések</a></p>
+<p><a href="https://www.koncert.hu/lista/koncertek">Koncert</a>, <a href="https://www.koncert.hu/lista/eloadok">előadó</a>, <a href="https://www.koncert.hu/lista/helyszinek">helyszín</a></p>
+<p><a href="https://www.koncert.hu/lista/koncert-archivum" target="_blank" rel="noopener">Korábbi koncertek</a></p>
+<p><a href="https://www.koncert.hu/adatvedelem">Adatvédelem</a></p>
+<p><a href="https://www.koncert.hu/uploads/files/aszf.pdf" target="_blank" rel="noopener">ÁSZF</a></p>
+<p><a href="https://www.koncert.hu/felhasznalasi-feltetelek">Felhasználási feltételek</a></p>
+<p><a href="mailto:webmaster@koncert.hu">Webmaster</a></p></div>
+                <div class="col3">
+                        <h5>Hírlevél és ajánlás</h5>
+<p>Iratkozz fel hírlevelünkre, hogy tájékoztathassunk a legfrissebb eseményekről és akciókról. Amennyiben van ismerősöd, aki szintén rajong a zenék iránt, ajánld neki a Koncert.hu-t!</p>                        <input type="text" class="signupfield" value="Adj meg egy email címet" id="signupmailform" onfocus="subscribe('')" />
+                        <!--div>
+                                <a href="javascript:void('0')" class="sugnupbutton" id="signupbutton" onclick="signupnewsletter('Hibás e-mail címet adtál meg! Ügyelj, a cím pontosságára!','Sikeresen feliratkoztál a Koncert.hu hírlevelére! Köszönjük!');">feliratkozom</a>
+                                <a href="javascript:void('0')" class="freebutton" id="sendbutton" onclick="sendtofriend('Hibás e-mail címet adtál meg! Ügyelj, a cím pontosságára!','Ajánlódat elküldtük a kiválasztott barátodnak! Köszönjük, hogy minket ajánlottál!');">ajánlom</a>
+                        </div-->
+                </div>
+                <div class="col4">
+                        <h5>Kövess minket</h5>
+                        <div class="socials">
+                            <a href="https://www.facebook.com/koncert.hu" target="_blank"><i class="fa fa-facebook"></i></a>
+                            <a href="#" target="_blank"><i class="fa fa-instagram"></i></a>
+                            <a href="#" target="_blank"><i class="fa fa-youtube-play"></i></a>
+                            <a href="#" target="_blank"><i class="fa fa-twitter"></i></a>
+                        </div>
+
+                </div>
+                                <input type="hidden" id="nowpage" value="ajanlo" />
+                <div class="clear">&nbsp;</div>
+                <div class="copy">
+                    <div class="clogo"><a href="https://www.koncert.hu"><img src="https://www.koncert.hu/images/koncert/footerlogo.png" alt="" title="" /></a></div>
+                    <div class="copyright"><p>Koncert.hu - Minden koncert egy helyen. Az oldalon található tartalmakat szerzői jogok védik © 2002 - 2020  <a href="https://www.koncert.hu/adatvedelem" rel="nofollow">Adatvédelem </a>- <a href="https://www.koncert.hu/uploads/files/aszf.pdf" rel="nofollow">ÁSZF</a> - <a href="https://www.koncert.hu/felhasznalasi-feltetelek" rel="nofollow">Felhasználási feltételek</a> - <a href="mailto:webmaster@koncert.hu" rel="nofollow">Webmaster </a>- <a href="https://www.koncert.hu/kapcsolat" rel="nofollow">Kapcsolat és üzenet küldés</a></p></div>
+                    <div class="createdby"><a href="https://www.totalstudio.hu" title="Honlapkészítés és internetes megoldások" class="totalstudio"><img src="https://www.totalstudio.hu/copyright/totalstudio_img.php?site=koncerthu" alt="Honlapkészítés, tárhely, domain, banner, webdesign, grafika" title="Honlapkészítés, tárhely, domain, banner, webdesign, grafika" border="0" /></a></div>
+                    <div class="clear">&nbsp;</div>
+                </div>
+            </div>
+        </div>
+    </div>  
+ <script type="text/javascript">getcalendar('2026','7');</script>
+<div class="loading round"></div>
+<script type="text/javascript">
+    $(".gatrack").click( function()
+    {  
+       ga('send', 'event', { eventCategory: $(this).data('category'), eventAction: $(this).data('action'), eventLabel: $(this).data('label')});
+       if($(this).data('return')=='false')
+       {
+        return false;    
+       }
+       else
+       {
+           
+       }
+       
+    });
+</script>
+
+</script>   
+    <script type="text/javascript">
+    /* <![CDATA[ */
+    var google_conversion_id = 844699986;
+    var google_custom_params = window.google_tag_params;
+    var google_remarketing_only = true;
+    /* ]]> */
+    </script>
+    <script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js"></script>
+    <noscript>
+    <div style="display:inline;">
+    <img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/1067477988/?guid=ON&script=0"/>
+    </div>
+    </noscript>
+    
+
+<script>
+    window.addEventListener("load", function(){
+    window.cookieconsent.initialise({
+      "palette": {
+        "popup": {
+          "background": "#000000"
+        },
+        "button": {
+          "background": "#bbd228",
+          "text": "#000000",
+          "border": "#bbd228"
+        }
+      },
+      "position": "bottom-left",
+      "content": {
+        "message": "A weboldal cookie-kat használ, hogy biztonságos böngészés mellett a legjobb felhasználói élményt nyújtsa.",
+        "dismiss": "Tudomásul vettem",
+        "link": "bővebben",
+        "href": "/adatvedelem/"
+      }
+    })});
+</script>
+</body>
+</html>
