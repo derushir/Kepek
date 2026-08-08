@@ -1,0 +1,9 @@
+# Local-only per-image tag sidecars — never push these
+*.tags.json
+**/*.tags.json
+
+# macOS metadata
+.DS_Store
+**/.DS_Store
+._*
+**/._*
