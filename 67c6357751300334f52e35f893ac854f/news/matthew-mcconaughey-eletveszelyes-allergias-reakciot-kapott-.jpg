@@ -1,0 +1,1621 @@
+<!DOCTYPE html>
+<html lang="hu"
+      xmlns:og="http://ogp.me/ns#"
+      xmlns:fb="http://www.facebook.com/2008/fbml">
+    <head prefix="og: http://ogp.me/ns#">
+    <script type="text/javascript">
+        const addEListener = window.addEventListener;
+        const sTimeout = window.setTimeout;
+        const DCL = 'DOMContentLoaded';
+    </script>
+
+        <link rel="manifest" href="/OneSignal/manifest.json">
+    <meta charset="UTF-8">
+            <meta name="viewport" content="width=device-width, initial-scale=1">
+                
+    <meta http-equiv="X-UA-Compatible" content="IE=11">
+    <meta name="google-site-verification" content="tMfB8j6tfvQ-e9NkrLE3W95kDTpTnHtdhEi_19trTWY" />
+    <meta name="apple-itunes-app" content="app-id=541579449">
+    <meta name="google-play-app" content="app-id=com.portdata.tv">
+    <meta name="facebook-domain-verification" content="j50i7kw74b6srl5qzhabtc8g6le2rw" />
+    <meta property="og:site_name" content="PORT.hu" />
+    <meta property="og:title" content="Sokkoló dolog történt Matthew McConaughey-vel a forgatáson, óriási veszélyben volt - FOTÓ" />
+    <meta name="robots" content="index, follow, noai, noimageai">
+
+            <meta property="og:url" content="http://port.hu/cikk/mozi/sokkolo-dolog-tortent-matthew-mcconaughey-vel-a-forgatason-oriasi-veszelyben-volt-foto/article-129928">
+    
+    <meta name="referrer" content="no-referrer-when-downgrade">
+    <meta name="msapplication-square70x70logo" content="/favicons24/windows-tile-70x70.png">
+<meta name="msapplication-square150x150logo" content="/favicons24/windows-tile-150x150.png">
+<meta name="msapplication-square310x310logo" content="/favicons24/windows-tile-310x310.png">
+<meta name="msapplication-TileImage" content="/favicons24/windows-tile-144x144.png">
+<meta name="msapplication-TileColor" content="#EF3B39">
+<link rel="apple-touch-icon-precomposed" sizes="152x152" href="/favicons24/apple-touch-icon-152x152-precomposed.png">
+<link rel="apple-touch-icon-precomposed" sizes="120x120" href="/favicons24/apple-touch-icon-120x120-precomposed.png">
+<link rel="apple-touch-icon-precomposed" sizes="76x76" href="/favicons24/apple-touch-icon-76x76-precomposed.png">
+<link rel="apple-touch-icon-precomposed" sizes="60x60" href="/favicons24/apple-touch-icon-60x60-precomposed.png">
+<link rel="apple-touch-icon-precomposed" sizes="144x144" href="/favicons24/apple-touch-icon-144x144-precomposed.png">
+<link rel="apple-touch-icon-precomposed" sizes="114x114" href="/favicons24/apple-touch-icon-114x114-precomposed.png">
+<link rel="apple-touch-icon-precomposed" sizes="72x72" href="/favicons24/apple-touch-icon-72x72-precomposed.png">
+<link rel="apple-touch-icon" sizes="57x57" href="/favicons24/apple-touch-icon.png">
+<link rel="icon" sizes="228x228" href="/favicons24/coast-icon-228x228.png">
+<link rel="shortcut icon" href="/favicons24/favicon.ico">
+<link rel="icon" type="image/png" sizes="64x64" href="/favicons24/favicon.png">
+    <meta name="csrf-param" content="_csrf">
+<meta name="csrf-token" content="GxU77-CAlLliEBb1Zk8vXMuWpEcvAxq5rw3rkSM29KVjcEG61rjk8QxpVZonKX06_ODxNXZHVP_dZqqpUliDyA==">
+    <title>Sokkoló dolog történt Matthew McConaughey-vel a forgatáson, óriási veszélyben volt - FOTÓ</title>
+
+    <meta property="og:title" content="Sokkoló dolog történt Matthew McConaughey-vel a forgatáson, óriási veszélyben volt - FOTÓ">
+<meta property="og:type" content="article">
+<meta property="og:url" content="http://port.hu/cikk/mozi/sokkolo-dolog-tortent-matthew-mcconaughey-vel-a-forgatason-oriasi-veszelyben-volt-foto/article-129928">
+<meta property="og:description" content="Matthew McConaughey egy méhészt alakít az új filmjében, a forgatás azonban váratlan fordulatot vett, amikor kiderült, allergiás a méhcsípésre.">
+<meta property="og:site_name" content="PORT.hu">
+<meta name="article:published_time" content="2026-08-14T09:45:00+0200">
+<meta name="article:modified_time" content="2026-08-14T09:53:07+0200">
+<meta name="article:section" content="mozi">
+<meta property="og:image" content="https://media.port.hu/images/001/840/376.webp">
+<meta property="og:image:secure_url" content="https://media.port.hu/images/001/840/376.webp">
+<meta property="og:image:width" content="1479">
+<meta property="og:image:height" content="832">
+<meta name="keywords" content="a mézkirály, film, forgatás, matthew mcconaughey, veszély, tv2tv, mozi">
+<meta name="description" content="Matthew McConaughey egy méhészt alakít az új filmjében, a forgatás azonban váratlan fordulatot vett, amikor kiderült, allergiás a méhcsípésre.">
+<link href="https://media.port.hu/assets/prod/0b625e0441f4ca435c991710f73d2ec8/css/bootstrap.min.css?v=1784193811" rel="stylesheet">
+<link href="/css/global.css?v=1784193609" rel="stylesheet">
+<link href="/css/layout.css?v=1784193608" rel="stylesheet">
+<link href="https://media.port.hu/assets/prod/9ad09ca9531113477447e1447df0e2db/dist/assets/owl.carousel.min.css?v=1784193810" rel="stylesheet">
+<link href="/css/interstitial.css?v=1784193607" rel="stylesheet">
+<link href="/css/carousel.css?v=1784193603" rel="stylesheet">
+<link href="/css/widgets/ticket.css?v=1784193616" rel="stylesheet">
+<link href="/css/widgets/premiers.css?v=1784193615" rel="stylesheet">
+<link href="/css/article.css?v=1784193603" rel="stylesheet">
+<link href="/css/widgets/related-content.css?v=1784193616" rel="stylesheet">
+<link href="/css/az-en-kutyam-box.css?v=1784193603" rel="stylesheet">
+<link href="https://media.port.hu/assets/prod/9eb8f49a46ed524cd0acfac4b7b3e769/css/typeahead.min.css?v=1784193811" rel="stylesheet">
+<link href="https://media.port.hu/assets/prod/9eb8f49a46ed524cd0acfac4b7b3e769/css/typeahead-kv.min.css?v=1784193811" rel="stylesheet">
+<link href="https://media.port.hu/assets/prod/191bd86b0e8dd567be78d5322dbc5de0/css/kv-widgets.min.css?v=1784193811" rel="stylesheet">
+<link href="/css/passport-login.css?v=1784193611" rel="stylesheet">
+<script>
+    var portPage = {
+        section : "mozi",
+        type : "cikk",
+        tid: "pt2",
+        canSubscribeOlimpiaNoti: false
+    };
+    
+__passportHeader_config={"INDAPASS_URL":"https:\/\/indapass.hu\/","HEADER_URL":"https:\/\/indapass.hu\/jsfejlec2\/","LOGIN_URL":"https:\/\/daemon.indapass.hu\/http\/login","NOTI_URL":"https:\/\/noti.inda.hu\/","IDENT_URL":"https:\/\/management.ident.indapass.hu\/","partner_id":"port","loggedIn":false,"nick":false,"avatar":false,"hint":"https:\/\/indapass.hu\/static\/logo.php?h=R4NWKYqrbx5AmvQoyH2L5R98MJ6hZ2LDPogekw41vMDOlcI0X2Zd3%2Bvd4JuvUHiX&type=spacer","hasFacebook":false,"providerExpired":false,"irresponsive":false,"miniHeader":true,"cookiePolicy":{"enabled":false,"text":"Friss <a id=\"_iph_cp_privacy\" href=\"\/adatvedelem\" target=\"_blank\">adatkezel\u00e9si  t\u00e1j\u00e9koztat\u00f3nkban<\/a> megtal\u00e1lod, hogyan gondoskodunk adataid  v\u00e9delm\u00e9r\u0151l. Oldalainkon HTTP-s\u00fctiket haszn\u00e1lunk a jobb m\u0171k\u00f6d\u00e9s\u00e9rt."},"links":{"loggedIn":[]},"disableNoti":true};
+window.typeahead_7864e59a = {"highlight":true};
+</script><link href="/img/prtre.css?v=1731927334" rel="stylesheet">
+    <!-- Google Tag Manager -->
+    <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+    new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+    j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+    'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+    })(window,document,'script','dataLayer','GTM-MNRSXGM');</script>
+    <!-- End Google Tag Manager -->
+         <!-- google ad exchange -->
+     <script async src="https://securepubads.g.doubleclick.net/tag/js/gpt.js"></script>
+    <script>
+    var googletag = googletag || {};
+    googletag.cmd = googletag.cmd || [];
+    </script>
+
+    <!-- mobile sticky hirdetes -->
+    
+    
+
+    <!-- end of google ad exchange -->
+        <!-- smart lazy -->
+    <script type="text/javascript" src="//lib.wtg-ads.com/publisher/port.hu/add257a12dd60063ee4a.js" async></script>
+    <!-- server: ptfr1 -->
+    <script>
+    //user adatok átadása javascriptbe
+    var userIsGuest = true;var userId = false;    </script>
+
+        <script type="text/javascript">
+        var customTarget = '&';
+        __passportIdentConfig = {
+            // Ident elérhetősége
+            IDENT_URL: "//management.ident.indapass.hu/",
+            // Ident tag
+            tid: 'pt2'
+        };
+    </script>
+    <meta name="logcustomtarget" content="1"/>
+
+  <!-- InMobi Choice. Consent Manager Tag v3.0 (for TCF 2.2) -->
+<script type="text/javascript" async=true>
+(function() {
+  var host = 'port.hu';
+  var element = document.createElement('script');
+  var firstScript = document.getElementsByTagName('script')[0];
+  var url = 'https://cmp.inmobi.com'
+    .concat('/choice/', '4z9XXyvnuPTjK', '/', host, '/choice.js?tag_version=V3');
+  var uspTries = 0;
+  var uspTriesLimit = 3;
+  element.async = true;
+  element.type = 'text/javascript';
+  element.src = url;
+
+  firstScript.parentNode.insertBefore(element, firstScript);
+
+  function makeStub() {
+    var TCF_LOCATOR_NAME = '__tcfapiLocator';
+    var queue = [];
+    var win = window;
+    var cmpFrame;
+
+    function addFrame() {
+      var doc = win.document;
+      var otherCMP = !!(win.frames[TCF_LOCATOR_NAME]);
+
+      if (!otherCMP) {
+        if (doc.body) {
+          var iframe = doc.createElement('iframe');
+
+          iframe.style.cssText = 'display:none';
+          iframe.name = TCF_LOCATOR_NAME;
+          doc.body.appendChild(iframe);
+        } else {
+          setTimeout(addFrame, 5);
+        }
+      }
+      return !otherCMP;
+    }
+
+    function tcfAPIHandler() {
+      var gdprApplies;
+      var args = arguments;
+
+      if (!args.length) {
+        return queue;
+      } else if (args[0] === 'setGdprApplies') {
+        if (
+          args.length > 3 &&
+          args[2] === 2 &&
+          typeof args[3] === 'boolean'
+        ) {
+          gdprApplies = args[3];
+          if (typeof args[2] === 'function') {
+            args[2]('set', true);
+          }
+        }
+      } else if (args[0] === 'ping') {
+        var retr = {
+          gdprApplies: gdprApplies,
+          cmpLoaded: false,
+          cmpStatus: 'stub'
+        };
+
+        if (typeof args[2] === 'function') {
+          args[2](retr);
+        }
+      } else {
+        if(args[0] === 'init' && typeof args[3] === 'object') {
+          args[3] = Object.assign(args[3], { tag_version: 'V3' });
+        }
+        queue.push(args);
+      }
+    }
+
+    function postMessageEventHandler(event) {
+      var msgIsString = typeof event.data === 'string';
+      var json = {};
+
+      try {
+        if (msgIsString) {
+          json = JSON.parse(event.data);
+        } else {
+          json = event.data;
+        }
+      } catch (ignore) {}
+
+      var payload = json.__tcfapiCall;
+
+      if (payload) {
+        window.__tcfapi(
+          payload.command,
+          payload.version,
+          function(retValue, success) {
+            var returnMsg = {
+              __tcfapiReturn: {
+                returnValue: retValue,
+                success: success,
+                callId: payload.callId
+              }
+            };
+            if (msgIsString) {
+              returnMsg = JSON.stringify(returnMsg);
+            }
+            if (event && event.source && event.source.postMessage) {
+              event.source.postMessage(returnMsg, '*');
+            }
+          },
+          payload.parameter
+        );
+      }
+    }
+
+    while (win) {
+      try {
+        if (win.frames[TCF_LOCATOR_NAME]) {
+          cmpFrame = win;
+          break;
+        }
+      } catch (ignore) {}
+
+      if (win === window.top) {
+        break;
+      }
+      win = win.parent;
+    }
+    if (!cmpFrame) {
+      addFrame();
+      win.__tcfapi = tcfAPIHandler;
+      win.addEventListener('message', postMessageEventHandler, false);
+    }
+  };
+
+  makeStub();
+
+  function makeGppStub() {
+    const CMP_ID = 10;
+    const SUPPORTED_APIS = [
+      '2:tcfeuv2',
+      '6:uspv1',
+      '7:usnatv1',
+      '8:usca',
+      '9:usvav1',
+      '10:uscov1',
+      '11:usutv1',
+      '12:usctv1'
+    ];
+
+    window.__gpp_addFrame = function (n) {
+      if (!window.frames[n]) {
+        if (document.body) {
+          var i = document.createElement("iframe");
+          i.style.cssText = "display:none";
+          i.name = n;
+          document.body.appendChild(i);
+        } else {
+          window.setTimeout(window.__gpp_addFrame, 10, n);
+        }
+      }
+    };
+    window.__gpp_stub = function () {
+      var b = arguments;
+      __gpp.queue = __gpp.queue || [];
+      __gpp.events = __gpp.events || [];
+
+      if (!b.length || (b.length == 1 && b[0] == "queue")) {
+        return __gpp.queue;
+      }
+
+      if (b.length == 1 && b[0] == "events") {
+        return __gpp.events;
+      }
+
+      var cmd = b[0];
+      var clb = b.length > 1 ? b[1] : null;
+      var par = b.length > 2 ? b[2] : null;
+      if (cmd === "ping") {
+        clb(
+          {
+            gppVersion: "1.1", // must be “Version.Subversion”, current: “1.1”
+            cmpStatus: "stub", // possible values: stub, loading, loaded, error
+            cmpDisplayStatus: "hidden", // possible values: hidden, visible, disabled
+            signalStatus: "not ready", // possible values: not ready, ready
+            supportedAPIs: SUPPORTED_APIS, // list of supported APIs
+            cmpId: CMP_ID, // IAB assigned CMP ID, may be 0 during stub/loading
+            sectionList: [],
+            applicableSections: [-1],
+            gppString: "",
+            parsedSections: {},
+          },
+          true
+        );
+      } else if (cmd === "addEventListener") {
+        if (!("lastId" in __gpp)) {
+          __gpp.lastId = 0;
+        }
+        __gpp.lastId++;
+        var lnr = __gpp.lastId;
+        __gpp.events.push({
+          id: lnr,
+          callback: clb,
+          parameter: par,
+        });
+        clb(
+          {
+            eventName: "listenerRegistered",
+            listenerId: lnr, // Registered ID of the listener
+            data: true, // positive signal
+            pingData: {
+              gppVersion: "1.1", // must be “Version.Subversion”, current: “1.1”
+              cmpStatus: "stub", // possible values: stub, loading, loaded, error
+              cmpDisplayStatus: "hidden", // possible values: hidden, visible, disabled
+              signalStatus: "not ready", // possible values: not ready, ready
+              supportedAPIs: SUPPORTED_APIS, // list of supported APIs
+              cmpId: CMP_ID, // list of supported APIs
+              sectionList: [],
+              applicableSections: [-1],
+              gppString: "",
+              parsedSections: {},
+            },
+          },
+          true
+        );
+      } else if (cmd === "removeEventListener") {
+        var success = false;
+        for (var i = 0; i < __gpp.events.length; i++) {
+          if (__gpp.events[i].id == par) {
+            __gpp.events.splice(i, 1);
+            success = true;
+            break;
+          }
+        }
+        clb(
+          {
+            eventName: "listenerRemoved",
+            listenerId: par, // Registered ID of the listener
+            data: success, // status info
+            pingData: {
+              gppVersion: "1.1", // must be “Version.Subversion”, current: “1.1”
+              cmpStatus: "stub", // possible values: stub, loading, loaded, error
+              cmpDisplayStatus: "hidden", // possible values: hidden, visible, disabled
+              signalStatus: "not ready", // possible values: not ready, ready
+              supportedAPIs: SUPPORTED_APIS, // list of supported APIs
+              cmpId: CMP_ID, // CMP ID
+              sectionList: [],
+              applicableSections: [-1],
+              gppString: "",
+              parsedSections: {},
+            },
+          },
+          true
+        );
+      } else if (cmd === "hasSection") {
+        clb(false, true);
+      } else if (cmd === "getSection" || cmd === "getField") {
+        clb(null, true);
+      }
+      //queue all other commands
+      else {
+        __gpp.queue.push([].slice.apply(b));
+      }
+    };
+    window.__gpp_msghandler = function (event) {
+      var msgIsString = typeof event.data === "string";
+      try {
+        var json = msgIsString ? JSON.parse(event.data) : event.data;
+      } catch (e) {
+        var json = null;
+      }
+      if (typeof json === "object" && json !== null && "__gppCall" in json) {
+        var i = json.__gppCall;
+        window.__gpp(
+          i.command,
+          function (retValue, success) {
+            var returnMsg = {
+              __gppReturn: {
+                returnValue: retValue,
+                success: success,
+                callId: i.callId,
+              },
+            };
+            event.source.postMessage(msgIsString ? JSON.stringify(returnMsg) : returnMsg, "*");
+          },
+          "parameter" in i ? i.parameter : null,
+          "version" in i ? i.version : "1.1"
+        );
+      }
+    };
+    if (!("__gpp" in window) || typeof window.__gpp !== "function") {
+      window.__gpp = window.__gpp_stub;
+      window.addEventListener("message", window.__gpp_msghandler, false);
+      window.__gpp_addFrame("__gppLocator");
+    }
+  };
+
+  makeGppStub();
+
+  var uspStubFunction = function() {
+    var arg = arguments;
+    if (typeof window.__uspapi !== uspStubFunction) {
+      setTimeout(function() {
+        if (typeof window.__uspapi !== 'undefined') {
+          window.__uspapi.apply(window.__uspapi, arg);
+        }
+      }, 500);
+    }
+  };
+
+  var checkIfUspIsReady = function() {
+    uspTries++;
+    if (window.__uspapi === uspStubFunction && uspTries < uspTriesLimit) {
+      console.warn('USP is not accessible');
+    } else {
+      clearInterval(uspInterval);
+    }
+  };
+
+  if (typeof window.__uspapi === 'undefined') {
+    window.__uspapi = uspStubFunction;
+    var uspInterval = setInterval(checkIfUspIsReady, 6000);
+  }
+})();
+</script>
+<!-- End InMobi Choice. Consent Manager Tag v3.0 (for TCF 2.2) -->
+
+    <!-- Hotjar Tracking Code for https://port.hu/ -->
+    <script>
+        (function(h,o,t,j,a,r){
+            h.hj=h.hj||function(){(h.hj.q=h.hj.q||[]).push(arguments)};
+            h._hjSettings={hjid:2063429,hjsv:6};
+            a=o.getElementsByTagName('head')[0];
+            r=o.createElement('script');r.async=1;
+            r.src=t+h._hjSettings.hjid+j+h._hjSettings.hjsv;
+            a.appendChild(r);
+        })(window,document,'https://static.hotjar.com/c/hotjar-','.js?sv=');
+    </script><script type="text/javascript" src="//indexhu.adocean.pl/files/js/ado.js"></script>
+<script type="text/javascript">
+    window.adocf = {};
+    window.adocf.useDOMContentLoaded = true;
+        var tagStr = document.querySelector('meta[name="keywords"]') ? document.querySelector('meta[name="keywords"]').getAttribute("content").replace(/\s/g, '') : "";
+
+    /* (c)AdOcean 2003-2020 */
+    if(typeof ado!=="object"){ado={};ado.config=ado.preview=ado.placement=ado.master=ado.slave=function(){};ado.blocked=true}
+    ado.config({mode: "new", xml: false, consent: true, characterEncoding: true, attachReferrer: true, fpc: "auto", defaultServer: "indexhu.adocean.pl", cookieDomain: "SLD"});
+    ado.preview({enabled: true});
+
+            /* (c)AdOcean 2003-2020, MASTER: _8dF3KcoPcrPuKpwSA0NdVutcNLDXgNqvejgpL8RfEr.d7 */
+        ado.master({id: "_8dF3KcoPcrPuKpwSA0NdVutcNLDXgNqvejgpL8RfEr.d7", server: "indexhu.adocean.pl", vars: typeof customTarget !== "undefined" ? customTarget : '', keys: tagStr });
+    </script>
+
+<script type="module">
+    window.iap_zones = window.iap_zones || [];
+    document.addEventListener('DOMContentLoaded', async () => {
+    const { Loader } = await (await import("https://iap.cdn.indexvas.hu/Scripts.js")).default;
+    setTimeout(() => {
+    window.ADOLoader = new Loader({
+        "debug": false,
+        "stat": true,
+        "engine": "AdOcean",
+        "master": "_8dF3KcoPcrPuKpwSA0NdVutcNLDXgNqvejgpL8RfEr.d7",
+        "customTarget": typeof customTarget !== "undefined" ? customTarget : '',
+        "keywords": tagStr
+    })
+}, 1000);
+})
+</script>
+</head>
+<body class="device_desktop ">
+    <!-- Google Tag Manager (noscript) -->
+    <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-MNRSXGM"
+    height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+    <!-- End Google Tag Manager (noscript) -->
+
+    <div id="fb-root"></div>
+    <script>(function(d, s, id) {
+    var js, fjs = d.getElementsByTagName(s)[0];
+    if (d.getElementById(id)) return;
+    js = d.createElement(s); js.id = id;
+    js.src = "//connect.facebook.net/hu_HU/sdk.js#xfbml=1&version=v2.8";
+    fjs.parentNode.insertBefore(js, fjs);
+    }(document, 'script', 'facebook-jssdk'));</script>
+
+
+
+<div class="wrap">
+    <header>
+    <div class="circle circle--large"></div>
+    <div class="circle circle--small"></div>
+    <nav class="navigation">
+    <div class="navigation__logo">
+      <a href="/">
+        <img src="/img/2024/icons/icon-logo-30.svg" alt="port-logo" class="navigation__logo--icon" />
+      </a>
+      <span class="navigation__logo--text">A KultPont</span>
+    </div>
+    <div class="navigation__links">
+            <a href="/tv" class="navigation__links--text">TV</a>
+            <a href="/film" class="navigation__links--text active-page">Film</a>
+            <a href="/stream" class="navigation__links--text">Stream</a>
+            <a href="/port-magazin" class="navigation__links--text">Magazin</a>
+            <a href="/koncert-zene" class="navigation__links--text">Zene</a>
+            <a href="/kult" class="navigation__links--text">Kult</a>
+            <a href="/jegy" class="navigation__links--text">Jegy</a>
+            <a href="/radio" class="navigation__links--text">Rádió</a>
+            <a href="/forum" class="navigation__links--text">Fórum</a>
+        </div>
+    <div class="navigation__buttons">
+      <div class="navigation__buttons--button" id="navSbutton">
+        <img src="/img/2024/icons/search.svg" alt="Search">
+      </div>
+      <div class="navigation__buttons--button">
+        <!--<img src="/img/2024/icons/more.svg" alt="More">-->
+		<a href="/tv" title="TV-oldal" id="tvmus"></a>
+      </div>
+            <div class="navigation__buttons--button" id="iPassHolder">
+		<div id="passportHeader"></div>
+        <!--<img src="/img/2024/icons/profile.svg" alt="Profile">-->
+      </div>
+    </div>
+  </nav>
+    <a class="adv-kapu">
+    <section class="polygon">
+
+</section>
+    </a>
+    <div class="search animated">
+    <form id="w5" class="highlighted-searchbar search__layer" action="/kereso" method="get">    <label for="searchInput" class="searchbar">
+		<input type="hidden" name="type" id="type" value="movie">
+        <img src="/img/2024/icons/search-input.svg" alt="Search icon" class="search__layer--icon">
+        <div class="form-group field-highlighted-search">
+
+<div><input type="text" id="highlighted-search" class="search__layer--input form-control" name="q" placeholder="Keresel valamit?" autocomplete="off" data-krajee-typeahead="typeahead_7864e59a"></div>
+
+<div class="help-block"></div>
+</div>        <button type="submit" class="search__layer--btn">Keresés</button>
+    </label>
+    </form>    <div class="search__tags">
+                    <a href="/kereso?type=movie&q=" class=" search__tags--element">Film és sorozat</a>
+                    <a href="/programkereso/mozi-idorendben" class=" search__tags--element">Moziműsor</a>
+                    <a href="/kereso?type=person&q=" class=" search__tags--element">Színész és alkotó</a>
+                    <a href="/kereso?type=directing&q=" class=" search__tags--element">Színdarab</a>
+                    <a href="/programkereso/szinhaz" class=" search__tags--element">Színházműsor</a>
+                    <a href="/programkereso/zene" class=" search__tags--element">Koncert</a>
+                    <a href="/programkereso/fesztival" class=" search__tags--element">Fesztivál</a>
+                    <a href="/programkereso/kiallitas" class=" search__tags--element">Kiállítások</a>
+                    <a href="/programkereso/egyeb" class=" search__tags--element">Egyéb események</a>
+                    <a href="/kereso?type=place&q=" class=" search__tags--element">Helyszínek</a>
+                    <a href="/kereso?type=article&q=" class=" search__tags--element">Cikkek</a>
+            </div>
+</div>
+</header>
+<script>
+function helpPassLayer(){document.getElementsByClassName("navigation")[0].style.zIndex="6";}
+var checkIndPass = setInterval(function(){if(document.getElementById("icon-user")){document.getElementById("icon-user").addEventListener("click", helpPassLayer); clearInterval(checkIndPass);}}, 500);
+function sTop() {window.scrollTo({top: 0, behavior: 'smooth'});}
+document.getElementById("navSbutton").addEventListener("click", sTop);
+var headerObj = document.getElementsByTagName("header")[0];
+var headerHeight = headerObj.offsetHeight;
+var mainFrame = document.getElementsByClassName("wrap")[0];
+function slimHeader(){
+	if(headerObj.classList.value.search("kapubanner")==-1){
+		var weDo = window.pageYOffset || document.documentElement.scrollTop;
+		if(weDo>headerHeight){
+			mainFrame.style.paddingTop = headerHeight+'px';
+			headerObj.classList.add("slim");
+		}else{
+			mainFrame.style.paddingTop ='0px';
+			headerObj.classList.remove("slim");
+		}
+	}else{
+		mainFrame.style.paddingTop ='0px';
+		headerObj.classList.remove("slim");
+		window.removeEventListener("click", slimHeader);
+	}
+}
+window.addEventListener("scroll", slimHeader);
+</script>
+    <div class="container css-table mozi">
+        
+
+<script type="application/ld+json">{"@context":"http://schema.org/","@type":"Article","inLanguage":"hu","headline":"Sokkoló dolog történt Matthew McConaughey-vel a forgatáson, óriási veszélyben volt - FOTÓ","datePublished":"2026-08-14 09:45:00","dateModified":"2026-08-14 09:53:07","articleBody":"Matthew McConaughey A mézkirály című filmje éppen most debütál a mozikban, ám a színész felfedte, hogy a produkció elkészülte egyáltalán nem volt zökkenőmentes. McConaughey egy méhészt formál meg az alkotásban, a szerep kedvéért pedig a méhektől sem tartotta távol magát, ám sajnos ez kockázatosabb vállalás volt, mint az elsőre sejthette volna. \r\nAz 56 éves színész a People magazinnak mesélte el, hogy a forgatás elején megcsípte egy méh, és ekkor tudta meg, hogy erősen allergiás rájuk. McConaughey-nek egyébként azt mondták, a csípés után kb. 20 percen belül kiderül, allergiás-e, ám ennyi idő után még semmi baja nem volt. Később viszont, amikor már hazafelé tartott, egyszer csak elvesztette a jobb oldali perifériás látását, amikor pedig belenézett az autó tükrébe, akkor vette észre, hogy az arca egyik fele teljesen feldagadt.\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\nA bejegyzés megtekintése az Instagramon\r\n\r\nMatthew McConaughey (@officiallymcconaughey) által megosztott bejegyzés\r\n\r\n\r\n\r\n \r\nA film egyik jelenetében amúgy a színésznek több ezer valódi méh borítja a karját, ám a készítők ennek a momentumnak a rögzítését tudatosan a forgatás utolsó napjára időzítették. Ha ugyanis McConaughey a forgatás kellős közepén kapott volna allergiás reakciót, akkor akár több napra is le kellett volna állítani a munkálatokat, így azonban már nem volt hátra több felvétel. Az említett jelenet felvétele körülbelül 40 percig tartott, és gyakorlatilag egyetlen esélyük volt rá, hogy rögzítsék. A színésznek a méhkirálynőt kellett az ujjai között tartania, majd megvárni, amíg a többi méh fokozatosan köré gyűlik.\r\n„Mire leráztam őket, pokolian elfáradt a karom”\r\n– emlékezett vissza McConaughey, akinek végül szerencséje volt, ezen a napon egyetlen méh sem csípte meg. \r\nFilmbéli partnerét, Angelina LookingGlasst viszont hét alkalommal is megcsípték a méhek a forgatás során, nála viszont nem alakult ki allergiás reakció. McConaughey viccesen meg is jegyezte, hogy kolléganője fél perccel később ismét kamera elé állhatott, ő viszont egy csípés után akár öt napra is kiesett volna.\r\n\r\nEz is érdekelhet\r\nMajdnem valaki más csapott le Matthew McConaughey Oscar-díjat érő szerepére\r\nMa már nehéz is lenne valaki mással elképzelni a Mielőtt meghaltamot.\r\nTovább\r\n\r\nA mézkirályban McConaughey egy Amziah King nevű méztermelőt és bluegrass zenészt alakít, aki újra találkozik korábbi nevelt lányával, majd elkezdi megtanítani neki a mesterséget. A filmben Cole Sprouse, Jake Horowitz, Scott Shepherd, Rob Morgan, Tony Revolori és Kurt Russell is szerepel.\r\nA produkció augusztus 14-én rajtol az amerikai mozikban, hozzánk szeptember 3-án érkezik. \r\n\r\nvia People ","description":"Matthew McConaughey egy méhészt alakít az új filmjében, a forgatás azonban váratlan fordulatot vett, amikor kiderült, allergiás a méhcsípésre.","publisher":[{"@type":"Organization","name":"PORT.hu","logo":{"@type":"ImageObject","url":"http://port.hu/img/portapplogo.png"}}],"author":[{"@type":"Person","name":"Gerber Petra","worksFor":{"@type":"Organization","name":"PORT.hu"}}],"image":"https://media.port.hu/images/001/840/376.webp","url":"http://port.hu/cikk/mozi/sokkolo-dolog-tortent-matthew-mcconaughey-vel-a-forgatason-oriasi-veszelyben-volt-foto/article-129928","mainEntityOfPage":["/adatlap/film/mozi/a-mezkiraly-the-rivals-of-amziah-king/movie-269286","/adatlap/szemely/matthew-mcconaughey/person-9106"]}</script>
+
+<div class="container articles site-container">
+    
+    <h1 class="heading" id="heading">
+        Sokkoló dolog történt Matthew McConaughey-vel a forgatáson, óriási veszélyben volt - FOTÓ    </h1>
+        <section class="details">
+        <div class="authors-and-date">
+                            <ul class="authors">
+                                                                                                <li class="author">
+                                                                <div class="author-info">
+                                    <span class="author">
+                                                                                    <a href="/szerzok/gerber-petra-21681">Gerber Petra</a>
+                                        
+                                                                            </span>
+
+                                                                            <time datetime="2026-08-14 09:45:00">
+                                            2026. augusztus 14.                                        </time>
+                                                                    </div>
+                            </li>
+                                                            </ul>
+                    </div>
+
+        <div class="social-wrapper">
+
+            <section class="social-box">
+                <ul class="social-list">
+                    <li class="tw pull-right">
+                        <a href="#" title="Link megosztása twitteren" onclick="window.open('http://twitter.com/home?status=http://port.hu/cikk/mozi/sokkolo-dolog-tortent-matthew-mcconaughey-vel-a-forgatason-oriasi-veszelyben-volt-foto/article-129928');"></a>
+                    </li>
+
+                    <li class="fb pull-right">
+                        <a href="#" title="Megosztás a Facebook-on" onclick="window.open('http://www.facebook.com/share.php?u=http://port.hu/cikk/mozi/sokkolo-dolog-tortent-matthew-mcconaughey-vel-a-forgatason-oriasi-veszelyben-volt-foto/article-129928&title=');"></a>
+                    </li>
+
+                    <li class="fb-like pull-right">
+                        <div class="fb-like" data-href="http://port.hu/cikk/mozi/sokkolo-dolog-tortent-matthew-mcconaughey-vel-a-forgatason-oriasi-veszelyben-volt-foto/article-129928" data-layout="button_count" data-action="like" data-show-faces="true" data-share="false"></div>
+                    </li>
+                </ul>
+            </section>
+
+        </div>
+
+    </section>
+
+
+
+            <div class="topMargin advert">
+    
+                        <!-- (c)AdOcean 2003-2020, Port_Mozi_Aloldal_LB -->
+                        <div id="adoceanindexhuplgfpsmnkt" data-id="adoceanindexhuplgfpsmnkt" class="iap iap--ado empty bg--transparent ">
+                            <script class="iap-script">
+                                window.iap_zones = window.iap_zones || [];
+                                window.iap_zones.push({"id":"adoceanindexhuplgfpsmnkt","empty":true,"lazy":false,"quality":true,"masterless":false,"area":"Port_Mozi_Aloldal_LB","events":{"loaded":false,"visible":false,"viewed":false},"stat":{"site":"port","path":"\/cikk\/mozi\/sokkolo-dolog-tortent-matthew-mcconaughey-vel-a-forgatason-oriasi-veszelyben-volt-foto\/article-129928","type":"mozi\/cikk"},"porthu":{"id":"adoceanindexhuplgfpsmnkt","section":"mozi","type":"cikk","device":"desktop","zone":"superleaderboard"}});
+                            </script>
+                        </div>
+                        </div>
+    
+
+    <div class="row full-container">
+        <div class="main-box " id="main-box">
+            <article class="article-content">
+                <div class="lead bold">
+                    <p>
+                        Matthew McConaughey egy méhészt alakít az új filmjében, a forgatás azonban váratlan fordulatot vett, amikor kiderült, allergiás a méhcsípésre.                    </p>
+                </div>
+                
+                
+                                
+<p><a href="https://port.hu/adatlap/szemely/matthew-mcconaughey/person-9106" target="_blank" rel="noopener">Matthew McConaughey</a> <a href="https://port.hu/adatlap/film/mozi/a-mezkiraly-the-rivals-of-amziah-king/movie-269286" target="_blank" rel="noopener"><em>A mézkirály</em></a> című filmje éppen most debütál a mozikban, ám a színész felfedte, hogy a produkció elkészülte egyáltalán nem volt zökkenőmentes. McConaughey egy méhészt formál meg az alkotásban, a szerep kedvéért pedig a méhektől sem tartotta távol magát, ám sajnos ez kockázatosabb vállalás volt, mint az elsőre sejthette volna. </p>
+<p>Az 56 éves színész a People magazinnak mesélte el, hogy a forgatás elején megcsípte egy méh, és ekkor tudta meg, hogy erősen allergiás rájuk. McConaughey-nek egyébként azt mondták, a csípés után kb. 20 percen belül kiderül, allergiás-e, ám ennyi idő után még semmi baja nem volt. Később viszont, amikor már hazafelé tartott, egyszer csak elvesztette a jobb oldali perifériás látását, amikor pedig belenézett az autó tükrébe, akkor vette észre, hogy az arca egyik fele teljesen feldagadt.</p>
+<div class="sandbox_code">
+<blockquote class="instagram-media" data-instgrm-captioned="" data-instgrm-permalink="https://www.instagram.com/p/C9QF9YLvaBP/?utm_source=ig_embed&amp;utm_campaign=loading" data-instgrm-version="14" style="background: #FFF; border: 0; border-radius: 3px; box-shadow: 0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); margin: 1px; max-width: 540px; min-width: 326px; padding: 0; width: calc(100% - 2px);">
+<div style="padding: 16px;">
+<div style="display: flex; flex-direction: row; align-items: center;">
+<div style="background-color: #f4f4f4; border-radius: 50%; flex-grow: 0; height: 40px; margin-right: 14px; width: 40px;"></div>
+<div style="display: flex; flex-direction: column; flex-grow: 1; justify-content: center;">
+<div style="background-color: #f4f4f4; border-radius: 4px; flex-grow: 0; height: 14px; margin-bottom: 6px; width: 100px;"></div>
+<div style="background-color: #f4f4f4; border-radius: 4px; flex-grow: 0; height: 14px; width: 60px;"></div>
+</div>
+</div>
+<div style="padding: 19% 0;"></div>
+<div style="display: block; height: 50px; margin: 0 auto 12px; width: 50px;"><svg width="50px" height="50px" viewbox="0 0 60 60" version="1.1" xmlns="https://www.w3.org/2000/svg" xmlns:xlink="https://www.w3.org/1999/xlink"><g stroke="none" stroke-width="1" fill="none" fill-rule="evenodd"><g transform="translate(-511.000000, -20.000000)" fill="#000000"><g><path d="M556.869,30.41 C554.814,30.41 553.148,32.076 553.148,34.131 C553.148,36.186 554.814,37.852 556.869,37.852 C558.924,37.852 560.59,36.186 560.59,34.131 C560.59,32.076 558.924,30.41 556.869,30.41 M541,60.657 C535.114,60.657 530.342,55.887 530.342,50 C530.342,44.114 535.114,39.342 541,39.342 C546.887,39.342 551.658,44.114 551.658,50 C551.658,55.887 546.887,60.657 541,60.657 M541,33.886 C532.1,33.886 524.886,41.1 524.886,50 C524.886,58.899 532.1,66.113 541,66.113 C549.9,66.113 557.115,58.899 557.115,50 C557.115,41.1 549.9,33.886 541,33.886 M565.378,62.101 C565.244,65.022 564.756,66.606 564.346,67.663 C563.803,69.06 563.154,70.057 562.106,71.106 C561.058,72.155 560.06,72.803 558.662,73.347 C557.607,73.757 556.021,74.244 553.102,74.378 C549.944,74.521 548.997,74.552 541,74.552 C533.003,74.552 532.056,74.521 528.898,74.378 C525.979,74.244 524.393,73.757 523.338,73.347 C521.94,72.803 520.942,72.155 519.894,71.106 C518.846,70.057 518.197,69.06 517.654,67.663 C517.244,66.606 516.755,65.022 516.623,62.101 C516.479,58.943 516.448,57.996 516.448,50 C516.448,42.003 516.479,41.056 516.623,37.899 C516.755,34.978 517.244,33.391 517.654,32.338 C518.197,30.938 518.846,29.942 519.894,28.894 C520.942,27.846 521.94,27.196 523.338,26.654 C524.393,26.244 525.979,25.756 528.898,25.623 C532.057,25.479 533.004,25.448 541,25.448 C548.997,25.448 549.943,25.479 553.102,25.623 C556.021,25.756 557.607,26.244 558.662,26.654 C560.06,27.196 561.058,27.846 562.106,28.894 C563.154,29.942 563.803,30.938 564.346,32.338 C564.756,33.391 565.244,34.978 565.378,37.899 C565.522,41.056 565.552,42.003 565.552,50 C565.552,57.996 565.522,58.943 565.378,62.101 M570.82,37.631 C570.674,34.438 570.167,32.258 569.425,30.349 C568.659,28.377 567.633,26.702 565.965,25.035 C564.297,23.368 562.623,22.342 560.652,21.575 C558.743,20.834 556.562,20.326 553.369,20.18 C550.169,20.033 549.148,20 541,20 C532.853,20 531.831,20.033 528.631,20.18 C525.438,20.326 523.257,20.834 521.349,21.575 C519.376,22.342 517.703,23.368 516.035,25.035 C514.368,26.702 513.342,28.377 512.574,30.349 C511.834,32.258 511.326,34.438 511.181,37.631 C511.035,40.831 511,41.851 511,50 C511,58.147 511.035,59.17 511.181,62.369 C511.326,65.562 511.834,67.743 512.574,69.651 C513.342,71.625 514.368,73.296 516.035,74.965 C517.703,76.634 519.376,77.658 521.349,78.425 C523.257,79.167 525.438,79.673 528.631,79.82 C531.831,79.965 532.853,80.001 541,80.001 C549.148,80.001 550.169,79.965 553.369,79.82 C556.562,79.673 558.743,79.167 560.652,78.425 C562.623,77.658 564.297,76.634 565.965,74.965 C567.633,73.296 568.659,71.625 569.425,69.651 C570.167,67.743 570.674,65.562 570.82,62.369 C570.966,59.17 571,58.147 571,50 C571,41.851 570.966,40.831 570.82,37.631"></path></g></g></g></svg></div>
+<div style="padding-top: 8px;">
+<div style="color: #3897f0; font-family: Arial,sans-serif; font-size: 14px; font-style: normal; font-weight: 550; line-height: 18px;">A bejegyzés megtekintése az Instagramon</div>
+</div>
+<p style="color: #c9c8cd; font-family: Arial,sans-serif; font-size: 14px; line-height: 17px; margin-bottom: 0; margin-top: 8px; overflow: hidden; padding: 8px 0 7px; text-align: center; text-overflow: ellipsis; white-space: nowrap;"><a href="https://www.instagram.com/p/C9QF9YLvaBP/?utm_source=ig_embed&amp;utm_campaign=loading" style="color: #c9c8cd; font-family: Arial,sans-serif; font-size: 14px; font-style: normal; font-weight: normal; line-height: 17px; text-decoration: none;" target="_blank" rel="noopener">Matthew McConaughey (@officiallymcconaughey) által megosztott bejegyzés</a></p>
+<div>
+                        <!-- (c)AdOcean 2003-2020, Port_Mozi_Aloldal_RB -->
+                        <div id="adoceanindexhutocpmxdqtd" data-id="adoceanindexhutocpmxdqtd" class="iap iap--ado empty bg--transparent ">
+                            <script class="iap-script">
+                                window.iap_zones = window.iap_zones || [];
+                                window.iap_zones.push({"id":"adoceanindexhutocpmxdqtd","empty":true,"lazy":true,"quality":true,"masterless":false,"area":"Port_Mozi_Aloldal_RB","events":{"loaded":false,"visible":false,"viewed":false},"stat":{"site":"port","path":"\/cikk\/mozi\/sokkolo-dolog-tortent-matthew-mcconaughey-vel-a-forgatason-oriasi-veszelyben-volt-foto\/article-129928","type":"mozi\/cikk"},"porthu":{"id":"adoceanindexhutocpmxdqtd","section":"mozi","type":"cikk","device":"desktop","zone":"roadblock_a"}});
+                            </script>
+                        </div>
+                    </div>
+</div>
+</blockquote>
+<script async="" src="//www.instagram.com/embed.js"></script>
+</div>
+<p> </p>
+<p>A film egyik jelenetében amúgy a színésznek több ezer valódi méh borítja a karját, ám a készítők ennek a momentumnak a rögzítését tudatosan a forgatás utolsó napjára időzítették. Ha ugyanis McConaughey a forgatás kellős közepén kapott volna allergiás reakciót, akkor akár több napra is le kellett volna állítani a munkálatokat, így azonban már nem volt hátra több felvétel. Az említett jelenet felvétele körülbelül 40 percig tartott, és gyakorlatilag egyetlen esélyük volt rá, hogy rögzítsék. A színésznek a méhkirálynőt kellett az ujjai között tartania, majd megvárni, amíg a többi méh fokozatosan köré gyűlik.</p>
+<blockquote>„Mire leráztam őket, pokolian elfáradt a karom”</blockquote>
+<p>– emlékezett vissza McConaughey, akinek végül szerencséje volt, ezen a napon egyetlen méh sem csípte meg. </p>
+<p>Filmbéli partnerét, Angelina LookingGlasst viszont hét alkalommal is megcsípték a méhek a forgatás során, nála viszont nem alakult ki allergiás reakció. McConaughey viccesen meg is jegyezte, hogy kolléganője fél perccel később ismét kamera elé állhatott, ő viszont egy csípés után akár öt napra is kiesett volna.</p>
+<div class="articlebox">
+<h1>
+<span>Ez is érdekelhet</span><span></span><span></span>
+</h1>
+<div class="articlebox-content">
+<a href="https://port.hu/cikk/mozi/majdnem-valaki-mas-csapott-le-matthew-mcconaughey-oscar-dijat-ero-szerepere/article-127720" target="_blank" rel="noopener"><img src="https://media.port.hu/images/000/569/076.jpg" width="300"></a><a href="https://port.hu/cikk/mozi/majdnem-valaki-mas-csapott-le-matthew-mcconaughey-oscar-dijat-ero-szerepere/article-127720" target="_blank" rel="noopener"><span class="title-link">Majdnem valaki más csapott le Matthew McConaughey Oscar-díjat érő szerepére</span></a>
+<p>Ma már nehéz is lenne valaki mással elképzelni a Mielőtt meghaltamot.</p>
+<a class="article-btn" target="_blank" href="https://port.hu/cikk/mozi/majdnem-valaki-mas-csapott-le-matthew-mcconaughey-oscar-dijat-ero-szerepere/article-127720" rel="noopener">Tovább</a>
+</div>
+<span class="articlebox-cover"></span>
+</div>
+<p><em>A mézkirály</em>ban McConaughey egy Amziah King nevű méztermelőt és bluegrass zenészt alakít, aki újra találkozik korábbi nevelt lányával, majd elkezdi megtanítani neki a mesterséget. A filmben Cole Sprouse, Jake Horowitz, Scott Shepherd, Rob Morgan, Tony Revolori és Kurt Russell is szerepel.</p>
+<p><mark style="color: #ffffff; background-color: #ef3b39; font-family: 'Source Sans Pro', Helvetica, Arial, sans-serif; font-size: 35px; padding: 6px; position: relative; display: inline; box-decoration-break: clone; -webkit-box-decoration-break: clone;">A produkció augusztus 14-én rajtol az amerikai mozikban, hozzánk szeptember 3-án érkezik. </mark></p>
+<p></p>
+<div class="sandbox_code"><iframe width="560" height="315" src="https://www.youtube.com/embed/B-GFfZA4L04?si=wnZO_j_KNlK2Ly3H" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen="allowfullscreen"></iframe></div>
+<p>via <a href="https://people.com/how-matthew-mcconaughey-found-out-hes-allergic-to-bees-on-new-movie-12058996" target="_blank" rel="noopener">People</a> </p>
+                                
+                <a href="https://google.com/preferences/source?q=https://port.hu" target="_blank" class="google-pref-banner" id="googlePrefBanner">
+                    <img src="/img/svg/google-logo.svg" width="52" height="52"/>
+                    <span class="banner-text">Itt állítsa be, hogy a Port az elsők között legyen a Google-találatokban!</span>
+                    <svg width="16px" height="16px" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg" stroke="#ffffff">
+
+                    <g id="SVGRepo_bgCarrier" stroke-width="0"/>
+
+                    <g id="SVGRepo_tracerCarrier" stroke-linecap="round" stroke-linejoin="round"/>
+
+                    <g id="SVGRepo_iconCarrier"> <path d="M7.82054 20.7313C8.21107 21.1218 8.84423 21.1218 9.23476 20.7313L15.8792 14.0868C17.0505 12.9155 17.0508 11.0167 15.88 9.84497L9.3097 3.26958C8.91918 2.87905 8.28601 2.87905 7.89549 3.26958C7.50497 3.6601 7.50497 4.29327 7.89549 4.68379L14.4675 11.2558C14.8581 11.6464 14.8581 12.2795 14.4675 12.67L7.82054 19.317C7.43002 19.7076 7.43002 20.3407 7.82054 20.7313Z" fill="#ffffff"/> </g>
+
+                    </svg>
+                </a>
+
+
+                                   
+				
+                            <div class="advert">
+                
+                
+                        <!-- (c)AdOcean 2003-2020, Port_Mozi_Aloldal_RB_B -->
+                        <div id="adoceanindexhuqpjfqunudy" data-id="adoceanindexhuqpjfqunudy" class="iap iap--ado empty bg--transparent ">
+                            <script class="iap-script">
+                                window.iap_zones = window.iap_zones || [];
+                                window.iap_zones.push({"id":"adoceanindexhuqpjfqunudy","empty":true,"lazy":true,"quality":true,"masterless":false,"area":"Port_Mozi_Aloldal_RB_B","events":{"loaded":false,"visible":false,"viewed":false},"stat":{"site":"port","path":"\/cikk\/mozi\/sokkolo-dolog-tortent-matthew-mcconaughey-vel-a-forgatason-oriasi-veszelyben-volt-foto\/article-129928","type":"mozi\/cikk"},"porthu":{"id":"adoceanindexhuqpjfqunudy","section":"mozi","type":"cikk","device":"desktop","zone":"roadblock_b"}});
+                            </script>
+                        </div>
+                    
+            </div>
+                                </article>
+                        <div class="">
+                            </div>
+                        <div id="show-edgebox-widget"></div>
+
+            <section class="row">
+                <ul class="article-tags">
+                                            <li>
+                            <a href="/kereso/cikk?tags%5B0%5D=a+m%C3%A9zkir%C3%A1ly">
+                                a mézkirály                            </a>
+                        </li>
+                                            <li>
+                            <a href="/kereso/cikk?tags%5B0%5D=film">
+                                film                            </a>
+                        </li>
+                                            <li>
+                            <a href="/kereso/cikk?tags%5B0%5D=forgat%C3%A1s">
+                                forgatás                            </a>
+                        </li>
+                                            <li>
+                            <a href="/kereso/cikk?tags%5B0%5D=matthew+mcconaughey">
+                                matthew mcconaughey                            </a>
+                        </li>
+                                            <li>
+                            <a href="/kereso/cikk?tags%5B0%5D=vesz%C3%A9ly">
+                                veszély                            </a>
+                        </li>
+                                            <li>
+                            <a href="/kereso/cikk?tags%5B0%5D=tv2tv">
+                                tv2tv                            </a>
+                        </li>
+                                            <li>
+                            <a href="/kereso/cikk?tags%5B0%5D=mozi">
+                                mozi                            </a>
+                        </li>
+                                    </ul>
+            </section>
+
+            <ul class="social-list">
+                <li class="tw pull-left">
+                    <a href="#" title="Link megosztása twitteren" onclick="window.open('http://twitter.com/home?status=http://port.hu/cikk/mozi/sokkolo-dolog-tortent-matthew-mcconaughey-vel-a-forgatason-oriasi-veszelyben-volt-foto/article-129928');"></a>
+                </li>
+
+                <li class="fb pull-left">
+                    <a href="#" title="Megosztás a Facebook-on" onclick="window.open('http://www.facebook.com/share.php?u=http://port.hu/cikk/mozi/sokkolo-dolog-tortent-matthew-mcconaughey-vel-a-forgatason-oriasi-veszelyben-volt-foto/article-129928&title=');"></a>
+                </li>
+
+                <li class="fb-like pull-left">
+                    <div class="fb-like" data-href="http://port.hu/cikk/mozi/sokkolo-dolog-tortent-matthew-mcconaughey-vel-a-forgatason-oriasi-veszelyben-volt-foto/article-129928" data-layout="button_count" data-action="like" data-show-faces="true" data-share="false"></div>
+                </li>
+            </ul>
+
+                <div class="fb-box">
+                    <div class="fb-page"
+                        data-href="https://www.facebook.com/PORTponthu/"
+                        data-width="500"
+                        data-small-header="false"
+                        data-adapt-container-width="true"
+                        data-hide-cover="false"
+                        data-show-facepile="true">
+                    </div>
+                </div>
+                
+            <div class="advert fix-advert">
+                            </div>
+                            
+                                            <div class="responsive-only">
+                <style>
+    @import url(https://fonts.googleapis.com/css2?family=Playfair+Display&display=swap);.cross-promo{margin:0;padding:0;font-family:"Playfair Display",serif}.cross-promo{max-width:350px; margin: auto}.cross-promo__title{display:flex;align-items:center;height:54px;padding:0 17px;background-color:#4d1947}.crosspromo-gallery{position:relative;width:100%;padding:10px 5px;border:3px solid #4d1947;border-top:0;overflow:hidden;background-color:#fff;user-select:none}.crosspromo-gallery__track{display:flex;width:calc(var(--slider-n) * 334px);will-change:transform;transform:translate3d(var(--slider-x),0,0);transition:transform calc((1 - var(--slider-t)) * .5s) ease-out;cursor:grab}.crosspromo-gallery__track.grabbing{cursor:grabbing;transition:initial}.crosspromo-gallery__track.dragging a{pointer-events:none}.crosspromo-gallery__article{width:calc(100% / var(--slider-n));padding:0 5px}.crosspromo-gallery__article a{display:block;height:100%;background-color:#fff;text-decoration:none}.crosspromo-gallery__article a .image{position:relative;padding-top:56.25%;overflow:hidden}.crosspromo-gallery__article a .image img{position:absolute;top:50%;left:50%;width:100%;height:auto;transform:translate(-50%,-50%);pointer-events:none}.crosspromo-gallery__article a .title{display:-webkit-box;max-height:85px;overflow:hidden;-webkit-box-orient:vertical;-webkit-line-clamp:3;text-overflow:-o-ellipsis-lastline;padding:10px 0;font-size:20px;line-height:1.25;font-weight:400;text-transform:uppercase;color:#4d1947}.crosspromo-gallery__button{position:absolute;bottom:50%;width:42px;height:74px;padding:25px 10px;opacity:.9;box-shadow:0 0 30px 0 rgba(0,0,0,.18);background-color:#fff;z-index:10;cursor:pointer}.crosspromo-gallery__button.prev-btn{left:0}.crosspromo-gallery__button.next-btn{right:0}.crosspromo-gallery__button svg{pointer-events:none}@media screen and (max-width:400px){.cross-promo{max-width:300px}.cross-promo__title{height:42px;justify-content:center}.crosspromo-gallery{padding:6px 3px}.crosspromo-gallery__button{display:none}.crosspromo-gallery__track{width:calc(var(--slider-n) * 230px)}.crosspromo-gallery__article{padding:0 3px}.crosspromo-gallery__article a .title{display:-webkit-box;max-height:67px;overflow:hidden;-webkit-box-orient:vertical;-webkit-line-clamp:3;text-overflow:-o-ellipsis-lastline;padding:6px 0;font-size:15px;line-height:1.4}}
+</style>
+
+<div class="cross-promo row row-1-detailed">
+    <div class="cross-promo__title">
+        <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="106" height="28"
+             viewBox="0 0 106 28">
+            <defs>
+                <path id="zqxststo4a" d="M0 0L105.339 0 105.339 27.557 0 27.557z"/>
+            </defs>
+            <g fill="none" fill-rule="evenodd">
+                <mask id="a6ck2hj45b" fill="#fff">
+                    <use xlink:href="#zqxststo4a"/>
+                </mask>
+                <path fill="#FFF"
+                      d="M54.568 4.94C57.55 2.331 59.858 0 60.746 0c.461 0 .818.345.818.797 0 1.01-3.089 2.054-6.856 4.316l-.14-.174zm-29.785 0C27.765 2.331 30.073 0 30.96 0c.46 0 .815.345.815.797 0 1.01-3.09 2.054-6.853 4.316l-.14-.174zm34.614 6.888c-1.883 1.5-3.55 1.533-3.55 4.979 0 1.251.214 2.75 1.667 2.75 1.459 0 1.883-1.636 1.883-2.369v-5.36zM10.97 20.983c3.266 0 5.08-1.914 5.08-9.677 0-7.096-.678-9.673-6.142-9.673H9.09v19.35h1.88zM22.792 7.482l-.033-.21 8.235-1.078v14.789h2.485v.207H23.183v-.207h2.485V7.097l-2.876.385zM12 21.19H0v-.207h3.089V1.67H0v-.208h10.793c7.064 0 11.575 3.2 11.575 9.81 0 5.675-3.62 9.918-10.369 9.918zM74.662 9.918c.531-2.021 2.558-3.724 5.183-3.724 2.521 0 4.512 1.392 4.512 4.139v10.65h2.481v.207h-9.37v-.207h1.562V10.195c0-1.117-.07-2.82-1.563-2.82-1.596 0-2.805 2.124-2.805 3.794v9.847h1.6v.21H66.85v-.21h2.485V7.097l-2.876.385-.033-.21 8.272-1.078-.037 3.724zm-15.265.207c0-1.773 0-3.724-2.13-3.724-1.136 0-2.378.974-2.378 2.332 0 .66.387 1.392.995 1.636-.07 1.6-1.28 2.366-2.558 2.366-1.386 0-2.699-.8-2.699-2.646 0-3.447 4.793-3.895 7.454-3.895 3.27 0 6.676 1.04 6.676 4.316v7.307c0 1.426.534 2.955 2.595 1.285l.103.14c-1.312 1.112-2.945 2.159-5.04 2.159-1.776 0-2.84-1.359-2.981-3.239-.675 1.984-3.056 3.239-5.327 3.239-2.698 0-4.435-1.255-4.435-3.69 0-4.454 6.459-3.48 9.725-6.09v-1.496zM49.135 6.612h-2.732v-.21h5.29v.21h-2.238l-7.524 15.381-7.74-15.381H32.06v-.21h10.723v.21H40.26l4.368 9.218 4.506-9.218zm47.29 0h-2.52l4.368 9.218 4.508-9.218h-2.735v-.21h5.293v.21h-2.237l-7.528 15.381c-1.132 2.363-2.625 5.565-5.964 5.565-2.592 0-3.904-1.704-3.904-3.34 0-1.392.992-2.68 2.945-2.68 1.423 0 2.738.8 2.806 2.61-.675.208-1.313.8-1.313 1.636 0 .766.531.974.992.974 1.172 0 2.735-1.74 4.225-5.116l-7.525-15.03h-2.13v-.21h10.72v.21z"
+                      mask="url(#a6ck2hj45b)"/>
+            </g>
+        </svg>
+    </div>
+    <div id="galleryw0" class="crosspromo-gallery" style="--slider-n: 5; --slider-x: 0px; --slider-t: 0;">
+        <div class="crosspromo-gallery__track">
+
+                                                                                            <div class="crosspromo-gallery__article">
+                            <a href="https://divany.hu/edesotthon/ezek-a-novenyek-a-furdoszobaban-is-jol-erzik-magukat/" target="_blank">
+                                <div class="image"><img src="https://divany.hu/neon/media/images/GettyImages-198496913.2e16d0ba.format-jpeg.fill-1024x768.jpg"/></div>
+                                <div class="title">Ezek a növények a fürdőszobában is jól érzik magukat</div>
+                            </a>
+                        </div>
+                                                                                                                                <div class="crosspromo-gallery__article">
+                            <a href="https://divany.hu/mindennapi/bolt-etterem-valtozas-eu-rendelet/" target="_blank">
+                                <div class="image"><img src="https://divany.hu/neon/media/images/56945325_c2770ed26f8e.2e16d0ba.format-jpeg.fill-1024x768.jpg"/></div>
+                                <div class="title">Változás jön a boltokban és az éttermekben: életbe lépett egy új EU-s rendelet</div>
+                            </a>
+                        </div>
+                                                                                                                                <div class="crosspromo-gallery__article">
+                            <a href="https://divany.hu/szuloseg/kevesebb-hazi-tobb-mese-iskola-gyerekek-igenyei/" target="_blank">
+                                <div class="image"><img src="https://divany.hu/neon/media/images/GettyImages-220802827.2e16d0ba.format-jpeg.fill-1024x768.jpg"/></div>
+                                <div class="title">Kevesebb házi, több mese: valóban közelebb kerülhet az iskola a gyerekek igényeihez?</div>
+                            </a>
+                        </div>
+                                                                                                                                <div class="crosspromo-gallery__article">
+                            <a href="https://divany.hu/eletem/nyugdij-osszege-kata-utan/" target="_blank">
+                                <div class="image"><img src="https://divany.hu/neon/media/images/nav-ado.2e16d0ba.format-jpeg.fill-1024x768.jpg"/></div>
+                                <div class="title">Ennyivel lesz kevesebb a nyugdíjad, ha évekig katás voltál</div>
+                            </a>
+                        </div>
+                                                                                                                                <div class="crosspromo-gallery__article">
+                            <a href="https://divany.hu/eletem/50-forintos-palack-visszavaltas-mennyi-penzt-lehet-gyujteni/" target="_blank">
+                                <div class="image"><img src="https://divany.hu/neon/media/images/penz-fizetes.2e16d0ba.format-jpeg.fill-1024x768.jpg"/></div>
+                                <div class="title">Ennyi pénzt lehet visszaváltással gyűjteni: már vidékről is Budapestre járnak az 50 forintos palackokért</div>
+                            </a>
+                        </div>
+                                                
+        </div>
+
+        <div class="crosspromo-gallery__button prev-btn" data-slide="-1">
+            <svg class="left" xmlns="http://www.w3.org/2000/svg" height="24" viewBox="0 0 24 24" width="24">
+                <path d="M0 0h24v24H0V0z" fill="none"/>
+                <path d="M15.41 16.59L10.83 12l4.58-4.59L14 6l-6 6 6 6 1.41-1.41z"/>
+            </svg>
+        </div>
+        <div class="crosspromo-gallery__button next-btn" data-slide="+1">
+            <svg class="right" xmlns="http://www.w3.org/2000/svg" height="24" viewBox="0 0 24 24" width="24">
+                <path d="M0 0h24v24H0V0z" fill="none"/>
+                <path d="M8.59 16.59L13.17 12 8.59 7.41 10 6l6 6-6 6-1.41-1.41z"/>
+            </svg>
+        </div>
+    </div>
+</div>
+<script>
+    !function(){this.CrossPromo=function(t,i){this.element=t,this.options=Object.assign({threshold:.2},i),this.init()},this.CrossPromo.prototype={init:function(){s.call(this),n.call(this),l.call(this)},lock:function(t){this.pointer=o.call(this,t),this.slider.classList.toggle("grabbing",this.locked=!0)},unlock:function(){this.pointer=null,this.slider.classList.toggle("grabbing",this.locked=!1),this.slider.classList.toggle("dragging",this.dragging=!1)},drag:function(i){i.preventDefault(),this.locked&&t.call(this,i)},move:function(t){t.preventDefault(),this.locked&&i.call(this,t)},select:function(){this.locked&&(e.call(this),this.unlock())},resize:function(){n.call(this),e.call(this,!0)}};const t=function(t){this.distance=o.call(this,t),this.shift=this.position+this.distance,this.threshold=Math.abs(this.distance/this.element.clientWidth).toFixed(2),this.element.style.setProperty("--slider-x",this.shift+"px"),this.slider.classList.toggle("dragging",this.dragging=this.threshold>this.options.threshold)},i=function(t){this.distance=-1*parseInt(t.target.dataset.slide),this.threshold=this.options.threshold,this.dragging=!0,this.select()},e=function(t){let i=Math.sign(this.distance),e=this.dragging||t,s=t?this.index:this.index-i;this.index=e&&s>=0&&s<this.slides.length?s:this.index,this.position=-1*h.call(this,this.index),this.element.style.setProperty("--slider-x",`${this.position}px`),this.element.style.setProperty("--slider-t",this.threshold)},s=function(){this.index=0,this.position=null,this.pointer=null,this.locked=!1,this.slider=this.element.querySelector(".crosspromo-gallery__track"),this.slides=this.slider.children,this.buttons={prev:this.element.querySelector(".prev-btn"),next:this.element.querySelector(".next-btn")},this.element.style.setProperty("--slider-n",this.slides.length)},n=function(){Array.from(this.slides).forEach((t,i)=>{if(t.size=t.getBoundingClientRect(),t.mark=t.size.x+t.size.width/2-this.element.offsetWidth/2+Math.abs(this.position)-this.element.getBoundingClientRect().x,0===i&&(t.mark=0),i===this.slides.length-1){let i=window.getComputedStyle(this.element),e=parseInt(i.paddingLeft)+parseInt(i.paddingRight);t.mark=this.slider.clientWidth-this.element.clientWidth+e}})},h=function(t){return this.slides.item(t).mark},l=function(){window.addEventListener("resize",d(this.resize.bind(this),250)),this.slider.addEventListener("mousedown",this.lock.bind(this),!1),this.slider.addEventListener("mousemove",this.drag.bind(this),!1),this.slider.addEventListener("mouseup",this.select.bind(this),!1),this.slider.addEventListener("mouseleave",this.select.bind(this),!1),this.slider.addEventListener("touchstart",this.lock.bind(this),!1),this.slider.addEventListener("touchmove",this.drag.bind(this),!1),this.slider.addEventListener("touchend",this.select.bind(this),!1),this.buttons.prev.addEventListener("mousedown",this.lock.bind(this),!1),this.buttons.next.addEventListener("mousedown",this.lock.bind(this),!1),this.buttons.prev.addEventListener("mouseup",this.move.bind(this),!1),this.buttons.next.addEventListener("mouseup",this.move.bind(this),!1)},o=function(t){return(t.changedTouches?t.changedTouches[0]:t).clientX-this.pointer},d=function(t,i){let e;return(...s)=>{const n=this;clearTimeout(e),e=setTimeout(()=>t.apply(n,s),i)}}}(),document.addEventListener("DOMContentLoaded",()=>{console.clear(),new CrossPromo(document.getElementById("galleryw0"))});
+</script>            </div>
+                        <div class="row related-bottom">
+                <h2>Neked ajánlott</h2>
+<!--
+<style>
+#contrec-sticky a {display:flex;}
+#contrec-sticky a img {display:block;float:left;height:50px;margin-right:15px;}
+#contrec-sticky a div p{display: -webkit-box;-webkit-line-clamp: 2;-webkit-box-orient: vertical;overflow: hidden;font-size: 14px;line-height: 18px;font-weight: 600;margin:0;}
+#contrec-sticky a div span {line-height: 1.125rem;font-weight: 400;font-size: 10px;color: rgba(65,65,65,0.7);display:block; margin-top:2px;}
+.indaContrecWidget {position:relative !important; z-index: 1000 !important; background-color: #fff !important;}
+#contrec-sticky-container {position: fixed; height: 69px; bottom: 0px; z-index: 999; left: 0; right: 0; background: white; box-shadow: 0 -3px 3px rgb(0 0 0 / 25%); max-width: 100vw; padding:10px;display:none;}
+#contrec-sticky-header {position: absolute; height: 27px; top: -26px; left: -3px; background: white; box-shadow: 3px -3px 3px rgb(0 0 0 / 25%); padding: 0 10px 0 13px; text-decoration: none; font-weight: bold; color: #909090; border: none; font-size:14px;}
+#contrec-sticky-close {position: absolute; height: 27px; top: -26px; right: -3px; background: white; box-shadow: -2px -3px 3px rgb(0 0 0 / 25%); padding:2px 14px 0 10px;; text-decoration: none; font-weight: bold; color: #909090; border: none;}
+#contrec-sticky-close::before {content: '✖';}
+</style>
+
+<div id="contrec-sticky-container"><button id="contrec-sticky-header">Olvasta már?</button><button id="contrec-sticky-close"></button><div id="contrec-sticky"></div></div>
+<script>
+document.getElementById("contrec-sticky-close").addEventListener("click", function() {
+	document.getElementById("contrec-sticky-container").style.display='none';
+});
+</script>
+-->
+                <div id="indaContrecWidget21" class="indaContrecWidget" data-href="21" data-param=""></div>
+            </div>
+            <script async src="https://cdn.contrec.index.hu/icwsMin3.js"></script>
+
+            <div class="row related-bottom">
+                <h3>Még ajánljuk</h3>
+
+                <div id="w1" class="list-view">
+<article class="related-content">
+            <a href="/cikk/mozi/5-teljesen-keptelen-modszer-ahogyan-a-katasztrofafilmekben-megmentettek-a-vilagot/article-128840" class="pull-left related-content-thumbnail extra-more-related-link" target="_top">
+            <img class="lazy" src="https://media.port.hu/images/001/833/20x11/584.webp" data-src="https://media.port.hu/images/001/833/476x268/584.webp" alt="5 teljesen képtelen módszer, ahogyan a katasztrófafilmekben megmentették a világot ">
+        </a>
+    
+    <div class="related-content-details">
+        <h3 class="title">
+            <a href="/cikk/mozi/5-teljesen-keptelen-modszer-ahogyan-a-katasztrofafilmekben-megmentettek-a-vilagot/article-128840" class="extra-more-related-link">
+                5 teljesen képtelen módszer, ahogyan a katasztrófafilmekben megmentették a világot             </a>
+        </h3>
+        <p class="description">
+            A moziban az emberiség általában túléli a világvégét... Néha egészen szürreális módon, de túléli.         </p>
+        <label>
+            2026. augusztus 8. &centerdot; <a href="/kereso/cikk?author=21681">Gerber Petra</a>        </label>
+    </div>
+</article>
+
+<article class="related-content">
+            <a href="/cikk/mozi/tronok-harca-uzemmodba-valtott-a-sarkanyok-haza-harmadik-evada/article-129750" class="pull-left related-content-thumbnail extra-more-related-link" target="_top">
+            <img class="lazy" src="https://media.port.hu/images/001/839/20x11/292.webp" data-src="https://media.port.hu/images/001/839/476x268/292.webp" alt="Trónok harca-üzemmódba váltott a Sárkányok háza harmadik évada">
+        </a>
+    
+    <div class="related-content-details">
+        <h3 class="title">
+            <a href="/cikk/mozi/tronok-harca-uzemmodba-valtott-a-sarkanyok-haza-harmadik-evada/article-129750" class="extra-more-related-link">
+                Trónok harca-üzemmódba váltott a Sárkányok háza harmadik évada            </a>
+        </h3>
+        <p class="description">
+            Mármint jó értelemben. Kritika!        </p>
+        <label>
+            2026. augusztus 11. &centerdot; <a href="/kereso/cikk?author=2506">Baski Sándor</a>        </label>
+    </div>
+</article>
+
+<article class="related-content">
+            <a href="/cikk/magazin/dobby-sirjat-meg-egy-sokmilliardos-beruhazas-sem-fenyegetheti-elkepeszto-dolgot-tettek-a-harry-potter-rajongok/article-129856" class="pull-left related-content-thumbnail extra-more-related-link" target="_top">
+            <img class="lazy" src="https://media.port.hu/images/001/839/20x11/880.webp" data-src="https://media.port.hu/images/001/839/476x268/880.webp" alt="Dobby sírját még egy sokmilliárdos beruházás sem fenyegetheti: elképesztő dolgot tettek a Harry Potter-rajongók">
+        </a>
+    
+    <div class="related-content-details">
+        <h3 class="title">
+            <a href="/cikk/magazin/dobby-sirjat-meg-egy-sokmilliardos-beruhazas-sem-fenyegetheti-elkepeszto-dolgot-tettek-a-harry-potter-rajongok/article-129856" class="extra-more-related-link">
+                Dobby sírját még egy sokmilliárdos beruházás sem fenyegetheti: elképesztő dolgot tettek a Harry Potter-rajongók            </a>
+        </h3>
+        <p class="description">
+            Egy walesi partszakaszon található Dobby-emlékhely miatt módosították a Nagy-Britanniát Írországgal összekötő tenger alatti kábel nyomvonalát.        </p>
+        <label>
+            2026. augusztus 12. &centerdot; <a href="/kereso/cikk?author=21681">Gerber Petra</a>        </label>
+    </div>
+</article>
+
+<article class="related-content">
+            <a href="/cikk/mozi/ime-a-film-amit-russell-crowe-ma-mar-nem-vallalna-el-ujra/article-129846" class="pull-left related-content-thumbnail extra-more-related-link" target="_top">
+            <img class="lazy" src="https://media.port.hu/images/001/839/20x11/838.webp" data-src="https://media.port.hu/images/001/839/476x268/838.webp" alt="Íme a film, amit Russell Crowe ma már nem vállalna el újra ">
+        </a>
+    
+    <div class="related-content-details">
+        <h3 class="title">
+            <a href="/cikk/mozi/ime-a-film-amit-russell-crowe-ma-mar-nem-vallalna-el-ujra/article-129846" class="extra-more-related-link">
+                Íme a film, amit Russell Crowe ma már nem vállalna el újra             </a>
+        </h3>
+        <p class="description">
+            A színész szerint A remény bajnoka forgatása után kezdte egészen másképp látni, mennyit érdemes feláldoznia...        </p>
+        <label>
+            2026. augusztus 12. &centerdot; <a href="/kereso/cikk?author=21681">Gerber Petra</a>        </label>
+    </div>
+</article>
+
+<article class="related-content">
+            <a href="/cikk/stream/ridley-scott-beszall-az-amazon-nagyszabasu-fantasy-sorozataba/article-129852" class="pull-left related-content-thumbnail extra-more-related-link" target="_top">
+            <img class="lazy" src="https://media.port.hu/images/001/839/20x11/866.webp" data-src="https://media.port.hu/images/001/839/476x268/866.webp" alt="Ridley Scott beszáll az Amazon nagyszabású fantasy-sorozatába">
+        </a>
+    
+    <div class="related-content-details">
+        <h3 class="title">
+            <a href="/cikk/stream/ridley-scott-beszall-az-amazon-nagyszabasu-fantasy-sorozataba/article-129852" class="extra-more-related-link">
+                Ridley Scott beszáll az Amazon nagyszabású fantasy-sorozatába            </a>
+        </h3>
+        <p class="description">
+            Az Amazon megszerezte Holly Black sikerkönyvsorozata, A levegő népe megfilmesítési jogait, a projekthez pedig Ridley...        </p>
+        <label>
+            2026. augusztus 12. &centerdot; <a href="/kereso/cikk?author=21681">Gerber Petra</a>        </label>
+    </div>
+</article></div>            </div>
+        </div>
+
+
+        <!--<div id="side-box" class="side-box wide">-->
+        <div id="side-box" class="side-box">
+
+            <div class="advert">
+                                
+                        <!-- (c)AdOcean 2003-2020, Port_Mozi_Aloldal_HP -->
+                        <div id="adoceanindexhuzmesfnqgon" data-id="adoceanindexhuzmesfnqgon" class="iap iap--ado empty bg--transparent ">
+                            <script class="iap-script">
+                                window.iap_zones = window.iap_zones || [];
+                                window.iap_zones.push({"id":"adoceanindexhuzmesfnqgon","empty":true,"lazy":false,"quality":true,"masterless":false,"area":"Port_Mozi_Aloldal_HP","events":{"loaded":false,"visible":false,"viewed":false},"stat":{"site":"port","path":"\/cikk\/mozi\/sokkolo-dolog-tortent-matthew-mcconaughey-vel-a-forgatason-oriasi-veszelyben-volt-foto\/article-129928","type":"mozi\/cikk"},"porthu":{"id":"adoceanindexhuzmesfnqgon","section":"mozi","type":"cikk","device":"desktop","zone":"half_page"}});
+                            </script>
+                        </div>
+                                                </div>
+                        
+                        <!-- (c)AdOcean 2003-2020, Port_PR_ajanlo_Desktop -->
+                        <div id="ado-gOXxWRwvDFOT1myMEydqRqN.0EZKH8Ombhww_g95X.r.t7" data-id="ado-gOXxWRwvDFOT1myMEydqRqN.0EZKH8Ombhww_g95X.r.t7" class="iap iap--ado empty bg--transparent ad-label--hidden ad-label--ghost">
+                            <script class="iap-script">
+                                window.iap_zones = window.iap_zones || [];
+                                window.iap_zones.push({"id":"ado-gOXxWRwvDFOT1myMEydqRqN.0EZKH8Ombhww_g95X.r.t7","empty":true,"lazy":false,"quality":false,"masterless":true,"area":"Port_PR_ajanlo_Desktop","events":{"loaded":false,"visible":false,"viewed":false},"stat":{"site":"port","path":"\/cikk\/mozi\/sokkolo-dolog-tortent-matthew-mcconaughey-vel-a-forgatason-oriasi-veszelyben-volt-foto\/article-129928","type":"mozi\/cikk"},"porthu":{"id":"ado-gOXxWRwvDFOT1myMEydqRqN.0EZKH8Ombhww_g95X.r.t7","section":"mozi","type":"cikk","device":"desktop","zone":"pr"}});
+                            </script>
+                        </div>
+                                                                            <h1>
+                    <span>Kapcsolódó</span>
+                    <span></span>
+                    <span></span>
+                </h1>
+
+                <div id="w2" class="related owl-carousel article-related"><div class="has-image"><a href="http://port.hu/adatlap/film/mozi/a-mezkiraly-the-rivals-of-amziah-king/movie-269286" class="extra-article-related-link"><img src="https://media.port.hu/images/001/836/312x200/666.webp" width="312" height="200" /><h4 class="must-shorten">A mézkirály</h4></a></div>
+<div class="has-image"><a href="http://port.hu/adatlap/szemely/matthew-mcconaughey/person-9106" class="extra-article-related-link"><img src="https://media.port.hu/images/000/066/312x200/042.jpg" width="312" height="200" /><h4 class="must-shorten">Matthew McConaughey</h4></a></div></div>
+            
+			
+            <section class="block-container">
+    <h1 class="box-heading">
+        <span>Címlapon</span>
+        <span></span>
+    </h1>
+    <section class="row block row4ticket_small row-1-detailed">
+        <div class="column-container item-container">
+                            					<div class="article-rec-element">
+						<a href="/cikk/mozi/5-filmsiker-ami-elkepeszto-okok-miatt-volt-baromi-draga/article-128746" class="are-img-link">
+															<img loading="lazy" src="https://media.port.hu/images/001/833/160x90/046.webp">
+													</a>
+						<div class="are-img-right">
+							<span>mozi</span>
+							<a href="/cikk/mozi/5-filmsiker-ami-elkepeszto-okok-miatt-volt-baromi-draga/article-128746">5 filmsiker, ami elképesztő okok miatt volt baromi drága</a>
+													</div>
+					</div>
+                                            					<div class="article-rec-element">
+						<a href="/cikk/tv/ezeket-a-filmeket-ajanljuk-szombatra-a-teveben/article-129606" class="are-img-link">
+															<img loading="lazy" src="https://media.port.hu/images/001/617/160x90/178.webp">
+													</a>
+						<div class="are-img-right">
+							<span>tv</span>
+							<a href="/cikk/tv/ezeket-a-filmeket-ajanljuk-szombatra-a-teveben/article-129606">Ezeket a filmeket ajánljuk szombatra a tévében</a>
+													</div>
+					</div>
+                                            					<div class="article-rec-element">
+						<a href="/cikk/magazin/a-hetvege-szombati-kinalata/article-129802" class="are-img-link">
+															<img loading="lazy" src="https://media.port.hu/images/001/839/160x90/556.webp">
+													</a>
+						<div class="are-img-right">
+							<span>magazin</span>
+							<a href="/cikk/magazin/a-hetvege-szombati-kinalata/article-129802">A hétvége szombati kínálata</a>
+													</div>
+					</div>
+                                            					<div class="article-rec-element">
+						<a href="/cikk/tv/csaladi-filmek-a-teveben-szombatra/article-129696" class="are-img-link">
+															<img loading="lazy" src="https://media.port.hu/images/000/986/160x90/860.jpg">
+													</a>
+						<div class="are-img-right">
+							<span>tv</span>
+							<a href="/cikk/tv/csaladi-filmek-a-teveben-szombatra/article-129696">Családi filmek a tévében szombatra</a>
+													</div>
+					</div>
+                                            					<div class="article-rec-element">
+						<a href="/cikk/tv/7-csajos-sorozat-amit-titokban-a-ferfiak-is-imadnak/article-129952" class="are-img-link">
+															<img loading="lazy" src="https://media.port.hu/images/001/840/160x90/548.webp">
+													</a>
+						<div class="are-img-right">
+							<span>tv</span>
+							<a href="/cikk/tv/7-csajos-sorozat-amit-titokban-a-ferfiak-is-imadnak/article-129952">7 „csajos” sorozat, amit titokban a férfiak is imádnak </a>
+													</div>
+					</div>
+                                    </div>
+    </section>
+</section>
+
+                                        <div class="advert">
+                
+                        <!-- (c)AdOcean 2003-2020, Port_Mozi_Aloldal_MR -->
+                        <div id="adoceanindexhuwnlijkklji" data-id="adoceanindexhuwnlijkklji" class="iap iap--ado empty bg--transparent ">
+                            <script class="iap-script">
+                                window.iap_zones = window.iap_zones || [];
+                                window.iap_zones.push({"id":"adoceanindexhuwnlijkklji","empty":true,"lazy":true,"quality":false,"masterless":false,"area":"Port_Mozi_Aloldal_MR","events":{"loaded":false,"visible":false,"viewed":false},"stat":{"site":"port","path":"\/cikk\/mozi\/sokkolo-dolog-tortent-matthew-mcconaughey-vel-a-forgatason-oriasi-veszelyben-volt-foto\/article-129928","type":"mozi\/cikk"},"porthu":{"id":"adoceanindexhuwnlijkklji","section":"mozi","type":"cikk","device":"desktop","zone":"medium_rectangle_b"}});
+                            </script>
+                        </div>
+                                </div>
+                            <section class="row row-1-detailed ">
+
+    <h1 class="box-heading">
+        <span>Heti mozipremierek</span>
+        <span class="premiers-link"><a href="/lista/mozi-premierek">Összes</a></span>
+    </h1>
+
+    <ul class="weekly_premiers square-image-list">
+                <li>
+            <a class="cover-img" href="/adatlap/film/mozi/a-jegremes-ice-cream-man/movie-269628">
+                                    <div class="placeholder search-program medium"></div>
+                            </a>
+            <section>
+                <a class="title" href="/adatlap/film/mozi/a-jegremes-ice-cream-man/movie-269628">
+                    A jégrémes                </a>
+                <label>
+                    amerikai-kanadai-angol-francia-japán horror, 86 perc, 2026                                            <img class="icon age-limit" src="/img/agelimit/vector/18_age_icon_black.svg" alt="18 éven aluliak számára nem ajánlott" title="18 éven aluliak számára nem ajánlott">                                    </label>
+                <article>
+                    Az idilli nyár egy amerikai kisvárosban egyszeriben rémálomba fordul, mikor a fagylaltárus horrorisztikus hatású nyalánksággal lepi meg az önfeledt gyerekeket.                </article>
+                <a class="check-events" href="/adatlap/film/mozi/a-jegremes-ice-cream-man/movie-269628#events">Időpontok</a>
+            </section>
+        </li>
+                <li>
+            <a class="cover-img" href="/adatlap/film/mozi/az-oak-street-vege-the-end-of-oak-street/movie-267252">
+                                    <img src="https://media.port.hu/images/001/836/120x170/934.webp">
+                            </a>
+            <section>
+                <a class="title" href="/adatlap/film/mozi/az-oak-street-vege-the-end-of-oak-street/movie-267252">
+                    Az Oak Street vége                </a>
+                <label>
+                    amerikai akciófilm, 100 perc, 2026                                            <img class="icon age-limit" src="/img/agelimit/vector/16_age_icon_black.svg" alt="16 éven aluliak számára nem ajánlott" title="16 éven aluliak számára nem ajánlott">                                    </label>
+                <article>
+                    Lehetetlen? Mégis megtörténhet. A meghökkentő látványvilágú, izgalmas film nagyon hitelesen mesél arról, ami igazából elég valószínűtlen. Hogy egy békés amerikai kertváros békés...                </article>
+                <a class="check-events" href="/adatlap/film/mozi/az-oak-street-vege-the-end-of-oak-street/movie-267252#events">Időpontok</a>
+            </section>
+        </li>
+                <li>
+            <a class="cover-img" href="/adatlap/film/mozi/csak-egy-ejszaka-one-night-only/movie-267054">
+                                    <img src="https://media.port.hu/images/001/836/120x170/736.webp">
+                            </a>
+            <section>
+                <a class="title" href="/adatlap/film/mozi/csak-egy-ejszaka-one-night-only/movie-267054">
+                    Csak egy éjszaka                </a>
+                <label>
+                    amerikai romantikus vígjáték , 102 perc, 2026                                            <img class="icon age-limit" src="/img/agelimit/vector/16_age_icon_black.svg" alt="16 éven aluliak számára nem ajánlott" title="16 éven aluliak számára nem ajánlott">                                    </label>
+                <article>
+                    A frissen dobott Owen és a reménytelenül romantikus Allie talán a két utolsó szingli a városban, akik többet keresnek egy gyors randinál. Mindketten érzik a szikrát, amikor találkoznak, de...                </article>
+                <a class="check-events" href="/adatlap/film/mozi/csak-egy-ejszaka-one-night-only/movie-267054#events">Időpontok</a>
+            </section>
+        </li>
+                <li>
+            <a class="cover-img" href="/adatlap/film/tv/kobra-cobra/movie-8789">
+                                    <img src="https://media.port.hu/images/001/751/120x170/631.webp">
+                            </a>
+            <section>
+                <a class="title" href="/adatlap/film/tv/kobra-cobra/movie-8789">
+                    Kobra                </a>
+                <label>
+                    amerikai akciófilm, 87 perc, 1986                                            <img class="icon age-limit" src="/img/agelimit/vector/16_age_icon_black.svg" alt="16 éven aluliak számára nem ajánlott" title="16 éven aluliak számára nem ajánlott">                                    </label>
+                <article>
+                    Az igazi neve Cobretti. De azoknak, akik ismerik és azoknak, akik azt kívánják, bárcsak ne ismernék, ő egyszerűen csak Kobra. Ha a bűn betegség, Kobra a legjobb gyógyszer ellene. Kobra a...                </article>
+                <a class="check-events" href="/adatlap/film/tv/kobra-cobra/movie-8789#events">Időpontok</a>
+            </section>
+        </li>
+            </ul>
+</section>                            <div class="advert">
+                    
+                        <!-- (c)AdOcean 2003-2020, Port_Ticket_Adatlapok_MR_B -->
+                        <div id="ado-0iTnJSbJd3gLSOt_3O5OReWzo45dKJKz33TJK2PDxSz.l7" data-id="ado-0iTnJSbJd3gLSOt_3O5OReWzo45dKJKz33TJK2PDxSz.l7" class="iap iap--ado empty bg--transparent ">
+                            <script class="iap-script">
+                                window.iap_zones = window.iap_zones || [];
+                                window.iap_zones.push({"id":"ado-0iTnJSbJd3gLSOt_3O5OReWzo45dKJKz33TJK2PDxSz.l7","empty":true,"lazy":true,"quality":false,"masterless":true,"area":"Port_Ticket_Adatlapok_MR_B","events":{"loaded":false,"visible":false,"viewed":false},"stat":{"site":"port","path":"\/cikk\/mozi\/sokkolo-dolog-tortent-matthew-mcconaughey-vel-a-forgatason-oriasi-veszelyben-volt-foto\/article-129928","type":"mozi\/cikk"},"porthu":{"id":"ado-0iTnJSbJd3gLSOt_3O5OReWzo45dKJKz33TJK2PDxSz.l7","section":"mozi","type":"cikk","device":"desktop","zone":"ticket"}});
+                            </script>
+                        </div>
+                                    </div>
+
+                <div class="advert">
+                    
+                        <div class="sticky-con " style="text-align: center;">
+                            <div class="sticky ad-label" style="position: sticky; top: 60px;">
+                            <!-- (c)AdOcean 2003-2020, index sticky manual -->
+                                <div id="ado-wEGh6Uy_zA.O1EbZBhPO5f.ZL8v.rE_O4_nEreBJWrb.r7" data-id="ado-wEGh6Uy_zA.O1EbZBhPO5f.ZL8v.rE_O4_nEreBJWrb.r7" class="iap iap--ado empty bg--transparent">
+                                    <script class="iap-script">
+                                        window.iap_zones = window.iap_zones || [];
+                                        window.iap_zones.push({"id":"ado-wEGh6Uy_zA.O1EbZBhPO5f.ZL8v.rE_O4_nEreBJWrb.r7","empty":true,"lazy":true,"quality":true,"masterless":true,"area":"","events":{"loaded":false,"visible":false,"viewed":false},"stat":{"site":"port","path":"\/cikk\/mozi\/sokkolo-dolog-tortent-matthew-mcconaughey-vel-a-forgatason-oriasi-veszelyben-volt-foto\/article-129928","type":"index_sticky"},"porthu":{"id":"ado-wEGh6Uy_zA.O1EbZBhPO5f.ZL8v.rE_O4_nEreBJWrb.r7","section":"sticky","type":"index_sticky","device":"","zone":"sticky"}});
+                                    </script>
+                                </div>
+                            </div>
+                        </div>
+                        <script>
+                            addEventListener("DOMContentLoaded", (event) => {
+                            if(document.getElementById("main-box") || document.querySelector(".person .main-box") || document.querySelector("#port-main-box")){
+                                addEventListener("scroll", (event) => {
+                                    var mainBox = document.querySelector(".main-box")
+                                    var sidebox =  document.querySelector(".side-box");
+                                    var stickyTop = document.querySelector(".sticky-con");
+                                    if(document.querySelector(".article-content") && document.querySelector("#main-box").clientHeight > sidebox.clientHeight){
+                                        sidebox.style.height = (document.querySelector("#main-box").clientHeight)+"px";
+                                    }
+                                    if(document.getElementById("search-results")){
+                                        document.querySelector(".sticky-con").style.height = (document.getElementById("search-results").clientHeight - stickyTop.parentElement.offsetTop + 60)+"px";
+                                    } else {
+                                        var targetHeight = mainBox.clientHeight - stickyTop.parentElement.offsetTop - 60;
+                                        if(targetHeight < document.querySelector(".sticky-con .sticky").clientHeight){
+                                            targetHeight = document.querySelector(".sticky-con .sticky").clientHeight;
+                                        }
+                                        document.querySelector(".sticky-con").style.height = targetHeight+"px";
+                                        sidebox.style.height = "auto";
+                                    }
+                                });
+                            } else {
+
+                            }
+                                
+                            })
+                        </script>
+                                    </div>
+                        
+<div class="az-en-kutyam-box row row-1-detailed" style="margin-top: 20px">
+    <div class="grid-item title-3 floated-title">
+                <div class="image-wrapper">
+            <a href="https://welovedogz.hu/apolas/kutya-fultisztitas-otthon/" target="_blank" class="thumbnail-link">
+                <img src="https://welovedogz.hu/media/images/GettyImages-137045145.2e16d0ba.format-jpeg.fill-1024x768.jpg" class="thumbnail-image">
+            </a>
+        </div>
+        <div class="content-wrapper">
+            <h2 class="title">
+                <a href="https://welovedogz.hu/apolas/kutya-fultisztitas-otthon/" target="_blank" class="title-link">Így tartsd tisztán és egészségesen a kutyád fülét</a>
+            </h2>
+        </div>
+    </div>
+</div>
+                    </div>
+    </div>
+</div>
+
+
+
+
+
+    </div>
+</div>
+
+<div class="wrap footer-carousel-wrapper">
+    <div class="container">
+        <div id="footer-carousel" class="owl-carousel footer-carousel footer-default">
+            <div class="item">
+                <a href="https://divany.hu/" target="_blank" class="divany"></a>
+            </div>
+
+            <div class="item">
+                <a href="https://index.hu/" target="_blank" class="index"></a>
+            </div>
+
+            <div class="item">
+                <a href="https://welovebudapest.com/" target="_blank" class="we-love-budapest"></a>
+            </div>
+
+            <div class="item">
+                <a href="https://welovebalaton.hu/" target="_blank" class="we-love-balaton"></a>
+            </div>
+
+            <div class="item">
+                <a href="https://revizoronline.com/" target="_blank" class="revizor"></a>
+            </div>
+
+            <div class="item">
+                <a href="https://blog.hu/" target="_blank" class="bloghu"></a>
+            </div>
+
+            <div class="item">
+                <a href="https://indavideo.hu/" target="_blank" class="indavideo"></a>
+            </div>
+        </div>
+    </div>
+</div>
+
+<footer data-role="footer" class="port-2-footer">
+    <section>
+        <div class="container site-container">
+            <ul class="footer-col">
+                <li>
+                    <ul>
+	<li><a href="/lista/mozi-premierek">Filmpremierek</a></li>
+			<li><a target="_blank" href="/adatlap/film/mozi/a-jegremes-ice-cream-man/movie-269628">A jégrémes</a></li>
+			<li><a target="_blank" href="/adatlap/film/mozi/az-oak-street-vege-the-end-of-oak-street/movie-267252">Az Oak Street vége</a></li>
+			<li><a target="_blank" href="/adatlap/film/mozi/csak-egy-ejszaka-one-night-only/movie-267054">Csak egy éjszaka</a></li>
+			<li><a target="_blank" href="/adatlap/film/tv/kobra-cobra/movie-8789">Kobra</a></li>
+	</ul>                </li>
+                <li>
+                    <ul>
+                        <li><a href="/mozi">Kiemelt mozik</a></li>
+                        <li><a href="/helyszin/mozi/cinema-city-allee/place-11170">Cinema City Allee</a></li>
+                        <li><a href="/helyszin/mozi/cinema-city-arena/place-7900">Cinema City Aréna</a></li>
+                        <li><a href="/helyszin/mozi/cinema-city-westend/place-8953">Cinema City Westend</a></li>
+                        <li><a href="/helyszin/mozi/corvin-budapest-filmpalota/place-7928">Corvin Budapest Filmpalota</a></li>
+                        <li><a href="/helyszin/mozi/cinema-city-mom-park/place-8948">Cinema MOM</a></li>
+                    </ul>
+                </li>
+
+                <li>
+                    <ul>
+                        <li><a href="/zene">Kiemelt helyszínek</a></li>
+                        <li><a href="/helyszin/zene/a38-hajo/place-261">A38</a></li>
+                        <li><a href="/helyszin/zene/papp-laszlo-budapest-sportarena/place-8966">Papp László Budapest Sportaréna</a></li>
+                        <li><a href="/helyszin/szinhaz/dumaszinhaz/place-8215">Dumaszínház</a></li>
+                        <li><a href="/helyszin/zene/budapest-jazz-club/place-15316">Budapest Jazz Club</a></li>
+                        <li><a href="/helyszin/szinhaz/mupa/place-8839">Müpa</a></li>
+                    </ul>
+                </li>
+
+                <li>
+                    <ul>
+                        <li><a href="/lista/szinhaz-bemutatok">Színházi bemutatók</a></li>
+                        <li><a href="/programkereso/szinhaz?interval=anytime&events_from=2026-08-15&events_until=&dft=i&cityMain=1&city=cityList-3372">Budapesti színházak</a></li>
+                        <li><a href="/programkereso/szinhaz?interval=today&events_from=2026-08-15&events_until=&dft=i&cityMain=1&city=cityList-3372">Napi színházműsor</a></li>
+                    </ul>
+                    <ul>
+                        <li><a href="/jegy">Jegyvásárlás</a></li>
+                        <li><a href="/programkereso/jegy?interval=anytime&events_from=&events_until=&dft=i&cityMain=1&city=cityList-3372&area=theater">Színházjegy</a></li>
+                        <li><a href="/programkereso/jegy?interval=anytime&events_from=&events_until=&dft=i&cityMain=1&city=cityList-3372&area=concert">Koncertjegy</a></li>
+                    </ul>
+                </li>
+
+                <li>
+                    <ul>
+	<li><a href="/lista/szuletesnapok">Ma született</a></li>
+			<li><a href="/adatlap/szemely/alejandro-gonzalez-inarritu/person-151689">Alejandro González Inárritu</a></li>
+			<li><a href="/adatlap/szemely/timur-yunusov/person-343806">Timur Yunusov</a></li>
+			<li><a href="/adatlap/szemely/fliegauf-bence/person-153742">Fliegauf Bence</a></li>
+			<li><a href="/adatlap/szemely/jennifer-lawrence/person-308741">Jennifer Lawrence</a></li>
+			<li><a href="/adatlap/szemely/ben-affleck/person-2607">Ben Affleck</a></li>
+			<li><a href="/adatlap/szemely/anders-nilsson/person-136772">Anders Nilsson</a></li>
+	</ul>
+                </li>
+
+            </ul><!--footer-col-->
+
+        </div><!--content-size-->
+    </section>
+    <section>
+        <div class="container site-container">
+            <div class="footer-logo-container">
+                <div class="footer-logo footer-logo-port"></div>
+                <div class="footer-logo footer-logo-pku"></div>
+            </div>
+            <ul>
+                <li>
+                    <a target="_blank" href="/impresszum">
+                        Impresszum
+                    </a>
+                </li>
+                <li>
+                    <a target="_blank" href="/cikk/magazin/szerzoi-jogok/article-42099">
+                        Szerzői jogok
+                    </a>
+                </li>
+                <li>
+                    <a href="/aszf-archivum">
+                        Adatkezelési szabályzat
+                    </a>
+                </li>
+                <li>
+                    <a href="/sutik">
+                        Süti szabályzat
+                    </a>
+                </li>
+                <li>
+                    <a href="/site/comment-rules">
+                        Kommentelési szabályzat
+                    </a>
+                </li>
+                <li>
+                    <a href="https://ajanlat.indamediasales.hu/markabiztonsag/Indamedia_Sales_Markabiztonsagi_nyilatkozat.pdf" target="_blank">
+                        Márkabiztonság
+                    </a>
+                </li>
+                <li>
+                    <a href="https://indamediasales.hu/2019/06/25/quality_placement_minosegbiztositasi_tajekoztato_728" target="_blank">
+                        Quality Placement
+                    </a>
+                </li>
+                <li>
+                    <a href="https://indamediasales.hu" target="_blank">
+                        Médiaajánlat
+                    </a>
+                </li>
+                <li>
+                    <a href="/impresszum#szerkesztoseg">
+                        Kapcsolat
+                    </a>
+                </li>
+                
+                <li>
+                    <a class="change-consent" onclick="window.__tcfapi('displayConsentUi', 2, function() {} );">Süti beállítások</a>
+                </li>
+                <li>
+                    <a href="/dsa" target="_blank">
+                        DSA
+                    </a>
+                </li>
+            </ul>
+        </div>
+    </section>
+    <section>
+        <div class="container site-container">
+            <ul class="pull-left">
+                <div class="x_footeradaptive">
+                    <ul class="pull-left">
+                        <li>Hirdetési lehetőségek:</li>
+                        <li>
+                            <a href="https://indamediasales.hu/" target="_blank">
+                                <img src="/img/indamedia_sales_bright.png">
+                            </a>
+                        </li>
+                    </ul>
+                </div>
+            </ul>
+        </div>
+    </section>
+</footer>
+
+<div id="noti-disabled-modal" class="fade modal noti-modals" tabindex="-1" role="dialog" aria-labelledby="olimpia_modal_label">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h5 class="modal-title">Figyelmeztetés</h5>
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                <span aria-hidden="true">&times;</span>
+                </button>
+            </div>
+            <div class="modal-body">
+                <p>Az értesítések jelenleg le vannak tiltva! Amennyiben szeretnél cikkajánlókat kapni, kérlek, hogy a böngésző Beállítások / Értesítések menüpontja alatt állítsd be az értesítések engedélyezését!</p>
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn disablePushNotiPopup">Értem!</button>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+    <div class="fade modal" id="login_modal" tabindex="-1" role="dialog" aria-labelledby="login_modal_label">
+    <div class="modal-dialog ">
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal" aria-hidden="true">×</button>
+                <h2>Bejelentkezés</h2>
+            </div>
+
+            <div class="modal-body">
+                <div id="indpl_login_box_450">
+                    <form action="https://daemon.indapass.hu/http/login" method="POST">
+                        <input type="hidden" name="partner_id" value="port"/>
+                        <input type="hidden" name="redirect_to" value="http://port.hu/cikk/mozi/sokkolo-dolog-tortent-matthew-mcconaughey-vel-a-forgatason-oriasi-veszelyben-volt-foto/article-129928"/>
+                        <div class="indpl_info">
+                            <p>
+                                Jelentkezz be!
+                            </p>
+                        </div>
+                        <div class="indpl_fb_login">
+                            <a class="indpl_container" href="https://indapass.hu/providerlogin/?partner=port&amp;url=http://port.hu/cikk/mozi/sokkolo-dolog-tortent-matthew-mcconaughey-vel-a-forgatason-oriasi-veszelyben-volt-foto/article-129928&amp;autologin=1" onclick="this.href = this.href.replace(/autologin=1/, 'autologin=' + (this.parentNode.parentNode['autologin'].checked ? 1 : 0));">
+                                <div class="indpl_img"></div>
+                                <div class="indpl_caption">
+                                    Belépek Facebookkal
+                                </div>
+                            </a>
+                        </div>
+                        <div class="indpl_or">
+                            <div class="indpl_line"></div>
+                            <div class="indpl_text">VAGY</div>
+                        </div>
+                        <div class="indpl_login">
+                            <div class="indpl_border"></div>
+                            <div class="indpl_err_box">
+                                <div>Hibás email cím vagy jelszó!</div>
+                            </div>
+                            <div class="indpl_formContainer">
+                                <div class="indpl_inputs">
+                                    <input name="username" class="indpl_text indpl_email" placeholder="Indapass email cím" />
+                                    <input name="password" type="password" class="indpl_text indpl_passwd" placeholder="Jelszó" />
+                                </div>
+                                <a href="https://indapass.hu/jelszoemlekezteto/" class="indpl_forgot">Elfelejtettem a jelszavam</a>
+                                <div class="indpl_container">
+                                    <input type="Submit" class="indpl_submit" value="Belépek" />
+                                </div>
+                                <div class="indpl_clr"></div>
+                            </div>
+                        </div>
+                        <div class="indpl_clr"></div>
+                        <div class="indpl_remember">
+                            <div class="checkbox">
+                                <input name="autologin" value="1" type="checkbox" checked="checked" id="indpl_login"/>
+                            </div>
+
+                            <label for="indpl_login">Maradjak belépve</label>
+                        </div>
+                        <div class="indpl_reg">
+                            <a href="https://indapass.hu/regisztracio/port" class="indpl_reg_button">Regisztrálok<span class="indpl_arrows">»</span></a>
+                            <a href="https://indapass.hu/segitseg" class="indpl_question"></a>
+                        </div>
+                        <div class="indpl_clr"></div>
+                        <div class="indpl_hidden_reg"></div>
+                    </form>
+                </div>
+            </div>
+
+        </div>
+    </div>
+</div>    
+
+<div class="advert layer">
+    
+                        <!-- (c)AdOcean 2003-2020, Port_Aloldal_Layer -->
+                        <div id="ado-.CGVEP.s7ZjFt4VHNCYt1LGv7GGnflCsI4Qfg_Vubd..H7" data-id="ado-.CGVEP.s7ZjFt4VHNCYt1LGv7GGnflCsI4Qfg_Vubd..H7" class="iap iap--ado empty bg--transparent ad-label--hidden no-margin">
+                            <script class="iap-script">
+                                window.iap_zones = window.iap_zones || [];
+                                window.iap_zones.push({"id":"ado-.CGVEP.s7ZjFt4VHNCYt1LGv7GGnflCsI4Qfg_Vubd..H7","empty":true,"lazy":false,"quality":true,"masterless":true,"area":"Port_Aloldal_Layer","events":{"loaded":false,"visible":false,"viewed":false},"stat":{"site":"port","path":"\/cikk\/mozi\/sokkolo-dolog-tortent-matthew-mcconaughey-vel-a-forgatason-oriasi-veszelyben-volt-foto\/article-129928","type":"mozi\/cikk"},"porthu":{"id":"ado-.CGVEP.s7ZjFt4VHNCYt1LGv7GGnflCsI4Qfg_Vubd..H7","section":"mozi","type":"cikk","device":"desktop","zone":"layer"}});
+                            </script>
+                        </div>
+                    
+                <!-- (c)AdOcean 2003-2020, Port_Aloldal_Layer_gde_test -->
+                <div id="ado-E07xUtpBDFMsgRykoqv0JBHt.gXveTrqIPJoq0LSGQn.C7" data-id="ado-E07xUtpBDFMsgRykoqv0JBHt.gXveTrqIPJoq0LSGQn.C7" class="iap iap--ado empty bg--transparent">
+                    <script class="iap-script">
+                        window.iap_zones = window.iap_zones || [];
+                        window.iap_zones.push({"id":"ado-E07xUtpBDFMsgRykoqv0JBHt.gXveTrqIPJoq0LSGQn.C7","empty":true,"lazy":false,"quality":false,"masterless":true,"area":"Port_Aloldal_Layer_gde_test","events":{"loaded":false,"visible":false,"viewed":false},"stat":{"site":"port","path":"\/cikk\/mozi\/sokkolo-dolog-tortent-matthew-mcconaughey-vel-a-forgatason-oriasi-veszelyben-volt-foto\/article-129928","type":"mozi\/cikk"},"porthu":{"id":"ado-E07xUtpBDFMsgRykoqv0JBHt.gXveTrqIPJoq0LSGQn.C7","section":"mozi","type":"cikk","device":"desktop","zone":"layer"}});
+                    </script>
+                </div></div>
+
+
+<script src="https://media.port.hu/assets/prod/304ea2980a82c38d6e5768332ecfaae0/jquery.min.js?v=1784193810"></script>
+<script src="https://media.port.hu/assets/prod/95a9e997b0a69edf92d28637fdea7c65/yii.js?v=1784193810"></script>
+<script src="https://media.port.hu/assets/prod/0b625e0441f4ca435c991710f73d2ec8/js/bootstrap.min.js?v=1784193811"></script>
+<script src="https://media.port.hu/assets/prod/92a85ca0b9ed9654b358419bcf8b45e5/min/moment.min.js?v=1784193811"></script>
+<script src="https://media.port.hu/assets/prod/92a85ca0b9ed9654b358419bcf8b45e5/min/locales.min.js?v=1784193811"></script>
+<script src="https://media.port.hu/assets/prod/857d4d89b3300d9b6e4bc0f730c049f5/src/jquery.dotdotdot.min.js?v=1784193811"></script>
+<script src="https://media.port.hu/assets/prod/72a74d4230de732174416ed7a31916c5/svgxuse.min.js?v=1784193811" defer="defer"></script>
+<script src="/js/gallery/swiper.min.js?v=1784193618"></script>
+<script src="/js/gallery/crel.min.js?v=1784193615"></script>
+<script src="/js/gallery/gallery2.min.js?v=1784193617"></script>
+<script src="/js/gallery/gallery-init.min.js?v=1784193615"></script>
+<script src="https://media.port.hu/assets/prod/9ad09ca9531113477447e1447df0e2db/dist/owl.carousel.min.js?v=1784193810"></script>
+<script src="/js/toggle-header-modules.min.js?v=1784193633"></script>
+<script src="/js/header-navigation.min.js?v=1784193618"></script>
+<script src="/js/mobile-menu.min.js?v=1784193631"></script>
+<script src="/js/header.min.js?v=1784193618"></script>
+<script src="https://cdn.onesignal.com/sdks/OneSignalSDK.js"></script>
+<script src="/js/jquery-ui/jquery-ui.min.js?v=1784193621"></script>
+<script src="/js/jquery.swipe.min.js?v=1784193621"></script>
+<script src="/js/push-noti.min.js?v=1784193633"></script>
+<script src="/js/analytics.min.js?v=1784193602"></script>
+<script src="/js/calendar.min.js?v=1784193602"></script>
+<script src="/js/carousel.min.js?v=1784193604"></script>
+<script src="/js/events.min.js?v=1784193613"></script>
+<script src="/js/functions.min.js?v=1784193614"></script>
+<script src="/js/gallery.min.js?v=1784193614"></script>
+<script src="/js/index.min.js?v=1784193618"></script>
+<script src="/js/select.min.js?v=1784193633"></script>
+<script src="/js/tabs.min.js?v=1784193633"></script>
+<script src="https://media.port.hu/assets/prod/9eb8f49a46ed524cd0acfac4b7b3e769/js/typeahead.bundle.min.js?v=1784193811"></script>
+<script src="https://media.port.hu/assets/prod/9eb8f49a46ed524cd0acfac4b7b3e769/js/typeahead-kv.min.js?v=1784193811"></script>
+<script src="https://media.port.hu/assets/prod/9eb8f49a46ed524cd0acfac4b7b3e769/js/handlebars.min.js?v=1784193811"></script>
+<script src="https://media.port.hu/assets/prod/191bd86b0e8dd567be78d5322dbc5de0/js/kv-widgets.min.js?v=1784193811"></script>
+<script src="https://media.port.hu/assets/prod/95a9e997b0a69edf92d28637fdea7c65/yii.validation.js?v=1784193810"></script>
+<script src="https://media.port.hu/assets/prod/95a9e997b0a69edf92d28637fdea7c65/yii.activeForm.js?v=1784193810"></script>
+<script>
+    (function() {
+        var sc = document.createElement('script'); sc.type = 'text/javascript'; sc.async = true;
+        sc.src = __passportHeader_config.HEADER_URL + 'passportHeader.js';
+       var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(sc, s);
+    })();</script>
+<script>jQuery(function ($) {
+$(".must-shorten").dotdotdot({watch: true});
+jQuery&&jQuery.pjax&&(jQuery.pjax.defaults.maxCacheLength=0);
+var highlighted_search_data_1 = new Bloodhound({"datumTokenizer":Bloodhound.tokenizers.whitespace,"queryTokenizer":Bloodhound.tokenizers.whitespace,"remote":{"url":"/search/suggest-list","wildcard":"%QUERY","cache":false,"prepare":function (query, settings) {
+                            window.portSearch = query;
+                              //ha van a szabadszavas keresonel kategoria kivalasztva, es az nem "all", akkor get parameterben azt is kuldjuk
+                               var selectedCategory = $("#highlighted-search").closest(".fulltext-search").find(".search-categories:visible").find(".options .option.active .caption").data("value");
+                               settings.data = { "q" : query };
+                               if (selectedCategory !== undefined && selectedCategory != "all"){
+                                    settings.data.category = selectedCategory;
+                               }
+
+                               return settings;
+                           }}});
+kvInitTA('highlighted-search', typeahead_7864e59a, [{"limit":10,"display":"name","templates":{"header":"<div class=\"searchHelpHeader\" onclick=\"$('.search__layer').submit();\"><div class=\"theWord\">Keresés a kifejezésre: <span id=\"search-label-value\"></span></div><div class=\"theQuestion\">Esetleg ezeket keresed?</div></div>","suggestion":Handlebars.compile("<div>\n                        <div class=\"thumbnail {{category.cls}}\">\n                            <img src=\"{{thumbnail}}\" width=\"40\" height=\"40\">\n                        <\/div>\n                        <div class=\"info {{category.cls}}\">\n                            <span class=\"type\">{{category.title}}<\/span>\n                            <span class=\"name\">{{name}}<\/span>\n                            <small class=\"subtitle\">{{subtitle}}<\/small>\n                        <\/div>\n                    <\/div>")},"name":"highlighted_search_data_1","source":highlighted_search_data_1.ttAdapter()}]);
+jQuery("#highlighted-search").on('typeahead:select', function(ev, sel) {
+                            if (sel.url) {
+                                document.location.href=sel.url;
+                                ev.preventDefault();
+                            }
+                        });
+jQuery("#highlighted-search").on('typeahead:render', function(ev, suggestion){
+                            $("#search-label-value").text(window.portSearch);
+                        });
+jQuery('#w5').yiiActiveForm([{"id":"highlighted-search","name":"q","container":".field-highlighted-search","input":"#highlighted-search","validate":function (attribute, value, messages, deferred, $form) {yii.validation.string(value, messages, {"message":"Q csak szöveg lehet.","skipOnEmpty":1});}}], []);
+});</script>
+<!-- adocean adblock mero -->
+<script type="text/javascript">
+    var gemABObj = {
+        docBody: document.getElementsByTagName('body')[0],
+        incScript: document.createElement('SCRIPT'),
+        checkIt: function(){document.getElementById("mnxHDozyKPjB")?pp_gemius_hit("nSdFzTtkvTTrx.B7K13yyfU378aFPueKFs36aeS6yET.A7","addon=no-adblock"):pp_gemius_hit("nSzrCTsGCKuF9KNE6iWTitVrzbu1Eg8GQHsHaml5W8n.b7","addon=adblock")}
+    };
+    gemABObj.incScript.src = '//hu.adocean.pl/files/emitter_global_files/a8a8ba/ads.js';
+    gemABObj.docBody.appendChild(gemABObj.incScript);
+
+    window.addEventListener("load",gemABObj.checkIt);
+</script>
+      </body>
+</html>
