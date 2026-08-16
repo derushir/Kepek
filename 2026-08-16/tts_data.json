@@ -3,5 +3,10 @@
     "title": "Piacok és gazdaság",
     "subtitle": "Piaci összefoglaló és üzleti hírek",
     "url": "https://raw.githubusercontent.com/Derushir/Kepek/main/2026-08-16/tts_piacok.mp3"
+  },
+  {
+    "title": "Rövid hírek",
+    "subtitle": "Tegnapról és ma reggelről",
+    "url": "https://raw.githubusercontent.com/Derushir/Kepek/main/2026-08-16/tts_headlines.mp3"
   }
 ]
