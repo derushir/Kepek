@@ -1,0 +1,16 @@
+[
+  {
+    "title": "Piacok és gazdaság",
+    "subtitle": "Piaci összefoglaló és üzleti hírek",
+    "url": "https://raw.githubusercontent.com/Derushir/Kepek/main/2026-10-21/tts_piacok.mp3",
+    "provider": "elevenlabs",
+    "voice": "elevenlabs"
+  },
+  {
+    "title": "Rövid hírek",
+    "subtitle": "Legfrissebb hírösszefoglaló",
+    "url": "https://raw.githubusercontent.com/Derushir/Kepek/main/2026-10-21/tts_headlines.mp3",
+    "provider": "elevenlabs",
+    "voice": "elevenlabs"
+  }
+]
