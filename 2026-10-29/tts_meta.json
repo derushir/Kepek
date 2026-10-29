@@ -2,32 +2,30 @@
   "date": "2026-10-29",
   "files": {
     "idojaras": {
-      "engine": "edge-tts",
-      "voice": "hu-HU-TamasNeural",
+      "engine": "elevenlabs",
+      "voice": "elevenlabs",
       "filename": "tts_idojaras.mp3",
-      "input_sha256": "54fc703b7c97a7f8b663cc331bf0f97df52f6bbeb083a625f06e1eee085f5258",
-      "audio_sha256": "8383dba837da7b54ec7ba7a3fa72a58ecb8276eb6d4b8ac0590fcb91c25a15aa",
-      "updated_at": "2026-10-29T14:29:03.236672",
-      "fallback_from": "elevenlabs",
-      "reason": "Error"
+      "input_sha256": "8e74b3c1ebcf25ce2a6404ab6f352994997f654e9093c51d25c0895bd6902913",
+      "audio_sha256": "ad6c9287ffec0e0aac2897ebbd6adfa6fc9bc8a2aaa0a6b11e13e14d1beb8a30",
+      "updated_at": "2026-10-29T14:42:15.112920"
     },
     "piacok": {
       "engine": "elevenlabs",
       "voice": "elevenlabs",
       "filename": "tts_piacok.mp3",
-      "input_sha256": "e3cd62e0e14a4a77fdb33f042f020d379051bc5e566870fccfbaa3b334d7b831",
-      "audio_sha256": "21bc39bad9923fd41317e602e3d90da75b8c85a5aa7b41383ff5c0129fb0591a",
-      "updated_at": "2026-10-29T14:35:41.349925"
+      "input_sha256": "6cee73d8c0a331dfb64c47532853b206cb3d6a61487266280b7655e9fc7b64b5",
+      "audio_sha256": "40183285f9bce07b7aa5410b2f3e0685de3b11149d8580632547c5f2612e6236",
+      "updated_at": "2026-10-29T14:45:38.547264"
     },
     "headlines": {
       "engine": "elevenlabs",
       "voice": "elevenlabs",
       "filename": "tts_headlines.mp3",
-      "input_sha256": "9acffeae552c58d6c8524cec87fd154058d587594571546afc925a7052e0b648",
-      "audio_sha256": "9fce8b70cd9c85dec94aed2e60a9edcc8fb3a1e301dbee184a7cdefd3b0e2d87",
-      "updated_at": "2026-10-29T14:36:38.153085"
+      "input_sha256": "00ca92ebf898e1a3c3b99810813da1b903d85b0adbb65a76c67b8659d7b344f1",
+      "audio_sha256": "b807e70eb77ebb5f3e7a201f0bb3f736d7959380756c21f3dc906e2c88b14a10",
+      "updated_at": "2026-10-29T14:46:35.871131"
     }
   },
-  "edge_tts_used": true,
-  "updated_at": "2026-10-29T14:36:38.153100"
+  "edge_tts_used": false,
+  "updated_at": "2026-10-29T14:46:35.871145"
 }
