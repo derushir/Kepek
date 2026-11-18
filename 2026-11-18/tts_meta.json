@@ -1,0 +1,33 @@
+{
+  "date": "2026-11-18",
+  "files": {
+    "idojaras": {
+      "engine": "elevenlabs",
+      "voice": "elevenlabs",
+      "filename": "tts_idojaras.mp3",
+      "input_sha256": "f87ad7bbcff49cb5ba6fdcb0bab24c822dbdd864df3114e091cdb49da563f64b",
+      "audio_sha256": "5ff2e0205e2318d55663b48ba21f1404ed8a8e339c4430f9481bb1b865507dde",
+      "updated_at": "2026-11-18T08:02:35.667646"
+    },
+    "piacok": {
+      "engine": "elevenlabs",
+      "voice": "elevenlabs",
+      "filename": "tts_piacok.mp3",
+      "input_sha256": "0c10fa118fba304fb4b77b904eb021a03b5e1b430183bcf3e7effc849e3c7487",
+      "audio_sha256": "ef56cb9fb9a22bd7fb48984f0c4b6b4376b29aeb55f2ed4b77947e812c2498dd",
+      "updated_at": "2026-11-18T08:05:35.399095"
+    },
+    "headlines": {
+      "engine": "edge-tts",
+      "voice": "hu-HU-TamasNeural",
+      "filename": "tts_headlines.mp3",
+      "input_sha256": "e54835819baa0c56237fced7afffb3d9eaaffe9b70a591e7c6926234c5f3e6d4",
+      "audio_sha256": "dee47030bda5f7a42da9c1d00c707f53ad73e1404d170ca8cf733885c688930d",
+      "updated_at": "2026-11-18T08:12:20.959336",
+      "fallback_from": "elevenlabs",
+      "reason": "RateLimitError"
+    }
+  },
+  "edge_tts_used": true,
+  "updated_at": "2026-11-18T08:12:20.959379"
+}
