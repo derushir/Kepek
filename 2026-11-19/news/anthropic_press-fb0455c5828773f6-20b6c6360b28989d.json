@@ -1,0 +1,52 @@
+{
+  "image_source": "anthropic_press",
+  "image_origin": "anthropic_press",
+  "image_owner": "Anthropic PBC",
+  "image_photographer": "Source: Anthropic.",
+  "image_provider_id": "bdc6ef3866b0a781",
+  "image_provider_page": "https://www.anthropic.com/news/public-benefit-fund",
+  "image_provider_url": "https://assets.claude.com/eed596be48a4b322690a6175794cdbd970ec4df4.jpg?w=3840&q=75&fm=webp&fit=max",
+  "image_brand": "Anthropic",
+  "image_description": "Investing in the public benefit",
+  "image_reuse_review": {
+    "source": "reuse_rights_review",
+    "permission": "official_brand_press",
+    "image_sha256": "20b6c6360b28989dae9bc4d90c6053c45e66325c062d6cc8c9c7436c2d3d48b9",
+    "press_source": "anthropic_press",
+    "rights_holder": "Anthropic PBC",
+    "credit": "Source: Anthropic.",
+    "source_page": "https://www.anthropic.com/news/public-benefit-fund",
+    "asset_url": "https://assets.claude.com/eed596be48a4b322690a6175794cdbd970ec4df4.jpg?w=3840&q=75&fm=webp&fit=max",
+    "terms_url": "https://www.anthropic.com/news",
+    "permission_notice": "Official brand photo store asset",
+    "metadata_evidence_sha256": "ecb05216162104df0238abb6afda2a10e4868687faa7f1e78ceaf3f826df14eb",
+    "fee_status": "not_required_brand_store"
+  },
+  "image_pairing_method": "caption_alignment",
+  "image_pairing_evidence": "9d4b08bc8b210e743d5652c113ebe732729a0ff44d488a573d2af260763fd6b6",
+  "title": "Investing in the public benefit",
+  "description": "Investing in the public benefit",
+  "origin_type": "downloaded",
+  "provider": "anthropic_press",
+  "photographer": "Source: Anthropic.",
+  "width": 2000,
+  "height": 1125,
+  "provider_metadata": {
+    "provider": "anthropic_press",
+    "id": "bdc6ef3866b0a781",
+    "title": "Investing in the public benefit",
+    "alt": "Investing in the public benefit",
+    "page": "https://www.anthropic.com/news/public-benefit-fund",
+    "urls": [
+      "https://assets.claude.com/eed596be48a4b322690a6175794cdbd970ec4df4.jpg?w=3840&q=75&fm=webp&fit=max"
+    ],
+    "url": "https://assets.claude.com/eed596be48a4b322690a6175794cdbd970ec4df4.jpg?w=3840&q=75&fm=webp&fit=max",
+    "brand": "Anthropic",
+    "type": "Brand Photo Store",
+    "creator": "Anthropic PBC",
+    "credit": "Source: Anthropic.",
+    "permission_notice": "Official brand photo store asset",
+    "terms_url": "https://www.anthropic.com/news",
+    "metadata_evidence_sha256": "ecb05216162104df0238abb6afda2a10e4868687faa7f1e78ceaf3f826df14eb"
+  }
+}

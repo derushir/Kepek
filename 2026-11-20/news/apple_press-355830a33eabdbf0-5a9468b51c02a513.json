@@ -1,0 +1,52 @@
+{
+  "image_source": "apple_press",
+  "image_origin": "apple_press",
+  "image_owner": "Apple Inc.",
+  "image_photographer": "Source: Apple Inc.",
+  "image_provider_id": "030d2a090b796831",
+  "image_provider_page": "https://www.apple.com/newsroom/2026/11/apple-tv-becomes-the-new-us-home-of-f1-academy-the-all-female-racing-series/",
+  "image_provider_url": "https://www.apple.com/newsroom/images/2026/11/apple-tv-becomes-the-new-us-home-of-f1-academy-the-all-female-racing-series/article/Apple-TV-F1-ACADEMY-hero_big.jpg.large.jpg",
+  "image_brand": "Apple",
+  "image_description": "A graphic with three cars, alongside text stating that Apple TV is the official U.S. broadcaster of F1 ACADEMY.",
+  "image_reuse_review": {
+    "source": "reuse_rights_review",
+    "permission": "official_brand_press",
+    "image_sha256": "5a9468b51c02a51386dd0c394b488b182fdf456995b34fa0a0c20177cb82b461",
+    "press_source": "apple_press",
+    "rights_holder": "Apple Inc.",
+    "credit": "Source: Apple Inc.",
+    "source_page": "https://www.apple.com/newsroom/2026/11/apple-tv-becomes-the-new-us-home-of-f1-academy-the-all-female-racing-series/",
+    "asset_url": "https://www.apple.com/newsroom/images/2026/11/apple-tv-becomes-the-new-us-home-of-f1-academy-the-all-female-racing-series/article/Apple-TV-F1-ACADEMY-hero_big.jpg.large.jpg",
+    "terms_url": "https://www.apple.com/newsroom/",
+    "permission_notice": "Official brand photo store asset",
+    "metadata_evidence_sha256": "0ad0d3819c5c6258ba99463b1ca4a1179d220a56ba7f302c60ab86de7897bd8d",
+    "fee_status": "not_required_brand_store"
+  },
+  "image_pairing_method": "caption_alignment",
+  "image_pairing_evidence": "0020c6824618659d0e6f37d674d1ad4c10a05a7a0fb2e3dc92c1b32738e35db8",
+  "title": "A graphic with three cars, alongside text stating that Apple TV is the official U.S. broadcaster of F1 ACADEMY.",
+  "description": "A graphic with three cars, alongside text stating that Apple TV is the official U.S. broadcaster of F1 ACADEMY.",
+  "origin_type": "downloaded",
+  "provider": "apple_press",
+  "photographer": "Source: Apple Inc.",
+  "width": 980,
+  "height": 551,
+  "provider_metadata": {
+    "provider": "apple_press",
+    "id": "030d2a090b796831",
+    "title": "A graphic with three cars, alongside text stating that Apple TV is the official U.S. broadcaster of F1 ACADEMY.",
+    "alt": "A graphic with three cars, alongside text stating that Apple TV is the official U.S. broadcaster of F1 ACADEMY.",
+    "page": "https://www.apple.com/newsroom/2026/11/apple-tv-becomes-the-new-us-home-of-f1-academy-the-all-female-racing-series/",
+    "urls": [
+      "https://www.apple.com/newsroom/images/2026/11/apple-tv-becomes-the-new-us-home-of-f1-academy-the-all-female-racing-series/article/Apple-TV-F1-ACADEMY-hero_big.jpg.large.jpg"
+    ],
+    "url": "https://www.apple.com/newsroom/images/2026/11/apple-tv-becomes-the-new-us-home-of-f1-academy-the-all-female-racing-series/article/Apple-TV-F1-ACADEMY-hero_big.jpg.large.jpg",
+    "brand": "Apple",
+    "type": "Brand Photo Store",
+    "creator": "Apple Inc.",
+    "credit": "Source: Apple Inc.",
+    "permission_notice": "Official brand photo store asset",
+    "terms_url": "https://www.apple.com/newsroom/",
+    "metadata_evidence_sha256": "0ad0d3819c5c6258ba99463b1ca4a1179d220a56ba7f302c60ab86de7897bd8d"
+  }
+}

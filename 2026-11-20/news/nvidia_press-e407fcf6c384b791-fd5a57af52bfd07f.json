@@ -1,0 +1,52 @@
+{
+  "image_source": "nvidia_press",
+  "image_origin": "nvidia_press",
+  "image_owner": "NVIDIA Corporation",
+  "image_photographer": "Source: NVIDIA.",
+  "image_provider_id": "8213206f294bcc75",
+  "image_provider_page": "https://blogs.nvidia.com/blog/geforce-now-thursday-warhammer-dawn-of-war-iv-coming/",
+  "image_provider_url": "https://blogs.nvidia.com/wp-content/uploads/2026/11/gfn-thursday-11-12-blog-1920x1080-logo.jpg",
+  "image_brand": "NVIDIA",
+  "image_description": "A New Dawn in the Cloud: ‘Warhammer 40,000: Dawn of War IV’ Is Coming to GeForce NOW",
+  "image_reuse_review": {
+    "source": "reuse_rights_review",
+    "permission": "official_brand_press",
+    "image_sha256": "fd5a57af52bfd07ff5908b0be00594666851202836f770eedc4453850c18b597",
+    "press_source": "nvidia_press",
+    "rights_holder": "NVIDIA Corporation",
+    "credit": "Source: NVIDIA.",
+    "source_page": "https://blogs.nvidia.com/blog/geforce-now-thursday-warhammer-dawn-of-war-iv-coming/",
+    "asset_url": "https://blogs.nvidia.com/wp-content/uploads/2026/11/gfn-thursday-11-12-blog-1920x1080-logo.jpg",
+    "terms_url": "https://nvidianews.nvidia.com/",
+    "permission_notice": "Official brand photo store asset",
+    "metadata_evidence_sha256": "1742ba21ea2827cb73b4aee703786260d78c20c2274fa5f09faefbb53a913faa",
+    "fee_status": "not_required_brand_store"
+  },
+  "image_pairing_method": "caption_alignment",
+  "image_pairing_evidence": "66c333ad6dd0d0d93f47046fabe222fa08fd36d043643614cb0c489959538007",
+  "title": "A New Dawn in the Cloud: ‘Warhammer 40,000: Dawn of War IV’ Is Coming to GeForce NOW",
+  "description": "A New Dawn in the Cloud: ‘Warhammer 40,000: Dawn of War IV’ Is Coming to GeForce NOW",
+  "origin_type": "downloaded",
+  "provider": "nvidia_press",
+  "photographer": "Source: NVIDIA.",
+  "width": 1920,
+  "height": 1080,
+  "provider_metadata": {
+    "provider": "nvidia_press",
+    "id": "8213206f294bcc75",
+    "title": "A New Dawn in the Cloud: ‘Warhammer 40,000: Dawn of War IV’ Is Coming to GeForce NOW",
+    "alt": "A New Dawn in the Cloud: ‘Warhammer 40,000: Dawn of War IV’ Is Coming to GeForce NOW",
+    "page": "https://blogs.nvidia.com/blog/geforce-now-thursday-warhammer-dawn-of-war-iv-coming/",
+    "urls": [
+      "https://blogs.nvidia.com/wp-content/uploads/2026/11/gfn-thursday-11-12-blog-1920x1080-logo.jpg"
+    ],
+    "url": "https://blogs.nvidia.com/wp-content/uploads/2026/11/gfn-thursday-11-12-blog-1920x1080-logo.jpg",
+    "brand": "NVIDIA",
+    "type": "Brand Photo Store",
+    "creator": "NVIDIA Corporation",
+    "credit": "Source: NVIDIA.",
+    "permission_notice": "Official brand photo store asset",
+    "terms_url": "https://nvidianews.nvidia.com/",
+    "metadata_evidence_sha256": "1742ba21ea2827cb73b4aee703786260d78c20c2274fa5f09faefbb53a913faa"
+  }
+}

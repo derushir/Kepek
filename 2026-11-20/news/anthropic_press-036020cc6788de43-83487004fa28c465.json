@@ -1,0 +1,52 @@
+{
+  "image_source": "anthropic_press",
+  "image_origin": "anthropic_press",
+  "image_owner": "Anthropic PBC",
+  "image_photographer": "Source: Anthropic.",
+  "image_provider_id": "9f624e00192d7a98",
+  "image_provider_page": "https://www.anthropic.com/features/ebola-response",
+  "image_provider_url": "https://assets.claude.com/d00bd8591792508d1ba86e28cae2c007ad6cf233.jpg?w=3840&q=75&fm=webp&fit=max",
+  "image_brand": "Anthropic",
+  "image_description": "The Situation Report",
+  "image_reuse_review": {
+    "source": "reuse_rights_review",
+    "permission": "official_brand_press",
+    "image_sha256": "83487004fa28c465184d4bfc67542337ac0853a0754614b14cea429d386e99c9",
+    "press_source": "anthropic_press",
+    "rights_holder": "Anthropic PBC",
+    "credit": "Source: Anthropic.",
+    "source_page": "https://www.anthropic.com/features/ebola-response",
+    "asset_url": "https://assets.claude.com/d00bd8591792508d1ba86e28cae2c007ad6cf233.jpg?w=3840&q=75&fm=webp&fit=max",
+    "terms_url": "https://www.anthropic.com/news",
+    "permission_notice": "Official brand photo store asset",
+    "metadata_evidence_sha256": "4df31537c061eb066d85ced01ed7c058822be6036e22ceaf138e69271f80bcda",
+    "fee_status": "not_required_brand_store"
+  },
+  "image_pairing_method": "caption_alignment",
+  "image_pairing_evidence": "20a8b5c039df7e9bbc08694e07e7298233b9a0623450a2ea18c056c11d757b68",
+  "title": "The Situation Report",
+  "description": "The Situation Report",
+  "origin_type": "downloaded",
+  "provider": "anthropic_press",
+  "photographer": "Source: Anthropic.",
+  "width": 2000,
+  "height": 1334,
+  "provider_metadata": {
+    "provider": "anthropic_press",
+    "id": "9f624e00192d7a98",
+    "title": "The Situation Report",
+    "alt": "The Situation Report",
+    "page": "https://www.anthropic.com/features/ebola-response",
+    "urls": [
+      "https://assets.claude.com/d00bd8591792508d1ba86e28cae2c007ad6cf233.jpg?w=3840&q=75&fm=webp&fit=max"
+    ],
+    "url": "https://assets.claude.com/d00bd8591792508d1ba86e28cae2c007ad6cf233.jpg?w=3840&q=75&fm=webp&fit=max",
+    "brand": "Anthropic",
+    "type": "Brand Photo Store",
+    "creator": "Anthropic PBC",
+    "credit": "Source: Anthropic.",
+    "permission_notice": "Official brand photo store asset",
+    "terms_url": "https://www.anthropic.com/news",
+    "metadata_evidence_sha256": "4df31537c061eb066d85ced01ed7c058822be6036e22ceaf138e69271f80bcda"
+  }
+}
