@@ -1,0 +1,31 @@
+{
+  "date": "2026-11-21",
+  "files": {
+    "idojaras": {
+      "engine": "elevenlabs",
+      "voice": "elevenlabs",
+      "filename": "tts_idojaras.mp3",
+      "input_sha256": "a1fc27c6f9b9610357040cf61704e4264c4f1bac1668d5b14d31fa77f16bc88c",
+      "audio_sha256": "fe6400b06af9346fb8e356226fb6d9a0087e27674b052e3317bdcc337dbfffc1",
+      "updated_at": "2026-11-21T08:02:09.747447"
+    },
+    "piacok": {
+      "engine": "elevenlabs",
+      "voice": "elevenlabs",
+      "filename": "tts_piacok.mp3",
+      "input_sha256": "2c395e8e805a7cfcca9c37b92d8f961d0f4b9d0ac9fd136f975138dde4d765b7",
+      "audio_sha256": "4de2ce2db7e12fc683e83fdc8ef0a8a630f694db75bd98fcc1cfe58819bdf3fd",
+      "updated_at": "2026-11-21T08:05:22.647946"
+    },
+    "headlines": {
+      "engine": "elevenlabs",
+      "voice": "elevenlabs",
+      "filename": "tts_headlines.mp3",
+      "input_sha256": "618961030561c5e4d5d2ca574dcf26b8ff9b3e8ec57bbec172983cc950a3aa07",
+      "audio_sha256": "1abb88e51e4abad80d3e7e6da4ee39006604332e9d2497782b3d126b2b356ff7",
+      "updated_at": "2026-11-21T08:07:02.608546"
+    }
+  },
+  "edge_tts_used": false,
+  "updated_at": "2026-11-21T08:07:02.608560"
+}
