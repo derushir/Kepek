@@ -1,0 +1,31 @@
+{
+  "date": "2026-11-23",
+  "files": {
+    "idojaras": {
+      "engine": "elevenlabs",
+      "voice": "elevenlabs",
+      "filename": "tts_idojaras.mp3",
+      "input_sha256": "c5667999c763bcabce1fdaf3090c2a03ba21e36bf8252fcb3fb056757980ed86",
+      "audio_sha256": "eeaf50fe0f996648126c72b45815c90d162d03782e465f1d73a166543c94a6c3",
+      "updated_at": "2026-11-23T08:03:12.250484"
+    },
+    "piacok": {
+      "engine": "elevenlabs",
+      "voice": "elevenlabs",
+      "filename": "tts_piacok.mp3",
+      "input_sha256": "f7e4a75ff7e36fcb651d615d4f7b391054edf71e2e0d14fc642a8f1196b8e0c9",
+      "audio_sha256": "43563349cf049cde4baea1ab007fbbaf75f8c5f77ef352e665a5e1b405c654fe",
+      "updated_at": "2026-11-23T08:05:34.149044"
+    },
+    "headlines": {
+      "engine": "elevenlabs",
+      "voice": "elevenlabs",
+      "filename": "tts_headlines.mp3",
+      "input_sha256": "0fa3e3617513613167867697c75eaaae34a529619fce8a343acfac19d576509f",
+      "audio_sha256": "da25ad7711f0ae6a7136d736d7a2a636ea628691451ee41b54140e3d015b3c30",
+      "updated_at": "2026-11-23T08:11:33.479316"
+    }
+  },
+  "edge_tts_used": false,
+  "updated_at": "2026-11-23T08:11:33.479777"
+}
